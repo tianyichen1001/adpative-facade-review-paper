@@ -39,3 +39,29 @@
 > ⚠️ **作者列表 / 作者关键词缺失**:非订阅 key 的 STANDARD view 不含 `author_names` / `authkeywords`。这会影响 §4.3 关键词共现(co-word)与作者合作分析。补救:(a) 用订阅 key / 机构网络重取 COMPLETE view;(b) 在 §6 补全阶段用 OpenAlex 的 concepts/topics + authorships 替代。待 Claude web 决策。
 >
 > 检索式定稿后回填,并与 PROJECT_MEMORY.md §5 保持一致。
+
+---
+
+## 灵敏度测试 Recall Sensitivity Test(2026-06-08)
+
+目的:检查主检索式是否漏掉相关文献。跑一个**候选补充词 + 建筑域约束**的测试检索式,与已提交 corpus(`scopus_raw.csv`,eid 比对)做去重,看测试集中**有多少不在现有 corpus 的新条目**。脚本:`01_search/scripts/recall_test.py`。**未合并进主 corpus。**
+
+| 字段 | 值 |
+|---|---|
+| 测试命中 Test hits | 650 |
+| 现有 corpus eid 数 | 2552 |
+| **新条目 New(不在 corpus)** | **569** |
+| on-topic 启发式(标题含 facade/envelope/skin/kinetic/… token) | 328/569 ≈ 58%(**高估,见下**) |
+
+### 测试检索式(原样执行)
+
+```
+( TITLE-ABS-KEY( "breathing skin" OR "breathing facade" OR "breathing wall" OR "adaptable facade" OR "adaptable building envelope" OR "convertible facade" OR "retractable roof" OR "soft robotic facade" OR "robotic facade" OR "hygromorphic facade" OR "hygromorphic skin" OR "transformable architecture" OR "transformable structure" OR "deployable structure" OR "shape-changing architecture" OR "responsive building skin" OR "adaptive solar facade" OR "kinetic shading system" ) AND TITLE-ABS-KEY( building OR architectur* OR facade OR envelope OR "built environment" ) ) AND ( DOCTYPE(ar) OR DOCTYPE(re) OR DOCTYPE(cp) OR DOCTYPE(ch) ) AND LANGUAGE(english)
+```
+
+### 判读(待 Claude web / 用户裁定是否并入主检索式)
+
+- **on-topic 启发式 58% 系高估**:新条目 Top-30 多为**航天可展结构 / 超材料 / 4D 打印 / 形状记忆聚合物 / origami 人工肌肉 / 神经网络 architecture search**(PNAS、Nature、Nature Comm.、NeurIPS、Ceas Space Journal 等),并非建筑表皮。原因:约束词 `architectur*` 会命中 metamaterial / computing 语境的 "architecture",`deployable / transformable / shape-changing / structure` 这类词在航天与材料领域高频。
+- **真正像"漏网"的建筑表皮新条目较少**,例:*Framework for assessing the performance potential of seasonally adaptable facades*(Energy and Buildings, 2014, 102 cit)。
+- **初步建议**:`"adaptable facade" / "adaptable building envelope" / "convertible facade" / "breathing skin/facade/wall" / "hygromorphic facade/skin" / "adaptive solar facade" / "kinetic shading system" / "responsive building skin"` 这类**已带 facade/skin/envelope 限定的短语**更可能净增益;而 `"deployable structure" / "transformable structure" / "transformable architecture" / "shape-changing architecture" / "retractable roof"` 引入大量跨域噪声,**不建议直接并入**或需更强建筑域约束(如 W/n 接 facade/envelope)。
+- 最终是否并入、并入哪些词,由 **Claude web + 用户**裁定(PROJECT_MEMORY.md §2 协作回路 / §3.4 边界裁定)。
