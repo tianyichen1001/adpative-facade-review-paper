@@ -75,14 +75,31 @@ def main():
     assert len(sel) == 2118, f"expected 2118, got {len(sel)}"
 
     sel["_ndoi"] = sel["doi"].apply(norm_doi)
+
+    # Fold in DOIs recovered for no-DOI records (recover_no_doi.py), if present.
+    rec_path = OUT_DIR / "no_doi_recovered.csv"
+    n_recovered = 0
+    rec_methods = {}
+    if rec_path.exists():
+        rec = pd.read_csv(rec_path)
+        rec_map = dict(zip(rec["eid"], rec["recovered_doi"]))
+        rec_methods = dict(rec["match_method"].value_counts())
+        before = sel["_ndoi"].isna().sum()
+        sel["_ndoi"] = sel.apply(
+            lambda r: rec_map.get(r["eid"]) if pd.isna(r["_ndoi"]) else r["_ndoi"], axis=1)
+        n_recovered = before - sel["_ndoi"].isna().sum()
+        print(f"[recovery] folded in {n_recovered} recovered DOIs "
+              f"({rec_methods}); remaining no_doi = {int(sel['_ndoi'].isna().sum())}")
+
     groups = sel["_ndoi"].apply(group_of)
     sel["_group"] = [g[0] for g in groups]
     sel["_group_name"] = [g[1] for g in groups]
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    # remove stale group csvs (keep manifest written fresh below)
+    # remove stale group csvs (keep the recovery file and rewrite groups fresh)
     for old in OUT_DIR.glob("*.csv"):
-        old.unlink()
+        if old.name != "no_doi_recovered.csv":
+            old.unlink()
 
     rows = []  # manifest rows: (stem, name, n, selector)
     n_total = len(sel)
@@ -106,18 +123,24 @@ def main():
         top_src = top_src.iloc[0] if len(top_src) else "?"
         other_prefixes.append((pre, cnt, top_src))
 
-    write_manifest(rows, n_total, other_prefixes, sel)
+    write_manifest(rows, n_total, other_prefixes, sel, n_recovered, rec_methods)
     print(f"\n[saved] {OUT_DIR / '_manifest.md'}")
     return sel
 
 
-def write_manifest(rows, n_total, other_prefixes, sel):
+def write_manifest(rows, n_total, other_prefixes, sel, n_recovered=0, rec_methods=None):
     lines = []
     A = lines.append
     A("# Stage-2 抓摘要输入清单 — 按出版商分组\n")
     A(f"来源:`03_screening/stage1_title_keyword.csv` 中 `stage1_decision ∈ "
       f"{{include, uncertain}}` = **{n_total}** 条。出版商按 DOI 前缀(10.xxxx)推断。")
     A("**本目录仅为 Cowork 抓摘要的输入清单,不含摘要本身**(PROJECT_MEMORY.md §7)。\n")
+    if n_recovered:
+        rm = rec_methods or {}
+        A(f"> **无 DOI 找回(OpenAlex):** 原 316 条无 DOI 中找回 **{n_recovered}** 条 DOI "
+          f"(enriched_oa={rm.get('enriched_oa', 0)} / fresh_oa={rm.get('fresh_oa', 0)};"
+          f"标题 Jaccard≥0.90 且 年份差≤1 才接受),已并入对应出版商组;"
+          f"明细见 `no_doi_recovered.csv`。\n")
     A("## 出版商分布\n")
     A("| 组 group | 出版商 | 条数 N | 占比 | 文件 | Cowork 选择器 |")
     A("|---|---|---|---|---|---|")
