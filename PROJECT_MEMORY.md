@@ -2,7 +2,7 @@
 
 | 字段 | 内容 |
 |---|---|
-| **版本 Version** | v0.3 |
+| **版本 Version** | v0.4 |
 | **最后更新 Last updated** | 2026-06-08 |
 | **维护者 Maintained by** | Claude (web) + 用户(用户手动同步到 Claude Code 与 project folder) |
 
@@ -33,7 +33,7 @@
 | **Cowork** | 按 DOI 抓 abstract(见 project 内 HOWTO SOP) |
 | **本 memory md** | 唯一事实源;Claude web/用户维护;**Claude Code 只读** |
 
-**协作回路:** Claude Code 用 Scopus 出列表 → 用户回传给 Claude web → Claude web 出 **OpenAlex(主)+ Crossref(辅)** 补全 prompt → Claude Code 补全回传 → **Claude web 做质量把关(是否是我们要的文章)** → 必要时补充检索 → 进入下一阶段。
+**协作回路:** Claude Code 用 Scopus 出列表 → 用户回传给 Claude web → Claude web 出 **OpenAlex(主)+ Crossref(辅)** 补全 prompt → Claude Code 补全回传 → **Claude web 做质量把关** → 必要时补充检索 → 进入下一阶段。
 
 **GitHub 现状:** repo = `tianyichen1001/adpative-facade-review-paper`(public);当前在分支 `claude/determined-pasteur-21Qfu`(PR #1)上推进。
 
@@ -88,8 +88,8 @@
 
 ### 4.2 PRISMA 两阶段筛选(漏斗)
 1. **Identification:** Scopus 主题检索 → 大池子(**仅元数据,无摘要**)。✅ 已完成(N=2831)。
-2. **Screening-1(粗筛,便宜):** 按 标题 + 关键词(用 OpenAlex concepts 补)+ 期刊 → "可能相关"集。
-3. **仅对"可能相关"集用 Cowork 抓摘要。**
+2. **Screening-1(粗筛,便宜):** 标题 + 关键词(OpenAlex concepts)+ 期刊。✅ **已完成:2831 → 排除 713 → 进 Stage-2 = 2118**(含 Stage-1b 弱桶再筛;明细见 `03_screening/prisma_counts.md`)。
+3. **仅对"可能相关"(2118)用 Cowork 抓摘要。** ← 下一步。
 4. **Screening-2(细筛):** 按摘要对照纳排 → 纳入集。
 5. **Included:** 纳入集进入计量 + 深读。
 - 全程画 **PRISMA 流程图**,记录各级数量。
@@ -100,7 +100,7 @@
 - **唯一例外:** 大池子的「发文量逐年趋势」「高产期刊」等**只用元数据、不碰摘要**的描述统计,可放引言做"领域全景"铺垫。
 - **方法骨架:**
   - 描述性(performance):年度产出、高产期刊 / 作者 / 机构 / 国家、高被引。
-  - **关键词共现(co-word):** 用 OpenAlex concepts/topics(Scopus 无关键词)→ **聚类结果直接定义 systematic review 的章节结构**。
+  - **关键词共现(co-word):** 用 OpenAlex concepts/topics(Scopus 无关键词)→ **聚类结果直接定义 systematic review 的章节结构**。⚠️ concepts 有消歧噪声(如 "Envelope (radar)"),聚类前需清洗过宽/误分概念。
   - 主题图(thematic map,四象限 motor/niche/emerging/basic)+ 时间演化。
   - 可选:**LDA / BERTopic** 跑 标题+摘要,与共现互证(看时间与价值再定)。
 - **工具分工:**
@@ -132,13 +132,13 @@
 
 - **数据库:仅 Scopus**(无 WoS API)→ 在 limitation 里说明 Scopus 工程覆盖足够广。
 - **按主题搜,不做"期刊白名单"** → Nature / Nature Communications / Science / PNAS 等顶刊由主题命中。
-- **引用数:** 统一用 Scopus,注明"截至 2026-06-08"(引用数随时间变)。
+- **引用数:** 统一用 Scopus,注明"截至 2026-06-08"。
 - **检索日期:** 2026-06-08
 - **命中数:** **2831**(Article 1604 / Conference Paper 986 / Review 133 / Book Chapter 108)
 - **文献类型:** ar + re + cp + ch
 - **所用 View:** STANDARD(COMPLETE 确认 401,非订阅 key 无权限)
-- **灵敏度测试:** 已做。并入验证安全的同义词(`adaptable` / `convertible` / `hygromorphic` + `"building envelope"` + `breathing skin/facade/wall`),净增 279;**拒绝**跨域噪声词(deployable/transformable structure、shape-changing architecture、retractable roof 等)。
-- **字段覆盖:** DOI 86.3% | 首作者机构/国家 ~98.2% | **author_names / author_keywords = 0%(STANDARD view 限制)→ 由 OpenAlex 补全(§6)**。
+- **灵敏度测试:** 已做。并入验证安全的同义词(`adaptable` / `convertible` / `hygromorphic` + `"building envelope"` + `breathing skin/facade/wall`),净增 279;**拒绝**跨域噪声词(deployable/transformable structure 等)。
+- **字段覆盖:** DOI 86.3% | 首作者机构/国家 ~98.2% | **author_names / author_keywords = 0%(STANDARD view 限制)→ 已由 OpenAlex 补全(§6)**。
 
 ### 5.1 定稿检索式(原样执行)
 ```
@@ -147,27 +147,24 @@
 
 ---
 
-## 6. 元数据补全 (Metadata Enrichment) — 下一步(进行中)
+## 6. 元数据补全 (Metadata Enrichment) — ✅ 已完成
 
-> 用途:补 Scopus 元数据的缺口(尤其**全作者列表 / 规范化机构 / 国家 / 引用关系 / 参考文献 / 资助方**)。**只补元数据,不取摘要。**
+> **结果(2026-06-08):** OpenAlex 匹配 2570/2831(DOI 2416 + 标题 154);concepts 90.7% / 全作者 90.5% / 机构+国家 80.4% / 参考文献 79.2%;Crossref(仅 DOI'd):funder 24.8% / license 64.1% / ref-count 84.6%。详见 `02_enrichment/enrichment_log.md`、原始嵌套见 `openalex_raw.jsonl`。
 
-- **主:OpenAlex**(Python `pyalex`)— **全部作者** + 各作者**机构 + ROR + 国家**、concepts/topics 分类(**替代 Scopus 缺失的关键词**)、referenced_works(参考文献)、cited_by_count、逐年被引、OA 状态。补 Scopus STANDARD view 最常缺的"全作者 / 规范化机构 / 国家 / 引用关系"。
-- **辅:Crossref**(Python `habanero`)— 期刊 / 卷期页 / ISSN / 类型 / 出版日期、参考文献列表、**资助方(funder)**、license。作权威书目核对的第二来源。**弱项:作者单位常缺。**
-- **匹配:** 按 **DOI** 匹配为主(86%);无 DOI 的 ~14%(多为会议/书章)用 **标题 + 年份**尽力匹配,低置信度留空标记。
-- **引用数仍以 Scopus 为准**(§5);OpenAlex / Crossref 的被引数仅作补全 / 交叉校验。
-- **摘要不走 API:** Crossref 无 Elsevier 摘要、OpenAlex 新文常 null(均已验证)→ 摘要一律走 Cowork(§7)。
-- **DataCite 不用**(只收数据集 / DOI 注册,期刊文章不在)。
-- **运行环境:补全在 Claude Code 本机跑**(免费、无需 key、加 mailto 进礼貌池)。Claude web 沙盒出网受限(实测 403),不在沙盒实测。
-- **Python 库已验证可装 / 可导入:** `pybliometrics` 4.4.1、`pyalex` 0.21、`habanero` 2.4.0。
+- **主:OpenAlex**(`pyalex`)— 全部作者 + 各作者机构 + ROR + 国家、concepts/topics(替代缺失关键词)、referenced_works、cited_by_count、逐年被引、OA 状态。
+- **辅:Crossref**(`habanero`)— 期刊/卷期页/ISSN/类型/日期、参考文献、funder、license。弱项:作者单位常缺。
+- **匹配:** DOI 为主;无 DOI 的(会议/书章)用 标题+年份,低置信留空标记。
+- **引用数仍以 Scopus 为准**;OpenAlex/Crossref 被引仅交叉校验。
+- **摘要不走 API**(已验证)→ 一律 Cowork(§7)。DataCite 不用。
 
 ---
 
-## 7. 摘要抓取 (Abstract Retrieval)
+## 7. 摘要抓取 (Abstract Retrieval) — 进行中(Stage-2 集 2118)
 
-- **一律用 Cowork。** Scopus API 在本账号权限下**不返回摘要(已多次验证)→ 不再尝试用任何 API 取摘要。**
-- 依据:project 内 `HOWTO_批量抓取文献摘要` SOP。
-- **现有选择器:** ScienceDirect / Elsevier(SOP §4a)、Taylor & Francis(SOP §4b)。
-- **待补选择器:** Nature / Springer、Wiley、MDPI、ASCE、Frontiers 等 — 看**纳入集实际出版商分布**后逐个补(nature.com 等 DOM 与 ScienceDirect 不同)。
+- **一律用 Cowork。** Scopus API 在本账号权限下**不返回摘要(已多次验证)**。依据:project 内 `HOWTO_批量抓取文献摘要` SOP。
+- **现有选择器:** ScienceDirect / Elsevier(§4a)、Taylor & Francis(§4b)。
+- **Stage-2 集(2118)出版商分布:** Elsevier 603(有选择器)· other 404 · 无 DOI 316 · MDPI 197 · Springer 170 · T&F 91(有选择器)· IEEE 85 · IOP 72 · Wiley 38 · ASCE/SAGE/ACM/ASME/WIT/Frontiers/EDP/TransTech/Nature 等若干。
+- **待补选择器(按量优先):** MDPI / Springer / IEEE / IOP / Wiley;**ASCE/SAGE 等 Atypon 平台可能复用 §4b**;长尾 other(404)+ 无 DOI 会议(316)用**通用兜底选择器**尽力抓,抓不到的在 Stage-2 用 标题+concepts 筛(记为 limitation)。
 - **原则:** JS 只返回短状态码,正文用 `get_page_text` 取;Cloudflare 被动校验等自动放行,**绝不解验证码**;worker **~10–11 篇/片**并行,超时整片重跑。
 
 ---
@@ -181,36 +178,35 @@ adpative-facade-review-paper/        # repo 根(分支 claude/determined-pasteur
 ├── 01_search/                   # Scopus 检索 ✅
 │   ├── scripts/                 # scopus_search.py(定稿)/ recall_test.py
 │   ├── raw/                     # scopus_raw.csv / .xlsx(2831 定稿)
-│   └── search_log.md            # 检索式 / 日期 / 命中数 / 灵敏度测试
-├── 02_enrichment/               # OpenAlex + Crossref 补全(进行中)
-│   ├── scripts/                 # pyalex / habanero 脚本
-│   └── enriched.xlsx
+│   └── search_log.md
+├── 02_enrichment/               # OpenAlex + Crossref 补全 ✅
+│   ├── scripts/                 # enrich_openalex.py / enrich_crossref.py
+│   ├── enriched.xlsx / .csv     # 2831 × 47
+│   ├── openalex_raw.jsonl       # 原始嵌套(参考文献全列表)
+│   └── enrichment_log.md
 ├── 03_screening/                # PRISMA 两阶段
-│   ├── stage1_title_keyword.xlsx
-│   ├── stage2_abstract.xlsx
-│   └── prisma_counts.md
-├── 04_abstracts/                # Cowork 产物 (slice_*.json)
+│   ├── scripts/                 # stage1_screen.py / stage1b_rescreen.py
+│   ├── stage1_title_keyword.xlsx# 含决定/理由(Stage-1 + 1b)
+│   ├── prisma_counts.md         # 漏斗各级数量
+│   └── stage1_spotcheck_*.csv
+├── 04_abstracts/                # Cowork 产物 (slice_*.json) + scrape_inputs/
 ├── 05_bibliometrics/            # 计量 (corpus_for_biblio/ + outputs/)
 ├── 06_extraction/               # 结构化抽取表
 └── README.md
 ```
 
-- 命名:**阶段前缀 + 语义名**(必要时加日期)。
-- **每个关键步骤一次 commit**,commit message 写清做了什么。
-- **保留所有 Python 脚本与 Excel 痕迹**(可审计、可重跑)。
-- **Claude Code 不修改 `PROJECT_MEMORY.md`。**
+- 命名:**阶段前缀 + 语义名**;**每个关键步骤一次 commit**;**保留所有 Python 脚本与 Excel 痕迹**;**Claude Code 不修改 `PROJECT_MEMORY.md`**。
 
 ---
 
 ## 9. 当前进度 (Status)
 
-- [x] 流程与方法对齐
-- [x] 操作型纳排标准拍板
-- [x] 补全方案定稿(OpenAlex 主 + Crossref 辅)、Python 数据获取库验证
+- [x] 流程与方法对齐;操作型纳排标准拍板
+- [x] 补全方案定稿、Python 数据获取库验证
 - [x] **检索式定稿 + Scopus 检索(N=2831,已锁定)**
-- [ ] **OpenAlex + Crossref 补全 ← 下一步(进行中)**
-- [ ] Stage-1 粗筛(标题 + concepts + 期刊)
-- [ ] Cowork 抓摘要
+- [x] **OpenAlex + Crossref 补全**(concepts 90.7% / 全作者 90.5% / 机构国家 80.4%)
+- [x] **Stage-1 粗筛 + Stage-1b 弱桶再筛(2831 → 进 Stage-2 2118)**
+- [ ] **Cowork 抓摘要 ← 下一步(2118 篇,按出版商分组分片)**
 - [ ] Stage-2 细筛 + PRISMA 流程图
 - [ ] 计量分析(纳入集)
 - [ ] 结构化抽取
@@ -232,16 +228,19 @@ adpative-facade-review-paper/        # repo 根(分支 claude/determined-pasteur
 | 2026-06-07 | 用结构化抽取表替代纯一句话 | 见 §4.4 |
 | 2026-06-07 | 元数据补全 = OpenAlex(主)+ Crossref(辅) | OpenAlex 补机构/国家/引用,Crossref 补书目/参考文献/资助方 |
 | 2026-06-07 | Python 数据获取库 = pybliometrics / pyalex / habanero | 沙盒已验证可装可导入;实连在 Claude Code |
-| 2026-06-08 | **检索式定稿,命中 2831** | 并入灵敏度验证的安全同义词(adaptable/convertible/hygromorphic + "building envelope" + breathing 短语),净增 279;**拒绝** deployable/transformable structure 等跨域噪声词 |
-| 2026-06-08 | 纳入会议论文 + 书章(cp 35% / ch 4%) | 该领域大量成果发在建筑/工程会议(eCAADe 等) |
-| 2026-06-08 | breathing wall / 动态保温 / PCM 热围护(视觉静态)边界 → 筛选阶段按 §3.1 排除 | 物理可动的 breathing skin 仍纳入;见 §3.3 / §3.4 |
-| 2026-06-08 | Scopus STANDARD view 确认无 author_names / authkeywords | 由 OpenAlex 补全(§6),不追 COMPLETE |
+| 2026-06-08 | **检索式定稿,命中 2831** | 并入灵敏度验证的安全同义词,净增 279;拒绝跨域噪声词 |
+| 2026-06-08 | 纳入会议论文 + 书章(cp 35% / ch 4%) | 领域大量成果在建筑/工程会议(eCAADe 等) |
+| 2026-06-08 | breathing wall / 动态保温 / PCM 热围护(视觉静态)→ 筛选阶段按 §3.1 排除 | 物理可动的 breathing skin 仍纳入 |
+| 2026-06-08 | Scopus STANDARD view 确认无 author_names / authkeywords | 由 OpenAlex 补全(§6) |
+| 2026-06-08 | **元数据补全完成** | OpenAlex 2570/2831;concepts 90.7% / 全作者 90.5% / 机构国家 80.4% / 参考文献 79.2%;Crossref funder 24.8% |
+| 2026-06-08 | **Stage-1 粗筛完成:2831 → 排除 713 → 进 Stage-2 2118**(include 423 + uncertain 1695) | 含 Stage-1b 对 3 个弱桶再筛剔 287;高敏感,严判留 Stage-2;明细见 prisma_counts.md |
 
 ---
 
 ## 11. 开放问题 (Open Questions)
 
-- 预估纳入集目标量级(2831 经两阶段筛选后大致剩多少)。
+- 预估纳入集目标量级(2118 经 Stage-2 摘要细筛后大致剩多少)。
 - 计量是否加 LDA/BERTopic(看时间与价值)。
-- 无 DOI 的 ~14% 记录(会议/书章)OpenAlex 匹配率,看补全后决定是否单独处理。
+- **无 DOI 的会议/书章(Stage-2 集内 316 条)摘要多无可抓页 → 拟 Stage-2 用 标题+concepts 筛,记为 limitation。**
+- Cowork 选择器:MDPI/Springer/IEEE/IOP/Wiley 待补;通用兜底选择器覆盖长尾。
 - 新出现的边界 case(随时补到 §3.4)。
