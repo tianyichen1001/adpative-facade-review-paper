@@ -34,7 +34,8 @@ QUERY = (
     '"responsive envelope" OR "deployable envelope" OR "movable envelope" OR '
     '"kinetic architecture" OR "adaptive building envelope" OR '
     '"responsive building envelope" ) ) '
-    'AND ( DOCTYPE(ar) OR DOCTYPE(re) ) AND LANGUAGE(english)'
+    'AND ( DOCTYPE(ar) OR DOCTYPE(re) OR DOCTYPE(cp) OR DOCTYPE(ch) ) '
+    'AND LANGUAGE(english)'
 )
 
 RAW_DIR = Path(__file__).resolve().parents[1] / "raw"
@@ -127,6 +128,16 @@ def coverage_report(df):
         print(f"  {col:22s}: {present.sum():5d} / {n}  = {pct:5.1f}%")
 
 
+def doctype_report(df):
+    """Print the distribution of document types (subtypeDescription)."""
+    n = len(df)
+    print(f"\n[doctype] distribution over {n} records")
+    counts = df["doctype"].fillna("(none)").value_counts()
+    for label, cnt in counts.items():
+        pct = 100.0 * cnt / n if n else 0.0
+        print(f"  {str(label):20s}: {cnt:5d}  = {pct:5.1f}%")
+
+
 def samples(df):
     """Print top-25 by citations and latest-15 by year."""
     work = df.copy()
@@ -157,6 +168,7 @@ def main(save_full=True):
     n_hits, used_view, search = run_search()
     df = to_dataframe(search.results or [])
     print(f"[downloaded] {len(df)} records (view={used_view})")
+    doctype_report(df)
     coverage_report(df)
     samples(df)
 
