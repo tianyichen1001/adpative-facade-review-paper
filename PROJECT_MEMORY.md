@@ -2,8 +2,8 @@
 
 | 字段 | 内容 |
 |---|---|
-| **版本 Version** | v0.2 |
-| **最后更新 Last updated** | 2026-06-07 |
+| **版本 Version** | v0.3 |
+| **最后更新 Last updated** | 2026-06-08 |
 | **维护者 Maintained by** | Claude (web) + 用户(用户手动同步到 Claude Code 与 project folder) |
 
 > **⚠️ Claude Code 注意:** 本文件**只读**。每次执行任务前**先通读全文**。**不要修改本文件**;更新一律由用户手动上传。严格执行第 3 节的纳入/排除标准,**不得擅自重新解释或放宽范围**。
@@ -66,6 +66,7 @@
 | 平移 / 旋转百叶 | ✅ 纳入 | 物理运动 |
 | LED / 媒体立面 | ❌ 排除 | 无物理运动 |
 | 电致 / 热致变色(视觉静态) | ❌ 排除 | 无位移 |
+| breathing wall / dynamic insulation / PCM envelope(被动透气、视觉静态) | ❌ 排除(原则上) | 无物理位移;除非确为气动/可动 breathing skin → 个案纳入。见 §11 |
 
 > 遇到新的边界 case → 先记入第 11 节「开放问题」,由 **Claude web + 用户**裁定后再补进本表。Claude Code 不自行判定边界。
 
@@ -80,13 +81,13 @@
 - **AI 使用声明 + 人工核验:** AI 生成的每条概括必须**对照原摘要核对**,不得幻觉。
 
 ### 4.2 PRISMA 两阶段筛选(漏斗)
-1. **Identification:** Scopus 主题检索 → 大池子(**仅元数据,无摘要**)。
-2. **Screening-1(粗筛,便宜):** 按 标题 + 关键词 + 期刊 → "可能相关"集。
+1. **Identification:** Scopus 主题检索 → 大池子(**仅元数据,无摘要**)。**= 定稿 corpus 2831(见 §5)。**
+2. **Screening-1(粗筛,便宜):** 按 标题 + 关键词/concepts + 期刊 → "可能相关"集。**借助 §6 OpenAlex concepts 提升粗筛信号,把 2831 砍到几百,避免抓两千多篇摘要。**
 3. **仅对"可能相关"集用 Cowork 抓摘要。**
 4. **Screening-2(细筛):** 按摘要对照纳排 → 纳入集。
 5. **Included:** 纳入集进入计量 + 深读。
 - 全程画 **PRISMA 流程图**,记录各级数量。
-- 全程**按 DOI 去重**。
+- 全程**按 DOI / eid 去重**。
 
 ### 4.3 计量分析(跑在「纳入集」上)
 - **计量主体跑在「纳入集」,不是大池子。**(因为聚类要直接对应 review 章节;且省 Cowork 成本。)
@@ -121,27 +122,40 @@
 
 ---
 
-## 5. 检索策略 (Search Strategy)
+## 5. 检索策略 (Search Strategy) — 定稿 LOCKED
 
 - **数据库:仅 Scopus**(无 WoS API)→ 在 limitation 里说明 Scopus 工程覆盖足够广。
-- **按主题搜,不做"期刊白名单"** → 确保 **Nature / Nature Communications / Science / PNAS** 等顶刊被捞到。
-- **引用数:** 统一用 **Scopus**,注明"截至 YYYY-MM-DD"(引用数随时间变)。
-- **检索式(定稿区):** `【待定稿 — 由 Claude web 设计,确认后填入此处】`
-- **检索日期:** `【执行时填,YYYY-MM-DD】`
-- **命中数:** `【执行时填】`
+- **按主题搜,不做"期刊白名单"** → 确保 Nature / Nature Communications / Science / PNAS 等顶刊被捞到(实测落点正确,含 eCAADe 等设计会议)。
+- **引用数:** 统一用 Scopus,**截至 2026-06-08**(引用数随时间变)。
+- **所用 view:** STANDARD(COMPLETE 经测 **401 无权限**;pybliometrics 默认 200 触发 400,改 count=25 分页)。
+- **字段缺口(实测):** Scopus STANDARD **不返回** `author_names`(全作者)与 `authkeywords`(作者关键词);DOI 覆盖 86.3%(会议/书章常缺)→ 全部由 OpenAlex 补全(§6)。
+
+### 5.1 定稿检索式(LOCKED,2026-06-08)
+```
+( TITLE-ABS-KEY( ( adaptive OR adaptable OR kinetic OR dynamic OR responsive OR movable OR moveable OR convertible OR deployable OR transformable OR reconfigurable OR morphing OR "shape changing" OR "shape-changing" OR retractable OR foldable OR folding OR origami OR kirigami OR pneumatic OR inflatable OR "shape memory" OR hygromorphic OR biomimetic OR "bio-inspired" OR "bio inspired" OR actuated OR bistable ) W/3 ( facade OR facades OR "building envelope" OR "building envelopes" OR "building skin" OR "building skins" OR "second skin" OR "double skin facade" OR shading OR louver OR louvers OR louvre OR louvres OR "brise soleil" OR "brise-soleil" OR fenestration OR "solar screen" OR "sun screen" ) ) OR TITLE-ABS-KEY( "kinetic envelope" OR "adaptive envelope" OR "dynamic envelope" OR "responsive envelope" OR "deployable envelope" OR "movable envelope" OR "kinetic architecture" OR "adaptive building envelope" OR "responsive building envelope" OR "breathing skin" OR "breathing facade" OR "breathing wall" ) ) AND ( DOCTYPE(ar) OR DOCTYPE(re) OR DOCTYPE(cp) OR DOCTYPE(ch) ) AND LANGUAGE(english)
+```
+
+### 5.2 执行结果
+- **检索日期:** 2026-06-08
+- **命中数(定稿 corpus):** **2831**(Article 1604 / Conference Paper 986 / Review 133 / Book Chapter 108)
+- **历程:** 初版 ar+re = 1565 → 加 cp+ch = 2552 → 灵敏度测试后并入**已验证安全同义词**(`adaptable` / `convertible` / `hygromorphic` / `"building envelope"` / `breathing skin·facade·wall`),净增 **+279** = **2831**。
+- **灵敏度测试(2026-06-08):** 候选扩展词测试命中 650、净新增 569,但高被引净新增多为**跨域噪声**(航天可展结构 / 超材料 / 4D 打印 / 神经网络 architecture search)→ **拒绝并入** `deployable structure` / `transformable structure` / `transformable architecture` / `shape-changing architecture` / `retractable roof` 等裸结构词;仅并入带 facade/skin/envelope 限定的安全词。脚本:`01_search/scripts/recall_test.py`。
+- **+279 性质:** 主要是建筑围护论文(breathing wall / dynamic insulation / adaptive PCM envelope 等);其中"被动透气/材料态"类按 §3.1 在筛选阶段排除(见 §11)。
+- 文件:`01_search/raw/scopus_raw.csv` / `.xlsx`(2831×18);脚本 `01_search/scripts/scopus_search.py`;日志 `01_search/search_log.md`。
 
 ---
 
 ## 6. 元数据补全 (Metadata Enrichment)
 
-> 用途:补 Scopus 元数据的缺口(尤其规范化机构 / 国家 / 引用关系 / 参考文献 / 资助方)。**只补元数据,不取摘要。**
+> 用途:补 Scopus 元数据的缺口(尤其规范化机构 / 国家 / 引用关系 / 参考文献 / 资助方)。**只补元数据,不取摘要。** Scopus STANDARD 实测缺 `author_names` / `authkeywords`(§5)→ **OpenAlex 补全是必需,非可选。**
 
-- **主:OpenAlex**(Python `pyalex`)— 作者**机构 + ROR + 国家**、concepts/topics 分类、referenced_works(参考文献)、cited_by_count、逐年被引、OA 状态。**补 Scopus 最常缺的"规范化机构 / 国家 / 引用关系"**(计量做国家 / 机构合作图必需)。
+- **主:OpenAlex**(Python `pyalex`)— 作者**全部列表 + 机构 + ROR + 国家**、concepts/topics 分类(**作关键词替代**)、referenced_works(参考文献)、cited_by_count、逐年被引、OA 状态。**补 Scopus 最常缺的"全作者 / 规范化机构 / 国家 / 引用关系"**(计量做国家 / 机构合作图、关键词共现必需)。
 - **辅:Crossref**(Python `habanero`)— 期刊 / 卷期页 / ISSN / 类型 / 出版日期、参考文献列表、**资助方(funder)**、license。作权威书目核对的第二来源。**弱项:作者单位常缺。**
-- **引用数仍以 Scopus 为准**(§5);OpenAlex / Crossref 的被引数仅作补全 / 交叉校验。
+- **匹配:** 有 DOI(86.3%)按 DOI 精确匹配;无 DOI(~14%,多为 cp/ch)用 标题+年份+第一作者 高相似度匹配,低置信不强配。
+- **引用数仍以 Scopus 为准**(§5);OpenAlex / Crossref 的被引【另存独立列】,仅作补全 / 交叉校验,**不覆盖** Scopus `citedby_count`。
 - **摘要不走 API:** Crossref 无 Elsevier 摘要、OpenAlex 新文常 null(均已验证)→ 摘要一律走 Cowork(§7)。
 - **DataCite 不用**(只收数据集 / DOI 注册,期刊文章不在)。
-- **运行环境:补全在 Claude Code 本机跑**(免费、无需 key、加 mailto 进礼貌池)。**Claude web 沙盒出网受限,连不到这些 API(实测 403),故不在沙盒实测;到此步用真实 DOI 列表在 Claude Code 实测补全率。**
+- **运行环境:补全在 Claude Code 本机跑**(免费、无需 key、加 mailto 进礼貌池)。**Claude web 沙盒出网受限,连不到这些 API(实测 403),故不在沙盒实测。**
 - **Python 库已在沙盒验证可装 / 可导入:** `pybliometrics` 4.4.1、`pyalex` 0.21、`habanero` 2.4.0(实连在 Claude Code 验证)。
 
 ---
@@ -158,17 +172,17 @@
 
 ## 8. 文件夹与 GitHub 规范 (Repo & Naming)
 
-建议仓库结构(Claude Code 按此建立,每个关键步骤推送):
+仓库结构(已建,每个关键步骤推送;当前在分支 `claude/determined-pasteur-21Qfu`,PR #1):
 
 ```
 adaptive-facade-review/
 ├── PROJECT_MEMORY.md            # 本文件(用户手动同步,Claude Code 不改)
 ├── HOWTO_abstract_scraping.md   # Cowork SOP
-├── 01_search/                   # Scopus 检索
-│   ├── scripts/                 # pybliometrics 脚本
-│   ├── raw/                     # 原始导出
-│   └── search_log.md            # 检索式 / 日期 / 命中数
-├── 02_enrichment/               # OpenAlex + Crossref 补全
+├── 01_search/                   # Scopus 检索 ✅
+│   ├── scripts/                 # scopus_search.py, recall_test.py
+│   ├── raw/                     # scopus_raw.csv / .xlsx(2831,定稿)
+│   └── search_log.md            # 检索式 / 日期 / 命中数 / 灵敏度测试
+├── 02_enrichment/               # OpenAlex + Crossref 补全 ← 下一步
 │   ├── scripts/                 # pyalex / habanero 脚本
 │   └── enriched.xlsx
 ├── 03_screening/                # PRISMA 两阶段
@@ -197,10 +211,10 @@ adaptive-facade-review/
 - [x] 流程与方法对齐
 - [x] 操作型纳排标准拍板
 - [x] 补全方案定稿(OpenAlex 主 + Crossref 辅)、Python 数据获取库验证
-- [ ] **检索式设计与定稿 ← 下一步**
-- [ ] Scopus 检索(Claude Code)
-- [ ] OpenAlex + Crossref 补全 + Claude web 质量把关
-- [ ] Stage-1 粗筛(标题+关键词+期刊)
+- [x] 检索式设计与定稿(灵敏度测试后锁定)
+- [x] Scopus 检索 → 定稿 corpus **2831**(Article 1604 / CP 986 / Review 133 / Ch 108)
+- [ ] **OpenAlex + Crossref 补全 + Claude web 质量把关 ← 下一步**
+- [ ] Stage-1 粗筛(标题 + 关键词/concepts + 期刊)
 - [ ] Cowork 抓摘要
 - [ ] Stage-2 细筛 + PRISMA 流程图
 - [ ] 计量分析(纳入集)
@@ -221,14 +235,17 @@ adaptive-facade-review/
 | 2026-06-07 | 纳排:SMA / 气动 / origami / 平移百叶 纳入;LED / 视觉静态变色 排除 | 见 §3.4 |
 | 2026-06-07 | 采用 PRISMA 两阶段筛选 | 粗筛省摘要成本 |
 | 2026-06-07 | 用结构化抽取表替代纯一句话 | 见 §4.4 |
-| 2026-06-07 | 元数据补全 = OpenAlex(主)+ Crossref(辅) | OpenAlex 补机构/国家/引用,Crossref 补书目/参考文献/资助方;摘要仍 Cowork;不在沙盒测,Claude Code 本机用真实 DOI 实测 |
-| 2026-06-07 | Python 数据获取库 = pybliometrics / pyalex / habanero | 沙盒已验证可装可导入;实连在 Claude Code(沙盒出网受限) |
+| 2026-06-07 | 元数据补全 = OpenAlex(主)+ Crossref(辅) | OpenAlex 补全作者/机构/国家/concepts,Crossref 补书目/参考文献/资助方;摘要仍 Cowork |
+| 2026-06-07 | Python 数据获取库 = pybliometrics / pyalex / habanero | 沙盒已验证可装可导入;实连在 Claude Code |
+| 2026-06-08 | Scopus view = STANDARD;关键词/全作者交给 OpenAlex | COMPLETE 实测 401 无权限;不追 COMPLETE |
+| 2026-06-08 | 检索纳入 conference paper + book chapter | 可动表皮大量成果在建筑/工程会议(eCAADe 等);cp/ch 标题 on-topic 比例不低于期刊 |
+| 2026-06-08 | 灵敏度测试后**锁定检索式,定稿 corpus = 2831** | 仅并入带 facade/skin/envelope 限定的安全同义词;拒绝 deployable/transformable structure 等跨域噪声词 |
 
 ---
 
 ## 11. 开放问题 (Open Questions)
 
-- 检索式的具体词与布尔逻辑(下一步定)。
-- 预估命中规模 / 纳入集目标量级。
-- 计量是否加 LDA/BERTopic(看时间与价值)。
-- 新出现的边界 case(随时补到 §3.4)。
+- **边界 case(待裁定):** `breathing wall` / `dynamic insulation` / `adaptive PCM envelope` 这类**被动透气 / 材料态变化、视觉静态**的条目(检索新增约 5%),默认按 §3.1「物理可动」核心判据在**筛选阶段排除**(除非确有物理位移,如气动 breathing skin)。个案由 Claude web + 用户裁定后补入 §3.4。
+- 纳入集目标量级(待 Stage-1 / Stage-2 筛选后明确)。
+- 计量是否加 LDA / BERTopic(看时间与价值)。
+- 其它新出现的边界 case(随时补到 §3.4)。
