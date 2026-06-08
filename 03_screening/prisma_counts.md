@@ -2,21 +2,53 @@
 
 > Stage-1 = 标题 + OpenAlex concepts + 期刊 的**高敏感粗筛**(PROJECT_MEMORY.md §4.2 / §3.1)。
 > 原则:只剔除**明显**不相关 / 越界者;"物理可动"严判留到 Stage-2(有摘要时)。`include + uncertain` = 进入 Stage-2 的"可能相关"集。
-> 脚本:`03_screening/scripts/stage1_screen.py`(确定性、可复现);明细:`stage1_title_keyword.xlsx`;抽检:`stage1_spotcheck_40.csv`。
+> 脚本:`stage1_screen.py`(Stage-1a 确定性规则)+ `stage1b_rescreen.py`(Stage-1b 弱桶逐条复核)。明细:`stage1_title_keyword.xlsx`;抽检:`stage1_spotcheck_40.csv`、`stage1b_spotcheck_30.csv`。
 
 | 阶段 Stage | 数量 N |
 |---|---|
 | Identification (Scopus) | 2831 |
 | 去重移除 Duplicates removed | 0(corpus 已按 eid 去重,2831 个 eid 唯一) |
-| **Stage-1 排除 Excluded** | **426** |
-| **Stage-1 保留(进入 Stage-2)** | **2405** |
+| **Stage-1 排除 Excluded(合计)** | **713** |
+| └─ Stage-1a(规则粗筛) | 426 |
+| └─ Stage-1b(弱桶再筛) | 287 |
+| **Stage-1 保留(进入 Stage-2)** | **2118** |
 | └─ include(明显可动表皮) | 423 |
-| └─ uncertain(拿不准,保守保留) | 1982 |
-| 抓摘要数(Cowork) | 〔Stage-2 时回填,基数 = 2405〕 |
+| └─ uncertain(拿不准,保守保留) | 1695 |
+| 抓摘要数(Cowork) | 〔Stage-2 时回填,基数 = 2118〕 |
 | Screening-2 后(摘要细筛) | 〔待填〕 |
 | Included | 〔待填〕 |
 
-## Stage-1 排除明细(按类别)
+## Stage-1b 弱桶再筛(2026-06-08)
+
+只复核 Stage-1a 最弱的 3 个保留桶(共 **351** 条),逐条读标题(辅以 concepts/source)按 §3.1 判"是否可能为物理可动的建筑表皮/遮阳/可展围护"。**只动这 3 桶,其它桶不变。** 拿不准 → 保留。
+
+| 桶 | 原数 | 保留 | 剔除 |
+|---|---|---|---|
+| no_signal_keep | 204 | 12 | 192 |
+| soft_motion_no_building | 80 | 16 | 64 |
+| motion_no_building | 67 | 36 | 31 |
+| **合计** | **351** | **64** | **287** |
+
+**保留的 64 条**(eid 见 `scripts/stage1b_rescreen.py` 的 `KEEP_EIDS`)= 真·可动表皮/结构:thermo-pneumatic / 气动自适应遮阳、SMA 双稳结构、origami-linkage 可展、convertible / retractable roof、4D 打印 hygromorph 遮阳、tensegrity / scissor 可展、Milwaukee Art Museum(Calatrava 动态 brise-soleil)、responsive skins 等。
+
+**Stage-1b 剔除 287 条(按类别;类别为自动粗分,keep/exclude 决定为逐条人工判定):**
+
+| reason_category | N |
+|---|---|
+| off_topic_lowsignal | 88 |
+| medical_graphics | 54 |
+| other_nonbuilding | 37 |
+| ecology_agri | 31 |
+| biomed_biology | 26 |
+| PV_electrical | 20 |
+| transport_infra | 15 |
+| aerospace_space | 10 |
+| signal_radar | 6 |
+| **合计** | **287** |
+
+> 抽检:`stage1b_spotcheck_30.csv`(20 剔除 + 10 保留)。剔除抽样均为真·跨域(CG 渲染、病毒/毒理、火车/车辆、机械手、卫星热分析、作物等);保留抽样均为真·可动结构(origami / 4D 木双层 hygromorph / 可展 scissor / responsive skins)。**类别标签为关键词自动归类、较粗**,但每条的 keep/exclude 系逐条阅读判定。
+
+## Stage-1a 排除明细(按类别,规则粗筛 426)
 
 | reason_category | N | 说明 |
 |---|---|---|
@@ -34,7 +66,7 @@
 
 > ⚠️ 关键 QC 教训:OpenAlex **concepts 带消歧噪声**(把建筑 "envelope" 误标为概念 `Envelope (radar)`,把建筑遮阳论文误标 `Computer graphics` / `Signal processing`)。因此**跨域排除只用标题**,concepts 仅作建筑语境/运动信号(此方向高召回安全)。修正后救回多篇被误排的相关论文(如 "morphing of shading"、"adaptive façades control"、"movable PCM layer")。
 
-## Stage-1 保留明细(按理由)
+## Stage-1 保留明细(按理由,Stage-1b 后,合计 2118)
 
 | reason_category | N | 含义 |
 |---|---|---|
@@ -42,13 +74,15 @@
 | kinetic_facade (include) | 423 | 表皮 + 强运动词(kinetic/movable/origami/SMA/hygromorphic…)→ 明显可动 |
 | facade_no_explicit_motion | 391 | 有表皮词但标题无显式运动词(运动线索可能在摘要)→ 保留 |
 | building_generic | 227 | 建筑语境但信号弱 → 保守保留 |
-| no_signal_keep | 204 | 标题/concepts **无任何信号** → 高召回保守保留(**最低置信**,含真噪声) |
-| soft_motion_no_building | 80 | 软词但无建筑语境 → 保留待查 |
-| motion_no_building | 67 | 强运动但无建筑语境(可能是缺建筑词的 origami/SMA 表皮)→ 保留 |
+| motion_no_building | 36 | 强运动但无建筑语境(origami/SMA/可展结构)→ Stage-1b 复核后保留 |
+| soft_motion_no_building | 16 | 软词但无建筑语境(adaptive shading 等)→ Stage-1b 复核后保留 |
+| no_signal_keep | 12 | 原零信号桶,Stage-1b 复核后仅留下确像表皮/结构者 |
+
+> 注:`no_signal_keep`(204→12)、`soft_motion_no_building`(80→16)、`motion_no_building`(67→36)三桶经 Stage-1b 逐条复核压缩;其余四桶未动。
 
 ## 人工核验 & 最不确定的类别
 
 - **40 条分层随机抽检**(include 13 / exclude 14 / uncertain 13,seed=42)见 `stage1_spotcheck_40.csv`。include 全部为真·可动表皮;exclude 抽样均为真·跨域/静态;uncertain 抽样含预期的高召回噪声。
 - **最不确定 / 最需 Stage-2 关注:**
   1. `soft_motion_facade`(1013):"adaptive/dynamic facade" 高度歧义——可能是真·kinetic,也可能是热工动态静态(PCM/动态保温)或控制算法。**Stage-2 摘要细筛将在此大量分流。**
-  2. `no_signal_keep`(204):零信号保守保留,抽检可见真噪声(植物光照生长、车辆导航、控制理论、信号处理 "envelope" 假同源)。建议 Claude web 可先目检此列,决定是否在抓摘要前再轻筛一轮以省 Cowork 成本。
+  2. ~~`no_signal_keep`(204):零信号保守保留,含真噪声~~ → **已由 Stage-1b 弱桶再筛处理**(204→12),连同 `soft_motion_no_building`、`motion_no_building` 一并复核,共剔除 287,Stage-2 基数从 2405 降至 **2118**。
