@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+# Secrets — NEVER commit API keys (Scopus etc.)
+.env
+.env.*
+*.key
+pybliometrics.cfg
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# Office temp lock files
+~$*
