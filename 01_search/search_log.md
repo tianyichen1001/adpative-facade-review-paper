@@ -1,40 +1,51 @@
 # Search Log
 
+> **定稿状态 FINAL**:下表为并入灵敏度测试(见文末「灵敏度测试」)结论后的**定稿检索式**与**定稿 corpus**。相对 2552 版,新增已验证安全同义词:修饰词加 `adaptable / convertible / hygromorphic`,目标词加 `"building envelope(s)"`,短语加 `breathing skin/facade/wall`;**未**加入跨域噪声词(deployable structure / transformable architecture 等)。
+
 | 字段 | 值 |
 |---|---|
 | 数据库 Database | Scopus(仅) |
-| 检索式 Query | 见下方代码块(已执行,含 cp + ch) |
+| 检索式 Query | 见下方代码块(**定稿**,含 cp + ch) |
 | 检索日期 Date | 2026-06-08 |
-| 命中数 Hits | 2552 |
-| 文献类型 DOCTYPE | ar + re + **cp + ch**(article / review / conference paper / book chapter) |
+| 命中数 Hits | **2831** |
+| 较前一版净新增 Net-new vs 2552 | **+279** |
+| 文献类型 DOCTYPE | ar + re + cp + ch(article / review / conference paper / book chapter) |
 | 所用 View | STANDARD(COMPLETE 已确认 401,非订阅 key 无权限;count=25,start 分页) |
-| 备注 Notes | 按主题搜,不做期刊白名单。结果为 **provisional,待 Claude web QC**;抽样可见 PV "partial shading"/MPPT、CT 体渲染、河流/渔业 shading 实验等离题噪声。 |
+| 备注 Notes | 按主题搜,不做期刊白名单。仍含部分跨域噪声(PV "partial shading"/MPPT、CT 体渲染、河流/渔业/动物运输等),待 Claude web QC 在筛选阶段剔除。 |
 
-## DOCTYPE 分布(N = 2552)
+## DOCTYPE 分布(N = 2831)
 
 | 类型 Type | 数量 N | 占比 |
 |---|---|---|
-| Article | 1442 | 56.5% |
-| Conference Paper | 896 | 35.1% |
-| Review | 123 | 4.8% |
-| Book Chapter | 91 | 3.6% |
+| Article | 1604 | 56.7% |
+| Conference Paper | 986 | 34.8% |
+| Review | 133 | 4.7% |
+| Book Chapter | 108 | 3.8% |
 
-## 检索式 Query(原样执行)
+## 净新增核查 Net-new vs previous corpus(+279)
+
+- 净新增 **279** 条(最终 2831 − 旧 2552;按 eid 去重)。
+- on-topic 标题启发式:154/279(全体)、16/25(净新增 Top-25)。
+- 人工粗判:净新增 Top-25 **以建筑围护为主**——dynamic insulation of building envelopes、breathing wall/panel、porous breathing walls、adaptive dynamic building envelope + PCM、dynamic characteristics of building envelope 等;证实新增主要来自 `adaptable/convertible/breathing/hygromorphic` + `"building envelope"`,**而非**灵敏度测试中被否的航天/超材料噪声。
+- 少量噪声(如动物运输、新生儿监护)留待筛选阶段剔除。
+- ⚠️ §3 范围提示:`breathing wall` 类多为**被动扩散通风/多孔围护**(视觉静态、未必"物理可动"),是否纳入由 Claude web 按 §3.1「物理可动」核心判据裁定。
+
+## 检索式 Query(定稿,原样执行)
 
 ```
-( TITLE-ABS-KEY( ( adaptive OR kinetic OR dynamic OR responsive OR movable OR moveable OR deployable OR transformable OR reconfigurable OR morphing OR "shape changing" OR "shape-changing" OR retractable OR foldable OR folding OR origami OR kirigami OR pneumatic OR inflatable OR "shape memory" OR biomimetic OR "bio-inspired" OR "bio inspired" OR actuated OR bistable ) W/3 ( facade OR facades OR "building skin" OR "building skins" OR "second skin" OR "double skin facade" OR shading OR louver OR louvers OR louvre OR louvres OR "brise soleil" OR "brise-soleil" OR fenestration OR "solar screen" OR "sun screen" ) ) OR TITLE-ABS-KEY( "kinetic envelope" OR "adaptive envelope" OR "dynamic envelope" OR "responsive envelope" OR "deployable envelope" OR "movable envelope" OR "kinetic architecture" OR "adaptive building envelope" OR "responsive building envelope" ) ) AND ( DOCTYPE(ar) OR DOCTYPE(re) OR DOCTYPE(cp) OR DOCTYPE(ch) ) AND LANGUAGE(english)
+( TITLE-ABS-KEY( ( adaptive OR adaptable OR kinetic OR dynamic OR responsive OR movable OR moveable OR convertible OR deployable OR transformable OR reconfigurable OR morphing OR "shape changing" OR "shape-changing" OR retractable OR foldable OR folding OR origami OR kirigami OR pneumatic OR inflatable OR "shape memory" OR hygromorphic OR biomimetic OR "bio-inspired" OR "bio inspired" OR actuated OR bistable ) W/3 ( facade OR facades OR "building envelope" OR "building envelopes" OR "building skin" OR "building skins" OR "second skin" OR "double skin facade" OR shading OR louver OR louvers OR louvre OR louvres OR "brise soleil" OR "brise-soleil" OR fenestration OR "solar screen" OR "sun screen" ) ) OR TITLE-ABS-KEY( "kinetic envelope" OR "adaptive envelope" OR "dynamic envelope" OR "responsive envelope" OR "deployable envelope" OR "movable envelope" OR "kinetic architecture" OR "adaptive building envelope" OR "responsive building envelope" OR "breathing skin" OR "breathing facade" OR "breathing wall" ) ) AND ( DOCTYPE(ar) OR DOCTYPE(re) OR DOCTYPE(cp) OR DOCTYPE(ch) ) AND LANGUAGE(english)
 ```
 
-## 字段覆盖率 Field coverage(N = 2552)
+## 字段覆盖率 Field coverage(N = 2831)
 
 | 字段 Field | 覆盖 Coverage |
 |---|---|
-| doi | 87.0%(2220/2552)— 较上一版下降,会议论文/书章常缺 DOI |
-| first_author (creator) | 99.9%(2550/2552) |
-| author_names | **0.0%(0/2552)** — STANDARD view 不返回作者列表 |
-| author_keywords | **0.0%(0/2552)** — STANDARD view 不返回作者关键词 |
-| affilname | 98.6%(2516/2552) |
-| affiliation_country | 98.5%(2514/2552) |
+| doi | 86.3%(2443/2831)— 会议论文/书章常缺 DOI |
+| first_author (creator) | 99.9%(2829/2831) |
+| author_names | **0.0%(0/2831)** — STANDARD view 不返回作者列表 |
+| author_keywords | **0.0%(0/2831)** — STANDARD view 不返回作者关键词 |
+| affilname | 98.3%(2783/2831) |
+| affiliation_country | 98.2%(2781/2831) |
 
 > ⚠️ **作者列表 / 作者关键词缺失**:非订阅 key 的 STANDARD view 不含 `author_names` / `authkeywords`。这会影响 §4.3 关键词共现(co-word)与作者合作分析。补救:(a) 用订阅 key / 机构网络重取 COMPLETE view;(b) 在 §6 补全阶段用 OpenAlex 的 concepts/topics + authorships 替代。待 Claude web 决策。
 >

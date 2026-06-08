@@ -20,20 +20,28 @@ import pandas as pd
 import pybliometrics
 from pybliometrics.scopus import ScopusSearch
 
-# --- Search query (verbatim; PROJECT_MEMORY.md §3 scope / §5 strategy) -------------
+# --- FINAL search query (verbatim) -------------------------------------------------
+# This is the LOCKED query after folding in synonyms validated by the recall
+# sensitivity test (recall_test.py): adaptable / convertible / hygromorphic added to
+# the modifier list; "building envelope(s)" added to the target list; breathing
+# skin/facade/wall added to the phrase list. Noisy aerospace/metamaterial terms
+# (deployable structure, transformable architecture, ...) were deliberately NOT added.
+# See PROJECT_MEMORY.md §3 scope / §5 strategy and 01_search/search_log.md.
 QUERY = (
-    '( TITLE-ABS-KEY( ( adaptive OR kinetic OR dynamic OR responsive OR movable OR '
-    'moveable OR deployable OR transformable OR reconfigurable OR morphing OR '
-    '"shape changing" OR "shape-changing" OR retractable OR foldable OR folding OR '
-    'origami OR kirigami OR pneumatic OR inflatable OR "shape memory" OR biomimetic OR '
-    '"bio-inspired" OR "bio inspired" OR actuated OR bistable ) W/3 ( facade OR facades '
-    'OR "building skin" OR "building skins" OR "second skin" OR "double skin facade" OR '
+    '( TITLE-ABS-KEY( ( adaptive OR adaptable OR kinetic OR dynamic OR responsive OR '
+    'movable OR moveable OR convertible OR deployable OR transformable OR reconfigurable '
+    'OR morphing OR "shape changing" OR "shape-changing" OR retractable OR foldable OR '
+    'folding OR origami OR kirigami OR pneumatic OR inflatable OR "shape memory" OR '
+    'hygromorphic OR biomimetic OR "bio-inspired" OR "bio inspired" OR actuated OR '
+    'bistable ) W/3 ( facade OR facades OR "building envelope" OR "building envelopes" OR '
+    '"building skin" OR "building skins" OR "second skin" OR "double skin facade" OR '
     'shading OR louver OR louvers OR louvre OR louvres OR "brise soleil" OR '
     '"brise-soleil" OR fenestration OR "solar screen" OR "sun screen" ) ) OR '
     'TITLE-ABS-KEY( "kinetic envelope" OR "adaptive envelope" OR "dynamic envelope" OR '
     '"responsive envelope" OR "deployable envelope" OR "movable envelope" OR '
     '"kinetic architecture" OR "adaptive building envelope" OR '
-    '"responsive building envelope" ) ) '
+    '"responsive building envelope" OR "breathing skin" OR "breathing facade" OR '
+    '"breathing wall" ) ) '
     'AND ( DOCTYPE(ar) OR DOCTYPE(re) OR DOCTYPE(cp) OR DOCTYPE(ch) ) '
     'AND LANGUAGE(english)'
 )
@@ -156,6 +164,35 @@ def samples(df):
         print(f"  {i:2d}. ({r['year']}) {r['title']}")
 
 
+def increment_report(df, old_eids):
+    """Report net-new records vs the previous corpus (by eid)."""
+    cur = df.copy()
+    cur["eid"] = cur["eid"].astype(str)
+    new = cur[~cur["eid"].isin(old_eids)].copy()
+    print(f"\n[increment] previous corpus eids = {len(old_eids)}")
+    print(f"[increment] net-new (not in previous corpus) = {len(new)}")
+
+    ontopic = [
+        "facade", "façade", "envelope", "skin", "kinetic", "adaptive", "adaptable",
+        "convertible", "breathing", "hygromorphic", "deployable", "shading", "louver",
+        "louvre", "responsive", "movable", "moveable", "morphing", "origami",
+        "pneumatic", "retractable", "fenestration", "brise", "transformable",
+    ]
+    new["_cit"] = pd.to_numeric(new["citedby_count"], errors="coerce").fillna(0)
+    new["_on"] = new["title"].fillna("").str.lower().apply(
+        lambda t: any(tok in t for tok in ontopic))
+
+    top = new.sort_values("_cit", ascending=False).head(25)
+    print("\n[increment] Top 25 net-new by citedby_count (* = on-topic title)")
+    for i, (_, r) in enumerate(top.iterrows(), 1):
+        flag = "*" if r["_on"] else " "
+        print(f"  {i:2d}.{flag}[{int(r['_cit']):>4d} cit] ({r['year']}) "
+              f"{r['source']} — {r['title']}")
+    print(f"\n[increment] on-topic titles: {int(new['_on'].sum())}/{len(new)} of all "
+          f"net-new; {int(top['_on'].sum())}/{len(top)} within Top 25")
+    return len(new)
+
+
 def save(df):
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     df.to_csv(CSV_PATH, index=False)
@@ -165,14 +202,20 @@ def save(df):
 
 
 def main(save_full=True):
+    # Capture previous corpus eids BEFORE any overwrite, for the increment report.
+    old_eids = set()
+    if CSV_PATH.exists():
+        old_eids = set(pd.read_csv(CSV_PATH)["eid"].dropna().astype(str))
+
     n_hits, used_view, search = run_search()
     df = to_dataframe(search.results or [])
     print(f"[downloaded] {len(df)} records (view={used_view})")
     doctype_report(df)
     coverage_report(df)
+    increment_report(df, old_eids)
     samples(df)
 
-    # Guardrail (task step 5): pause if outside 200..6000.
+    # Guardrail: pause if outside 200..6000.
     if n_hits > 6000 or n_hits < 200:
         print(f"\n[guardrail] hits={n_hits} outside 200..6000 — NOT saving full corpus; "
               "awaiting confirmation.")
