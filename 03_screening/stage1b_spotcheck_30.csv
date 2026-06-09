@@ -1,0 +1,31 @@
+eid,title,year,source,stage1_decision,reason_category,method,spotcheck
+2-s2.0-85072477252,Thermal analysis of the IUE-seven years later,1985,SAE Technical Papers,exclude,aerospace_space,ai_rescreen,excluded
+2-s2.0-105021808457,Improving Damage Localization Through Gaussian Process Regression and Enhanced Acoustic Emissions Time of Arrival Estimation,2025,IEEE International Ultrasonics Symposium Ius,exclude,biomed_biology,ai_rescreen,excluded
+2-s2.0-84960941126,Interspecies transmission and chikungunya virus emergence,2016,Current Opinion in Virology,exclude,biomed_biology,ai_rescreen,excluded
+2-s2.0-84964995407,Toxicity study of Brassica oleracea var. Italica extracts in Sprague Dawley (SD) rats,2016,International Journal of Pharmacognosy and Phytochemical Research,exclude,biomed_biology,ai_rescreen,excluded
+2-s2.0-84905741346,AMFS: Adaptive multi-frequency shading for future graphics processors,2014,ACM Transactions on Graphics,exclude,medical_graphics,ai_rescreen,excluded
+2-s2.0-57149101005,Dynamic 2D patterns for shading 3D scenes,2007,Proceedings of the ACM SIGGRAPH Conference on Computer Graphics,exclude,medical_graphics,ai_rescreen,excluded
+2-s2.0-3442876420,Use of a CCD diffractometer in crystal structure determinations at high pressure,2004,Journal of Applied Crystallography,exclude,off_topic_lowsignal,ai_rescreen,excluded
+2-s2.0-0036545837,Illusory 3-D rotation induced by dynamic image shading,2002,Perception and Psychophysics,exclude,off_topic_lowsignal,ai_rescreen,excluded
+2-s2.0-85161439734,Improving Performance of Project through Utilizing Statistical Control Chart Based on Adaptive Management and Scientific Engineering,2023,International Journal of Intelligent Systems and Applications in Engineering,exclude,off_topic_lowsignal,ai_rescreen,excluded
+2-s2.0-85122425104,Prediction of Sulfur Content in Copra Using Machine Learning Algorithm,2021,Applied Artificial Intelligence,exclude,off_topic_lowsignal,ai_rescreen,excluded
+2-s2.0-84947913540,A study comparing the use of shaded text and adaptive navigational support in adaptive hypermedia,2000,Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics,exclude,off_topic_lowsignal,ai_rescreen,excluded
+2-s2.0-0024883127,Adapting a rule-base for optimising combustion on a double burner boiler,1989,IEE Conference Publication,exclude,off_topic_lowsignal,ai_rescreen,excluded
+2-s2.0-85106145690,"Open Innovation Strategies, Green Policies, and Action Plans for Sustainable Cities—Challenges, Opportunities, and Approaches",2021,Green Energy and Technology,exclude,off_topic_lowsignal,ai_rescreen,excluded
+2-s2.0-85046032794,Solar energy materials for thermal applications: A primer,2018,Solar Energy Materials and Solar Cells,exclude,off_topic_lowsignal,ai_rescreen,excluded
+2-s2.0-84894515202,Image based computer-aided manufacturing technology,2013,Sensors and Transducers,exclude,other_nonbuilding,ai_rescreen,excluded
+2-s2.0-85175970769,Design and Research of a New Underactuated Manipulator,2023,Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics,exclude,other_nonbuilding,ai_rescreen,excluded
+2-s2.0-0032782357,Optimizing production technology choices: Conventional production vs. recycling,1999,Resource and Energy Economics,exclude,other_nonbuilding,ai_rescreen,excluded
+2-s2.0-85040203255,Application of a fluidic device to the outlet grille of an automotivew air conditioner.,1980,undefined,exclude,transport_infra,ai_rescreen,excluded
+2-s2.0-85125448164,Calculation of Low-floor Vehicle Gauge,2022,Proceedings of SPIE the International Society for Optical Engineering,exclude,transport_infra,ai_rescreen,excluded
+2-s2.0-0032629656,Wide-bodied EMUs offer extra capacity at low cost,1999,Railway Gazette International,exclude,transport_infra,ai_rescreen,excluded
+2-s2.0-85148695173,Codesign of Biobased Cellulose-Filled Filaments and Mesostructures for 4D Printing Humidity Responsive Smart Structures,2023,3D Printing and Additive Manufacturing,uncertain,motion_no_building,ai,kept
+2-s2.0-105002776077,Tensile self-locking behavior of reconfigurable origami structure,2025,Engineering Structures,uncertain,motion_no_building,ai,kept
+2-s2.0-85105618539,About the ‘cape’. Considerations on geometries of the maurizio sacripanti’s osaka pavilion roof,2018,Disegno,uncertain,no_signal_keep,ai,kept
+2-s2.0-85010991418,Wooden bilayers for innovative climate adaptive shading and tracking systems,2016,Wcte 2016 World Conference on Timber Engineering,uncertain,soft_motion_no_building,ai,kept
+2-s2.0-85198731386,Computational Design of Multi-State Lattice Structures With Finite Mechanisms for Shape Morphing,2023,Journal of Mechanical Design,uncertain,motion_no_building,ai,kept
+2-s2.0-85044530680,Hybrid metaheuristic experiments of real-time adaptive optimization of parametric shading design through remote data transfer,2017,Proceedings Winter Simulation Conference,uncertain,soft_motion_no_building,ai,kept
+2-s2.0-85118508179,Mono–material 4d printing of digital shape–memory components,2021,Polymers,uncertain,motion_no_building,ai,kept
+2-s2.0-85143490994,Effect of crease curvature on the bistability of the origami waterbomb base,2022,Extreme Mechanics Letters,uncertain,motion_no_building,ai,kept
+2-s2.0-85104604035,Folded surface elements coupled with planar scissor linkages: A novel hybrid type of deployable structures,2021,Curved and Layered Structures,uncertain,motion_no_building,ai,kept
+2-s2.0-85063474676,Responsive plant-inspired skins: A review,2017,Proceedings of 33rd PLEA International Conference Design to Thrive PLEA 2017,uncertain,soft_motion_no_building,ai,kept

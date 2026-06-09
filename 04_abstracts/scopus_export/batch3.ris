@@ -1,0 +1,1683 @@
+TY  - CONF
+AU  - Hwang, K.-J.
+AU  - Kim, G.-C.
+AU  - Kim, Y.-S.
+TI  - Wind pressure analysis of movable shading by using cfd
+PY  - 2019
+T2  - Proceedings of the Annual International Conference on Architecture and Civil Engineering
+SP  - 500
+EP  - 504
+DO  - 10.5176/2301-394X_ACE19.526
+UR  - https://www.scopus.com/pages/publications/85069169883?origin=resultslist
+AD  - Dept. Architecture University of Seoul, Seoul, South Korea
+AD  - Dept. Architecture Seoil University, Seoul, South Korea
+AD  - Dept. Architecture Yeungnam University, Gyeongsan, South Korea
+AB  - — Most of the variable shading devices are installed outdoors, so they are greatly affected by structural safety due to external climate change, wind, rain, and snow. Especially, due to strong wind such as typhoons, safety problems may occur due to the dropout of the device. Therefore, it is necessary to analyze the wind pressure of shading device to evaluate the structural safety of the movable shading device. In this study, we analyze the wind pressure applied to the shading material according to the change of the length of the variable shading device, and apply it to the calculation of the wind load for the structural design of the variable shading device. The CFD (Computational Fluid Dynamic) analysis is used to analyze wind pressure magnitude and distribution. From the above results, it should be recognized that the higher wind pressure acts on the edge than the center part of the building and the higher wind pressure acts in the higher stories than the lower stories. Especially, it should be considering the negative pressure pulling the awning membrane outward in the shading system design.
+KW  - CFD
+KW  - Numerical stimulation
+KW  - Structural safety
+KW  - Wind pressure
+KW  - —Movable shading
+A2  - Anderson M.S.T.
+A2  - Anderson P.C.O.
+PB  - Global Science and Technology Forum
+SN  - 2301394X (ISSN)
+LA  - English
+J2  - Proc. Annu. Int. Conf. Archit. Civ. Eng.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - O'Brien, W.
+AU  - Kapsis, K.
+AU  - Athienitis, A.K.
+TI  - Manually-operated window shade patterns in office buildings: A critical review
+PY  - 2013
+T2  - Building and Environment
+VL  - 60
+SP  - 319
+EP  - 338
+DO  - 10.1016/j.buildenv.2012.10.003
+UR  - https://www.scopus.com/pages/publications/84872398016?origin=resultslist
+AD  - Department of Civil and Environmental Engineering, Carleton University, Ottawa, ON K1S 5B6, 3432 Mackenzie Building, 1125 Colonel By Drive, Canada
+AD  - Department of Building Civil and Environmental Engineering, Concordia University, Montreal, QC H3G 1M8, 1455 de Maisonneuve Blvd. W., EV6. 139, Canada
+AB  - Despite the significant impact that the position of movable shading devices has on building energy use, peak loads, and visual and thermal comfort, there is a high degree of uncertainty associated with how building occupants actually operate their shades. As a result, unrealistic modeling assumptions in building performance simulation or other design methods may lead to sub-optimal building designs and overestimation or underestimation of cooling loads. In the past 35 years, researchers have published observational studies in order to identify the factors that motivate building occupants to operate shading devices. However, the diversity of the study conditions makes it is difficult to draw universal conclusions that link all contributing factors to shade movement actions. This paper provides a comprehensive and critical review of experimental and study methodologies for manual shade operation in office buildings, their results, and their application to building design and controls. The majority of the many cited factors in office buildings can be categorized into those affecting visual comfort, thermal comfort, privacy, and views. Most office occupants do not operate their shades more than weekly or monthly and they do so based on long-term solar radiation intensity and solar geometry trends rather than reacting to short-term events. They generally operate them to improve visual conditions rather than thermal conditions. Occupants in offices with automatically-controlled heating and cooling tend to be less diligent about using shading devices to improve their comfort. © 2012 Elsevier Ltd.
+KW  - Advanced façade design
+KW  - Energy use
+KW  - Occupant behavior
+KW  - Thermal comfort
+KW  - Visual comfort
+KW  - Window shades
+KW  - Architectural design
+KW  - Office buildings
+KW  - Sun
+KW  - Thermal comfort
+KW  - Building design
+KW  - Building energy
+KW  - Contributing factor
+KW  - Cooling load
+KW  - Critical review
+KW  - Degree of uncertainty
+KW  - Design method
+KW  - Energy use
+KW  - In-buildings
+KW  - Observational study
+KW  - Occupant behavior
+KW  - Peak load
+KW  - Shading devices
+KW  - Significant impacts
+KW  - Solar geometry
+KW  - Solar radiation intensity
+KW  - Thermal condition
+KW  - Visual comfort
+KW  - Visual condition
+KW  - architectural design
+KW  - building
+KW  - computer simulation
+KW  - cool water
+KW  - energy use
+KW  - geometry
+KW  - heating
+KW  - office location
+KW  - Structural design
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 233; Correspondence Address: W. O'Brien; Department of Civil and Environmental Engineering, Carleton University, Ottawa, ON K1S 5B6, 3432 Mackenzie Building, 1125 Colonel By Drive, Canada; email: liam_obrien@carleton.ca; CODEN: BUEND
+ER  -
+
+TY  - CONF
+AU  - Vermisso, E.
+AU  - Thitisawat, M.
+AU  - Feldsberg, M.
+TI  - An irregular discretization process for climate-responsive façades
+PY  - 2013
+T2  - Green Design, Materials and Manufacturing Processes - Proceedings of the 2nd International Conference on Sustainable Intelligent Manufacturing, SIM 2013
+SP  - 489
+EP  - 493
+DO  - 10.1201/b15002-95
+UR  - https://www.scopus.com/pages/publications/84880083431?origin=resultslist
+AD  - Florida Atlantic University, Fort Lauderdale, United States
+AB  - The project focuses on developing façade assemblies - which may include moving or static components - that are inherently responsive to climate (i.e. sunlight and daylight). The design constraints encourage "synthetic" workflows that combine various software and hardware interfaces to reach optimized solutions for building components that reduce heat gain in South Florida and promote daylight utilization. The paper discusses regular as well as non-homogeneous geometries (voronoi) to create light apertures of variable scale and density on a façade surface. The authors would like to assess the work with regards to both performance and process, evaluating the tools and identifying shortcomings in the parametric/simulation workflow dynamics. © 2013 Taylor & Francis Group.
+KW  - Materials properties
+KW  - Design constraints
+KW  - Discretization process
+KW  - Heat gains
+KW  - Non-homogeneous
+KW  - Optimized solutions
+KW  - Software and hardwares
+KW  - South Florida
+KW  - Work-flows
+KW  - Manufacture
+PB  - Taylor and Francis - Balkema
+SN  - 978-113800046-9 (ISBN)
+LA  - English
+J2  - Green Des., Mater. Manuf. Proces. - Proc. Int. Conf. Sustainable Intelligent Manuf., SIM
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Cheung, M.T.
+AU  - Yeung, D.W.K.
+TI  - Completing the "One line proof" of the dynamic envelope theorem
+PY  - 1993
+T2  - Atlantic Economic Journal
+VL  - 21
+IS  - 4
+SP  - 82
+EP  - 83
+DO  - 10.1007/BF02302333
+UR  - https://www.scopus.com/pages/publications/34250074213?origin=resultslist
+AD  - University of Hong Kong, Hong Kong
+PB  - Kluwer Academic Publishers
+SN  - 01974254 (ISSN)
+LA  - English
+J2  - Atl. Econ. J.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Carbonari, A.
+AU  - Fioretti, R.
+AU  - Naticchia, B.
+AU  - Principi, P.
+TI  - Experimental estimation of the solar properties of a switchable liquid shading system for glazed facades
+PY  - 2012
+T2  - Energy and Buildings
+VL  - 45
+SP  - 299
+EP  - 310
+DO  - 10.1016/j.enbuild.2011.11.022
+UR  - https://www.scopus.com/pages/publications/84855243888?origin=resultslist
+AD  - Department of Civil, Building Engineering and Architecture - Building Construction Research Team, Universit Politecnica Delle Marche, 60131 Ancona, via Brecce Bianche, Italy
+AD  - Department of Industrial Engineering and Mathematical Sciences, Faculty of Engineering, Universit Politecnica Delle Marche, 60131 Ancona, via Brecce Bianche, Italy
+AB  - As solar gains often constitute a high fraction of the overall cooling and heating loads in buildings, dynamically and adaptively controlled fenestration may be an important strategy for energy efficient buildings. The higher the variability in climatic conditions over the seasons, the longer is the list of benefits deriving from the adoption of this type of technology. This paper reports the experimental evaluation performed on a dynamic shading system based on a liquid layer sliding within a dedicated glass stratification. The advantages connected with the adoption of the described technology derive from its easy adaptability to almost every fenestration, its reversible switching between high and low solar transmittance configurations in a short time and its capability to maintain transparency in both operating modes. The summer outdoor experimental campaign, reported in this paper, allowed the solar factor of the liquid-shaded stratification to be estimated and compared with a reference low-emission double stratification, where one of the panes was treated with a magnetronic coating. The results showed not only that the shading provided by the dynamic liquid layer is more effective than its benchmark, but also that its dynamic capabilities have been preserved after a summer-long exposure to solar radiation. © 2011 Elsevier B.V.
+KW  - Dynamic solar shielding
+KW  - Energy efficiency
+KW  - Liquid-shaded window
+KW  - Outdoor trials
+KW  - Solar factor
+KW  - Test cells
+KW  - Energy efficiency
+KW  - Solar energy
+KW  - Sun
+KW  - Climatic conditions
+KW  - Dynamic capabilities
+KW  - Energy efficient building
+KW  - Experimental campaign
+KW  - Experimental evaluation
+KW  - Heating load
+KW  - In-buildings
+KW  - Liquid layer
+KW  - Operating modes
+KW  - Outdoor trials
+KW  - Reversible switching
+KW  - Shading systems
+KW  - Solar factor
+KW  - Solar gain
+KW  - Solar transmittance
+KW  - Switchable
+KW  - Test cell
+KW  - Type of technology
+KW  - Liquids
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 26; Correspondence Address: A. Carbonari; Department of Civil, Building Engineering and Architecture - Building Construction Research Team, Universit Politecnica Delle Marche, 60131 Ancona, via Brecce Bianche, Italy; email: alessandro.carbonari@univpm.it; CODEN: ENEBD
+ER  -
+
+TY  - CONF
+AU  - Schultz, A.M.
+AU  - McMillin, J.A.
+AU  - Balmer, J.A.
+TI  - Kinetic architecture of extensible work platforms for rocket assembly
+PY  - 2018
+T2  - 2018 AIAA SPACE and Astronautics Forum and Exposition
+C7  - 5135
+DO  - 10.2514/6.2018-5135
+UR  - https://www.scopus.com/pages/publications/85056173627?origin=resultslist
+AD  - RS&H Inc., Merritt Island, 32953, FL, United States
+AD  - Rockledge, 32955, FL, United States
+AD  - Launch Facilities & Equipment (LF&E), RS&H Inc., Merritt Island, 32953, FL, United States
+AB  - This paper reviews the engineering of extensible work platforms located at the NASA Kennedy Space Center and the challenges and considerations applicable to design solutions for launch vehicles using kinetic architecture. The project, constructed for the Space Launch Services Block 1 vehicle, is the first known of its kind. The features and lessons discussed herein are applicable for other, future launch vehicle assembly facilities. © 2018, American Institute of Aeronautics and Astronautics Inc, AIAA. All rights reserved.
+KW  - Launch vehicles
+KW  - NASA
+KW  - Rockets
+KW  - Design solutions
+KW  - Kinetic architectures
+KW  - NASA Kennedy Space Center
+KW  - Space launch
+KW  - Vehicle assembly
+KW  - Space platforms
+PB  - American Institute of Aeronautics and Astronautics Inc, AIAA
+SN  - 978-162410575-3 (ISBN)
+LA  - English
+J2  - Astronaut. Forum Expos.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Jonatan, S.A.
+AU  - Alkadri, M.F.
+TI  - Preliminary Energy Simulations of Smart Materials on Building Facade: A hypothetical case study to determined energy performance of smart materials
+PY  - 2024
+T2  - Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+VL  - 1
+SP  - 273
+EP  - 282
+DO  - 10.52842/conf.ecaade.2024.1.273
+UR  - https://www.scopus.com/pages/publications/85209784237?origin=resultslist
+AD  - Research cluster of Architectural Science and Building Technology (ASBT), Department of Architecture, Universitas Indonesia, Indonesia
+AB  - As the earth’s surface temperature rises, maintaining comfortable indoor temperatures without increasing the energy consumption of cooling systems is necessary. One climate change mitigation that may provide great relevance to this issue is to use adaptive facades as they can provide flexible energy flows in response to dynamic external conditions. Among adaptive facades strategies, smart materials show great potential to respond intelligently to the surrounding environment through changes in material properties. In this regard, smart materials require little to no additional active system because of changes made internally by the material. This paper aims to investigate potential applications of smart materials in building facades by first analyzing the energy performance of 9 smart materials (i.e., low-e glass, nePCM, PCM filled, paraffin MG29, PV Vacuum glazing, semitransparent PV A, semitransparent PV B, insulated DSSC-R, DSSCG) found in adaptive facades. This study then specifically calculates EUI (energy use intensity), cooling load, and average solar heat gain for existing buildings located in Jakarta. Lastly, two smart materials (i.e., PV and PCM) are selected to compare building façade construction proposals based on their transmissivity, maximum solar heat gain, and conductivity. Despite the potential application of smart materials, this study found that PV and PCM provide lower performance values due to energy demand functions that predominantly focus on generation rather than contributing to heating and cooling aspects. This study can further benefit architects when dealing with façade construction materials, especially in tropical countries. It needs to be aligned with the energy performance produced by the façade, the surrounding environment, and the local context. © 2024, Education and research in Computer Aided Architectural Design in Europe. All rights reserved.
+KW  - Adaptive Facade
+KW  - Energy Performance
+KW  - Smart Materials
+A2  - Kontovourkis O.
+A2  - Phocas M.C.
+A2  - Wurzer G.
+PB  - Education and research in Computer Aided Architectural Design in Europe
+SN  - 26841843 (ISSN); 978-949120737-2 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Educ. Res. Comput. Aided. Archit. Des. Eur.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Tiwari, G.N.
+AU  - Upadhyay, M.
+AU  - Rai, S.N.
+TI  - A comparison of passive cooling techniques
+PY  - 1994
+T2  - Building and Environment
+VL  - 29
+IS  - 1
+SP  - 21
+EP  - 31
+DO  - 10.1016/0360-1323(94)90049-3
+UR  - https://www.scopus.com/pages/publications/0028175578?origin=resultslist
+AD  - Centre for Energy Studies, Indian Institute of Technology Delhi, New Delhi, 110016, Hauz Khas, India
+AB  - A comparison of passive cooling techniques of a non-airconditioned apartment for Delhi climate condition has been presented. The various cooling techniques namely, evaporative cooling, movable canvas, roof gardens, shading effect and air cavity in walls etc. have been incorporated in the thermal analysis. Numerical computations were carried out for Delhi climatic conditions and it is inferred that 1. (i) the evaporative cooling is the best option to reduce the incoming heat flux through the roof if the water is easily available, and 2. (ii) the air cavity also reduces the incoming flux entering through walls. © 1993.
+KW  - Buildings
+KW  - Climate
+KW  - Cooling Systems
+KW  - Delhi
+KW  - Evaporation
+KW  - Passive
+KW  - Climate control
+KW  - Evaporative cooling systems
+KW  - Mathematical models
+KW  - Roofs
+KW  - Temperature control
+KW  - Thermoanalysis
+KW  - Walls (structural partitions)
+KW  - Air cavities
+KW  - Movable canvas
+KW  - New Delhi, India
+KW  - Passive cooling
+KW  - Roof gardens
+KW  - Shading effect
+KW  - Apartment houses
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 23; CODEN: BUEND
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Imani, N.
+AU  - Vale, B.
+TI  - Biomimetic architecture: exploring adaptive facades inspired by nature
+PY  - 2024
+T2  - Intelligent Buildings and Infrastructure with Sustainable and Social Values: Third edition
+SP  - 81
+EP  - 94
+DO  - 10.1108/978-1-83549-818-720243007
+UR  - https://www.scopus.com/pages/publications/105018429412?origin=resultslist
+AD  - Centre for Sustainability, University of Otago, Dunedin, New Zealand
+AD  - Open Polytechnic, Wellington, New Zealand
+AD  - Wellington School of Architecture, Victoria University, Wellington, New Zealand
+AB  - This chapter discusses the importance of biomimetics in the built environment and presents a brief history of the field. Biomimetics, or biologically inspired design, involves using nature as a model for developing sustainable and innovative solutions to human problems. The paper highlights the potential benefits of biomimetic design, including increased energy efficiency. It also introduces a systematic approach to designing biomimetic buildings, which involves identifying problems, researching relevant biological systems, and translating biological principles to building design principles. The chapter then focuses on one example of biomimetic design: the development of adaptive building facades (ABFs) that mimic the ability of biological systems to regulate temperature, light, and water content. An in-depth investigation of stomata, the small pores on plant leaves that help regulate heat exchange and conserve water, is presented as a biological thermal adaptation mechanism that has inspired the design of ABFs. Finally, the chapter discusses future approaches to Bio-ABF development, including the integration of new materials and technologies and continued research into biological thermal adaptation mechanisms. Overall, the emphasis is on the importance of biomimetic design in creating sustainable and innovative solutions for the built environment. © Emerald Publishing Limited 2024. All rights reserved.
+KW  - Biological materials
+KW  - Biological systems
+KW  - Biomimetic materials
+KW  - Biomimetic processes
+KW  - Energy efficiency
+KW  - Plants (botany)
+KW  - Structural design
+KW  - Adaptation mechanism
+KW  - Biologically inspired design
+KW  - Biomimetic design
+KW  - Building facades
+KW  - Built environment
+KW  - Energy
+KW  - Innovative solutions
+KW  - Potential benefits
+KW  - Sustainable solution
+KW  - Thermal adaptation
+KW  - Architectural design
+PB  - Emerald Publishing
+SN  - 978-183549818-7 (ISBN); 978-183549819-4 (ISBN)
+LA  - English
+J2  - Intell. Build. and Infrastruct. with Sustain. and Soc.: Third ed.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Chen, J.
+TI  - Cast Adaptive/Kinetic Façades The application of sand casting on manufacturing the adaptive/kinetic facades
+PY  - 2024
+T2  - Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+VL  - 1
+SP  - 431
+EP  - 438
+DO  - 10.52842/conf.ecaade.2024.1.431
+UR  - https://www.scopus.com/pages/publications/85209815164?origin=resultslist
+AD  - The Bartlett, UCL, United Kingdom
+AB  - The escalatingfocus on sustainability across diverse domains has instigated multifaceted strategies to achieve this objective, encompassing modifications in resource utilization and the incorporation ofrenewable energy sources alongside recyclable materials. In the realm ofarchitecture, thefaçade serves not only as an aestheticfeature but also as a regulator ofboth interior and exterior environments, with kineticfacades emerging as a dynamic solution. Unlike the dynamic external conditions and active building occupants, architecture, as a whole, remains relatively statiomry.As integral components of architectural design, kineticfacades arepurposefulfy engineered to actively and dynamically modulate external environmental conditions to align wïth occupant requirements. Thispaper delves into the specific realm ofcast kineticjoints within the broader context ofkineticfacades in architecture. As sustainability gainsprominence, the studyfocuses on the manufacturingprocesses of these crucial components, narrowing its scope to the use of sand casting. With its rich historical legacy and inherent adaptability, this technique emerges as afocalpointfor crafting kineticjoints. The analysis delves into crucial considerations, including design intricacies, scale dynamics, and material selections, emphasising thepotential ofsand casting as a sustainable methodfor manufacturing these dynamic and active architectural elements. Through a meticulous examination ofthe intricacies associated with kinetic joints, this study aims toprovide targeted insights into the viability of sand casting, therebyproviding a refined exploration ofits role in advancing sustainability within the realm ofkineticfacades. © 2024, Education and research in Computer Aided Architectural Design in Europe. All rights reserved.
+KW  - Adaptive/Kinetic Façade
+KW  - Sand casting
+KW  - Sustainability
+A2  - Kontovourkis O.
+A2  - Phocas M.C.
+A2  - Wurzer G.
+PB  - Education and research in Computer Aided Architectural Design in Europe
+SN  - 26841843 (ISSN); 978-949120737-2 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Educ. Res. Comput. Aided. Archit. Des. Eur.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: J. Chen; The Bartlett, UCL, United Kingdom; email: jingwen.chen.20@ucl.ac.uk
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Ritter, A.
+TI  - Architectural applications of smart textiles
+PY  - 2013
+T2  - Multidisciplinary Know-How for Smart-Textiles Developers
+SP  - 468
+EP  - 488
+DO  - 10.1533/9780857093530.3.468
+UR  - https://www.scopus.com/pages/publications/84903650549?origin=resultslist
+AD  - Ritter architekten, 53474 Bad Neuenahr-Ahrweiler, Telegrafenstrasse 11, Germany
+AB  - This chapter starts with an introduction about key themes and important factors in modern architecture. It then gives some general informations about smart materials, which can be divided into the categories of property-changing smart materials, energy-generating and exchanging smart materials, and matter-exchanging smart materials. Then some examples are given of existing smart textiles for architectural applications, which include light-emitting metal mesh, self-cleaning membranes, self-healing textiles, shape memory interior textiles and innovative actuators, made through the use of smart textiles. The chapter ends with future trends for exterior textiles, actuators and interior textiles. © 2013 Woodhead Publishing Limited All rights reserved.
+KW  - Adaptive architecture
+KW  - Energy-exchanging smart materials
+KW  - Energy-generating smart materials
+KW  - Kinetic architecture
+KW  - Matter-exchanging smart materials
+KW  - Property-changing smart materials
+KW  - Smart building textile
+KW  - Smart polymer actuator
+KW  - Actuators
+KW  - Light emission
+KW  - Metal cleaning
+KW  - Smart Polymers
+KW  - Smart textiles
+KW  - Adaptive architecture
+KW  - Future trends
+KW  - General information
+KW  - Kinetic architectures
+KW  - Modern architectures
+KW  - Self cleaning
+KW  - Self-healing
+KW  - Smart polymer actuators
+KW  - Intelligent materials
+PB  - Elsevier Ltd
+SN  - 978-085709342-4 (ISBN)
+LA  - English
+J2  - Multidiscip. Know-How for Smart-Text. Dev.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: A. Ritter; Ritter architekten, 53474 Bad Neuenahr-Ahrweiler, Telegrafenstrasse 11, Germany; email: info@ritter-architekten.com
+ER  -
+
+TY  - JOUR
+AU  - El-Mahdy, D.
+AU  - Youssef, A.K.
+TI  - OPTIMIZATION OF AN ADAPTIVE ALGAE FAÇADE BASED ON SOLAR RADIATION SIMULATION
+PY  - 2022
+T2  - International Journal of Computational Methods and Experimental Measurements
+VL  - 10
+IS  - 4
+SP  - 314
+EP  - 328
+DO  - 10.2495/CMEM-V10-N4-314-328
+UR  - https://www.scopus.com/pages/publications/85149115511?origin=resultslist
+AD  - The British University, Egypt
+AD  - Cosign Group, Egypt
+AB  - Due to the climate crisis, extreme fluctuations in temperature are caused by the high sources of energy, and carbon consumption have a great impact on both construction and water resources management. Accordingly, the world today is paying attention to searching for cleaner energy resources. In Egypt, the extreme heat of the summer seasons causes constant air-conditioner (AC) usage in building to provide cooling, which produces outlet wastewater. The continuous flow of this outlet wastewater results in cracks and erosion among the facades that need maintenance. As a way to search for environmentally friendly material that can reuse this outlet water and reduce the solar radiation on the façade providing more cooler spaces, algae are suggested due to their availability in water from several sources in Egypt. This paper presents the assessment of an innovative façade element photobioreactors (PBR) made from algae on a real administrative building facade in Cairo. The aim is to evaluate digitally by simulation the solar radiation reduced from the façade that acts as a double green skin and self-watering system with an appealing aesthetic form preventing any erosion on the façade surfaces. The method of assessment is done using Ladybug plug-in simulation in Grasshopper plug-in in Rhino software based on the climatic data from EnergyPlus. Four main phases are followed: 1) the form generation of the façade using Rhinoceros software, 2) the simulation to assess the solar radiation before and after adding the PBR, 3) the evaluation phase to calculate the thermal conductivity and water temperature mathematically, and 4) fabrication of small-scale façade using the 3D-printed technique with algae filament. The results recorded a reduction in the solar radiation from 301 to 75 kWh/m2 comparing the current case of the building façade, while the thermal performance was 0.36 W/m2K, which is better than the most common materials used in arid climates such as rammed earth, fired brick, and concrete. The optimization of the algae tube length was based on the required outlet temperature that is suitable for plantation 15°C to help in reducing the water temperature. The finding addresses the significant role of using algae that can generate biomass to explore their benefits regarding their O2 production and CO2 absorption through 3D printing, which is considered a cleaner technology. © 2022 WIT Press.
+KW  - 3D printing
+KW  - adaptive façade
+KW  - additive manufacturing
+KW  - algae
+KW  - bioenergy
+KW  - bioprinting
+KW  - digital fabrication
+KW  - green façade
+PB  - Wit Press
+SN  - 20460546 (ISSN)
+LA  - English
+J2  - Int. J. Comput. Methods Experiment. Meas.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Wang, Z.
+AU  - Duan, Z.
+AU  - Zhao, X.
+AU  - Chen, M.
+TI  - Dynamic performance of a façade-based solar loop heat pipe water heating system
+PY  - 2012
+T2  - Solar Energy
+VL  - 86
+IS  - 5
+SP  - 1632
+EP  - 1647
+DO  - 10.1016/j.solener.2012.02.031
+UR  - https://www.scopus.com/pages/publications/84859443262?origin=resultslist
+AD  - Faculty of Civil and Transportation Engineering, Guangdong University of Technology, Guangzhou, Guangdong 510006, China
+AD  - Department of Architecture and Built Environment, University of Nottingham, University Park, Nottingham NG7 2RD, United Kingdom
+AD  - Institute of Energy and Sustainable Development, De Montfort University, The Gateway, Leicester LE1 9BH, United Kingdom
+AD  - College of Environmental Science and Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China
+AB  - This paper reported a dedicated study of a novel façade-based solar loop heat pipe (LHP) water heating system using both theoretical and experimental methods. This system employs a modular panel incorporating a unique loop heat pipe that is able to serve as part of the building façade or a decoration layer of the façade, thus creating a façade integrated, low cost, highly efficient and aesthetically appealing solar water heating structure. Taking into account heat balances occurring in different parts of the system, e.g., solar absorber, heat pipes loop, heat exchanger and storage tank, a dedicated computer model was developed to investigate the dynamic performance of the system. An experimental rig was also established to evaluate the performance of such a prototype system through measurement of various operational parameters, e.g., solar radiation, temperatures and flow rates of the heat pipe fluid and water. Through comparison between the testing and modelling results, the model has been approved to be able to give a reasonable accuracy for predicting the performance of the LHP system. Two types of glass covers, i.e., double glazed/evacuated tubes and single-glazing plate, were applied to the prototype. It was found that for both covers, the heat pipe fluid temperature rose dramatically at the start-up operation and afterwards remained a slow but steady growth; while the water temperature remained a steadily growing trend throughout the operational day. The temperature rise of the circulated water at 1.6. l/min of flow rate was around 13.5 °C in the double-glazed/evacuated tubes based system and 10 °C in the single-glazing based system; correspondingly, their average solar conversion efficiencies were 48.8% and 36%, and the COPs were 14 and 10.5 respectively. In overall, the double-glazed/evacuated tubes based system presented a better performance than the single glazing based one. © 2012 Elsevier Ltd.
+KW  - COP
+KW  - Efficiency
+KW  - Heat exchanger
+KW  - Hot water
+KW  - Loop heat pipe
+KW  - Solar radiation
+KW  - Conversion efficiency
+KW  - Efficiency
+KW  - Flow rate
+KW  - Glazes
+KW  - Heat exchangers
+KW  - Hot water distribution systems
+KW  - Solar equipment
+KW  - Solar radiation
+KW  - Sun
+KW  - Tubes (components)
+KW  - COP
+KW  - Dedicated computers
+KW  - Dynamic performance
+KW  - Experimental methods
+KW  - Glass covers
+KW  - Heat balance
+KW  - Heat pipe fluids
+KW  - Hot water
+KW  - Loop Heat Pipe
+KW  - Low costs
+KW  - Operational parameters
+KW  - Prototype system
+KW  - Reasonable accuracy
+KW  - Solar conversion efficiencies
+KW  - Solar loops
+KW  - Solar water heating
+KW  - Start-ups
+KW  - Storage tank
+KW  - Temperature rise
+KW  - Water heating systems
+KW  - Water temperatures
+KW  - accuracy assessment
+KW  - building
+KW  - computer simulation
+KW  - experimental study
+KW  - heat balance
+KW  - heating
+KW  - integrated approach
+KW  - numerical model
+KW  - performance assessment
+KW  - pipe
+KW  - solar power
+KW  - solar radiation
+KW  - theoretical study
+KW  - water temperature
+KW  - Heat pipes
+SN  - 0038092X (ISSN)
+LA  - English
+J2  - Sol. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 55; Correspondence Address: X. Zhao; Institute of Energy and Sustainable Development, De Montfort University, The Gateway, Leicester LE1 9BH, United Kingdom; email: xzhao@dmu.ac.uk; CODEN: SRENA
+ER  -
+
+TY  - JOUR
+AU  - Lo, L.J.
+AU  - Novoselac, A.
+TI  - Cross ventilation with small openings: Measurements in a multi-zone test building
+PY  - 2012
+T2  - Building and Environment
+VL  - 57
+SP  - 377
+EP  - 386
+DO  - 10.1016/j.buildenv.2012.06.009
+UR  - https://www.scopus.com/pages/publications/84863467109?origin=resultslist
+AD  - The University of Texas at Austin, Department of Civil, Architectural and Environmental Engineering, Austin, TX 78712-1076, 1 University Station C1752, United States
+AB  - Designing for wind driven cross ventilation is challenging due to the dynamic characteristics of wind. While numerous studies have used wind tunnels and computational fluid dynamics to study cross ventilation, few have utilized a full scale experimental approach. Thus, this paper provides measurements of wind properties, façade pressures, airflow rates through small window openings, and tracer gas concentrations for a multi-zone test building located in Austin, TX. This experimental data connects outdoor and indoor environments and demonstrates the dynamic nature of wind driven cross ventilation flow. Several interesting observations were made: (1) cross ventilation rate can be correlated to the velocity component of the approaching wind that is normal to the inlet openings; (2) obstructions that are far upwind of a building (e.g., kilometers) can have significant impacts on cross ventilation flows; (3) wind pressures on building façades are highly dynamic that a steady state assumption may not be appropriate; and (4) locations of openings that are leeward have a small impact on the overall flow rate, but significantly impact a building's internal flow distribution. This paper provides the summary of the collected data, while the detailed dataset is available upon request. © 2012 Elsevier Ltd.
+KW  - Cross ventilation
+KW  - Full scale experiments
+KW  - Natural ventilation
+KW  - Sustainable design
+KW  - Austin
+KW  - Texas
+KW  - United States
+KW  - Buildings
+KW  - Computational fluid dynamics
+KW  - Inlet flow
+KW  - Wind effects
+KW  - Air flow-rate
+KW  - Cross ventilation
+KW  - Data sets
+KW  - Dynamic characteristics
+KW  - Dynamic nature
+KW  - Experimental approaches
+KW  - Experimental data
+KW  - Full scale
+KW  - Full-scale experiment
+KW  - Indoor environment
+KW  - Internal flows
+KW  - Natural ventilation
+KW  - Significant impacts
+KW  - Steady state
+KW  - Sustainable design
+KW  - Tracer gas
+KW  - Velocity components
+KW  - Wind pressures
+KW  - Wind properties
+KW  - architectural design
+KW  - concentration (composition)
+KW  - design
+KW  - experimental study
+KW  - indoor air
+KW  - pressure effect
+KW  - ventilation
+KW  - wind field
+KW  - wind tunnel
+KW  - Ventilation
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 70; Correspondence Address: L.J. Lo; The University of Texas at Austin, Department of Civil, Architectural and Environmental Engineering, Austin, TX 78712-1076, 1 University Station C1752, United States; email: ljameslo@gmail.com; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Midulla, M.
+AU  - Renaud, A.
+AU  - Martinelli, T.
+AU  - Koussa, M.
+AU  - Mounier-Vehier, C.
+AU  - Prat, A.
+AU  - Beregi, J.-P.
+TI  - Endovascular fenestration in aortic dissection with acute malperfusion syndrome: Immediate and late follow-up
+PY  - 2011
+T2  - Journal of Thoracic and Cardiovascular Surgery
+VL  - 142
+IS  - 1
+SP  - 66
+EP  - 72
+DO  - 10.1016/j.jtcvs.2010.07.081
+UR  - https://www.scopus.com/pages/publications/79959349592?origin=resultslist
+AD  - Department of CardioVascular Imaging and Intervention, Hôpital Cardiologique, CHRU de Lille, 59037 Lille Cedex, France
+AD  - Department of CardioVascular Surgery, Hôpital Cardiologique, CHRU de Lille, France
+AD  - Department of Vascular Medicine, Hôpital Cardiologique, CHRU de Lille, France
+AD  - Department of Cardiac Surgery, Hôpital Cardiologique, CHRU de Lille, France
+AB  - Objective: To evaluate the immediate and long-term results of fenestration in aortic dissection with acute malperfusion syndrome. Methods: Between 1999 and 2007, 35 patients (31 men; age, 57 ± 11 years) with aortic dissection (19 with type A and 16 with type B) were treated by fenestration for malperfusion syndrome (27 renal, 27 bowel, and 14 lower limb) due to dynamic compression. Fenestration was performed with 2 rigid guidewires inserted in one 8F sheath (45 cm long). The mean interval between aortic dissection and fenestration was 5 days (28 patients within 3 days and 7 patients between 9 and 41 days). Results: Fenestration (100% technical success rate) with an additional endovascular procedure (29 peripheral stents and 1 thoracic stent graft) resulted in angiographic success in 97% of the patients. Bowel surgery was performed in 7 patients. Mortality within the first month (12/35) was related to bowel ischemia (n = 5), neurologic complications (n = 3), type A surgery (n = 2), and late treatment (n = 2). At a mean follow-up of 48 ± 30 months, 4 of the remaining 23 patients had died and 2 had withdrawn from the study. The diameter of the aorta, as measured using computed tomography/magnetic resonance imaging, remained stable in 12 of the remaining 17 patients and had increased in 5 (1 with Marfan syndrome and 4 with multiple arterial ectasia). Conclusions: In emergencies, fenestration saved 69% of the patients with acute malperfusion syndrome in complicated aortic dissection. During the follow-up period, the aortic diameter remained stable in most of the surviving patients. Copyright © 2011 by The American Association for Thoracic Surgery.
+KW  - Acute Disease
+KW  - Aged
+KW  - Aneurysm, Dissecting
+KW  - Aortic Aneurysm
+KW  - Aortography
+KW  - Blood Vessel Prosthesis
+KW  - Blood Vessel Prosthesis Implantation
+KW  - Endovascular Procedures
+KW  - Female
+KW  - France
+KW  - Humans
+KW  - Ischemia
+KW  - Magnetic Resonance Angiography
+KW  - Male
+KW  - Middle Aged
+KW  - Prosthesis Design
+KW  - Stents
+KW  - Time Factors
+KW  - Tomography, X-Ray Computed
+KW  - Treatment Outcome
+KW  - acute malperfusion syndrome
+KW  - adult
+KW  - aged
+KW  - aorta dissection
+KW  - artery disease
+KW  - article
+KW  - clinical article
+KW  - endovascular surgery
+KW  - female
+KW  - fenestration
+KW  - follow up
+KW  - heart hemodynamics
+KW  - human
+KW  - male
+KW  - Marfan syndrome
+KW  - mortality
+KW  - neurological complication
+KW  - priority journal
+KW  - reperfusion injury
+KW  - stent
+KW  - surgical technique
+KW  - treatment outcome
+KW  - Article
+KW  - blood vessel diameter
+KW  - cardiovascular mortality
+KW  - cause of death
+KW  - computer assisted tomography
+KW  - intestine ischemia
+KW  - intravascular catheter
+KW  - nuclear magnetic resonance imaging
+KW  - vascular disease
+KW  - vascular guide wire
+KW  - vascular stent
+SN  - 1097685X (ISSN)
+C2  - 21683839
+LA  - English
+J2  - J. Thorac. Cardiovasc. Surg.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 75; Correspondence Address: J.-P. Beregi; Department of CardioVascular Imaging and Intervention, Hôpital Cardiologique, CHRU de Lille, 59037 Lille Cedex, France; email: jean-paul.beregi@chru-lille.fr; CODEN: JTCSA
+ER  -
+
+TY  - JOUR
+AU  - Appelfeld, D.
+AU  - Svendsen, S.
+TI  - Performance of a daylight-redirecting glass-shading system
+PY  - 2013
+T2  - Energy and Buildings
+VL  - 64
+SP  - 309
+EP  - 316
+DO  - 10.1016/j.enbuild.2013.05.017
+UR  - https://www.scopus.com/pages/publications/84879110265?origin=resultslist
+AD  - Technical University of Denmark, Department of Civil Engineering, Section of Building Physics and Services, DK-2800 Kgs. Lyngby, Denmark
+AB  - This paper evaluates the daylighting performance of a prototype external dynamic shading and daylight-redirecting system, and the main focus is on the performance simulation. The demonstration project was carried out on a building with an open-plan office. Part of the original façade was replaced with the prototype façade. This layout allowed the use of the same orientation and surroundings for both façades. The working plane illuminance was measured over several months and the measurements were accompanied with annual daylight simulations. The prototype system improved the daylighting conditions compared to the original system. The visual comfort was evaluated by glare analysis and the redirected daylight did not cause an additional discomfort glare. The higher utilization of daylight can save 20% of the lighting energy. The thermal insulation of the fenestration was maintained, with slightly increased solar gains, but without producing an excessive overheating. © 2013 Elsevier B.V. All rights reserved.
+KW  - Daylight
+KW  - Illuminance measurements
+KW  - Indoor climate
+KW  - Redirecting light
+KW  - Shading system
+KW  - Visual comfort
+KW  - Daylight simulation
+KW  - Office buildings
+KW  - Daylight
+KW  - Illuminance measurement
+KW  - Indoor climate
+KW  - Shading systems
+KW  - Visual comfort
+KW  - Daylighting
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 9; Correspondence Address: D. Appelfeld; Technical University of Denmark, Department of Civil Engineering, Section of Building Physics and Services, DK-2800 Kgs. Lyngby, Denmark; email: dava@byg.dtu.dk; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Zaidi, A.M.
+AU  - Zaidi, S.
+AU  - Yashaswini, G.M.
+TI  - Hybrid Landscapes of India: Communicators Between the Worlds
+PY  - 2022
+T2  - Journal of Digital Landscape Architecture
+VL  - 2022
+IS  - 7
+SP  - 692
+EP  - 703
+DO  - 10.14627/537724064
+UR  - https://www.scopus.com/pages/publications/85132073479?origin=resultslist
+AD  - Zoras India, Bangalore, India
+AD  - Dsatm, School of Architecture, Bangalore, India
+AB  - This paper looks at the emergence of hybrid landscapes internationally and more specifically their emergence in India in the context of a changing world where digital technologies permeate many aspects of the human environment. It then looks at their ability to reconnect emerging landscapes with their pre-existing natural and social context as well as anchor people in the landscape and reconnect with the special qualities of the place. The paper argues that landscape architecture can create this sense of place by combining traditional and present-day materials with digital technology based on the example of a landscape project under construction in Hyderabad, India. We explore how the transformative forces of digital technology can be used in addition to the analogue materials and tools of landscape architecture to convey the story of a new landscape. This makes landscapes important communicators in a fast-changing world. Digital design tools in combination with traditional tools have to date been used widely in landscape architecture and the creative field. They have a drastic influence on the design process and the new forms available. TeamLabs has created interactive designs for the Kadokawa Culture Museum, in Mu-sashino Woods Park, Saitama, Japan that communicate between nature and user (PACE 2022). The paper shows that hybrid landscapes can utilise tools to translate natural systems and create seam-lessly integrated environments, from data-driven light installations, responsive sculptures, and per-formative materials, to smart highways, dynamic spaces, kinetic facades, and adaptive buildings (FOX 2016) to bridge the gap between a fast-changing physical world and a slowly disappearing site context or natural environment. Hybrid landscapes with the capacity to perceive, react to, and connect with humans and the natural world (FOX 2016) and man-made physical and social world, aim to ‘future-proof’ them for an ever-changing world of new environmental, social and economic requirements and challenges. As the project is not yet constructed, it will only be possible to measure whether the project achieves creating a sense of place through its hybrid design sometime after completion. This should be done through surveys of the users, data collection, observations and comparisons to other projects. © 2022, VDE VERLAG GMBH. All rights reserved.
+KW  - adaptability
+KW  - kinetic facade
+KW  - performative design
+KW  - sense of place
+KW  - Tradition and modernity
+PB  - VDE VERLAG GMBH
+SN  - 23674253 (ISSN)
+LA  - English
+J2  - J. Digital Landsc. Arch.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: A.M. Zaidi; Zoras India, Bangalore, India; email: info@zoras.co.uk
+ER  -
+
+TY  - JOUR
+AU  - Wang, M.
+AU  - Cao, J.
+AU  - Jia, C.
+AU  - Du, C.
+AU  - Han, S.
+AU  - Fukuda, H.
+AU  - Gao, W.
+AU  - Inoue, T.
+TI  - Effectiveness of a dynamic living wall system of plants on indoor thermal environment in summer - An experimental study
+PY  - 2024
+T2  - Journal of Building Engineering
+VL  - 98
+C7  - 111266
+DO  - 10.1016/j.jobe.2024.111266
+UR  - https://www.scopus.com/pages/publications/85208287543?origin=resultslist
+AD  - Academy of Arts and Communications, Qingdao Binhai University, Qingdao, 26555, China
+AD  - Faculty of Environmental Engineering, The University of Kitakyushu, Kitakyushu, 808-0135, Japan
+AD  - College of Architecture and Urban Planning, Qingdao University of Technology, Qingdao, 266033, China
+AD  - Faculty of Arts and Science, Kyushu University, Fukuoka, 819-0395, Japan
+AB  - Optimizing vertical greening systems to reduce their negative impact on buildings is important to reduce energy consumption. To reduce the long-term effects of fixed living plant walls on building facades, this study proposes an optimization scheme for dynamic living plant walls (DLWS). By combining dynamic building facades with living plant walls, this study analyzes the effectiveness of DLWS, fixed living plant walls (LWS), and dynamic shading sails (DSS) in regulating indoor temperature and humidity through controlled experiments. The results showed that DLWS and LWS had the same effect on cooling, reducing the average indoor temperature by 3.6 °C during the daytime. Further, DLWS was able to increase the indoor air humidity within the appropriate range, which was lower than the LWS humidity by 6.9 RH. DLWS had a better cooling effect compared to DSS, and DLWS can reduce the indoor temperature by 2.7. The results authenticate the performance advantages and the possibility of applying dynamic plant living walls in practice. © 2024 Elsevier Ltd
+KW  - Dynamic plant living wall
+KW  - Indoor thermal environment
+KW  - Vertical greening system
+KW  - Building facades
+KW  - Dynamic plant living wall
+KW  - Indoor humidities
+KW  - Indoor temperature
+KW  - Indoor thermal environments
+KW  - Long-term effects
+KW  - Optimization scheme
+KW  - Reduce energy consumption
+KW  - Vertical greening system
+KW  - Wall systems
+KW  - Green buildings
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 6; Correspondence Address: C. Jia; Qingdao City, No.11 Fushun Road, North District, Shandong Province, China; email: jiachao@qut.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Kittas, C.
+TI  - A simple climagraph for characterizing regional suitability for greenhouse cropping in Greece
+PY  - 1996
+T2  - Agricultural and Forest Meteorology
+VL  - 78
+IS  - 1-2
+SP  - 133
+EP  - 141
+DO  - 10.1016/0168-1923(95)02246-5
+UR  - https://www.scopus.com/pages/publications/0029667147?origin=resultslist
+AD  - University of Thessalia, School of Technological Sciences, Department of Agriculture, Crop and Animal Production, Pedion Areos, 38334 Volos, Greece
+AB  - A climatic analysis is presented for the rational development of crops under cover in Greece. From the climatic requirements of thermophile species commonly grown in greenhouses in Greece, we have characterised the corresponding outside climate requirements and constructed the climagraphs for different regions of Greece. These graphs combine the average monthly minimum and maximum air temperatures versus the corresponding global irradiance and allows delimiting the appropriate climatic periods for cultivation of thermophile species, with and without air conditioning. These climagraphs may be used for the primary assessment of suitability for the development of crops under cover in a given area. From its application over different regions in Greece it can be concluded that: (1) natural ventilation is insufficient from May to September over the whole of the country; (2) summer greenhouse crops can only be grown in Crete without evaporative cooling where dynamic ventilation and shading are sufficient; (3) winter cultivation in unheated greenhouses is only possible in Crete and (4) spring cropping under cover would be the principal use of greenhouses with autumn cultivation envisioned as a merely complementary cropping season. © 1996 Elsevier Science B.V. All rights reserved.
+KW  - Greece
+KW  - climagraph
+KW  - global irradiance
+KW  - greenhouse cropping
+KW  - regional climate analysis
+KW  - regional growing season
+KW  - thermophile species
+PB  - Elsevier
+SN  - 01681923 (ISSN)
+LA  - English
+J2  - Agric. For. Meterol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 18; CODEN: AFMEE
+ER  -
+
+TY  - CONF
+AU  - Wellershoff, F.
+AU  - Lori, G.
+AU  - Zobec, M.
+AU  - Osterland, K.
+TI  - Structural design of blast enhanced cable net facades
+PY  - 2013
+T2  - COST Action TU0905 Mid-Term Conference on Structural Glass - Proceedings of COST Action TU0905 Mid-Term Conference on Structural Glass
+SP  - 121
+EP  - 131
+DO  - 10.1201/b14563-19
+UR  - https://www.scopus.com/pages/publications/84878797097?origin=resultslist
+AD  - HafenCity Universität Hamburg, Germany
+AD  - Permasteelisa Group R and D, Vittorio Veneto, Italy
+AD  - Gartner Steel and Glass, Würzburg, Germany
+AB  - The dynamic behavior of facades under shock waves with short time durations but high impulse loads requires specialized design methods and structural components. In the numerical analysis the aero elastic damping of flexible facades can be considered. The connections between the façade elements itself as well as the connections to the primary building structure can be designed to dissipate higher shares of energy by plastic deformation. Additional project unique fuse connections were developed for the World Trade Center Tower 3 in NY to limit the connection forces to the primary structure. The structural system changes from a system for "classical" loads to a structural system for "blast loads". This system change is triggered by overload fuses. © 2013 Taylor & Francis Group, London.
+KW  - Facades
+KW  - Glass
+KW  - International trade
+KW  - Shock waves
+KW  - Building structure
+KW  - Cable-net facades
+KW  - Connection force
+KW  - Dynamic behaviors
+KW  - Primary structures
+KW  - Structural component
+KW  - Structural systems
+KW  - World Trade Center
+KW  - Structural design
+PB  - CRC Press/Balkema
+SN  - 978-113800044-5 (ISBN)
+LA  - English
+J2  - COST Action TU Mid-Term Conf. Struct. Glass - Proc. COST Action TU Mid-Term Conf. Struct. Glass
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Amadio, C.
+AU  - Bedon, C.
+TI  - Elastoplastic dissipative devices for the mitigation of blast resisting cable-supported glazing façades
+PY  - 2012
+T2  - Engineering Structures
+VL  - 39
+SP  - 103
+EP  - 115
+DO  - 10.1016/j.engstruct.2012.02.006
+UR  - https://www.scopus.com/pages/publications/84858710403?origin=resultslist
+AD  - University of Trieste, Department of Civil Engineering and Architecture, 34127 Trieste, Piazzale Europa 1, Italy
+AB  - The paper investigates the dynamic behavior of a structural cable-supported glass-steel façade subjected to high-level air blast loads. In order to describe accurately the dynamic response of the examined façade, both a sophisticated FE-model and a geometrically simplified but equivalently accurate lumped-mass FE-model are presented. These models, appropriately calibrated to dynamic experimental and numerical results on previous efforts, were used to highlight the criticalities of the façade (dynamic tensile stresses, deflections and velocities of pretensioned cables and laminated glass panels). Since axial forces in cables abruptly increase when explosion occurs, specific dissipative devices applied at the top or at the bottom of the pretensioned cables are proposed to improve the global response of the glass-steel curtain wall under the impact of a high-level blast loading, and their structural benefits are investigated. For the studied cases, opportunely calibrated elastoplastic devices allow reducing the axial forces in cables and cutting down lightly the maximum tensile stresses in glass panes. At last, by means of an energy-based approach, a series of design rules are developed to estimate realistically the response of the cable-supported façade and to define the optimal mechanical parameters for the proposed dissipative mechanism. © 2012 Elsevier Ltd.
+KW  - Air blast load
+KW  - Cable-supported glazing façade
+KW  - Elastoplastic devices
+KW  - Energy dissipation
+KW  - Aerodynamic loads
+KW  - Axial flow
+KW  - Dynamic response
+KW  - Energy dissipation
+KW  - Glass
+KW  - Glazes
+KW  - Tensile stress
+KW  - Air blast
+KW  - Axial forces
+KW  - Blast loading
+KW  - Curtain walls
+KW  - Design rules
+KW  - Dissipative devices
+KW  - Dissipative mechanisms
+KW  - Dynamic behaviors
+KW  - Elasto-plastic
+KW  - Elastoplastic devices
+KW  - Glass panes
+KW  - Global response
+KW  - Laminated glass
+KW  - Mechanical parameters
+KW  - Numerical results
+KW  - Pre-tensioned cables
+KW  - accuracy assessment
+KW  - dynamic analysis
+KW  - dynamic response
+KW  - elastoplasticity
+KW  - experimental study
+KW  - loading
+KW  - numerical model
+KW  - structural analysis
+KW  - structural response
+KW  - tensile stress
+KW  - wind velocity
+KW  - Cables
+SN  - 01410296 (ISSN)
+LA  - English
+J2  - Eng. Struct.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 49; Correspondence Address: C. Bedon; University of Trieste, Department of Civil Engineering and Architecture, 34127 Trieste, Piazzale Europa 1, Italy; email: chiara.bedon@phd.units.it; CODEN: ENSTD
+ER  -
+
+TY  - CONF
+AU  - Lee, S.
+AU  - Zhong, G.
+AU  - Lian, C.
+AU  - Correa, D.
+TI  - Climate-responsive Hygroscopic: Wood Bilayers Programmed via Laser Modification
+PY  - 2024
+T2  - Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+VL  - 1
+SP  - 361
+EP  - 370
+DO  - 10.52842/conf.ecaade.2024.1.361
+UR  - https://www.scopus.com/pages/publications/85209773472?origin=resultslist
+AD  - University of Waterloo, Canada
+AB  - Wood is a hygroscopic material that experiences directional swelling when it undergoes changes in moisture content. This anisotropic property can induce bending in bilayer structures; a reaction that is usually undesired in building construction but is now being studied as a means of creating climate-responsive architectural systems. While there are extensive studies describing how to change the bending direction by altering wood grain orientation and composition during lamination or via 4D printing, there is no known method of modifying the curvature direction after the bilayer has been made. In this paper, laser cutting is presented as a novel post processing method that precisely and efficiently manipulates the directional swelling of commercially available bilayer wood composites. The documented tests in this paper utilize ¼” thick C4 PureBond Maple Plywood, which is made of a thicker, primary (active) layer of wood that is laminated between two thinner, secondary (constraining) layers of wood. When a conventional laser cutter is used to cut and engrave patterns on this pre-laminated material, unique curling deformations, including bi-directional curling, can be achieved. The architectural potential of the resulting bilayer tailoring mechanisms was demonstrated through the development of a proof-of-concept climate-responsive architectural facade system. Further exploration and refinement of this new method could significantly impact the commercial development of responsive facades by facilitating the mass use and customization of multi-directional climate-responsive mechanisms. This process will ultimately reduce costs and carbon consumption by taking advantage of readily available wood products’ innate material properties. © 2024, Education and research in Computer Aided Architectural Design in Europe. All rights reserved.
+KW  - Anisotropic
+KW  - Bilayer
+KW  - Climate-responsive
+KW  - Facades
+KW  - Hygroscopic
+KW  - Laser
+KW  - Plywood
+KW  - Wood
+A2  - Kontovourkis O.
+A2  - Phocas M.C.
+A2  - Wurzer G.
+PB  - Education and research in Computer Aided Architectural Design in Europe
+SN  - 26841843 (ISSN); 978-949120737-2 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Educ. Res. Comput. Aided. Archit. Des. Eur.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Zheng, W.
+AU  - Li, Y.H.
+AU  - Qu, L.
+AU  - Yuan, G.
+TI  - Dynamic envelope determination based on differential manifold theory
+PY  - 2017
+T2  - Journal of Aircraft
+VL  - 54
+IS  - 5
+SP  - 2003
+EP  - 2007
+DO  - 10.2514/1.C034258
+UR  - https://www.scopus.com/pages/publications/85044304598?origin=resultslist
+AD  - Air Force Engineering University, Xi'an, 710038, China
+AD  - Department of Flight Control and Electrical Engineering, School of Aeronautics and Astronautics Engineering, United States
+PB  - American Institute of Aeronautics and Astronautics Inc.
+SN  - 00218669 (ISSN)
+LA  - English
+J2  - J Aircr
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 19; CODEN: JAIRA
+ER  -
+
+TY  - JOUR
+AU  - Balocco, C.
+AU  - Gori, V.
+AU  - Marmonti, E.
+AU  - Citi, L.
+TI  - Building-plant system energy sustainability. An approach for transient thermal performance analysis
+PY  - 2012
+T2  - Energy and Buildings
+VL  - 49
+SP  - 443
+EP  - 453
+DO  - 10.1016/j.enbuild.2012.02.048
+UR  - https://www.scopus.com/pages/publications/84861838567?origin=resultslist
+AD  - Dipartimento di Energetica Sergio Stecco, Università di Firenze, Firenze, Italy
+AD  - Massachusetts Institute of Technology, Cambridge, MA, United States
+AB  - The aim of this research is to investigate the thermophysical behaviour of building envelope multi-layer components and assess the whole building-plant response. The investigation was carried out in two different phases. The first phase concerned the study of the dynamic response of building envelope multi-layer components, by providing an improved implementation of the present European Standard UNI EN ISO 13786:2008. The proposed method allows one to determine the transient thermophysical performance of opaque building components that are associated with a thermal zone maintained at constant or variable air temperature. The variable internal air temperature can be associated with experimental data. The second phase consisted of a transient analysis of the above thermal zone with a conditioning plant working. The building plant simulations were carried out by EnergyPlus software. The method proposed, based on European standards, is particularly useful in the perspective of the Certification of the Energy Performance of the building-plant system, required by the European Union. It can provide a useful tool for developing an abacus of different envelope multi-layer component performances in order to support design choices. © 2012 Elsevier B.V. All rights reserved.
+KW  - Building thermal peak loads
+KW  - Building-plant simulation
+KW  - Energy sustainability
+KW  - Thermal inertia
+KW  - Transient thermal analysis
+KW  - Atmospheric temperature
+KW  - Dynamic response
+KW  - Solar buildings
+KW  - Thermoanalysis
+KW  - Building-plant simulation
+KW  - Energy sustainability
+KW  - Thermal inertia
+KW  - Thermal peaks
+KW  - Transient thermal analysis
+KW  - Building codes
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: C. Balocco; Dipartimento di Energetica Sergio Stecco, Università di Firenze, Firenze, Italy; email: carla.balocco@unifi.it; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Shen, H.
+AU  - Tzempelikos, A.
+TI  - Daylighting and energy analysis of private offices with automated interior roller shades
+PY  - 2012
+T2  - Solar Energy
+VL  - 86
+IS  - 2
+SP  - 681
+EP  - 704
+DO  - 10.1016/j.solener.2011.11.016
+UR  - https://www.scopus.com/pages/publications/84855814331?origin=resultslist
+AD  - School of Civil Engineering, Purdue University, West Lafayette, IN 47907, 550 Stadium Mall Dr., United States
+AB  - This paper presents a comprehensive analysis to study the balance between daylighting benefits and energy requirements (control of solar gains) in perimeter private office spaces with interior roller shades taking into account glazing properties, shading properties and control together with window size, climate and orientation in an integrated daylighting and thermal manner. Daylight autonomy and useful daylight illuminances were computed as a function of façade design parameters. A thermal simulation module using the explicit finite difference thermal network approach runs at the same time step and calculates heating, cooling and lighting source energy consumption as well as surface temperatures and operative temperature. Based on the daylighting results, lighting internal gains (continuous dimming control) are simultaneously input to the thermal module. The model also considers the air in the gap between shade and interior glass as a separate thermal node. Detailed results for Chicago and Los Angeles showed that windows with visible transmittance higher than 50% have the ability to allow enough daylight into the space for all locations and orientations for window-to-wall ratios higher than 50%. Useful daylight illuminances between 500 and 1000 lux were considered in detail - it was found that this index can be maximized for specific window-to-wall ratios and that depends on the glazing properties and fabric properties for each orientation. Moreover, the complex interactions of the studied parameters and their impact on the heating, cooling and lighting energy performance revealed an interesting result: windows occupying 30-50% of the façade can actually result in lower total energy consumption for most cases with automated shading. This illustration of daylighting benefits can be realized only if the integration of daylighting and thermal climate-based analysis is modeled efficiently and depends on glazing and shading properties and control. Finally, best designs for each orientation and location were pointed out based on both daylighting and thermal results. © 2011 Elsevier Ltd.
+KW  - Building simulation
+KW  - Daylighting
+KW  - Dynamic façades
+KW  - Energy
+KW  - Energy consumption
+KW  - Roller shades
+KW  - California
+KW  - Chicago
+KW  - Illinois
+KW  - Los Angeles [California]
+KW  - United States
+KW  - Climate control
+KW  - Computer simulation
+KW  - Energy utilization
+KW  - Glazes
+KW  - Office buildings
+KW  - Rollers (machine components)
+KW  - Solar energy
+KW  - Walls (structural partitions)
+KW  - Building simulation
+KW  - Chicago
+KW  - Complex interaction
+KW  - Comprehensive analysis
+KW  - Daylighting benefits
+KW  - Design parameters
+KW  - Dimming control
+KW  - Energy
+KW  - Energy analysis
+KW  - Energy performance
+KW  - Energy requirements
+KW  - Fabric properties
+KW  - Finite difference
+KW  - Los Angeles
+KW  - Office space
+KW  - Operative temperature
+KW  - Roller shades
+KW  - Solar gain
+KW  - Surface temperatures
+KW  - Thermal modules
+KW  - Thermal network
+KW  - Thermal simulations
+KW  - Time step
+KW  - Total energy consumption
+KW  - Useful daylight illuminance
+KW  - Visible transmittance
+KW  - Window Size
+KW  - Window-to-wall ratio
+KW  - architectural design
+KW  - automation
+KW  - cooling
+KW  - energy efficiency
+KW  - fuel consumption
+KW  - glass
+KW  - heating
+KW  - lightning
+KW  - numerical model
+KW  - renewable resource
+KW  - shading
+KW  - solar power
+KW  - solar radiation
+KW  - transmittance
+KW  - workplace
+KW  - Daylighting
+SN  - 0038092X (ISSN)
+LA  - English
+J2  - Sol. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 148; Correspondence Address: A. Tzempelikos; School of Civil Engineering, Purdue University, West Lafayette, IN 47907, 550 Stadium Mall Dr., United States; email: ttzempel@purdue.edu; CODEN: SRENA
+ER  -
+
+TY  - CONF
+AU  - Bishara, A.
+AU  - Kramberger, H.
+TI  - Hygrothermal Assessment of a Façade with ETICS Using Dynamic Monitoring and Numerical Simulation in a Real Case Study
+PY  - 2023
+T2  - AIP Conference Proceedings
+VL  - 2918
+IS  - 1
+C7  - 020007
+DO  - 10.1063/5.0171316
+UR  - https://www.scopus.com/pages/publications/85178051226?origin=resultslist
+AD  - Dr. Robert-Murjahn-Institut (RMI), Industrie St. 12, Ober-Ramstadt, D-64372, Germany
+AB  - The trend towards the application of external thermal insulation composite systems (ETICS) on energy efficient façades under hot climatic conditions, is becoming increasingly important for energy saving in summer (summer heat protection). However, both the construction and the performance of the system should be investigated to ensure the functionality and the avoidance of damage. In this paper, the development and the functionality of ETICS as well as the analysis of measurement data for solving building-climatology challenging planning tasks in warm countries is presented. Related to the measurement data collected in a real case study, the results of a hydrothermal simulation tool are validated. Based on this, the use of thermal insulation under hot climatic conditions, for energy saving in summer, has been verified and the implementation into a simulation model is shown. For the verification of results, a case study in the campus of the American University in Ras al Khaimah (RAKRIC), in United Arab Emirates (UAE) was chosen, in which interior and exterior temperature and relative humidity values were measured. Even with the peculiarity of an irregular user behavior of the building, good accordance between measured and calculated values could be achieved. The optimized building design, facilitating a damage-free operation and a low building energy consumption, is presented in detail and essential optimization steps are discussed. Based on the analysis and evaluation of measurement data as well as the implementation of hygrothermal simulations, the presented study provides a guideline for planning of ETICS with respect to southern climate conditions. © 2023 American Institute of Physics Inc.. All rights reserved.
+A2  - Matiasovsky P.
+A2  - Cekon M.
+A2  - Medved'� I.
+PB  - American Institute of Physics Inc.
+SN  - 0094243X (ISSN)
+LA  - English
+J2  - AIP Conf. Proc.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: A. Bishara; Dr. Robert-Murjahn-Institut (RMI), Ober-Ramstadt, Industrie St. 12, D-64372, Germany; email: Ayman.bishara@dr-rmi.de
+ER  -
+
+TY  - JOUR
+AU  - Stazi, F.
+AU  - Vegliò, A.
+AU  - Di Perna, C.
+AU  - Munafò, P.
+TI  - Retrofitting using a dynamic envelope to ensure thermal comfort, energy savings and low environmental impact in Mediterranean climates
+PY  - 2012
+T2  - Energy and Buildings
+VL  - 54
+SP  - 350
+EP  - 362
+DO  - 10.1016/j.enbuild.2012.07.020
+UR  - https://www.scopus.com/pages/publications/84865622141?origin=resultslist
+AD  - Università Politecnica Delle Marche, Facoltà di Ingegneria, Dipartimento di Ingegneria Civile, Edile e Architettura (DICEA), 60131 Ancona, Via Brecce Bianche, Italy
+AD  - Dipartimento di Ingegneria Industriale e Scienze Matematiche, Facoltà di Ingegneria, Università Politecnica Delle Marche, 60131 Ancona, Via Brecce Bianche, Italy
+AB  - The paper presents an experimental and analytic study on multi-storey residential buildings without thermal insulation that were constructed before the introduction of energy saving standards (Italian Law 373/1976). Several activities were carried out to identify the optimal retrofit in terms of comfort, energy consumption and environmental impact: typological analysis of 70 buildings in the province of Macerata (Central Italy) and energy analysis of representative case studies; monitoring of a selected case study during summer and winter; thermal simulation of the building in dynamic conditions with EnergyPlus software and calibration of the virtual model by comparison with experimental results; parametric analyses to predict the effect of various retrofit solutions on comfort and energy consumption; environmental impact on the different solutions. It was possible to identify the optimal retrofit solutions for the external vertical and horizontal envelopes. The study showed that the most effective strategy is the insulation of the external vertical wall. The introduction of an external ventilated coating was found to be the optimal solution in a temperate climate. © 2012 Elsevier B.V. All rights reserved.
+KW  - Adaptive comfort
+KW  - Comparative life cycle assessment
+KW  - Dynamic building envelope
+KW  - Energy efficient retrofit
+KW  - Environmental impact
+KW  - Experimental study and parametric analyses
+KW  - Ventilated insulation coating
+KW  - Climatology
+KW  - Coatings
+KW  - Electric load forecasting
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Life cycle
+KW  - Optimization
+KW  - Retrofitting
+KW  - Adaptive comfort
+KW  - Building envelopes
+KW  - Comparative life cycle assessment
+KW  - Energy efficient
+KW  - Insulation coatings
+KW  - Parametric analysis
+KW  - Environmental impact
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 35; Correspondence Address: F. Stazi; Università Politecnica Delle Marche, Facoltà di Ingegneria, Dipartimento di Ingegneria Civile, Edile e Architettura (DICEA), 60131 Ancona, Via Brecce Bianche, Italy; email: f.stazi@univpm.it; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Ip, K.
+AU  - Lam, M.
+AU  - Miller, A.
+TI  - Shading performance of a vertical deciduous climbing plant canopy
+PY  - 2010
+T2  - Building and Environment
+VL  - 45
+IS  - 1
+SP  - 81
+EP  - 88
+DO  - 10.1016/j.buildenv.2009.05.003
+UR  - https://www.scopus.com/pages/publications/70249119591?origin=resultslist
+AD  - Centre for Sustainability of the Built Environment, School of Environment and Technology, University of Brighton, Brighton, East Sussex, Cockcroft Building, Lewes Road, BN2 4GJ, United Kingdom
+AB  - Deciduous climbing plant canopies strategically integrated to building façades can act as dynamic solar shading devices responsive to the seasonal climatic changes. Maximum shading occurs in the summer when the plant is at its peak growth. The shedding of leaves in autumn and winter reduces the shading and allows beneficial solar radiation to be absorbed by the opaque surface of the building façade or penetrated through the windows to the building interior. Although climbing plants have long been used for moderating the microclimate of buildings, there are very few scientific investigations to quantify such effects. This paper reports the findings of a study with specific focus on the shading performance of a vertical deciduous climbing plant canopy. It justifies the selection of Virginia Creeper as an appropriate plant for growth in the UK climate and describes the planting, monitoring and analysis procedures adopted to determine a proposed dynamic Bioshading Coefficient Function - which is used to represent the shading performance of the climbing plant canopy over its annual growing and wilting cycle. A thermal model was developed which identified the key parameters required for establishing the Bioshading Coefficients. Two climbing plant canopies (referred to as Bioshaders) were set up in an existing building in Southeast UK and monitored for 2 years. Measured data were used to calculate a series of daily Bioshading Coefficients which were subsequently applied to establish the Bioshading Coefficient Function. The research also identified issues affecting the indoor environment as a result of the application of Bioshaders. © 2009 Elsevier Ltd. All rights reserved.
+KW  - Bioshading Coefficient, Bioshader
+KW  - Deciduous climbing plant canopy
+KW  - External shading device
+KW  - Shading coefficient
+KW  - Eurasia
+KW  - Europe
+KW  - United Kingdom
+KW  - Western Europe
+KW  - Parthenocissus quinquefolia
+KW  - Agriculture
+KW  - Sun
+KW  - A-thermal
+KW  - Bioshading Coefficient, Bioshader
+KW  - Climatic changes
+KW  - Coefficient functions
+KW  - Deciduous climbing plant canopy
+KW  - Existing building
+KW  - External shading device
+KW  - Indoor environment
+KW  - Key parameters
+KW  - Measured data
+KW  - Monitoring and analysis
+KW  - Opaque surfaces
+KW  - Plant canopies
+KW  - Scientific investigation
+KW  - Shading coefficient
+KW  - Solar shadings
+KW  - Virginia
+KW  - building
+KW  - canopy
+KW  - climate change
+KW  - climbing plant
+KW  - microclimate
+KW  - shading
+KW  - solar radiation
+KW  - Buildings
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 167; Correspondence Address: K. Ip; Centre for Sustainability of the Built Environment, School of Environment and Technology, University of Brighton, Brighton, East Sussex, Cockcroft Building, Lewes Road, BN2 4GJ, United Kingdom; email: k.ip@brighton.ac.uk; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - LaFrance, J.T.
+AU  - Barney, L.D.
+TI  - The envelope theorem in dynamic optimization
+PY  - 1991
+T2  - Journal of Economic Dynamics and Control
+VL  - 15
+IS  - 2
+SP  - 355
+EP  - 385
+DO  - 10.1016/0165-1889(91)90018-V
+UR  - https://www.scopus.com/pages/publications/0000345064?origin=resultslist
+AD  - Montana State University, Bozeman, MT 59717, United States
+AD  - Boise State University, Boise, ID 83725, United States
+AB  - The dynamic envelope theorem is presented for optimal control problems with nondifferential constraints. Some of these constraints may switch from binding to nonbinding, or vice versa, along the optimal path. Twice continuous differentiability of the optimal performance function and intertemporal symmetry and reciprocity conditions are shown to follow from the envelope theorem and twice continuous differentiability of the integrand, state equations, and constraints. Conditions implying convexity or concavity of the optimal performance function in the parameters are derived. Dynamic versions of Hotelling's Lemma, Roy's Identity, and the Slutsky equation are presented for an intertemporal consumption problem. © 1991.
+SN  - 01651889 (ISSN)
+LA  - English
+J2  - J. Econ. Dyn. Control
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 45; CODEN: JEDCD
+ER  -
+
+TY  - CONF
+AU  - Dąbrowska-żółtak, K.
+AU  - Kwieciński, K.
+AU  - Oszczyk, J.
+TI  - Maximizing Solar Energy Harvesting of the Kinetic Photovoltaic System
+PY  - 2024
+T2  - Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+VL  - 1
+SP  - 283
+EP  - 290
+DO  - 10.52842/conf.ecaade.2024.1.283
+UR  - https://www.scopus.com/pages/publications/85209791827?origin=resultslist
+AD  - Warsaw University of Technology, Poland
+AB  - This study presents a methodfor analyzing the energy efficiency of photovoltaic (PV) panels in various configurations, including static, single-axis, and dual-axis tracking systems, specifically applied to canopies. Focusing on a selected location in Central Europe — Warsaw (52°13r N), the research utilizes numerica! analyses and local weather data to understand the energy gains from these systems by considering their orientation and the sun's path throughout the nyear. Key findings indicate the energy increase for each of analyzed tracking system compared to static flat panels, demonstrating the closeness of the results obtained in the case of appropriately selected single-axis versus dual-axis systems. This research contributes to optimizing the use of PV panels on canopies in renewable energy for centra! Europe, offering valuable insights for professionals in the field. © 2024, Education and research in Computer Aided Architectural Design in Europe. All rights reserved.
+KW  - Kinetic Architecture
+KW  - Photovoltaic
+KW  - Solar Tracking System
+A2  - Kontovourkis O.
+A2  - Phocas M.C.
+A2  - Wurzer G.
+PB  - Education and research in Computer Aided Architectural Design in Europe
+SN  - 26841843 (ISSN); 978-949120737-2 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Educ. Res. Comput. Aided. Archit. Des. Eur.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Fordham, C.
+TI  - Richard neutra and the history of the vertical louvered solar control system
+PY  - 2018
+T2  - Building Knowledge, Constructing Histories
+VL  - 1
+SP  - 637
+EP  - 642
+DO  - 10.1201/9780429506208-81
+UR  - https://www.scopus.com/pages/publications/85086487453?origin=resultslist
+AD  - Temple University, Philadelphia, United States
+AB  - Solar control strategies involving exterior shading devices were commonly utilized by architects practicing in America immediately after World War II. By the mid-fifties as central air-conditioning became the default for larger buildings, architects largely abandoned form based solar-control strategies in lieu of window treatments for light control. This paper traces the development, in which Richard Neutra is a central figure, of an innovative movable vertical louver shading system that controlled heat gain and regulated glare. The system which was both ornamental and functional is largely unknown to current building design professionals. Early versions of the system were manually adjusted, and the mature system automated and linked to sensors. The last of the buildings to contain the system in the United States before its disappearance in before 1970 were rare examples of high-tech kinetic architecture. A limited revival of the system has resulted from a renewed interest in solar control outside of the building envelope. © 2018 6ICCH, Brussels, Belgium.
+KW  - 1940s to 1950s
+KW  - Louvers
+KW  - Shading
+KW  - United States
+KW  - Air conditioning
+KW  - Military operations
+KW  - Building design
+KW  - Building envelopes
+KW  - Central air-conditioning
+KW  - Kinetic architectures
+KW  - Shading devices
+KW  - Shading systems
+KW  - Solar control
+KW  - Solar control system
+KW  - Architectural design
+A2  - Wouters I.
+A2  - Van de Voorde S.
+A2  - Bertels I.
+A2  - Espion B.
+A2  - De Jonge K.
+A2  - Zastavni D.
+PB  - CRC Press/Balkema
+SN  - 978-113858414-3 (ISBN)
+LA  - English
+J2  - Build. Knowl., Construct. Hist. - Proc. Int. Congr. Construct. Hist.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Ishii, M.
+AU  - Okushima, L.
+AU  - Moriyama, H.
+AU  - Sase, S.
+AU  - Fukuchi, N.
+AU  - Maruo, T.
+AU  - Both, A.J.
+TI  - Evaluating environmental conditions in open-roof greenhouses
+PY  - 2017
+T2  - Acta Horticulturae
+VL  - 1170
+SP  - 897
+EP  - 904
+DO  - 10.17660/ActaHortic.2017.1170.115
+UR  - https://www.scopus.com/pages/publications/85029605831?origin=resultslist
+AD  - National Institute for Rural Engineering, National Agricultural and Food Research Organization (NARO), Ibaraki, Japan
+AD  - College of Bioresource Sciences, Nihon University, Kanagawa, Japan
+AD  - Chiba Prefectural Agriculture and Forestry Research Center, Chiba, Japan
+AD  - Graduate School of Horticulture, Chiba University, Chiba, Japan
+AD  - Department of Environmental Sciences, Rutgers University, NJ, United States
+AB  - Typical cooling methods for greenhouses include natural and mechanical ventilation, shading and evaporative cooling. For natural ventilation systems, larger vent openings often improve the ventilation performance. Open-roof greenhouses have particularly large vent openings. The effects of vent design on natural ventilation and the resulting temperature difference between the inside and outside environments of a conventional and two different open-roof greenhouse designs were studied experimentally during the summer and autumn. The roof vent designs investigated were: a conventional arched-roof vent type (AVT), roof sections hinging at the gutters and opening at the ridge (RV), and roof sections sliding on a lattice beam and opening at the gutter (GV). When the roof vents were fully opened in the RV and GV, the inside air temperatures were consistently significantly lower compared to the fully opened roof vent of the AVT. In addition, three different light conditions for open-roof greenhouses (GV) were investigated using no shading (Control), 50% shading and 100% shading (using typical internal and movable greenhouse shading screen materials). When the roof vents were fully open under either 50 or 100% shading, the resulting inside air temperatures were higher than the Control. Moreover, the wet-bulb globe temperature (WBGT, environmental heat stress index on humans) under 100% shading was significantly higher than under the 50% shading and Control. These results confirmed that the restricted ventilation due to the 100% shading was ineffective in reducing the air temperature in an open-roof greenhouse during high light and air temperature conditions. In addition, two cooling methods were examined: Control and 100% shading combined with fogging. For the latter, the resulting air temperature was lower and relative humidity was higher than the Control. Future work will hopefully result in an environmental control system for solar radiation, temperature, relative humidity, and carbon dioxide concentrations inside open-roof greenhouses. © 2017 ISHS.
+KW  - Air temperature
+KW  - Evaporative cooling
+KW  - Natural ventilation
+KW  - Shading
+KW  - Wet-bulb globe temperature
+A2  - Silva L.L.
+A2  - Meneses J.F.
+A2  - Baptista F.J.
+PB  - International Society for Horticultural Science
+SN  - 05677572 (ISSN); 978-946261166-5 (ISBN)
+LA  - English
+J2  - Acta Hortic.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Patania, F.
+AU  - Gagliano, A.
+AU  - Nocera, F.
+AU  - Ferlito, A.
+AU  - Galesi, A.
+TI  - Thermofluid-dynamic analysis of ventilated facades
+PY  - 2010
+T2  - Energy and Buildings
+VL  - 42
+IS  - 7
+SP  - 1148
+EP  - 1155
+DO  - 10.1016/j.enbuild.2010.02.006
+UR  - https://www.scopus.com/pages/publications/77951112026?origin=resultslist
+AD  - Department of Ingegneria Industriale e Meccanica D.I.I.M., Faculty of Engineering, University of Catania, 95125 Catania, Viale A. Doria n.6, Italy
+AB  - Ventilated facades can be used in cases of renovation of existing buildings and new buildings to improve both the thermal performance of building, and external architectural skin. The energy advantage provided by the ventilated facades during the summer is the reduction of the heat load due to the combined effect of the shading of the external wall and the air flow caused by natural convection into the heated duct. The evaluation of ventilated facade performance requires a complete thermofluid-dynamic analysis of a ventilated air duct and an accurate knowledge of heat transfer coefficients, friction factors and thermo-physical properties of the materials. The Authors have used the computer code "Fluent" to investigate the thermal behaviour of three different typologies of ventilated facades. The aim of this research is to show an analytical method for design applications able to provide all the useful criteria for choosing the most suitable ventilated facades both in case of forced convection, due to the action of a fan, and natural convection due to stack effect. © 2010 Elsevier B.V. All rights reserved.
+KW  - Energy saving
+KW  - Forced convection
+KW  - Natural convection
+KW  - Ventilated facades
+KW  - Computer crime
+KW  - Dynamic analysis
+KW  - Energy conservation
+KW  - Facades
+KW  - Forced convection
+KW  - Heat transfer
+KW  - Materials properties
+KW  - Natural convection
+KW  - Air ducts
+KW  - Air flow
+KW  - Analytical method
+KW  - Combined effect
+KW  - Computer codes
+KW  - Design applications
+KW  - Energy saving
+KW  - Existing building
+KW  - External walls
+KW  - Friction factors
+KW  - Heat loads
+KW  - Stack effect
+KW  - Thermal behaviours
+KW  - Thermal performance of buildings
+KW  - Thermo-fluid-dynamic analysis
+KW  - Thermo-physical property
+KW  - Ventilation
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 92; Correspondence Address: A. Gagliano; Department of Ingegneria Industriale e Meccanica D.I.I.M., Faculty of Engineering, University of Catania, 95125 Catania, Viale A. Doria n.6, Italy; email: agagliano@diim.unict.it; CODEN: ENEBD
+ER  -
+
+TY  - CONF
+AU  - D'Anna, F.
+AU  - Sciortino, A.
+AU  - Scrofani, O.
+TI  - An innovative greenhouse with complete roof opening and external movable shading
+PY  - 2003
+T2  - Acta Horticulturae
+VL  - 614
+SP  - 365
+EP  - 372
+DO  - 10.17660/ActaHortic.2003.614.55
+UR  - https://www.scopus.com/pages/publications/77954110421?origin=resultslist
+AD  - I.TE.S. Consortium, Palermo, Via Libertà, 203, Italy
+AB  - This work concerns the first stage of a research whose goal is to realize an effective temperature and moisture reduction inside greenhouses by combining the removal of the plastic film cover from the roof to an inexpensive variable shading stretched above it. Besides describing the systems developed for both the above cases, this work examines in detail the difficulties related to a correct roof opening. The mechanism allows rolling of the plastic film on two tubes located on the external sides and extending along the entire length of the greenhouse Through the rotation of the tube, provided by an electrical motoreducer, the greenhouse opens into two halves along its whole length, from the ridge towards the lateral walls. The roof closing is ensured by an internal tube driven by a steel cable and the same motoreducer. A movable shading system is obtained by means of an automatic cloth roll which moves up and down over an external carrying structure. Both automatic systems have been installed in a greenhouse structure and are now being tested.
+KW  - Plastic film
+KW  - Protected cultivation
+KW  - Ventilation
+PB  - International Society for Horticultural Science
+SN  - 05677572 (ISSN); 978-906605300-7 (ISBN)
+LA  - English
+J2  - Acta Hortic.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Tufano, L.
+AU  - Scorpio, M.
+AU  - Andreozzi, B.
+AU  - Carola, A.
+AU  - Donisi, M.
+AU  - Rosato, A.
+AU  - Ciampi, G.
+TI  - Influence of Italian Climatic Conditions on Performance of a 3D Printed Building Second-Skin Façade with 20% Gyroid Filling: Simulation Assessment
+PY  - 2024
+T2  - International Journal of Design and Nature and Ecodynamics
+VL  - 19
+IS  - 5
+SP  - 1491
+EP  - 1499
+DO  - 10.18280/ijdne.190503
+UR  - https://www.scopus.com/pages/publications/85207964682?origin=resultslist
+AD  - Department of Architecture and Industrial Design, University of Campania Luigi Vanvitelli, Built Environment Control Laboratory RIAS, Aversa, 81031, Italy
+AD  - Cosmind s.r.l., Limatola, 82030, Italy
+AB  - This study evaluates the influence of Italian climatic conditions on the performance of a 3D-printed Second-Skin Façade (SSF) installed as a retrofit action for office buildings. In particular, this paper first evaluates the thermal properties of a 3D-printed ASA (Acrylonitrile Styrene Acrylate) sample using the Hot Disk Thermal Constants Analyser TPS 1000. Then, various case studies, where a Second-Skin Façade is installed using the 3D-printed ASA material as the outer layer, were modeled in the dynamic simulation software TRNSYS 18. The study considers a typical Italian office building in four Italian cities under different climatic zones. The analysis is carried out in terms of primary energy savings, reduction of carbon dioxide equivalent emissions, and visual comfort. The results allowed to estimate the potential benefits with respect to the reference case without the SSF, as well as the performance of the investigated material when integrated in an SSF system upon varying the boundary conditions. The simulation results indicated that the proposed SSF system can reduce the primary energy consumption (up to 17.8%), significantly decrease the equivalent CO2 emissions (up to 30.8 tCO2,eq), and improve the visual comfort (UDIuseful values up to 95.4%). ©2024 The authors.
+KW  - additive manufacturing
+KW  - building energy efficiency
+KW  - dynamic shading
+KW  - TRNSYS
+KW  - ventilated façade
+PB  - International Information and Engineering Technology Association
+SN  - 17557437 (ISSN)
+LA  - English
+J2  - Int. J. Des. Nat. ecodyn.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: L. Tufano; Department of Architecture and Industrial Design, University of Campania Luigi Vanvitelli, Built Environment Control Laboratory RIAS, Aversa, 81031, Italy; email: luigi.tufano@unicampania.it
+ER  -
+
+TY  - JOUR
+AU  - Amadio, C.
+AU  - Bedon, C.
+TI  - Viscoelastic spider connectors for the mitigation of cable-supported façades subjected to air blast loading
+PY  - 2012
+T2  - Engineering Structures
+VL  - 42
+SP  - 190
+EP  - 200
+DO  - 10.1016/j.engstruct.2012.04.023
+UR  - https://www.scopus.com/pages/publications/84861569230?origin=resultslist
+AD  - University of Trieste, DICAR, Department of Civil Engineering and Architecture, 34127 Trieste, Piazzale Europa 1, Italy
+AB  - The paper investigates the behavior of a cable-supported glazing façade subjected to high-level and medium-level air blast loads. To describe realistically the dynamic response of the studied system, nonlinear dynamic analyses were performed using a sophisticated FE-model (M01). This model, opportunely calibrated to dynamic experimental and numerical results on previous efforts, was used to highlight the criticalities of the façade with " rigid" spider connectors (RSCs). Since the glass panels and the cables are subjected to elevated tensile stresses when an explosion occurs, viscoelastic spider connectors (VESCs) are presented to improve the global response of the glass-steel curtain wall, and their structural benefits are investigated (M02 FE-model). As a result, maximum tensile stresses in glass panes and in pretensioned cables appear strongly reduced. At the same time, the proposed dissipative spiders do not trouble the esthetics of such transparent structural systems. At last, by means of an energy-based approach, design rules are proposed to estimate the response of the cable-supported façade subjected to dynamic loads of generic intensity and to calibrate the mechanical parameters characterizing the proposed VESCs. © 2012 Elsevier Ltd.
+KW  - Air blast load
+KW  - Cable-supported glazing façade
+KW  - Energy approach
+KW  - Spider connectors
+KW  - Viscoelastic devices
+KW  - Araneae
+KW  - Aerodynamic loads
+KW  - Dynamic response
+KW  - Glass
+KW  - Glazes
+KW  - Tensile stress
+KW  - Air blast
+KW  - Curtain walls
+KW  - Design rules
+KW  - Energy approach
+KW  - Glass panels
+KW  - Glass panes
+KW  - Global response
+KW  - Mechanical parameters
+KW  - Numerical results
+KW  - Pre-tensioned cables
+KW  - Structural systems
+KW  - Viscoelastic devices
+KW  - dynamic analysis
+KW  - loading
+KW  - mitigation
+KW  - structural response
+KW  - tensile stress
+KW  - viscoelasticity
+KW  - Cables
+SN  - 01410296 (ISSN)
+LA  - English
+J2  - Eng. Struct.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 59; Correspondence Address: C. Bedon; University of Trieste, DICAR, Department of Civil Engineering and Architecture, 34127 Trieste, Piazzale Europa 1, Italy; email: chiara.bedon@phd.units.it; CODEN: ENSTD
+ER  -
+
+TY  - JOUR
+AU  - Knittel, G.
+TI  - A scalable architecture for volume rendering
+PY  - 1995
+T2  - Computers and Graphics
+VL  - 19
+IS  - 5
+SP  - 653
+EP  - 665
+DO  - 10.1016/0097-8493(95)00044-5
+UR  - https://www.scopus.com/pages/publications/58149363285?origin=resultslist
+AD  - Wilhelm-Schickard-Institut für Informatik, Graphisch-Interaktive Systeme (WSI/GRIS), University of Tübingen, D-72076 Tübingen, Auf der Morgenstelle 10, C9, Germany
+AB  - We describe the operational principles of a scalable hardware accelerator for volume rendering. The basic philosophy is to provide an atomic unit which already provides sophisticated volume graphics at interactive rendering speed. Realtime speed can then be achieved by operating multiple units in parallel. The basic unit consists of just four VLSI chips and the volume memory and thus meets the requirements of a small size and low costs. Nevertheless, it provides arbitrary perspective projections (e.g. for walk-throughs), Phong shading, a freely moveable light source, depth-cueing and interactive, non-binary classification (semi-transparent display) at a frame rate of about 2.5 Hz for 2563 data sets. © 1995.
+SN  - 00978493 (ISSN)
+LA  - English
+J2  - Comput Graphics (Pergamon)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: G. Knittel; Wilhelm-Schickard-Institut für Informatik, Graphisch-Interaktive Systeme (WSI/GRIS), University of Tübingen, D-72076 Tübingen, Auf der Morgenstelle 10, C9, Germany; email: knittel@gris.informatik.uni-tuebingen.de; CODEN: COGRD
+ER  -
+
+TY  - JOUR
+AU  - Arauz, R.
+AU  - Filipov, E.
+AU  - Fascetti, A.
+AU  - Clifford, D.T.
+AU  - Brigham, J.C.
+TI  - Evaluation of a Kirigami-inspired double-skin adaptive façade for natural ventilation and solar harvesting to enhance indoor environment and energy performance
+PY  - 2024
+T2  - Energy and Buildings
+VL  - 324
+C7  - 114927
+DO  - 10.1016/j.enbuild.2024.114927
+UR  - https://www.scopus.com/pages/publications/85207023604?origin=resultslist
+AD  - Civil and Environmental Engineering, University of Pittsburgh, Pittsburgh, 15261, PA, United States
+AD  - Civil and Environmental Engineering, University of Michigan, Ann Arbor, 48109, MI, United States
+AD  - College of Architecture and Environmental Design, California Polytechnic State University, San Luis Obispo, 93405, CA, United States
+AB  - A novel kirigami-inspired design concept for an environmentally responsive adaptive façade is presented and evaluated for the objectives of solar energy harvesting and adaptive ventilation through controllable surface orientation and opening. The concept is a double-skin façade where the outer skin includes a straight cut kirigami-inspired adaptive component. Controllable actuation of the kirigami-inspired section opens the outer skin for ventilation while also changing the orientation of the outer surface for solar tracking. The primary objective of this study is to evaluate the potential benefits for this concept integrated within a building façade for solar energy harvesting, air changes, and indoor temperature control. As such, a computational study is used to estimate the proposed facade concept's performance within various generalized building-environment scenarios. The methodology is detailed to computationally estimate the potential environmental performance of this concept with respect to solar harvesting with adhered solar panels, as well as air changes and HVAC cost for associated interior spaces. The example scenarios include various building components, from a single room to multiple building stories, and two geographic locations with significantly different environmental conditions, and both daily and yearly performance estimates are shown. The component is most effective when the outdoor temperature is near to the desired indoor temperature and wind speeds are mild, but can still reduce HVAC usage for more disparate temperatures. For example, in the scenarios shown the component can eliminate HVAC use for a 5°C difference between outdoor and indoor temperature and reduces HVAC usage for temperature differences up to 15°C. Moreover, the component has the potential to significantly increase net energy generation, with yearly performance estimated for the scenarios to be as much as 25% greater than that of a flat closed façade. However, the component cut parameters can have a significant impact on environmental performance, and thus require careful design consideration. © 2024 Elsevier B.V.
+KW  - Energy cost
+KW  - Energy generation
+KW  - Environmental performance
+KW  - Kirigami-inspired façade
+KW  - Natural ventilation
+KW  - Real-scale scenarios
+KW  - Solar irradiance
+KW  - Indoor air pollution
+KW  - Solar heating
+KW  - Space heating
+KW  - Energy cost
+KW  - Energy generations
+KW  - Environmental performance
+KW  - Kirigami-inspired facade
+KW  - Natural ventilation
+KW  - Performance
+KW  - Real-scale scenario
+KW  - Solar energy harvesting
+KW  - Solar harvesting
+KW  - Solar irradiances
+KW  - HVAC
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 11; Correspondence Address: R. Arauz; Civil and Environmental Engineering, University of Pittsburgh, Pittsburgh, 15261, United States; email: raa177@pitt.edu; CODEN: ENEBD
+ER  -
+
+TY  - CONF
+AU  - Krundyshev, K.
+AU  - Haezrahi, E.
+AU  - Krundyshev, B.
+TI  - Kinetic principles of dynamic architecture and housing
+PY  - 2017
+T2  - International Multidisciplinary Scientific GeoConference Surveying Geology and Mining Ecology Management, SGEM
+VL  - 17
+IS  - 63
+SP  - 829
+EP  - 936
+DO  - 10.5593/sgem2017H/63/S27.115
+UR  - https://www.scopus.com/pages/publications/85063105240?origin=resultslist
+AD  - Moscow Central Research and Design Institute for Residential Construction, Russian Federation
+AD  - Università degli studi di Trieste, Italy
+AD  - Saint-Petersburg Mining University, Russian Federation
+AB  - The dynamic architecture is not only the architecture of the movement as such, associated only with a spatial object changes, but also the architecture with qualitative changes occurring in time. Thus the concept of dynamic architecture does not exclude principles of permanence and stability. With the development of computer technology it became possible to create the complex structures that contain information about variable spatial configurations determined by different conditions. In the end, the architectural object, getting into a new field, generating evolutionary transformation and reaches the steady state. This process may be cyclic or acyclic in nature. But first and foremost, dynamic architecture aims to dialogue with man and the natural context. This approach ensures the creation of not just the architectural object, but "living space" in General. Architecture of the future must meet all the requirements of the person and dynamically change along with our society and its needs. One of the architectural trends of the future is dynamic or kinetic architecture. Kinetic architecture is one of the newest and most interesting areas of architecture. This term can be explained as the movement of an object or group of objects under the influence of natural forces. Based on the consideration received major coverage of the dynamic properties of architecture in the paper we note the need to move beyond the techniques and to evaluate aspects such as the dynamics of age-related needs of the person with ways of reflecting this momentum in the kinetic architecture of gerontology. Form of implementation of the kinetic principles is architectural kinetic gerontology which can serve as the introduction of a system of social institutions – homes for the elderly in the structure of the cities. While great importance is dedicated to the organic integration with the whole diversity of life and exclusion of segregation or differentiation feelings of any population group in society, including and disregarding on the age and physical criteria. © SGEM2017 All rights reserved.
+KW  - Adaptation of space
+KW  - Dynamics of needs
+KW  - Home
+KW  - Integration
+KW  - Kinetic architecture
+KW  - Kinetic gerontology
+KW  - Nature
+KW  - Variable spatial configurations
+KW  - Geriatrics
+KW  - Integration
+KW  - Kinetics
+KW  - Adaptation of space
+KW  - Home
+KW  - Kinetic architectures
+KW  - Nature
+KW  - Spatial configuration
+KW  - Memory architecture
+PB  - International Multidisciplinary Scientific Geoconference
+SN  - 13142704 (ISSN); 978-619740826-3 (ISBN)
+LA  - English
+J2  - Int. Multidisciplinary Sci. Geoconf. Surveying Geology Mining Ecology Manage., SGEM
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Chaturvedi, P.
+AU  - Kumar, N.
+AU  - Lamba, R.
+AU  - Nachan, P.
+TI  - MULTI-OBJECTIVE OPTIMIZATION OF BUILDING ENVELOPE FOR DAYLIGHT AND ENERGY PERFORMANCE IN HOT AND DRY INDIAN CLIMATE
+PY  - 2024
+T2  - Proceedings - ISES Solar World Congress 2023, SWC 2023
+SP  - 493
+EP  - 501
+DO  - 10.18086/swc.2023.06.04
+UR  - https://www.scopus.com/pages/publications/85217816030?origin=resultslist
+AD  - Malaviya National Institute of Technology, Jaipur, India
+AB  - The climate-responsive envelope design is the principal component for maintaining the indoor environment. This research presents a multi-objective optimization (MOO) approach to evaluate visual comfort and energy performance. A hypothetical building plan situated in the hot and dry climate of Ahmedabad (23.07° N, 72.63° E), India is chosen as a case study. The optimization was initiated with a Rhinoceros Grasshopper, and the Octopus plugin was used to perform optimization. Spatial Daylight Autonomy (sDA), Spatial Glare Autonomy (sGA), and Energy Use Intensity (EUI) were taken as performance objectives. The design variables such as wall window ratio (WWR), window height, shading configuration, window assembly, wall materials, aspect ratio, building form, and orientation are integrated into the optimization to identify Pareto optimal solutions. This study illustrates that the optimal trade-off solution can reduce the EUI by 31.09% and enhance the sDA and sGA by 93% and 18.58%, respectively, compared to the worst-performing Pareto solutions. The outcomes of this work help building professionals for the designing, and renovation of building envelopes in hot and dry climates and contributing to creating a sustainable built environment. © 2023. The Authors.
+KW  - Energy efficiency
+KW  - Envelope design
+KW  - Muli-objective optimization
+KW  - Visual comfort
+KW  - 'Dry' [
+KW  - Building envelopes
+KW  - Energy
+KW  - Energy performance
+KW  - Envelope designs
+KW  - Muli-objective optimization
+KW  - Multi-objectives optimization
+KW  - Objective optimization
+KW  - Visual comfort
+PB  - International Solar Energy Society
+SN  - 978-398204089-9 (ISBN)
+LA  - English
+J2  - Proc. - ISES Sol. World Congr., SWC
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Koizumi, M.
+AU  - Shinmyo, M.
+TI  - Movable Shade Louver
+PY  - 1987
+T2  - Journal of Light and Visual Environment
+VL  - 11
+IS  - 2
+SP  - 49
+EP  - 57
+DO  - 10.2150/jlve.11.2_49
+UR  - https://www.scopus.com/pages/publications/85024441095?origin=resultslist
+AD  - Hitachi Lighting Co., Ltd., Chiyoda-ku, Tokyo 101, 1-11 Sakuma-cho, Japan
+SN  - 03878805 (ISSN)
+LA  - English
+J2  - J. Light Vis. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0
+ER  -
+

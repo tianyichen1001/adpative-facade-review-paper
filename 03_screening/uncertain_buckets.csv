@@ -1,0 +1,1053 @@
+eid,title,bucket,new_decision,reason_category
+2-s2.0-105024140128,Energy harvest and daylighting performance of dynamic photovoltaic shading system-a comparison study in various climate zones of China,control_of_static,exclude,facade_no_movement
+2-s2.0-105039786699,Wind-driven rain mitigation effects of building facade shading systems: insights from comparative field measurements,static_other,exclude,facade_no_movement
+2-s2.0-105038814362,Green facades and building energy performance: a multi-climate perspective,static_other,exclude,facade_no_movement
+2-s2.0-105037440667,Climate-responsive envelope design for educational buildings: A comparative simulation study between the UK and Egypt,static_other,exclude,facade_no_movement
+2-s2.0-105036251755,Impacts of balconies on air quality within idealized building array: CFD modelling with solar radiation,static_other,exclude,facade_no_movement
+2-s2.0-105034360495,"Predicting emotional impact of adaptive façades through Machine Learning, A VR-based study with PAD assessment",static_other,exclude,facade_no_movement
+2-s2.0-105032701225,Sequential Multi-Objective Optimization and Post-optimization Sensitivity Analysis of Light Shelf Variables in Semi-Arid Climates,control_of_static,exclude,facade_no_movement
+2-s2.0-105026452555,Hourly solar irradiance estimation and building-surface solar potential assessment via remote sensing and machine learning for data-scarce mountainous regions,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105031629892,Real-time monitoring of grinding wheel using a dynamic envelope model,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105035388547,3D façade geometry as a dual passive control in hot urban canyons: reducing street MRT and cooling loads,movable_possible->include,include,
+2-s2.0-105035055152,Climate-adaptive energy performance of green facades in a composite climate,static_other,exclude,facade_no_movement
+2-s2.0-105037816760,Biomimetic Design of a Climate-Responsive Building Envelope Cell Performing Under Both Hot and Cold Weather Conditions,static_other,exclude,facade_no_movement
+2-s2.0-105036503017,Artificial Intelligence-Driven Adaptive Facade Systems in High-Rise Buildings: A Study on Integrating Machine Learning With Real-Time Environmental Data to Optimize Energy Efficiency,control_of_static,exclude,facade_no_movement
+2-s2.0-105031895975,Design development and characterization of thermotropic façade system with honeycomb construction,not_facade_other,exclude,not_facade
+2-s2.0-105037547057,Revealing walking experiences for shading based gendered perceptions of thermal comfort in a hot city,static_other,exclude,facade_no_movement
+2-s2.0-105031172632,RHpT: Bioclimatic framework for passive climate-adaptive bio-façades in urban contexts,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105038552379,Research on the Impact of Transition Space on the Optimization of Thermal Environment in Community Elderly Indoor Activity Spaces,static_other,exclude,facade_no_movement
+2-s2.0-105033239035,Surrogate model-based design optimization of modular façades under multifunctional scenarios,static_other,exclude,facade_no_movement
+2-s2.0-105031735170,Adaptive photonic films for fenestration-integrated PV technology to enhance energy saving and thermal comfort: Concept and theoretical investigation,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105034725653,Drying process in a 3D-printed multilayer wall system: An experimental and numerical analysis,vent_breathing,exclude,facade_no_movement
+2-s2.0-105029653511,Bio-jaali: Reimagining vernacular passive cooling screens with mycelium-based composites,static_other,exclude,facade_no_movement
+2-s2.0-105024445764,Algorithmic replication of macramé techniques: bridging analog movements with computational design,static_other,exclude,facade_no_movement
+2-s2.0-105036811313,"Wind-Sound Synergy and Fractal Design: Intelligent, Adaptive Acoustic Façades for High-Performance, Climate-Responsive Buildings",movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105033816142,BIM-BES-based energy performance simulation of library-type buildings considering cold winter/hot summer climate regime with passive strategies,static_other,exclude,facade_no_movement
+2-s2.0-105029367098,A Non-Invasive stacked ensemble framework with shadow correction for Cost-Effective daylight illuminance prediction in buildings,control_of_static,exclude,facade_no_movement
+2-s2.0-105037088748,Dynamic Optimisation of Façade-Integrated Solar Cooling Elements: Adsorption Cooling Versus Photovoltaic Scenarios,static_other,exclude,facade_no_movement
+2-s2.0-105035974577,The Impact of Material on Environmental Indicators: An LCA Analysis of 30 Variants of Pitched Roofs,static_other,exclude,facade_no_movement
+2-s2.0-105029407767,Improved superhydrophobic surface for new phase-change thermal diode in building thermal management,pcm_thermal,exclude,facade_no_movement
+2-s2.0-105028922736,Performance optimization of parametric hexagonal façade openings for natural ventilation and cooling load reduction in high-rise buildings,static_other,exclude,facade_no_movement
+2-s2.0-105027279474,Integrating greenery systems and active insulation into adaptive building envelopes for enhanced sustainability and thermal resilience,static_other,exclude,facade_no_movement
+2-s2.0-105034142621,Challenging the Biomimetic Promise 2.0: Negative Spillover of Bio-Inspired Versus Sustainability Framing on Public Perceptions of Bio-Inspired Technologies,static_other,exclude,facade_no_movement
+2-s2.0-105033891051,Dynamic performance of façade systems during lifting and transportation in prefabricated modules,static_other,exclude,facade_no_movement
+2-s2.0-105026129649,Optimizing building integrated photovoltaic facades: A parametric approach for enhanced energy efficiency and daylighting performance,static_other,exclude,facade_no_movement
+2-s2.0-105032665560,A Performance-Based Methodology for Retrofitting Buildings Guided by Visual Comfort,static_other,exclude,facade_no_movement
+2-s2.0-105032667262,Integrating Generative Design and Artificial Intelligence for Optimized Energy-Efficient Composite Facades in Next-Generation Smart Buildings,static_other,exclude,facade_no_movement
+2-s2.0-105025372668,"Optimizing building energy efficiency through microalgae façades: impact of cell density, biomass, and panel thickness on solar heat gain and light transmittance",static_other,exclude,facade_no_movement
+2-s2.0-105030716921,Energy savings from the shading performance of devices in highly glazed multi-story office buildings in the tropical climates of China and India,static_other,exclude,facade_no_movement
+2-s2.0-105030437657,Iterative digital elevation model optimization via ray tracing and multiscale dynamic shape-from-shading reconstruction,not_facade_other,exclude,not_facade
+2-s2.0-105030025564,Sustainable Urban Planning for High-Rise Residential Complexes Using an Adaptive Facade System,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105031363848,Evaluation of the Annual Power Generation Characteristics and Energy Efficiency of Sun-Tracking Photovoltaic Windows in the Hangzhou Area,static_other,exclude,facade_no_movement
+2-s2.0-105031493650,A Conceptual Framework for Pollution-Resilient Aluminium Façades: Introducing the Pollution Degradation Modifier (PDM),static_other,exclude,facade_no_movement
+2-s2.0-105031427646,From Biomimicry to Climate-Responsive Architecture: Prioritizing Bio-Based and Bio-Inspired Strategies for Sustainable Buildings in Tropical Monsoon Climates,static_other,exclude,facade_no_movement
+2-s2.0-105023821177,Learning personalized visual comfort: A data-driven adaptive shading control framework using artificial intelligence,static_other,exclude,facade_no_movement
+2-s2.0-105031380734,Envelope Retrofitting by Building-Integrated Agricultural Greenhouses: A Multi-Objective Form Optimisation Procedure,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105024887111,Mitigation effects of building facade buffer zones on wind-driven rain: Insights from field measurements,static_other,exclude,facade_no_movement
+2-s2.0-105033382870,Effects of building façade architectural design elements on thermal comfort and energy efficiency,static_other,exclude,facade_no_movement
+2-s2.0-105021472577,Evaluating permeable pavements' impact on the thermal environment in street canyons through outdoor experiments under hot and humid background climate,static_other,exclude,facade_no_movement
+2-s2.0-105022661726,Assessing cooling–lighting trade-offs in a low-income Jordanian housing archetype under climate change and heat waves,static_other,exclude,facade_no_movement
+2-s2.0-105022288003,Effects of building shading on outdoor adaptive thermal comfort and the development of predictive models,static_other,exclude,facade_no_movement
+2-s2.0-105038570681,Advancing Simulation Tools: Adaptive Façades for Building Decarbonization,static_other,exclude,facade_no_movement
+2-s2.0-105009429618,Performance optimization of an office building with a dynamic façade system,static_other,exclude,facade_no_movement
+2-s2.0-105028162151,Vehicle integrated photovoltaics module architecture optimization under dynamic shading,static_other,exclude,facade_no_movement
+2-s2.0-105035721791,Dynamic Ventilated Façades for Lightweight Buildings: A Strategy for Mitigating Overheating,vent_breathing,exclude,facade_no_movement
+2-s2.0-105021080659,Smart Readiness Indicator metric for building envelope structures,static_other,exclude,facade_no_movement
+2-s2.0-105028619059,Assessment and Numerical Modeling of the Thermophysical Efficiency of Newly Developed Adaptive Building Envelopes Under Variable Climatic Impacts,static_other,exclude,facade_no_movement
+2-s2.0-105034853758,Emerging Applications of Conducting Polymer in Modern Architecture,static_other,exclude,facade_no_movement
+2-s2.0-105018669060,Energy performance and optimal design of three typical dynamic photovoltaic façade systems for office buildings in hot-summer- cold-winter climate zone,static_other,exclude,facade_no_movement
+2-s2.0-105031576063,Integrated two-stage optimization of façade adaptation and renewable systems for indoor comfort in NZEBs,control_of_static,exclude,facade_no_movement
+2-s2.0-105031866483,A data-driven multi-objective optimization to tailor the impact of orientation on cooling loads of residential building in hot climate,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105028227685,Architectural swarms for responsive façades and creative expression,movable_possible->include,include,
+2-s2.0-105030534261,From nature to structure: advancing building efficiency with biomimicry-inspired green façades,static_other,exclude,facade_no_movement
+2-s2.0-105034407954,"Optimising thermal performance of steel façades through self-shading: Calibration, sensitivity analysis, and climatic implications",static_other,exclude,facade_no_movement
+2-s2.0-105031747480,Climate Responsive Form and Facade Design for Educational Spaces to Achieve Net-Zero Energy Building in Dhaka,static_other,exclude,facade_no_movement
+2-s2.0-105035175870,Integrated IFC Protocols for Sustainable Conservation and Energy Efficiency of Historic Buildings,static_other,exclude,facade_no_movement
+2-s2.0-105035611869,Spatial–Angular Distribution of Aerodynamic Coefficients and Static Pressure on Residential Building Facades Under Wind Flow,static_other,exclude,facade_no_movement
+2-s2.0-105020939510,A variable thermal transmittance adaptive wall: comparison between CFD simulations and experimental tests,static_other,exclude,facade_no_movement
+2-s2.0-105029422297,Response mechanisms between daylighting performance and skylight design variables in underground public spaces,static_other,exclude,facade_no_movement
+2-s2.0-105032234655,Designing more-than-human thermal comfort: bio-inspired evaporative cooling in porous facade components for cavity-nesting wild bees,static_other,exclude,facade_no_movement
+2-s2.0-105026583740,Integrating Carbon Sink and Recycled Materials into Modular Façade Systems,static_other,exclude,facade_no_movement
+2-s2.0-105036712690,Research on Visual Comfort Performance Control of Smart Shading Blinds Based on Dynamic Programming Algorithm,control_of_static,exclude,facade_no_movement
+2-s2.0-105035885691,Out-Of-Plane Dynamic Analysis of Masonry Façades Interacting with Sidewalls: Comparison of Discrete Macro-Element and Rigid-Block Modelling,static_other,exclude,facade_no_movement
+2-s2.0-105019519369,Research on Dynamic Envelope Calculation and Application of Metro Engineering Vehicles,static_other,exclude,facade_no_movement
+2-s2.0-105035815215,Natural flavonoids inhibit plasmid conjugation via iron chelation and zinc-responsive envelope stress,static_other,exclude,facade_no_movement
+2-s2.0-85164492932,The Lost Kinetic Architecture and How to Reintroduce it in the Landscape–The Case Study of the Drainage Windmills in the Vistula Delta,not_facade_other,exclude,not_facade
+2-s2.0-105027185422,Kinetic Energy Harvesting from Human Footsteps: An Insight into Modern Architecture’s Response to Energy Conservation,not_facade_other,exclude,not_facade
+2-s2.0-105014520687,Real-time adaptive algae bioreactor facades: a novel method for dynamic daylight and thermal efficiency optimization in buildings,control_of_static,exclude,facade_no_movement
+2-s2.0-105029057963,SYSTEM SAFETY OF FAÇADE SCAFFOLDING: ACHIEVING ACCEPTABLE DYNAMIC PERFORMANCE THROUGH ANCHORAGE AND BRACING DESIGN,control_of_static,exclude,facade_no_movement
+2-s2.0-105024465578,Joint Detection and Parameters Regression of Detailed Windows based on Facade Textures via an Adaptive Soft Teacher,static_other,exclude,facade_no_movement
+2-s2.0-105025419780,Performance evaluation of an IoT-based smart double-skin façade system for indoor thermal comfort improvement in summer based on field experiment findings,dsf_static,exclude,facade_no_movement
+2-s2.0-105016222839,Climate-resilient office buildings: Energy and comfort in japan's future (2090s),static_other,exclude,facade_no_movement
+2-s2.0-85218501351,"Determinants of urban agriculture and green infrastructure integration in Bahir Dar City, Northwest Ethiopia",static_other,exclude,facade_no_movement
+2-s2.0-105027948341,Analysis of the Effectiveness of Shading Systems in Ensuring Quality Daylighting in Gallery Spaces – Case Study,static_other,exclude,facade_no_movement
+2-s2.0-105024979604,Designing Adaptive and Self-Responsive Structures,not_facade_other,exclude,not_facade
+2-s2.0-105019742966,A field-based evaluation of blackboard visibility in daylit classrooms,static_other,exclude,facade_no_movement
+2-s2.0-105018641167,Field monitoring and numerical analysis of thermal behavior of the National Stadium under solar radiation,not_facade_other,exclude,not_facade
+2-s2.0-105013586180,AI-driven control algorithm using machine learning and genetic optimization for enhancing visual comfort in adaptive façades,static_other,exclude,facade_no_movement
+2-s2.0-105023077255,A Framework for Optimizing Biomimetic Opaque Ventilated Façades Using CFD and Machine Learning,static_other,exclude,facade_no_movement
+2-s2.0-105023107174,A Customer-Oriented Holistic Approach to Solar Shading Design: Enhancing Efficiency in an Existing Educational Building,movable_possible->include,include,
+2-s2.0-105023120949,OPTIMIZATION OF LIGHTING SYSTEMS FOR INCREASING ENERGY EFFICIENCY OF PUBLIC BUILDINGS,static_other,exclude,facade_no_movement
+2-s2.0-105012275280,Navigating the built environment energy transition in the Netherlands: A tool for energy-oriented design and planning,static_other,exclude,facade_no_movement
+2-s2.0-105022886237,The Adaptive Block: Passive Cooling Adaptation Strategies for Urban Resilience,static_other,exclude,facade_no_movement
+2-s2.0-105020925192,"An incremental, thermally optimised, and low-carbon shelter model for refugee housing in diverse climates",movable_possible->include,include,
+2-s2.0-105013366575,Enhancing thermal performance of subtropical low-income housing through passive and behaviour-guided adaptive design,static_other,exclude,facade_no_movement
+2-s2.0-105010478985,Utilizing a three-zone control model of adaptive concentrating photovoltaic facade to enhance visual comfort and energy benefits,control_of_static,exclude,facade_no_movement
+2-s2.0-105012617905,Model-free online reinforcement learning control for responsive building envelope,control_of_static,exclude,facade_no_movement
+2-s2.0-105020022788,Intelligent Segmentation of Urban Building Roofs and Solar Energy Potential Estimation for Photovoltaic Applications,static_other,exclude,facade_no_movement
+2-s2.0-105017812952,Modeling and simulation-based performance study of a DC-DC power processing circuit for building-attached photovoltaic systems,control_of_static,exclude,facade_no_movement
+2-s2.0-105025487653,Building Envelope,insufficient_info,exclude,insufficient_info
+2-s2.0-105007061909,Optimizing bio-inspired macro-structures for enhanced thermal efficiency in multi-skin facade buildings,static_other,exclude,facade_no_movement
+2-s2.0-105008441616,"A novel method for simulating dynamic facades to analysing, and optimizing daylight and visual comfort in office buildings",static_other,exclude,facade_no_movement
+2-s2.0-105004414522,"Design of Building-Installed PV system, with consideration given to the size and position of the building",static_other,exclude,facade_no_movement
+2-s2.0-105008873289,livMatS biomimetic shell: Structural advancements of segmented timber shells towards permanent building constructions,static_other,exclude,facade_no_movement
+2-s2.0-105010013654,Application of a Dynamic Semitransparent Agrivoltaic Panel for Controlling Sunlight Allocation to Solar Cells and Crops,movable_possible->include,include,
+2-s2.0-105010124010,Vertical greenery as natural shading of glass facades: Bioshading coefficients for 4 climbing plant species for assessment of shading performance,static_other,exclude,facade_no_movement
+2-s2.0-105014418071,Climate-Responsive Envelope Retrofit Strategies for Aged Residential Buildings in China Across Five Climate Zones,static_other,exclude,facade_no_movement
+2-s2.0-105011854535,Biomimetic Opaque Ventilated Façade for Low-Rise Buildings in Hot Arid Climate,vent_breathing,exclude,facade_no_movement
+2-s2.0-105010701100,"Future climate impacts on urban office Buildings: Energy, comfort, and passive solutions in Osaka, Japan",static_other,exclude,facade_no_movement
+2-s2.0-105003811207,Biomimetic self-shading walls via 3D-printing for reduced heat gain: Multiscale learning using graph neural networks to predict solar radiation absorption,static_other,exclude,facade_no_movement
+2-s2.0-105000918728,"Optimal daylighting design for standard photopic and melanopic equivalent daylight illuminance, and glare minimization in Tehran classrooms",static_other,exclude,facade_no_movement
+2-s2.0-105005767296,Dynamic mechanical properties of nanoparticle-stabilized foam concrete (NFC),static_other,exclude,facade_no_movement
+2-s2.0-105005200552,Maximizing energy harvesting in grid-connected hybrid photovoltaic and thermoelectric generator systems: An adaptive global power tracking technique,control_of_static,exclude,facade_no_movement
+2-s2.0-105003802281,Achieving operational synergy between different adaptive façade technologies,control_of_static,exclude,facade_no_movement
+2-s2.0-85200678485,From theory to practice: Truchet tile as a computational visual coding approach for facade visualization,movable_possible->include,include,
+2-s2.0-86000790700,Design optimization of climate-responsive rural residences in solar rich areas considering sustainability and occupant comfort,static_other,exclude,facade_no_movement
+2-s2.0-85216645086,A method for achieving optimal thermal performance of adaptive opaque facades based on monthly loads across China,control_of_static,exclude,facade_no_movement
+2-s2.0-85217060741,Investigation of climate-adaptive thermal effects of a double-sided hydronic loop embedded in an opaque building envelope,static_other,exclude,facade_no_movement
+2-s2.0-85218992312,An advanced numerical model for dynamic daylight and energy consumption analysis of thermal-responsive complex fenestration system with adaptive solar absorption,chromogenic,exclude,facade_no_movement
+2-s2.0-85218637971,Comprehensive impact of two advanced thermotropic façades designs on building daylight and energy performance,chromogenic,exclude,facade_no_movement
+2-s2.0-105004839203,"Energy-Efficient Design of Immigrant Resettlement Housing in Qinghai: Solar Energy Utilization, Sunspace Temperature Control, and Envelope Optimization",static_other,exclude,facade_no_movement
+2-s2.0-105007689472,Utilizing Adaptive Glass and Materials in Smart Window Design to Improve Thermal Performance of Buildings in Hot Climates,static_other,exclude,facade_no_movement
+2-s2.0-86000784109,"Suitable transition temperature on thermo-adaptive reflectance for opaque facades: Influence of climate, solar orientation, and facade material",static_other,exclude,facade_no_movement
+2-s2.0-105006846399,Developing an Alternative Calculation Method for the Smart Readiness Indicator Based on Genetic Programming and Linear Regression,static_other,exclude,facade_no_movement
+2-s2.0-105003555631,The Importance of Renovation and Renewable Energies for Carbon Neutral Building,static_other,exclude,facade_no_movement
+2-s2.0-105002285610,Dynamic Integration of Shading and Ventilation: Novel Quantitative Insights into Building Performance Optimization,static_other,exclude,facade_no_movement
+2-s2.0-85214140676,Experimental study on harnessing torsion-induced buckling of frames for adaptive shading modules,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105001572160,Comprehensive performance analysis of semitransparent CdTe PV windows in static and dynamic facades: A real ship case study,static_other,exclude,facade_no_movement
+2-s2.0-105001327613,"Space-Containing Façades: Mediating Environmental, Social, and Urban Dynamics in Collective Housing Design",static_other,exclude,facade_no_movement
+2-s2.0-86000285490,Machine Learning for Adaptive Facade Design: Enhancing Thermal Performance in Urban Architecture,static_other,exclude,facade_no_movement
+2-s2.0-105001114046,Design Optimization Approach for Residential Outdoor Environments Based on Seasonal Variations in Local Thermal Perception,static_other,exclude,facade_no_movement
+2-s2.0-105006666309,EVOLVING TENSEGRITY FAÇADE SYSTEMS: COMPUTATIONAL MORPHOGENESIS THROUGH MULTI-STEP OPTIMIZATION AND DIGITAL FABRICATION OF STRUCTURAL MODULES,static_other,exclude,facade_no_movement
+2-s2.0-105001124707,Enhancing Daylight and Energy Efficiency in Hot Climate Regions with a Perforated Shading System Using a Hybrid Approach Considering Different Case Studies,static_other,exclude,facade_no_movement
+2-s2.0-86000503421,A Smart Roller Shutters Control for Enhancing Thermal Comfort and Sustainable Energy Efficiency in Office Buildings,control_of_static,exclude,facade_no_movement
+2-s2.0-85215966151,Thermo-responsive hydrogel-based building envelopes for building energy-saving,static_other,exclude,facade_no_movement
+2-s2.0-85217044784,Assessing the thermal performance of building walls containing eco-friendly composite materials: A combined numerical and simulation approach,static_other,exclude,facade_no_movement
+2-s2.0-105001160974,Thermal Performance Evaluation of a Retrofitted Building with Adaptive Composite Energy-Saving Facade Systems,vent_breathing,exclude,facade_no_movement
+2-s2.0-86000190113,Blind signal reconstruction for continuous-time photonic time-stretch analog-to-digital converters,static_other,exclude,facade_no_movement
+2-s2.0-85218882604,Dynamic Envelope Optimization of Articulated Vehicles Based on Multi-Axle Steering Control Strategies,control_of_static,exclude,facade_no_movement
+2-s2.0-85208399934,Experimental energy performance assessment of a smart controlled water-flow glazing adaptive facade in heating demand conditions,control_of_static,exclude,facade_no_movement
+2-s2.0-105027941582,Performance assessment of an adaptive opaque façade technology across diverse European climates: Energy efficiency and thermal comfort improvements,control_of_static,exclude,facade_no_movement
+2-s2.0-105023472535,A Predictive Model for Dynamic Facades' Daylight Performance using Multimodal Fusion Learning,control_of_static,exclude,facade_no_movement
+2-s2.0-85215760274,Sustainable Design: Minimizing Discomfort Glare Through Data-Driven Methods for Responsive Facades,static_other,exclude,facade_no_movement
+2-s2.0-105033349571,IMPACT OF ADAPTIVE BIOMIMETIC BUILDING SKINS ON INDOOR THERMAL COMFORT: A COMPUTATIONAL EVALUATION,static_other,exclude,facade_no_movement
+2-s2.0-105010688671,AI-DRIVEN PARAMETRIC FACADE DESIGN FOR ADAPTIVE ARCHITECTURAL PERFORMANCE,static_other,exclude,facade_no_movement
+2-s2.0-105035257839,Evaluating the Energy Performance of Climate-Adaptive Building Envelopes Using Shading Mask Map,static_other,exclude,facade_no_movement
+2-s2.0-105023482070,A Workflow for Implementing Reinforcement Learning Incorporating Occupant Preference in Climate-Adaptive Facade Control,control_of_static,exclude,facade_no_movement
+2-s2.0-85213006579,Dynamic Façade System for Building Retrofitting: A Numerical Study on a Tertiary Building in Italy,dsf_static,exclude,facade_no_movement
+2-s2.0-85213021333,How Adaptive Façade Can Contribute to Energy Saving in Tall Buildings?,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85213043511,Impact of Dynamic Façades on Smart Readiness Indicator and User Satisfaction,control_of_static,exclude,facade_no_movement
+2-s2.0-105023473343,A Data-Driven Optimization Control Framework for Adaptive Solar Façades Balancing Photovoltaic Performance and Indoor Environment,control_of_static,exclude,facade_no_movement
+2-s2.0-105035257977,Deep Learning-Based Surrogate Modelling for Optimal Control of Climate-Responsive Adaptive Façade Systems,control_of_static,exclude,facade_no_movement
+2-s2.0-85209542698,Decision Criteria for the Assessment of Building Retrofit Integrating Innovative Façade Solutions,static_other,exclude,facade_no_movement
+2-s2.0-85217223177,Can the Building Envelope Play a Role in the Energy Transition?,movable_possible->include,include,
+2-s2.0-105016892678,Adaptive MPPT Strategy for BIPV Systems Using MBGO Assisted P&O Under Dynamic Shading,static_other,exclude,facade_no_movement
+2-s2.0-105007299259,A Framework for Energy and Thermal Performance Modeling in Net-Zero Urban Clusters,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105027204885,Numerical Analysis of Performance of Dynamic Second-Skin Façades with Photovoltaic panels integrated in a Residential Building in Southern Italy,static_other,exclude,facade_no_movement
+2-s2.0-105003630660,Optimizing Dynamic Facade Performance Through Parametric Design: A Simulation-Based Strategy for Improving Daylighting and Visual Comfort in Office Building,static_other,exclude,facade_no_movement
+2-s2.0-105000775312,Developing Adaptive Educational Spaces Through a Theoretical Framework Based on Modularity and Digital Design,static_other,exclude,facade_no_movement
+2-s2.0-85213043877,Implementation of a Calculation Code for the Energy Modelling of Vertical Greenery Systems,static_other,exclude,facade_no_movement
+2-s2.0-105016351794,Daylight Performance-Based Design Model for Bio-adaptive Building Skin for Office Space of Administrative Buildings in Egypt,static_other,exclude,facade_no_movement
+2-s2.0-105022055882,Basic aspects of caring for green facades in the city of Košice,static_other,exclude,facade_no_movement
+2-s2.0-85205459706,Fusing Transformer and diffusion for high-resolution prediction of daylight illuminance and glare based on sparse ceiling-mounted input,static_other,exclude,facade_no_movement
+2-s2.0-105035362877,ML-Driven MPPT Optimization for Photovoltaic Systems Under Dynamic Shading Conditions,movable_possible->include,include,
+2-s2.0-86000382132,"Parametric design workflow for solar, context-adaptive and reusable facades in changing urban environments",static_other,exclude,facade_no_movement
+2-s2.0-105001208765,Optimizing Building Performance: A Grasshopper Modeling Case Study of the King Hussein Mosque,static_other,exclude,facade_no_movement
+2-s2.0-105035254087,Assessing solar performance in advanced facades: Comparative analysis of control strategies using a dynamic key performance indicator,control_of_static,exclude,facade_no_movement
+2-s2.0-105033524339,ASSESSING THE IMPACT OF HORIZONTAL RESTRAINTS ON THE SEISMIC ROCKING OF MASONRY FAÇADES INCLUDING DYNAMIC SOIL-STRUCTURE INTERACTION,static_other,exclude,facade_no_movement
+2-s2.0-85213058639,Climate-Responsive Building Envelope Retrofit: Insulation Strategies in a Changing Environment,static_other,exclude,facade_no_movement
+2-s2.0-105019365078,Evaluating Daylighting Performance of Parametric Mashrabiya in Mediterranean Climate: A Simulation-based Approach,static_other,exclude,facade_no_movement
+2-s2.0-105024071458,Data-Driven Decision-Making Suppors Smart and Efficient Building Energy Retrofit for Meizhou Pantian Chaoke Cultural and Rural Buildings,control_of_static,exclude,facade_no_movement
+2-s2.0-85212313638,Study on the application of a dynamic photovoltaic integrated light shelf for office buildings,static_other,exclude,facade_no_movement
+2-s2.0-105009440994,Resilience-Oriented Asynchronous Decentralized Restoration Considering Building and E-Bus Coresponse in Electricity-Transportation Networks,static_other,exclude,facade_no_movement
+2-s2.0-105032828416,Assessing Vegetation-driven Reduction in Window Solar Heat Gain using LiDAR-based Modelling,static_other,exclude,facade_no_movement
+2-s2.0-105037453923,Comparative Analysis of Shading Strategies on Solar Heat Gain Through Glass for Energy-Efficient Buildings,static_other,exclude,facade_no_movement
+2-s2.0-105027095148,A Study on the Optical and Thermal Performance and Energy Efficiency Analysis of a Novel Adjustable Wall-Like Window,static_other,exclude,facade_no_movement
+2-s2.0-105030547976,"ISLAMIC AND SCIENTIFIC PERSPECTIVES ON SHADING COEFFICIENT, CARBON DIOXIDE CONCENTRATION REDUCTION, AND COOLING EFFECT OF PRODUCTIVE FACADE",static_other,exclude,facade_no_movement
+2-s2.0-105013054451,Dynamic Agrivoltaic Shading System for Optimal Plant Shading,static_other,exclude,facade_no_movement
+2-s2.0-105007032881,Building-Integrated Microalgae Photobioreactor: An Adaptive Solution to Urban Heat Island Mitigation,dsf_static,exclude,facade_no_movement
+2-s2.0-105023094889,6D BIM Model-Based Sustainability Assessment of Photovoltaic Pavements Incorporating Energy Generation Estimation,static_other,exclude,facade_no_movement
+2-s2.0-105019900679,"Elevating Wellness: Integrating Health, Sustainability, and Urban Vitality in Tall Building Design",static_other,exclude,facade_no_movement
+2-s2.0-105024220328,Impact of Time Interval Settings on Energy Simulation Outcomes and Solar Shading Operations Using Minute-Interval Weather Data for Building Design,static_other,exclude,facade_no_movement
+2-s2.0-105025454948,Finding the best shading device model to enhance visual comfort in an educational building,static_other,exclude,facade_no_movement
+2-s2.0-105022788070,The Multi-Objective Optimisation for Energy Consumption and Daylight of Office Buildings in London: Meshed Façade Energy Study,static_other,exclude,facade_no_movement
+2-s2.0-85204129153,"Photobioreactor facade panels: enhancing comfort, reducing energy use, and capturing carbon in temperate continental climates",static_other,exclude,facade_no_movement
+2-s2.0-105004640278,A Zeta Converter-Based Improved BLDC Motor-Driven Water Pumping System for Partial Shading Environment of Solar PV,static_other,exclude,facade_no_movement
+2-s2.0-105021822271,Optimization of Plastic Mesh Shading Systems for Improved Daylighting and Solar Gain Control,static_other,exclude,facade_no_movement
+2-s2.0-105027213300,"Retrofitting European Office Building stock: combining principles of bio-economy and circular economy for context-based, adaptable facade solutions",static_other,exclude,facade_no_movement
+2-s2.0-105027196581,Keeping cool with lower emissions: comparing internal to external blinds as solar shading devices,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105025897495,Empowering Occupants: Significance of Behavioral Choices in Reducing Space Cooling Demand in Europe,static_other,exclude,facade_no_movement
+2-s2.0-105035259499,"Developing Early Design Stages Tools for Windows Considering Sky Conditions, Solar Radiation and Shading Control",control_of_static,exclude,facade_no_movement
+2-s2.0-85218276725,Towards resilient architecture in technological innovation and AI,static_other,exclude,facade_no_movement
+2-s2.0-105009507103,Parametric model development for building input variables for lighting and shading controls for different building form factors,static_other,exclude,facade_no_movement
+2-s2.0-105013473853,Examining thermal comfort in open spaces in higher education settings in hot climate regions–Mosul as a case study,static_other,exclude,facade_no_movement
+2-s2.0-85210016411,Intrinsic Single-Image HDR Reconstruction,static_other,exclude,facade_no_movement
+2-s2.0-105021800983,An Adaptive PSO Algorithm for Robust Maximum Power Point Tracking in Photovoltaic Systems Under Rapid Irradiance Changes and Partial Shading,static_other,exclude,facade_no_movement
+2-s2.0-105036943304,Efficient OBEO MPPT Controller For PV Under Dynamic and Partial Shading Conditions,control_of_static,exclude,facade_no_movement
+2-s2.0-105033241070,IMPACT OF BREATHING FACADES AND BIOMIMICRY ON VENTILATION AND INDOOR AIR QUALITY,static_other,exclude,facade_no_movement
+2-s2.0-105005061718,A dynamic envelope extraction method of spacecraft parameters based on fast matching search,not_facade_other,exclude,not_facade
+2-s2.0-105002213128,Redefining walking: a bio-inspired kinetic architecture,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105020783248,Traditional Processing and Digital Transition MWK – Mobile Wall Kerfing,not_facade_other,exclude,not_facade
+2-s2.0-105012241596,An Adaptive Envelope Orthogonal Sparsity Matching Method for Rolling Bearing Transient Feature Enhancement,static_other,exclude,facade_no_movement
+2-s2.0-105005327434,Enhanced Adaptive Prescribed Performance Constrained Control With Safe Dynamic Envelope for Input-Saturated Nonlinear System,control_of_static,exclude,facade_no_movement
+2-s2.0-105024853067,Comparative assessment of thermal comfort and energy performance in current and prototype school buildings in Erbil’s hot semiarid climate,static_other,exclude,facade_no_movement
+2-s2.0-85215763538,Formation of the principles of tectonics of modern architectural forms,static_other,exclude,facade_no_movement
+2-s2.0-85200792993,Synergistic Strategies: Comparing Energy Performance in Climate-Adaptive Building Envelopes for Iran's Cold Semi-Arid Climate,static_other,exclude,facade_no_movement
+2-s2.0-85213206200,Optimization of the Dynamic External Shading Control for Railway Stations in China Based on Energy Use Intensity (EUI) of Lighting and HVAC Systems,control_of_static,exclude,facade_no_movement
+2-s2.0-85211459958,Application of Biomimetic Strategies in Building Envelope Design for Water Harvesting,static_other,exclude,facade_no_movement
+2-s2.0-85212765623,Parametric Optimization Approach to Evaluate Dynamic Shading Within Double-Skin Insulated Glazed Units for Multi-Criteria Daylighting Performance in Tropics,dsf_static,exclude,facade_no_movement
+2-s2.0-85208287543,Effectiveness of a dynamic living wall system of plants on indoor thermal environment in summer - An experimental study,static_other,exclude,facade_no_movement
+2-s2.0-85206235983,Machine-learning to analyze human-building interactions: How do people use mobile solar protections?,static_other,exclude,facade_no_movement
+2-s2.0-85205930214,An adaptive architecture for strategic Enhancement of energy yield in shading sensitive Building-Applied Photovoltaic systems under Real-Time environments,static_other,exclude,facade_no_movement
+2-s2.0-85211821645,The Development of an Advanced Facade Map: An Evolving Resource for Documenting Case Studies,static_other,exclude,facade_no_movement
+2-s2.0-85211806010,Dynamic Window Technologies for Energy Efficiency in Condominiums in Tropical Climates,static_other,exclude,facade_no_movement
+2-s2.0-85210399097,Performance Analysis of Dynamic Building-Integrated Photovoltaic Shading System for High Technology Readiness Level Validation,static_other,exclude,facade_no_movement
+2-s2.0-85203595360,Wind-Induced Dynamic Behavior of Single-Skin Curtain-Wall System: A Comparative Numerical Study,static_other,exclude,facade_no_movement
+2-s2.0-85205445635,Optimization Method for the Deployment Route of Generalized Scissor Linkages,movable_possible->include,include,
+2-s2.0-105037767672,Architecture as index: Precarity in Payatas,not_facade_other,exclude,not_facade
+2-s2.0-85205309418,Biomimetic design synthesis and digital optimization of building shading skin: A novel conceptual framework for enhanced energy efficiency,static_other,exclude,facade_no_movement
+2-s2.0-85206247474,Performance of BIPV system under partial shading condition,static_other,exclude,facade_no_movement
+2-s2.0-85204058100,Building performance modelling approaches for a detached vertical green trellis: A case study in a tropical climate,static_other,exclude,facade_no_movement
+2-s2.0-85206684932,Adaptive shading: How microclimates and surface types amplify tree cooling effects?,static_other,exclude,facade_no_movement
+2-s2.0-105018429412,Biomimetic architecture: exploring adaptive facades inspired by nature,static_other,exclude,facade_no_movement
+2-s2.0-85206446952,'Golden Ratio Yoshimura' for meta-stable and massively reconfigurable deployment,movable_possible->include,include,
+2-s2.0-85196763817,"An integrated design methodology for extrinsic adaptive façades – Process model, standards, and case study",static_other,exclude,facade_no_movement
+2-s2.0-85207964682,Influence of Italian Climatic Conditions on Performance of a 3D Printed Building Second-Skin Façade with 20% Gyroid Filling: Simulation Assessment,static_other,exclude,facade_no_movement
+2-s2.0-85197311150,Network-secure aggregator operating regions with flexible dispatch envelopes in unbalanced systems,static_other,exclude,facade_no_movement
+2-s2.0-85209090515,NONLINEAR DYNAMIC ANALYSIS OF WIND ACTIONS ON A CABLE-STAYED GLASS FAÇADE SYSTEM,static_other,exclude,facade_no_movement
+2-s2.0-85205219955,A Framework for Adaptive Façade Optimization Design Based on Building Envelope Performance Characteristics,static_other,exclude,facade_no_movement
+2-s2.0-85197624699,Mastering complexity in Life Cycle Assessment for product development: Evaluating the impacts of adaptive façades,static_other,exclude,facade_no_movement
+2-s2.0-85205041712,Biomimetic Adaptive Building Façade Modeling for Sustainable Urban Freshwater Ecosystems: Integration of Nature’s Water-Harvesting Strategy into Sun-Breakers,static_other,exclude,facade_no_movement
+2-s2.0-85199407952,Climate-responsive building façade design: Inspirations from historic buildings in semi-cold climate zone,static_other,exclude,facade_no_movement
+2-s2.0-85203627729,Building Facade-Completion Network Based on Dynamic Convolutional GAN,static_other,exclude,facade_no_movement
+2-s2.0-85204735589,Street Puppet Theatre Shows on the Façades of Commercial Buildings as a Novel Stimulator for Social Gatherings in Smart Cities,static_other,exclude,facade_no_movement
+2-s2.0-85206009826,EFFECT OF A BEE-INSPIRED ADAPTIVE ENVELOPE ON EXISTING ADMINISTRATIVE BUILDING IN A SEMI-ARID CLIMATE,insufficient_info,exclude,insufficient_info
+2-s2.0-85198328600,Evaluating the impact of high-resolution irradiation data on the daylight performance assessment of adaptive solar shading systems,static_other,exclude,facade_no_movement
+2-s2.0-85198028654,Control algorithm for dynamic solar shadings: A simulation study for office buildings based on ISO 52016-3,control_of_static,exclude,facade_no_movement
+2-s2.0-85195181008,Modeling the thermally adaptive performance of building exterior walls with linear temperature-dependent thermal conductivity,movable_possible->include,include,
+2-s2.0-85203747617,The compatibility of thermal and acoustic insulation in the façades external renovation in residential buildings,static_other,exclude,facade_no_movement
+2-s2.0-85202470326,Integrated Dynamic Photovoltaic Facade for Enhanced Building Comfort and Energy Efficiency,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85191238297,A simulation-based performance evaluation of new generation dynamic shading devices with multi-objective optimization,static_other,exclude,facade_no_movement
+2-s2.0-85193508532,A New Dynamic and Vertical Photovoltaic Integrated Building Envelope for High-Rise Glaze-Facade Buildings,control_of_static,exclude,facade_no_movement
+2-s2.0-85196655882,Longitudinal dynamic envelope solution and transition path optimization based on reachability analysis for fixed-wing VTOL UAVs,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85190986013,"Development of ReShadS, a climate-responsive shading system: Conception, design, fabrication, and small-scale testing",static_other,exclude,facade_no_movement
+2-s2.0-85209787539,The development of a Modular Adaptive Facade System Based on Pre-Calculated Light Values Through Parametric Models and Real-Time Light Sensors,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85193234126,From layer to building: Multiscale modeling of thermo-optical properties in 3D-printed facades,static_other,exclude,facade_no_movement
+2-s2.0-85189759893,Optimizing a courtyard microclimate with adaptable shading and evaporative cooling in a hot mediterranean climate,static_other,exclude,facade_no_movement
+2-s2.0-85198326903,ENHANCING ENERGY EFFICIENCY IN GLASS FACADES THROUGH BIOMIMETIC DESIGN STRATEGIES,static_other,exclude,facade_no_movement
+2-s2.0-85197406007,SIMULATION STUDY ON DYNAMIC ENVELOPE AND INTERFERENCE CHECK OF STITCH WIRE,static_other,exclude,facade_no_movement
+2-s2.0-85194848236,The Adaptive Architectural Layout: How the Control of a Semi-Autonomous Mobile Robotic Partition was Shared to Mediate the Environmental Demands and Resources of an Open-Plan Ofice,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85193480312,"Energetic advantages and well-being improvement for building occupants, connected to dynamic building envelope solutions, with special focus on intelligent solar shading and ventilative cooling of NZEB and ZEB buildings",static_other,exclude,facade_no_movement
+2-s2.0-85162678127,Contextualized computations: a multi-objective optimization approach for designing contextually responsive building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85185193593,A simulation-based workflow to calculate overall thermal transfer value when implementing daylighting-oriented shading control,static_other,exclude,facade_no_movement
+2-s2.0-85194395337,"Analysis and Visualisation of Large Scale Life Cycle Assessment Results: A Case Study on an Adaptive, Multilayer Membrane Façade",static_other,exclude,facade_no_movement
+2-s2.0-85187241288,Thermal performance of an advanced smart fenestration systems for low-energy buildings,chromogenic,exclude,facade_no_movement
+2-s2.0-85184472885,From Flora to Solar Adaptive Facades: Integrating Plant-Inspired Design with Photovoltaic Technologies,static_other,exclude,facade_no_movement
+2-s2.0-105023670194,Performance Based Dynamic Shading Module: Exploring fold adaptive mechanisms for tropical office façades,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-105023678013,Climate Resilient Vertical Green Façades: Shading Strategies for Vegetation on Building Skins,insufficient_info,exclude,insufficient_info
+2-s2.0-85217174703,DYNAMIC INSULATED SHUTTER SYSTEM FOR A DOUBLE-LAYER BUILDING FAÇADE: A CASE STUDY WITH PHYSICAL PROTOTYPE,insufficient_info,exclude,insufficient_info
+2-s2.0-85190757691,Application Potential Analysis of a New Dynamic Building Envelope in Public Buildings,static_other,exclude,facade_no_movement
+2-s2.0-85207651884,Deterministic Sizing of Integrated Facade Nodes for Smart Buildings,static_other,exclude,facade_no_movement
+2-s2.0-105012247816,Implementing Adaptive Responsive Facade to Achieve Sustainable Design,insufficient_info,exclude,insufficient_info
+2-s2.0-85189613424,Technology to Build Architecture: Application of Adaptive Facade on a New Multifunctional Arena,static_other,exclude,facade_no_movement
+2-s2.0-105012253120,"Strategies to Revive External Adaptive Shading Systems for Residential Architecture: A study based on Literature, Questionnaire and Observed Examples from Delhi",insufficient_info,exclude,insufficient_info
+2-s2.0-85210040944,Quantum potential energy: Adaptive facades in architecture,static_other,exclude,facade_no_movement
+2-s2.0-85202443656,Parametric Design of an Adaptive Shading Solution for an Overheated Residential High-Rise: A Digital Fabrication Approach,static_other,exclude,facade_no_movement
+2-s2.0-85211894520,Optimizing Integrated Shading Device and Light Shelf for Daylight Performance and Visual Comfort in Architecture Studio,static_other,exclude,facade_no_movement
+2-s2.0-85210884603,Enhanced Building Energy Efficiency by a Novel Dynamic Photovoltaic-integrated Shading Device (PVSD),insufficient_info,exclude,insufficient_info
+2-s2.0-105023699133,Bio-HNV: Bio-based Humidity-responsive Night Ventilation for climate resilience: A new generation of responsive building skin for passive cooling,insufficient_info,exclude,insufficient_info
+2-s2.0-105023708616,Predicting annual hourly daylight performance of buildings using Conditional Generative Adversarial Network (cGAN),insufficient_info,exclude,insufficient_info
+2-s2.0-105027921914,SEISMIC RESPONSE OF THE CABLE-SUPPORTED GLASS FACADES BETWEEN ADJACENT STRUCTURES,static_other,exclude,facade_no_movement
+2-s2.0-85211811073,Enhancement of an Adaptive Building-Skin System for Local and Remote Multi-Modal Operation,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85217350242,Thermo Bi-Metal: A Sustainable Biomaterial for Breathing Façade,static_other,exclude,facade_no_movement
+2-s2.0-85218343194,Partial Shading Effect Minimization in a PV Array using Shading Behaviour based Adaptive Reconfiguration Algorithm,static_other,exclude,facade_no_movement
+2-s2.0-105000064557,Beyond Water: Step Wells and Community Hydraulics in Modern India,static_other,exclude,facade_no_movement
+2-s2.0-85210237201,Aspen Leaves as a Biological Role Model for a Triboelectric Wind Energy Harvesting Building Facade System: Generating Power Through the Movement of Leaves in the Wind,insufficient_info,exclude,insufficient_info
+2-s2.0-85213308925,Optimizing Building Envelope Features: Towards Climate Responsive Energy Efficient Buildings in Hot Climates,static_other,exclude,facade_no_movement
+2-s2.0-85198368003,Biomimicry in Smart City Building Skins: A Nature-Inspired Approach to Urban Energy Efficiency,static_other,exclude,facade_no_movement
+2-s2.0-85217005648,Unlocking the Potential of Building Envelopes: Sustainable and People-Centered Approach to Reduce the Environmental Footprint of the Built Environment,static_other,exclude,facade_no_movement
+2-s2.0-85211597558,Application of Ladybug Tool on Building-Installed PV Reconfiguration Under Partial Shading Condition,static_other,exclude,facade_no_movement
+2-s2.0-85183349906,"Sensitivity analysis of sensor placement in energy-efficient, grid-interactive ready small office buildings with dynamic shading and lighting control",movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85189561696,AI-Based Models in Support of Human-Centric Indoor Environment Design: Towards Climate-Adaptive Façade Design Integrating Occupant Satisfaction,control_of_static,exclude,facade_no_movement
+2-s2.0-85171674552,A design methodology to consider occupants’ spatial adjustment and manage view content in adaptive façade design for improving visual comfort,static_other,exclude,facade_no_movement
+2-s2.0-85188660981,An Experimental Framework to Measure Dynamic Thermal Resilience of Wall Panels under Extreme Weather Conditions,static_other,exclude,facade_no_movement
+2-s2.0-85198450166,Influence of Sandwich Panels as Building Envelope on the Nonlinear Dynamic Response of an Industrial Steel Structure,static_other,exclude,facade_no_movement
+2-s2.0-105027925874,SEISMIC VULNERABILTY OF MASONRY CHURCH FACADES,static_other,exclude,facade_no_movement
+2-s2.0-105000576167,Thermal Performance of Building Envelopes,pcm_thermal,exclude,facade_no_movement
+2-s2.0-85196731286,"3D PRINTING SELF-SHADING WALL STRUCTURE WITH EARTH: Enhancing thermal properties in Earthen Architecture through Computational tool path design, inspired by nature & vernacular architecture",insufficient_info,exclude,insufficient_info
+2-s2.0-85187140211,Biomimetic design of building facades: an evolutionary-based computational approach inspired by elephant skin for cooling in hot and humid climates,static_other,exclude,facade_no_movement
+2-s2.0-85207102947,A dynamic envelope extraction method of spacecraft parameters based on improved curve matching search,not_facade_other,exclude,not_facade
+2-s2.0-85177043703,A Hybrid Deployable Vault Structure by Coupling Origami Folded Plates with a Scissors – Four Bar Linkage Frame,movable_possible->include,include,
+2-s2.0-85217816030,MULTI-OBJECTIVE OPTIMIZATION OF BUILDING ENVELOPE FOR DAYLIGHT AND ENERGY PERFORMANCE IN HOT AND DRY INDIAN CLIMATE,static_other,exclude,facade_no_movement
+2-s2.0-85206218148,"Multi-objective Optimization for Visual, Thermal, and Energy Performance of Glazing and Shading Assemblies in Temperate Climate Zone of India",static_other,exclude,facade_no_movement
+2-s2.0-85172272241,Example-based dynamic façade design using the facade daylighting performance improvement (FDPI) indicator,static_other,exclude,facade_no_movement
+2-s2.0-85177649709,A conceptual design of circular adaptive façade module for reuse,static_other,exclude,facade_no_movement
+2-s2.0-85177607076,Draw to shade: A personalized daylighting regulation method through user-involved paintings for enhanced indoor visual comfort and aesthetics experience,static_other,exclude,facade_no_movement
+2-s2.0-85171480738,A novel building envelope combined with jumping-droplet thermal diode: From theory to practice,static_other,exclude,facade_no_movement
+2-s2.0-85178051226,Hygrothermal Assessment of a Façade with ETICS Using Dynamic Monitoring and Numerical Simulation in a Real Case Study,static_other,exclude,facade_no_movement
+2-s2.0-85178344728,Optimising Daylight and Ventilation Performance: A Building Envelope Design Methodology,static_other,exclude,facade_no_movement
+2-s2.0-85199235039,Process-Oriented Design Methodologies Inspired by Tropical Plants,static_other,exclude,facade_no_movement
+2-s2.0-85170405680,Combining point cloud and surface methods for modeling partial shading impacts of trees on urban solar irradiance,static_other,exclude,facade_no_movement
+2-s2.0-85179158560,"Sustainability, through passive solar building envelope design, based on the principles of bioinspiration.",static_other,exclude,facade_no_movement
+2-s2.0-85164688708,An innovative multifunctional biomimetic adaptive building envelope based on a novel integrated methodology of merging biological mechanisms,static_other,exclude,facade_no_movement
+2-s2.0-85165353988,Adaptive Façades Strategy: An architect-friendly computational approach based on co-simulation and white-box models for the early design stage,static_other,exclude,facade_no_movement
+2-s2.0-85162256640,Experimental assessment of the energy performance of microfluidic glazing components: The first results of a monitoring campaign carried out in an outdoor test facility,static_other,exclude,facade_no_movement
+2-s2.0-85150372995,Potential application of a novel building-integrated solar facade water heating system in a subtropical climate: A case study for school canteen,static_other,exclude,facade_no_movement
+2-s2.0-85151526234,Design and optimization of thermally responsive autonomous dynamic glazed attachment systems for building solar heat gain control,static_other,exclude,facade_no_movement
+2-s2.0-85173843361,The impact of building surface optimization and dynamic control on climate adaptation,static_other,exclude,facade_no_movement
+2-s2.0-85162847924,Frequency calculation method and wind-induced dynamic response of cable net façades considering the façade stiffness,static_other,exclude,facade_no_movement
+2-s2.0-105018889940,Evaluation of building energy load of a multipurpose hall and its optimization through spectrally selective fenestration and passive design concepts,static_other,exclude,facade_no_movement
+2-s2.0-85164710412,An online learning framework for self-adaptive dynamic thermal modeling of building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85151370881,Modular responsive facade proposals based on semi-regular and demi-regular tessellation: daylighting and visual comfort,static_other,exclude,facade_no_movement
+2-s2.0-85169140900,"Daylighting Assessment of a Heritage Place of Instruction and Office Building in Alice, South Africa",static_other,exclude,facade_no_movement
+2-s2.0-85164496083,Comparing the thermal performance of Living Lab monitoring and simulation with different level of input detail,static_other,exclude,facade_no_movement
+2-s2.0-85150336122,Targeting modular adaptive façade personalization in a shared office space using fuzzy logic and genetic optimization,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85153574391,Energy flexibility of building systems in future scenarios: optimization of the control strategy of a dynamic shading system and definition of a new energy flexibility metric,control_of_static,exclude,facade_no_movement
+2-s2.0-85150448155,Optimal design method for photovoltaic shading devices (PVSDs) by combining geometric optimization and adaptive control model,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85162130738,Visual Comfort Assessment of Hospital Patient Rooms with Climate Responsive Facades,static_other,exclude,facade_no_movement
+2-s2.0-85156145141,Comparative analysis of different MPPT techniques using boost converter for photovoltaic systems under dynamic shading conditions,static_other,exclude,facade_no_movement
+2-s2.0-85148689706,Near-optimal adaptive predictive control model study for roller shades in office spaces,control_of_static,exclude,facade_no_movement
+2-s2.0-85160775362,Energy-Efficient Soho in South Jakarta with The Application of Adaptive Solar Facade,static_other,exclude,facade_no_movement
+2-s2.0-85147607160,The integrated design process of adaptive façades – A comprehensive perspective,static_other,exclude,facade_no_movement
+2-s2.0-85151884739,Comparison of control parameters for roller blinds,control_of_static,exclude,facade_no_movement
+2-s2.0-85160646711,Dynamic Analysis of Different Fenestration Design in Artificial Hip Joint Using Finite Element Analysis,static_other,exclude,facade_no_movement
+2-s2.0-85149867129,Semi-automated vs manually controlled dynamic facades: assessment through a field study on multi-domain occupant satisfaction,control_of_static,exclude,facade_no_movement
+2-s2.0-85159271790,Energy Performance and Control Strategy for Dynamic Façade with Perovskite PV Panels—Technical Analysis and Case Study,control_of_static,exclude,facade_no_movement
+2-s2.0-85147506039,Assessing the performance gap of two dynamic thermal modelling software tools when comparing with real-time data in relation to thermal loss,static_other,exclude,facade_no_movement
+2-s2.0-85159654611,Sustainable energy in the concept of kinetic architecture (case study: D*haus dynamic),not_facade_other,exclude,not_facade
+2-s2.0-85148544560,Multi-domain model-based control of an adaptive façade based on a flexible double skin system,dsf_static,exclude,facade_no_movement
+2-s2.0-85150033000,Significance of dynamic over static solar screens on thermal perception in perimeter offices under different sky conditions,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85147606550,A responsive double-skin façade for the retrofit of existing buildings: Analysis on an office building in a Mediterranean climate,dsf_static,exclude,facade_no_movement
+2-s2.0-85149323451,Effect of green infrastructures supported by adaptative solar shading systems on livability in open spaces,static_other,exclude,facade_no_movement
+2-s2.0-85147604019,Why are adaptive facades not widely used in practice? Identifying ecological and economical benefits with life cycle assessment,static_other,exclude,facade_no_movement
+2-s2.0-85149756516,Adaptive Dynamic Building Envelopes with Solar Power Components: Annual Performance Assessment for Two Pilot Sites,static_other,exclude,facade_no_movement
+2-s2.0-85151417516,AGRI|gen: Analysis and Design of a Parametric Modular System for Vertical Urban Agriculture,static_other,exclude,facade_no_movement
+2-s2.0-85146098882,Selection of spatial sensitivity curve and installation location of photosensors for daylight-linked control systems in space with dynamic shading devices,static_other,exclude,facade_no_movement
+2-s2.0-85147151982,Multilayered optofluidics for sustainable buildings,static_other,exclude,facade_no_movement
+2-s2.0-85149244015,Optimization Design and Trajectory Error Compensation of a Facade-Adaptive Wall-Climbing Robot,control_of_static,exclude,facade_no_movement
+2-s2.0-85149213705,"Ensuring the Authenticity of the Conservation and Reuse of Modern Industrial Heritage Architecture: A Case Study of the Large Machine Factory, China",static_other,exclude,facade_no_movement
+2-s2.0-85110797255,Recommended angle of a modular dynamic façade in hot-arid climate: daylighting and energy simulation,static_other,exclude,facade_no_movement
+2-s2.0-85191187291,The Impact of Thermally Adaptive Light Louvers Attached to Clerestories on Indoor Natural-Light Performance during the Winter Season,insufficient_info,exclude,insufficient_info
+2-s2.0-85179517009,Application of ISO/DIS 52016-3 for Dynamic Shadings in an Office Building,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85179506485,Adaptive façades for residential buildings: a preliminary study,static_other,exclude,facade_no_movement
+2-s2.0-85153756074,SYSTEMATIC CLASSIFICATION OF ADAPTIVE FAÇADES - PREPARING A DATABASE,static_other,exclude,facade_no_movement
+2-s2.0-85140480666,An Adaptive Facade Configuration for Daylighting Toward Energy-Efficient: Case Study on High-Rise Office Building in HCMC,static_other,exclude,facade_no_movement
+2-s2.0-85180745029,Computer-Aided Design Application in Determining Minimum Discomfort Glare,static_other,exclude,facade_no_movement
+2-s2.0-85197184816,OPTIMISING THE CONTROL STRATEGIES FOR PERFORMANCEDRIVEN DYNAMIC BUILDING FACADES USING MACHINE LEARNING,movable_possible->include,include,
+2-s2.0-85149995840,Introduction of Innovative Adaptive Building Envelopes to Improve Energy Efficiency of Apartment Buildings,static_other,exclude,facade_no_movement
+2-s2.0-85163971380,From Nature to Architecture for Low Tech Solutions: Biomimetic Principles for Climate-Adaptive Building Envelope,static_other,exclude,facade_no_movement
+2-s2.0-85146666655,A Parametric Design Method for the Lighting Environment of a Library Building Based on Building Performance Evaluation,static_other,exclude,facade_no_movement
+2-s2.0-85143384479,"Energy-efficient retrofitting with exterior shading device in hot and humid climate–case studies from fully glazed multi-storied office buildings in Chennai, India",static_other,exclude,facade_no_movement
+2-s2.0-85141527652,Low-carbon assessment of building facades using dynamic CO2 intensity of electricity generation in Japan,static_other,exclude,facade_no_movement
+2-s2.0-85163992096,Adaptive Building Technologies for Building Envelopes Under Climate Change Conditions,static_other,exclude,facade_no_movement
+2-s2.0-85179511685,Multispectral Lighting Simulation Approaches for Predicting Opsin-driven Metrics and their Application in a Neonatal Intensive Care Unit,static_other,exclude,facade_no_movement
+2-s2.0-85180158871,Sequentially coupling LBNL-method and Modelica to model and operate adaptive facades with inhomogeneous printing patterns,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85179504543,Impact of Different Perforation Rates of Perforated Louvers on Indoor Visual Comfort and Outdoor Views,control_of_static,exclude,facade_no_movement
+2-s2.0-85163969256,Building Façade Retrofit: A Comparison Between Current Methodologies and Innovative Membranes Strategies for Overcoming the Existing Retrofit Constraints,static_other,exclude,facade_no_movement
+2-s2.0-85207046420,Influence of anchoring and bracing system on dynamic characteristics of façade scaffolding,static_other,exclude,facade_no_movement
+2-s2.0-85171749239,USING CO-DESIGN FOR DEVELOPING A NEW WOODEN FAÇADE SYSTEM,static_other,exclude,facade_no_movement
+2-s2.0-85193907834,Building Envelope Cooling Inspired by Evapotranspiration in Trees,dsf_static,exclude,facade_no_movement
+2-s2.0-85172734244,Experimentation Processes for Building Envelope Innovation: The Building Future Lab,static_other,exclude,facade_no_movement
+2-s2.0-85180495697,Exploring the Feasibility of Utilizing Palm Tree Texture for a Self-Cleaning Architectural Design of Building Envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85137743412,Data-driven numerical models for the prediction of the thermal resistance value of the Enclosed Airspaces (EAs) in building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85180150748,Projected energy savings of a 3D printed selective heat transfer facade,static_other,exclude,facade_no_movement
+2-s2.0-85145608238,Extraordinary mechanics in slender structural surfaces,static_other,exclude,facade_no_movement
+2-s2.0-85159385162,Daylighting Design Strategies for Office Spaces in Different Chilean Climates,static_other,exclude,facade_no_movement
+2-s2.0-85173613581,Study on Artificial Neural Network Based MPPT Algorithm in PV Application,static_other,exclude,facade_no_movement
+2-s2.0-85182570322,Application of Multibody Dynamics Simulation in Approximation of Rail Vehicle Dynamic Envelope,static_other,exclude,facade_no_movement
+2-s2.0-85159441652,Structural Design and Analysis of an Adaptive Manipulator,static_other,exclude,facade_no_movement
+2-s2.0-85172442884,Utilizing Web Applications for Developing Digital Twin: Case study urban tunnel with kinetic roof,not_facade_other,exclude,not_facade
+2-s2.0-85179003206,Adaptive Envelope Detector-Based Phase Fault Detection Method for Power System Grid Distortions,static_other,exclude,facade_no_movement
+2-s2.0-85212483830,Maximization of the Smart Readiness Indicator of Buildings Under Budget Constraints,static_other,exclude,facade_no_movement
+2-s2.0-85178999167,3D Printing and Shape Memory Alloys,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85159932399,TWIN ROOMS – NEW EXPERIMENTAL TEST CELLS FOR TESTING ADVANCED FACADE ELEMENTS,static_other,exclude,facade_no_movement
+2-s2.0-85159959519,INNOVATION AND EXPERIMENTATION OF ADAPTIVE MODEL FOR CURTAIN WALL,static_other,exclude,facade_no_movement
+2-s2.0-85115234714,Investigating the probability of designing net-zero energy buildings with consideration of electric vehicles and renewable energy,static_other,exclude,facade_no_movement
+2-s2.0-85147337423,"Active, Passive and Cyber-Physical Adaptive Façade Strategies: a Comparative Analysis Through Case Studies",static_other,exclude,facade_no_movement
+2-s2.0-85147755626,Evaluation of Daylight and Glare Quality of Office Spaces with Flat and Dynamic Shading System Facades in Hot Arid Climate,static_other,exclude,facade_no_movement
+2-s2.0-85140906999,Modelling and validation of a single-storey flexible double-skin façade system with a building energy simulation tool,dsf_static,exclude,facade_no_movement
+2-s2.0-85143760432,"Modeling, Simulation, and Performance Analysis of a Liquid-Infill Tunable Window",static_other,exclude,facade_no_movement
+2-s2.0-85135907483,Performance Optimization of Building Facade Floodlighting under Dynamic Sky Luminance,static_other,exclude,facade_no_movement
+2-s2.0-85102990809,Improvement of the cultural heritage perception potential model by the usage of eye-tracking technology,static_other,exclude,facade_no_movement
+2-s2.0-105024206095,A wood-textile thermal active architectural envelope,static_other,exclude,facade_no_movement
+2-s2.0-85136676224,Method for dynamic thermal insulation design revealing almost real heat transfer characteristics of building envelopes in different Chinese regions,static_other,exclude,facade_no_movement
+2-s2.0-85130135255,The FIX-up mix-up; undue façadism or adaptive reuse? Examining the former FIX brewery transformation into the National Museum of Contemporary Art in Athens,static_other,exclude,facade_no_movement
+2-s2.0-85139911022,Parametric-Based Multi-Objective Optimization Workflow: Daylight and Energy Performance Study of Hospital Building in Algeria,control_of_static,exclude,facade_no_movement
+2-s2.0-85142533892,Morphology of kinetic asymptotic grids,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85136601993,"Multi-criteria decision making for adaptive façade optimal design in varied climates: Energy, daylight, occupants’ comfort, and outdoor view analysis",static_other,exclude,facade_no_movement
+2-s2.0-85133288515,Phenotype Variability Mimicking as a Process for the Test and Optimization of Dynamic Facade Systems,movable_possible->include,include,
+2-s2.0-85134432535,Human-centred performance criteria for adaptive façade design: Based on the results of a user experience survey,static_other,exclude,facade_no_movement
+2-s2.0-85134432171,Investigating the micro-scale thermal effects of natural underlying surfaces on adjacent spaces in a subtropical zone with an optimized method,static_other,exclude,facade_no_movement
+2-s2.0-85133905882,Quantifying potential dynamic façade energy savings in early design using constrained optimization,static_other,exclude,facade_no_movement
+2-s2.0-85137316779,Design of Innovative Parametric/Dynamic Façade Integrated in the Library Extension Building on UAEU Campus †,static_other,exclude,facade_no_movement
+2-s2.0-85137274984,A Parameterized Design Method for Building a Shading System Based on Climate Adaptability,static_other,exclude,facade_no_movement
+2-s2.0-85131225204,"An environment-adaptive wall: concept, implementation and effects on the energy performance of a residential building",static_other,exclude,facade_no_movement
+2-s2.0-85133165347,A Novel Framework for Optimizing Indoor Illuminance and Discovering Association of Involved Variables,movable_possible->include,include,
+2-s2.0-85128505195,Simulation-based personalized real-time control of adaptive facades in shared office spaces,control_of_static,exclude,facade_no_movement
+2-s2.0-85125576128,Visual Discomfort Analysis as a Tool to Support Façade Shading Design: A Case Study in the Architectural Design Studio,static_other,exclude,facade_no_movement
+2-s2.0-85125417925,Adaptive envelope protection control of wind turbines under varying operational conditions,control_of_static,exclude,facade_no_movement
+2-s2.0-85131377494,Main Characteristics of Adaptive Façades,static_other,exclude,facade_no_movement
+2-s2.0-85125474253,An occupant-centric adaptive façade based on real-time and contactless glare and thermal discomfort estimation using deep learning algorithm,static_other,exclude,facade_no_movement
+2-s2.0-85128025432,Integration and Verification of PLUG-N-HARVEST ICT Platform for Intelligent Management of Buildings,movable_possible->include,include,
+2-s2.0-85120816290,Realization of bi-level optimization of adaptive building envelope with a finite-difference model featuring short execution time and versatility,vent_breathing,exclude,facade_no_movement
+2-s2.0-85127309298,The Influence of Using Responsive Façade as a Tool for Improving the Built Environment: Case study: Attaba - Opera square,static_other,exclude,facade_no_movement
+2-s2.0-85123181369,Dynamic façades – An exploratory campaign to assess occupant multi-domain environmental satisfaction and façade interaction,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85112841586,Biomimetic building facades demonstrate potential to reduce energy consumption for different building typologies in different climate zones,static_other,exclude,facade_no_movement
+2-s2.0-85121308536,A combined scheme for maximising the output power of a Photovoltaic array under partial shading conditions,control_of_static,exclude,facade_no_movement
+2-s2.0-85142352228,Modeling the Shading Effect of Vancouver’s Urban Tree Canopy in Relation to Neighborhood Variations,static_other,exclude,facade_no_movement
+2-s2.0-85119679814,Interfacing DNA hydrogels with ceramics for biofunctional architectural materials,static_other,exclude,facade_no_movement
+2-s2.0-85122358876,Laboratory testbed and methods for flexible characterization of thermal and fluid dynamic behaviour of double skin facades,dsf_static,exclude,facade_no_movement
+2-s2.0-85102566878,ANP model for evaluating the performance of adaptive façade systems in complex commercial buildings,static_other,exclude,facade_no_movement
+2-s2.0-85123552064,"An Adaptive Building Skin Concept Resulting from a New Bioinspiration Process: Design, Prototyping, and Characterization",static_other,exclude,facade_no_movement
+2-s2.0-85145207484,Smart wall by wireless sensor network toward building energy optimization,static_other,exclude,facade_no_movement
+2-s2.0-85120399897,Dynamic compartmentalization of double-skin façade for an office building with single-sided ventilation,dsf_static,exclude,facade_no_movement
+2-s2.0-85183757871,MACHINE LEARNING MODELING AND GENETIC OPTIMIZATION OF ADAPTIVE BUILDING FAÇADE TOWARDS THE LIGHT ENVIRONMENT,static_other,exclude,facade_no_movement
+2-s2.0-85117376650,Optimizing the modular adaptive façade control strategy in open office space using integer programming and surrogate modelling,control_of_static,exclude,facade_no_movement
+2-s2.0-85104812806,"Adaptive building envelope simulation in current design practice: findings from interviews with practitioners about their understanding of methods, tools and workarounds and implications for future tool developments",static_other,exclude,facade_no_movement
+2-s2.0-85148509819,Empirical validation of co-simulation models for adaptive building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85136105100,INVESTIGATING THE IMPACT OF BIO-INSPIRED FAÇADE DESIGN ON INDOOR ENVIRONMENT,static_other,exclude,facade_no_movement
+2-s2.0-85125241913,Exploration of a Dynamic Building Skin System Responding to Light Environment Information,static_other,exclude,facade_no_movement
+2-s2.0-85122271221,Design Optimisation of Fixed and Adaptive Shading Devices on Four Façade Orientations of a High-Rise Office Building in the Tropics,static_other,exclude,facade_no_movement
+2-s2.0-85184339063,ADAPTIVE EXTERNAL SHADING SYSTEM FOR BETTER DAYLIGHT BALANCING WITH HEAT GAIN FOR THE COMPOSITE CLIMATE OF DELHI NCR,insufficient_info,exclude,insufficient_info
+2-s2.0-85101859685,A data-driven optimized daylight pattern for responsive facades design,movable_possible->include,include,
+2-s2.0-85169934946,Algae Bio-reactive Building Envelope: Dynamic Lighting and Energy Aspects for Algae-based Building Skin,insufficient_info,exclude,insufficient_info
+2-s2.0-85141161213,The Concept and Means of Adaptive Shading,static_other,exclude,facade_no_movement
+2-s2.0-85169924526,"Modeling, Simulation and Evaluation of a Double-Sided Hydronic Layer Embedded Opaque Climate-Adaptive Building Envelope",static_other,exclude,facade_no_movement
+2-s2.0-85146934745,PREDICTING COOLING ENERGY DEMANDS OF ADAPTIVE FACADES USING ARTIFICIAL NEURAL NETWORK,static_other,exclude,facade_no_movement
+2-s2.0-85138101402,Predicting Cooling Energy Demands of Adaptive Facades Using Artificial Neural Network,static_other,exclude,facade_no_movement
+2-s2.0-85161152137,Thermally Responsive Building Envelopes from Materials to Engineering,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85121667028,Integrated Adaptive Facades for Building Energy Efficiency and User’s Thermal Comfort,static_other,exclude,facade_no_movement
+2-s2.0-105019930027,Implementation of a Dynamic Thermal and Illuminance Control System in Responsive Façades: Shading Study,static_other,exclude,facade_no_movement
+2-s2.0-85151548623,The influence of occupant behaviour on the energy performance of single office space with adaptive facades: simulation versus measured data,control_of_static,exclude,facade_no_movement
+2-s2.0-85206503963,Physiomimetic Façade Design Systematics for a function-oriented transfer of biological principles to thermally-adaptive façade design concepts,insufficient_info,exclude,insufficient_info
+2-s2.0-85167569946,Control Strategies and Thermal Performance of Responsive Building Envelope with Active Insulation System,control_of_static,exclude,facade_no_movement
+2-s2.0-85118529507,Experimental-simulation methodology for estimation of thermal parameters of adaptive facades in mild climate conditions: A water-flow glazing case study,static_other,exclude,facade_no_movement
+2-s2.0-85124269240,Advanced control strategy to maximize view and control discomforting glare: a complex adaptive façade,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85184320541,"ENERGY-SAVING BY SHADING DEVICE'S SHADED AREA ON A FULLY GLAZED MULTI-STOREYED OFFICE BUILDING IN A HOT AND HUMID CLIMATE, CHENNAI, INDIA.",insufficient_info,exclude,insufficient_info
+2-s2.0-85147428263,NATURE-INSPIRED SUSTAINABLE SOLUTIONS FOR AN ARCHITECTURAL ENVIRONMENT,not_facade_other,exclude,not_facade
+2-s2.0-85169884090,Evaluating the Impacts of Weather Forecast Inaccuracy on Performance of Model Predictive Control for Dynamic Facades,control_of_static,exclude,facade_no_movement
+2-s2.0-85178623320,Solar shading as a cost-effective means to stop rising air-conditioning needs in Europe,insufficient_info,exclude,insufficient_info
+2-s2.0-85176505484,Implementation and Calibration of a Model to Treat Naturally Ventilated Complex Fenestration Systems in TRNSYS,movable_possible->include,include,
+2-s2.0-85167711872,Co-Simulation and Validation of Automated Shading Devices using EnergyPlus and Radiance to Optimize Building Energy Use,insufficient_info,exclude,insufficient_info
+2-s2.0-85170073090,Energy Use Sensitivity Analysis of Sensor Placement in Small Office Buildings with Dynamic Shading and Lighting,insufficient_info,exclude,insufficient_info
+2-s2.0-85106260631,Low-energy cooling and ventilation refurbishments for buildings in a Mediterranean climate,static_other,exclude,facade_no_movement
+2-s2.0-85149115511,OPTIMIZATION OF AN ADAPTIVE ALGAE FAÇADE BASED ON SOLAR RADIATION SIMULATION,static_other,exclude,facade_no_movement
+2-s2.0-85144597442,A Hydroactive Facade for Rainwater Harvesting and Evaporative Cooling: Dynamic Modeling and Simplification for Application in Optimization-based Long-term Building Operation Strategy∗,static_other,exclude,facade_no_movement
+2-s2.0-85128902624,Fast simulation of dynamic heat transfer through building envelopes via parareal algorithms,static_other,exclude,facade_no_movement
+2-s2.0-85130888521,"Morphological differentiation for the environmental adaptation of biomimetic buildings: Skins, surfaces, and structures",static_other,exclude,facade_no_movement
+2-s2.0-85106286476,Urban heat-mitigating building form and façade framework,static_other,exclude,facade_no_movement
+2-s2.0-85124775061,Diet-related changes of basal lamina fenestrations in the villous epithelium of the rat small intestine: Statistical analysis on scanning electron microscopy,static_other,exclude,facade_no_movement
+2-s2.0-85161122878,"Design Principles, Strategies, and Environmental Interaction of Dynamic Envelopes",static_other,exclude,facade_no_movement
+2-s2.0-85161151770,Material Driven Adaptive Design Model for Environmentally-Responsive Envelopes,movable_possible->include,include,
+2-s2.0-85146624692,Comparative Analysis between different types of Responsive Design Approach: (Applicability to Use in Different Climatic Regions in Egypt),static_other,exclude,facade_no_movement
+2-s2.0-85130959963,Exploiting the Potential of Nature for Sustainable Building Designs: A Novel Bioinspired Framework Based on a Characterization of Living Envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85139777874,Comprehensive Characterization of an Open Source Approach to Design in Architectural Education.: The integration of the “Do It Yourself” process in architectural design education,not_facade_other,exclude,not_facade
+2-s2.0-85136517576,Design and Manufacturing of Adaptive Facades in a Life Cycle Approach: A Survey on Challenges and Solutions in the Italian Building Industry,static_other,exclude,facade_no_movement
+2-s2.0-85121833504,Biomimetic approaches for adaptive building envelopes: Applications and design considerations,static_other,exclude,facade_no_movement
+2-s2.0-85121099661,Efficient shading device as an important part of daylightophil architecture; a designerly framework of high-performance architecture for an office building in Tehran,static_other,exclude,facade_no_movement
+2-s2.0-85120030842,Bio-algae: a study of an interactive facade for commercial buildings in populated cities,static_other,exclude,facade_no_movement
+2-s2.0-85116428468,Development of an Improved GMPPT Based on Scanning Method for PV System Operating under a Dynamic Partial Shading Conditions,static_other,exclude,facade_no_movement
+2-s2.0-85120848775,Evaporative cooling strategies in urban areas: The potential of vertical greening systems to reduce nocturnal heat stress,static_other,exclude,facade_no_movement
+2-s2.0-85120866533,Time enhanced architectural modelling (T.E.A.M.): Virtual reality project for the planning and visualization of kinetic architecture and dynamic design,not_facade_other,exclude,not_facade
+2-s2.0-85113599150,Evaluating dynamic thermal performance of building envelope components using small-scale calibrated hot box tests,static_other,exclude,facade_no_movement
+2-s2.0-85120480218,Designing louvers toward optimum daylight performance in Indonesia: A parametric study,static_other,exclude,facade_no_movement
+2-s2.0-85119376531,Surveying impacts of adaptive facades on acoustical quality of classrooms,pcm_thermal,exclude,facade_no_movement
+2-s2.0-85118968789,An evaluation of useful daylight illuminance in an office room with a light shelf and translucent ceiling at 51◦ n,static_other,exclude,facade_no_movement
+2-s2.0-85119120665,Multi-component MHD model of hot jupiter envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85109390454,"A dynamic vertical shading optimisation to improve view, visual comfort and operational energy",movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85109460031,"Design, construction and validation of MATELab: A novel outdoor chamber for investigating occupant-facade interaction",static_other,exclude,facade_no_movement
+2-s2.0-85107983070,Thermal Characterization of Building Walls under Random Boundary Conditions,static_other,exclude,facade_no_movement
+2-s2.0-85118460027,"Energy refurbishment of an office building by addition of a second skin: Improvement of thermal behavior, energy performance and possible conversion by PV",dsf_static,exclude,facade_no_movement
+2-s2.0-85107134486,"Model predictive control for integrated control of air-conditioning and mechanical ventilation, lighting and shading systems",control_of_static,exclude,facade_no_movement
+2-s2.0-85108866841,Design processes and multi-regulation of biomimetic building skins: A comparative analysis,static_other,exclude,facade_no_movement
+2-s2.0-85097248742,Robotics application for the advanced integration of design and technology in architecture,not_facade_other,exclude,not_facade
+2-s2.0-85112551743,Energy Efficient Buildings with Algae,static_other,exclude,facade_no_movement
+2-s2.0-85112097850,"The adaptive power of ammophila arenaria: Biomimetic study, systematic observation, parametric design, and experimental tests with bimetal",static_other,exclude,facade_no_movement
+2-s2.0-85105498606,A novel musical chairs algorithm applied for MPPT of PV systems,static_other,exclude,facade_no_movement
+2-s2.0-85111154588,Parametric design and comfort optimization of dynamic shading structures,static_other,exclude,facade_no_movement
+2-s2.0-85109511276,A study on the trends for expression in Korean contemporary architectural facade design: Focusing on large buildings in the city center,media_led,exclude,facade_no_movement
+2-s2.0-85079369642,"Biophilic, photobiological and energy-efficient design framework of adaptive building façades for Northern Canada",static_other,exclude,facade_no_movement
+2-s2.0-85108017781,Zero energy building economic and energetic assessment with simulated and real data using photovoltaics and water flow glazing,static_other,exclude,facade_no_movement
+2-s2.0-85105568411,Uncertainty of solar radiation in urban canyons propagates to indoor thermo-visual comfort,static_other,exclude,facade_no_movement
+2-s2.0-85089452205,Potential annual daylighting performance of a high-efficiency daylight redirecting slat system,not_facade_other,exclude,not_facade
+2-s2.0-85107426727,A data-driven method to minimize sensor use for dynamic shading control,static_other,exclude,facade_no_movement
+2-s2.0-85104347322,"Biophilic photobiological adaptive envelopes for sub-Arctic buildings: Exploring impacts of window sizes and shading panels’ color, reflectance, and configuration",static_other,exclude,facade_no_movement
+2-s2.0-85106885222,The significance of the adaptive thermal comfort practice over the structure retrofits to sustain indoor thermal comfort,static_other,exclude,facade_no_movement
+2-s2.0-85099208246,Numerical investigation of indoor thermal comfort and air quality for a multi-purpose hall with various shading and glazing ratios,static_other,exclude,facade_no_movement
+2-s2.0-85100431205,"Development of an integrated tool based on life cycle assessment, Levelized energy, and life cycle cost analysis to choose sustainable Facade Integrated Photovoltaic Systems",static_other,exclude,facade_no_movement
+2-s2.0-85100644431,Calibration of energy simulation using optimization for buildings with dynamic shading systems,static_other,exclude,facade_no_movement
+2-s2.0-85101168497,Experimental determination of the building envelope's dynamic thermal characteristics in consideration of hygrothermal modelling – Assessment of methods and sources of uncertainty,static_other,exclude,facade_no_movement
+2-s2.0-85105090023,Life Cycle Assessment of Dynamic Water Flow Glazing Envelopes: A Case Study with Real Test Facilities,static_other,exclude,facade_no_movement
+2-s2.0-85099257473,Simplified Model for Directional Delivery of Air Through Louvers Used in Air-Conditioning Systems,static_other,exclude,facade_no_movement
+2-s2.0-85123768643,Applied innovation: Technological experiments on biomimetic façade systems and solar panels,static_other,exclude,facade_no_movement
+2-s2.0-85099219026,Ten questions concerning co-simulation for performance prediction of advanced building envelopes,control_of_static,exclude,facade_no_movement
+2-s2.0-85136112302,Biomimetic adaptive building skins: design and performance,static_other,exclude,facade_no_movement
+2-s2.0-85124765122,An Autonomous Bio-Inspired Shading Façade System based on Plant Movement Principles,insufficient_info,exclude,insufficient_info
+2-s2.0-85088046524,A user detective adaptive facade towards improving visual and thermal comfort,static_other,exclude,facade_no_movement
+2-s2.0-85141914528,"Utilizing dynamic shading system to achieve daylight performance according to LEED standards V.4: case study, university classrooms in Egypt",static_other,exclude,facade_no_movement
+2-s2.0-85120787117,Adaptive bending-active modules for a tensile solar shading system,static_other,exclude,facade_no_movement
+2-s2.0-85124566177,Assessment of the Potential of Adaptive Building Envelopes in Beirut,static_other,exclude,facade_no_movement
+2-s2.0-85117696817,Potentials of Plant’s Strategies for an Adaptive Building Envelope,static_other,exclude,facade_no_movement
+2-s2.0-85125762052,Design of Library Extension Featuring a Parametric/Dynamic Façade and Integrated with the Landscape in UAEU Campus,insufficient_info,exclude,insufficient_info
+2-s2.0-85100006012,Bioshading system design method (BSDM),static_other,exclude,facade_no_movement
+2-s2.0-85104797731,Notes from the Valley of Death: A Case for Entrepreneurship in Architecture,static_other,exclude,facade_no_movement
+2-s2.0-85104637043,The synergy of building massing and facade: An evo-devo approach for performance-based design optimization combining facade design with building massing,static_other,exclude,facade_no_movement
+2-s2.0-85124977232,On the possibility of using simple weather forecast in the adaptation of building envelopes for energy efficiency,static_other,exclude,facade_no_movement
+2-s2.0-85136160419,"Inverse design for advanced building envelope materials, systems and operation",static_other,exclude,facade_no_movement
+2-s2.0-85119206483,Dynamic heat transfer simulation method of building envelope based on Laguerre polynomials model order reduction,static_other,exclude,facade_no_movement
+2-s2.0-85171377186,Biointelligent quotient house as an algae-based green building,static_other,exclude,facade_no_movement
+2-s2.0-85122146867,Computational modeling of the mechanics of energy harvesters based on tensegrity solar faÇades,static_other,exclude,facade_no_movement
+2-s2.0-85100042183,Proof of concept (Poc) 1.0—implementing a bioshading system design method,static_other,exclude,facade_no_movement
+2-s2.0-85101800826,Thermal performance of alternative binders lime hemp concrete (LHC) building: comparison with conventional building materials,static_other,exclude,facade_no_movement
+2-s2.0-85113814258,Full-scale experimental testing to investigate windwind-induced vibrations on curtain wall systems,static_other,exclude,facade_no_movement
+2-s2.0-85104604035,Folded surface elements coupled with planar scissor linkages: A novel hybrid type of deployable structures,movable_possible->include,include,
+2-s2.0-85097083308,Development and validation of a roadmap to assist the performance-based early-stage design process of adaptive opaque facades,static_other,exclude,facade_no_movement
+2-s2.0-85097335556,The adaptive envelope and its role in providing improvements for high-rise buildings performance,insufficient_info,exclude,insufficient_info
+2-s2.0-85099553034,The influence of solar-shading systems on an office building cooling load,static_other,exclude,facade_no_movement
+2-s2.0-85096432051,Progressive Collapse of flat slab structures-key elements and connections,static_other,exclude,facade_no_movement
+2-s2.0-85089254762,Slumped IGU’s with large airspaces: engineering challenges and solutions,static_other,exclude,facade_no_movement
+2-s2.0-85090335845,A comprehensive adaptive approach to calculating the envelope surface of the digital models in CNC machining,static_other,exclude,facade_no_movement
+2-s2.0-85084830682,Future trends and main concepts of adaptive facade systems,static_other,exclude,facade_no_movement
+2-s2.0-85085270237,Dynamic Climate Analysis for early design stages: a new methodological approach to detect preferable Adaptive Opaque Façade Responses,static_other,exclude,facade_no_movement
+2-s2.0-85087008459,Early Renal Function Alterations in Renal Branches vs. Renal Fenestrations – A Dynamic Scintigraphy Based Prospective Study,static_other,exclude,facade_no_movement
+2-s2.0-85090332201,Images of associative psychology as a generator of architectural education ideas,not_facade_other,exclude,not_facade
+2-s2.0-85091373991,Utilizing Technology of Dynamic Faces on Buildings,static_other,exclude,facade_no_movement
+2-s2.0-85086162735,Innovative control approaches to assess energy implications of adaptive facades based on simulation using EnergyPlus,movable_possible->include,include,
+2-s2.0-85089192606,Destructive reverse bias pinning in perovskite/silicon tandem solar modules caused by perovskite hysteresis under dynamic shading,static_other,exclude,facade_no_movement
+2-s2.0-85089198087,A framework to achieve multifunctionality in biomimetic adaptive building skins,static_other,exclude,facade_no_movement
+2-s2.0-85083325294,Energy consumption of water-filled glass (WFG) hybrid building envelope,static_other,exclude,facade_no_movement
+2-s2.0-85087331408,Heating and Cooling Energy Savings of a Proposed Variable Thermal Resistance Envelope (Dynamic EIFS) in Office Buildings,static_other,exclude,facade_no_movement
+2-s2.0-85083332795,Auto-responsive technologies for thermal renovation of opaque facades,static_other,exclude,facade_no_movement
+2-s2.0-85088145745,Research on Adaptive Facade Renovation Design of Industrial Architectural Heritage: A Case Study of Nanjing Hutchison Factory,static_other,exclude,facade_no_movement
+2-s2.0-85128181107,"Wood-based Responsive Systems: A Workflow for Simulating, Predicting and Steering Material Performance in Architectural Design",not_facade_other,exclude,not_facade
+2-s2.0-85081216955,Enhancing building energy efficiency by adaptive façade: A computational optimization approach,static_other,exclude,facade_no_movement
+2-s2.0-85081971163,Influence of two motion types on solar transmittance and daylight performance of dynamic façades,movable_possible->include,include,
+2-s2.0-85079325450,Automated adaptive façade functions in practice - Case studies on office buildings,static_other,exclude,facade_no_movement
+2-s2.0-85079685271,Simulation and experimental validation of fast adaptive particle swarm optimization strategy for photovoltaic global peak tracker under dynamic partial shading,static_other,exclude,facade_no_movement
+2-s2.0-85080077231,Energy savings and daylighting evaluation of dynamic venetian blinds and lighting through full-scale experimental testing,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85083718105,Occupant-centered optimization framework to evaluate and design new dynamic shading typologies,static_other,exclude,facade_no_movement
+2-s2.0-85084984543,Towards efficient green architecture and sustainable facades using novel brick design,static_other,exclude,facade_no_movement
+2-s2.0-85083862307,Adaptive Deep Learning Aided Digital Predistorter Considering Dynamic Envelope,static_other,exclude,facade_no_movement
+2-s2.0-85082575519,A study of an adaptive building facade in West Jakarta,static_other,exclude,facade_no_movement
+2-s2.0-85082446690,The Prospects of Application in Russia New Generation of Envelopes - Dynamic/Adaptive Facades,static_other,exclude,facade_no_movement
+2-s2.0-85076591468,Economic model predictive control of space heating and dynamic solar shading,movable_possible->include,include,
+2-s2.0-85074022155,Body force model for simulating airflow through dynamically oscillating louvers,static_other,exclude,facade_no_movement
+2-s2.0-85081231680,A methodology of interactive motion facades design through parametric strategies,static_other,exclude,facade_no_movement
+2-s2.0-85076808957,Design strategies and energy performance of a net-zero energy house based on natural philosophy,static_other,exclude,facade_no_movement
+2-s2.0-85067350173,Dynamic Façades: Optimization of Natural Light at Workplaces,static_other,exclude,facade_no_movement
+2-s2.0-85097526375,Designing a dynamic fenestration to improve visual performance in educational spaces using daylight,static_other,exclude,facade_no_movement
+2-s2.0-85088049126,Transformable building envelope design in architectural education,control_of_static,exclude,facade_no_movement
+2-s2.0-85141912564,"Single-Skin and Multi-Skin Building Envelopes in Extreme Sub-Arctic Climates: Biophilic, Healthy Lighting and Thermal Performance Evaluations",insufficient_info,exclude,insufficient_info
+2-s2.0-85099731186,Dynamics of tensegrity solar FaÇades operating as mechanical energy harvesters,insufficient_info,exclude,insufficient_info
+2-s2.0-85103648888,Semi-passive architecture facade design,insufficient_info,exclude,insufficient_info
+2-s2.0-85089282163,Building integrated photobioreactor,static_other,exclude,facade_no_movement
+2-s2.0-105007397822,The use of biological models for building engineering design,static_other,exclude,facade_no_movement
+2-s2.0-85184995407,Thermo-Spatial Performances of Eight Responsive Envelopes Simulation Studies Benchmarking Built Active Solar Shading Envelopes,insufficient_info,exclude,insufficient_info
+2-s2.0-85108424163,Effect of applied interior thermal insulation systems on the energy performance of a historical/contemporary masonry,static_other,exclude,facade_no_movement
+2-s2.0-85091330349,Hygro-compliant: Responsive architecture with passively actuated compliant mechanisms,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85105728083,Quantifying the residential demand response participation of dynamic building envelopes,insufficient_info,exclude,insufficient_info
+2-s2.0-85096921942,Effect of applied interior thermal insulation systems on the energy performance of a historical/contemporary masonry,static_other,exclude,facade_no_movement
+2-s2.0-85075417999,Comparison of energy conservation measures considering adaptive thermal comfort and climate change in existing Mediterranean dwellings,static_other,exclude,facade_no_movement
+2-s2.0-85088013001,Bioclimatic building design theory and application,control_of_static,exclude,facade_no_movement
+2-s2.0-85112202244,Improving the Energy Efficiency Of a Mediterranean High-Rise Envelope,insufficient_info,exclude,insufficient_info
+2-s2.0-85090829802,Numerical and experimental characterization of the thermal behavior of complex fenestrations systems under dynamic conditions,insufficient_info,exclude,insufficient_info
+2-s2.0-85097549274,Self-adapting faÇade systems: Experimentation regarding the exploitation of thermal dilation,static_other,exclude,facade_no_movement
+2-s2.0-85070110145,Carbon counter electrode mesoscopic ambient processed & characterised perovskite for adaptive BIPV fenestration,static_other,exclude,facade_no_movement
+2-s2.0-85184995809,The influence of discomfort glare on shading devices and its implications for daylit offices in tropical regions,insufficient_info,exclude,insufficient_info
+2-s2.0-85142154875,Auto-Responsive Technologies: Criteria for usage in opaque facade thermal rehabilitation,insufficient_info,exclude,insufficient_info
+2-s2.0-85185001462,Window Design and the Design of Air Flow Simulation Studies Revealing How Windows Form Air Movement,insufficient_info,exclude,insufficient_info
+2-s2.0-85160419231,Exergy-Based Responsive Building Composites For Thermal Control Stimuli of an Adaptive Envelope,insufficient_info,exclude,insufficient_info
+2-s2.0-85098769354,The concept of application of nanomaterials on the envelope facade of buildings in Egypt,insufficient_info,exclude,insufficient_info
+2-s2.0-85074177314,Biomimetic adaptive building skins: Energy and environmental regulation in buildings,static_other,exclude,facade_no_movement
+2-s2.0-85104165555,"Dynamic vocabularies: Active facade tectonics: Sensing and reacting to the wicked, complex entanglements of building envelope architecting",insufficient_info,exclude,insufficient_info
+2-s2.0-85078610203,Photobioreactors as a dynamic shading system conceived for an outdoor workspace of the state library of queensland in brisbane: Study of daylighting performances,static_other,exclude,facade_no_movement
+2-s2.0-85077167867,Development of a hybrid behavioural and thermal adaptive building envelope,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85075131861,Hybrid design method for wind-adaptive architecture,static_other,exclude,facade_no_movement
+2-s2.0-85065818964,Influence of slat angle and low-emissive partitioning radiant energy veils on the thermal performance of multilayered windows for dynamic facades,not_facade_other,exclude,not_facade
+2-s2.0-85076262438,The energy of the green: Green facades and vertical farm as dynamic envelope for resilient building,static_other,exclude,facade_no_movement
+2-s2.0-85072712874,Novel methodology for detecting non-ideal operating conditions for grid-connected photovoltaic plants using Internet of Things architecture,static_other,exclude,facade_no_movement
+2-s2.0-85072753526,Evaluation of climate-based daylighting techniques for complex fenestration and shading systems,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85068889316,Thermally responsive coating on building heating and cooling energy efficiency and indoor comfort improvement,movable_possible->include,include,
+2-s2.0-85074473636,A simulation study on the performance of double skin facąde through experimental design methods and analysis of variance,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85069661354,Dynamic identification of a masonry façade from seismic response data based on an elementary Ordinary Least Squares approach,static_other,exclude,facade_no_movement
+2-s2.0-85071248411,Proof of concept for a novel and smart shade resilient photovoltaic module,static_other,exclude,facade_no_movement
+2-s2.0-85077528522,Adaptive building and skin: An innovative computational workflow to design energy efficient buildings in different climate zones,static_other,exclude,facade_no_movement
+2-s2.0-85067082599,Evolution of all-glass nearly Zero Energy Buildings with respect to the local climate and free-cooling techniques,static_other,exclude,facade_no_movement
+2-s2.0-85068486939,Transforming our buildings for a low-carbon era: Five key strategies,static_other,exclude,facade_no_movement
+2-s2.0-85069176656,Sustainable facade design for glazed buildings in a blast resilient urban environment,static_other,exclude,facade_no_movement
+2-s2.0-85065639636,"Assessment of the perception of cultural heritage as an adaptive re-use and sustainable development strategy: Case study of Kaunas, Lithuania",static_other,exclude,facade_no_movement
+2-s2.0-85065057146,Full-scale experimental testing of integrated dynamically-operated roller shades and lighting in perimeter office spaces,control_of_static,exclude,facade_no_movement
+2-s2.0-85068793809,Experimental Assessment of the Facąde-Integrated Thermoelectric Air-Conditioning Unit towards Development of the Autonomous Curtain Walling Module,static_other,exclude,facade_no_movement
+2-s2.0-85065241431,Development and validation of a survey for well-being and interaction assessment by occupants in office buildings with adaptive facades,static_other,exclude,facade_no_movement
+2-s2.0-85078728789,Learning modules for geometric pattern identification and mathematical modeling of facade systems,static_other,exclude,facade_no_movement
+2-s2.0-85063787030,Designing with pixels: parametric thinking for patterning dynamic building facades,static_other,exclude,facade_no_movement
+2-s2.0-85060948233,Opportunities and pitfalls of using building performance simulation in explorative R&D contexts,static_other,exclude,facade_no_movement
+2-s2.0-85067082836,Rapid simulation of optimally responsive façade during schematic design phases: Use of a new hybrid metaheuristic algorithm,static_other,exclude,facade_no_movement
+2-s2.0-85063258841,A photobiological approach to biophilic design in extreme climates,static_other,exclude,facade_no_movement
+2-s2.0-85064674599,Pushing the envelope: Innovation and collaboration at Bloomberg’s new European headquarters,static_other,exclude,facade_no_movement
+2-s2.0-85064393213,Construction and Control Strategy of Dynamic Facade Model of Office Building in Severe Cold Region,control_of_static,exclude,facade_no_movement
+2-s2.0-85063378144,Multivariable Optimization of Dynamic Translucent Solar Screen on West-Facing Offices,static_other,exclude,facade_no_movement
+2-s2.0-85057812662,An approach to calculate the equivalent solar heat gain coefficient of glass windows with fixed and dynamic shading in tropical climates,static_other,exclude,facade_no_movement
+2-s2.0-85072816087,Kinetic elements in residential designs,not_facade_other,exclude,not_facade
+2-s2.0-85062466985,Determination of the flight dynamic envelope via stable manifold,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85055884829,Robotics and kinetic design for underrepresented minority (URM) students in building education: Challenges and opportunities,not_facade_other,exclude,not_facade
+2-s2.0-85058955614,Responsive building envelope concepts in zero emission neighborhoods and smart cities - A roadmap to implementation,static_other,exclude,facade_no_movement
+2-s2.0-85056998685,An inverse modeling approach for the thermal response modeling of green façades,static_other,exclude,facade_no_movement
+2-s2.0-85055938298,An improved approach for the collective construction of architectures inspired by wasp nests,static_other,exclude,facade_no_movement
+2-s2.0-85055534291,Adaptive envelope process and minimum service curve applied to resource block allocation in the LTE downlink,static_other,exclude,facade_no_movement
+2-s2.0-85015911326,Modelling natural ventilation for summer thermal comfort in Mediterranean dwellings,static_other,exclude,facade_no_movement
+2-s2.0-85150782199,Calculation Method for Evaluating Diffuse Solar Heat Gains Through Adaptive Façades,insufficient_info,exclude,insufficient_info
+2-s2.0-85068360969,Algorithmic design and performance analysis of adaptive façades,insufficient_info,exclude,insufficient_info
+2-s2.0-85076378633,Rethinking Adaptive Building Skins from a Life Cycle Assessment perspective,static_other,exclude,facade_no_movement
+2-s2.0-85095431782,"Best practices for full-scale testing and energy savings, daylighting and visual comfort evaluation of dynamic shading",insufficient_info,exclude,insufficient_info
+2-s2.0-85129452352,Dynamic Façade Design Studio From sketches to microcontrollers,control_of_static,exclude,facade_no_movement
+2-s2.0-85076305444,Superposition matrix for the assessment of performance-relevant adaptive façade functions,static_other,exclude,facade_no_movement
+2-s2.0-85104811493,Optimisation of controller parameters for adaptive building envelopes through a co-simulation interface: A case study,control_of_static,exclude,facade_no_movement
+2-s2.0-85063901370,Thermo-chromic glazing in buildings: A novel methodological framework for a multi-objective performance evaluation,static_other,exclude,facade_no_movement
+2-s2.0-85107425675,Occupant-centred control strategies for adaptive facades: A preliminary study of the impact of shortwave solar radiation on thermal comfort,control_of_static,exclude,facade_no_movement
+2-s2.0-85107325243,Occupant behavior modelling to support the development of adaptive facade control strategies,control_of_static,exclude,facade_no_movement
+2-s2.0-85103014481,Field study of energy savings potential of dynamic façade systems using fabric attachment of different degrees of openness,insufficient_info,exclude,insufficient_info
+2-s2.0-85107476575,Dynamic thermal performance metrics for adaptive building constructions,static_other,exclude,facade_no_movement
+2-s2.0-85097978241,Subjective and measured evidence for residential lighting metrics in the tropics,static_other,exclude,facade_no_movement
+2-s2.0-85079212903,Design and control of adaptive tensegrity sunscreens,control_of_static,exclude,facade_no_movement
+2-s2.0-85067035642,Enhancing validity of green building information modeling with artificial-neural-network-supervised learning —taking construction of adaptive building envelope based on daylight simulation as an example,static_other,exclude,facade_no_movement
+2-s2.0-85067450784,Dynamic behavior and gust simulation in an unsteady flow wind tunnel,control_of_static,exclude,facade_no_movement
+2-s2.0-85103040589,Transient heat transfer calculation method for multi-dimensional building envelope thermal bridges with variable insulation thicknesses,insufficient_info,exclude,insufficient_info
+2-s2.0-85107447089,Seasonal optimization of a dynamic thermo-optical ETFE façade system,insufficient_info,exclude,insufficient_info
+2-s2.0-85055440520,Experimental and numerical studies on the static and the dynamic behaviors of embedded cable support (ECS) glass facade system,static_other,exclude,facade_no_movement
+2-s2.0-85129362464,Building envelope adapting from and to the wind flow,static_other,exclude,facade_no_movement
+2-s2.0-85070740419,Dynamic envelope and its characteristics under scheduled control law,static_other,exclude,facade_no_movement
+2-s2.0-85089026111,Responsive complex surfaces manufacturing using origami,movable_possible->include,include,
+2-s2.0-85107338842,Evaluation of post processing analysis to determine optimal thermo-optical properties for adaptive glazing systems with quick adaptation speed,static_other,exclude,facade_no_movement
+2-s2.0-85051643393,Objective and subjective assessment of envelope enhancement algorithms for assistive hearing devices,static_other,exclude,facade_no_movement
+2-s2.0-85084098231,Comparison and implementation of thermally massive wall and roof models for use in simplified building energy models,static_other,exclude,facade_no_movement
+2-s2.0-85053380187,Scheduling algorithm for the LTE downlink with F-OFDM using adaptive multifractal envelope process and minimum service curve,static_other,exclude,facade_no_movement
+2-s2.0-85061820846,Adaptive solar shading of buildings,static_other,exclude,facade_no_movement
+2-s2.0-85045104638,"Multifunctional components from carbon concrete composite C3 – integrated, textile-based sensor solutions for in situ structural monitoring of adaptive building envelopes",static_other,exclude,facade_no_movement
+2-s2.0-85054433136,Scenario-based design: New applications in metamorphic architecture,not_facade_other,exclude,not_facade
+2-s2.0-85053850250,Current trends and future challenges in the performance assessment of adaptive façade systems,static_other,exclude,facade_no_movement
+2-s2.0-85045693815,Use of neural network supervised learning to enhance the light environment adaptation ability and validity of Green BIM,static_other,exclude,facade_no_movement
+2-s2.0-85056663195,"Vertical greenery systems for the energy retrofitting of buildings in Mediterranean climate: A case study in Catania, Italy",static_other,exclude,facade_no_movement
+2-s2.0-85052106938,A reflective adaptive solar façade for multi-building energy and comfort management,not_facade_other,exclude,not_facade
+2-s2.0-85049615913,Passive cooling & climate responsive façade design exploring the limits of passive cooling strategies to improve the performance of commercial buildings in warm climates,static_other,exclude,facade_no_movement
+2-s2.0-85047078564,Climate responsive cooling control using artificial neural networks,control_of_static,exclude,facade_no_movement
+2-s2.0-85047722244,Integrating illuminance and energy evaluations of cellular automata controlled dynamic shading system using new hourly-based metrics,static_other,exclude,facade_no_movement
+2-s2.0-85047991592,Comparison of static and dynamic shading systems for office building energy consumption and cooling load assessment,static_other,exclude,facade_no_movement
+2-s2.0-85041240840,An Enhanced Adaptive P&O MPPT for Fast and Efficient Tracking Under Varying Environmental Conditions,static_other,exclude,facade_no_movement
+2-s2.0-85051186113,Evaluating visual comfort metrics of responsive facade systems as educational activities,insufficient_info,exclude,insufficient_info
+2-s2.0-85053584841,Biomechanics and functional morphology of plants-inspiration for biomimetic materials and structures,static_other,exclude,facade_no_movement
+2-s2.0-85047517360,"Prototyping a façade-mounted, dynamic, dual-axis daylight redirection system",movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85034626698,Exploring design principles of biological and living building envelopes: what can we learn from plant cell walls?,static_other,exclude,facade_no_movement
+2-s2.0-85041433117,“Adaptive radiation” optimization for climate adaptive building facade design strategy,static_other,exclude,facade_no_movement
+2-s2.0-85044427208,Dynamic facade module prototype development for solar radiation prevention in high rise building,static_other,exclude,facade_no_movement
+2-s2.0-85033789403,Simulation of a biomimetic façade using TRNSYS,static_other,exclude,facade_no_movement
+2-s2.0-85037045743,Natural ventilation strategies for indoor thermal comfort in Mediterranean apartments,static_other,exclude,facade_no_movement
+2-s2.0-85041002961,Adaptive Façade: Variant-Finding using Shape Grammar,static_other,exclude,facade_no_movement
+2-s2.0-85041080940,Dynamic wind action on façade scaffoldings,static_other,exclude,facade_no_movement
+2-s2.0-85056079306,Adaptive façades: An evaluation of cellular automata controlled dynamic shading system using new hourly-based metrics,static_other,exclude,facade_no_movement
+2-s2.0-85056346941,A redesign procedure to manufacture adaptive façades with standard products,static_other,exclude,facade_no_movement
+2-s2.0-85056090386,Design optimum responsive façade based on visual comfort and energy performance,insufficient_info,exclude,insufficient_info
+2-s2.0-85085932186,Climate-adaptive facade design with smart materials: Evaluation and strategies of thermo-responsive smart material applications for building skins in Seoul,insufficient_info,exclude,insufficient_info
+2-s2.0-85056342669,Post-occupancy evaluation for adaptive façades,static_other,exclude,facade_no_movement
+2-s2.0-85081578185,Development of an adaptive passive façade: A replicable approach for managing multiple design solutions,insufficient_info,exclude,insufficient_info
+2-s2.0-85056361471,What is an adaptive façade? Analysis of recent terms and definitions from an international perspective,static_other,exclude,facade_no_movement
+2-s2.0-85071365967,Snapping Facades: Exploring Elastic Instability for the Building Envelope,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85056656080,Multivalent analysis of double-­skin envelope dynamic hygrothermal louver system,dsf_static,exclude,facade_no_movement
+2-s2.0-85056332504,Smart and multifunctional materials and their possible application in façade systems,static_other,exclude,facade_no_movement
+2-s2.0-85056574509,The SELFIE façade system. From smart buildings to smart grid,static_other,exclude,facade_no_movement
+2-s2.0-85061125576,Development of a curtain wall prototype with dynamic behaviour (SmartSkin),static_other,exclude,facade_no_movement
+2-s2.0-85088354718,Adaptive façade screens: The design of bimetallic façade screens for passive climate control,insufficient_info,exclude,insufficient_info
+2-s2.0-85047448725,Dynamical analysis of steel point connectors used for fixation of glass façades,static_other,exclude,facade_no_movement
+2-s2.0-85056076637,Modulating natural ventilation to enhance resilience through modifying nozzle profiles: Exploring rapid prototyping through 3D-printing,movable_possible->include,include,
+2-s2.0-85049954445,Shading and electric performance of a prototype greenhouse blind system based on semi-transparent photovoltaic technology,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85040784002,Stretch controlled shading capabilities of special elastomeric silicone films,insufficient_info,exclude,insufficient_info
+2-s2.0-85056357118,Opportunities and challenges for performance prediction of dynamic complex fenestration systems (CFS),static_other,exclude,facade_no_movement
+2-s2.0-85055828942,Productivity of microalgae as biofuel for bioadaptive systems of facades,static_other,exclude,facade_no_movement
+2-s2.0-85056350435,Thermal assessment of glass façade panels under radiant heating: Experimental and preliminary numerical studies,static_other,exclude,facade_no_movement
+2-s2.0-85032392500,An autonomous shading system based on coupled wood bilayer elements,movable_possible->include,include,
+2-s2.0-85063397155,The influence of building envelope design on the thermal comfort of high-rise residential buildings in Hong Kong,insufficient_info,exclude,insufficient_info
+2-s2.0-85030667780,Indoor daylight distribution in a room with integrated dynamic solar concentrating facade,static_other,exclude,facade_no_movement
+2-s2.0-85058219946,"Balancing urban density, energy performance and environmental quality in the Mediterranean: A typological evaluation based on photovoltaic potential",static_other,exclude,facade_no_movement
+2-s2.0-85064618582,A specific out-of-plane model for the dynamic analysis of masonry façades and estimation of cumulative seismic damage,static_other,exclude,facade_no_movement
+2-s2.0-85051483920,The seismic stability of facade system with facing by composite panels,vent_breathing,exclude,facade_no_movement
+2-s2.0-85064169626,Towards holistic building optimization using a computing environment that enables interoperability between numerical tools,not_facade_other,exclude,not_facade
+2-s2.0-85127834047,Kinetic Architecture Reinterpreting Persian Mathematics and Astronomy,not_facade_other,exclude,not_facade
+2-s2.0-85049957264,Optimization of dynamic envelope measurement system for high speed train based on monocular vision,static_other,exclude,facade_no_movement
+2-s2.0-85049949177,Research on an optoelectronic measurement system of dynamic envelope measurement for China Railway high-speed train,static_other,exclude,facade_no_movement
+2-s2.0-85105618539,About the ‘cape’. Considerations on geometries of the maurizio sacripanti’s osaka pavilion roof,not_facade_other,exclude,not_facade
+2-s2.0-85039788581,Atomic Force Microscopy Reveals the Dynamic Morphology of Fenestrations in Live Liver Sinusoidal Endothelial Cells,static_other,exclude,facade_no_movement
+2-s2.0-85023636842,A numerical study on the cumulative out-of-plane damage to church masonry façades due to a sequence of strong ground motions,static_other,exclude,facade_no_movement
+2-s2.0-85033597030,Daylight and thermal harvesting performance evaluation of a liquid filled prismatic façade using the Radiance five-phase method and EnergyPlus,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85034241425,Retrofits for energy efficient office buildings: Integration of optimized photovoltaics in the form of responsive shading devices,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85050452741,Poster: An energy-harvesting facade optimization system for built environments,static_other,exclude,facade_no_movement
+2-s2.0-85033719769,Reasons for Implementing Movement in Kinetic Architecture,not_facade_other,exclude,not_facade
+2-s2.0-85045188353,Learning by designing: Investigating new didactic methods to learn architectural design,not_facade_other,exclude,not_facade
+2-s2.0-105007936422,Encoding gesture-oriented human behaviour for the development and control of an adaptive building skin,control_of_static,exclude,facade_no_movement
+2-s2.0-85044304598,Dynamic envelope determination based on differential manifold theory,static_other,exclude,facade_no_movement
+2-s2.0-85021871705,The impacts of dynamic façade shading typologies on building energy performance and occupant’s multi-comfort,static_other,exclude,facade_no_movement
+2-s2.0-85049567313,Daylighting simulation and analysis of buildings with dynamic photovoltaic window shading elements,static_other,exclude,facade_no_movement
+2-s2.0-85030633674,3D architecture facade optimization based on genetic algorithm and neural network,static_other,exclude,facade_no_movement
+2-s2.0-85014643345,Fast simulation of dynamic heat transfer through building envelope via model order reduction,static_other,exclude,facade_no_movement
+2-s2.0-85020262455,Form follows environment: Biomimetic approaches to building envelope design for environmental adaptation,static_other,exclude,facade_no_movement
+2-s2.0-85017288064,"Adaptive heating, ventilation and solar shading for dwellings",static_other,exclude,facade_no_movement
+2-s2.0-85009513850,The impact of refurbished windows on Portuguese old school buildings,static_other,exclude,facade_no_movement
+2-s2.0-84978473795,A proposal for a convertible stadium roof structure derived from Watt-I linkage,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85018592600,Interactive architecture: Exploring and unwrapping the potentials of organic user interfaces,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84976864030,"Understanding kinetic architecture: typology, classification, and design strategy",not_facade_other,exclude,not_facade
+2-s2.0-85000843749,"The effect of dynamic solar shading on energy, daylighting and thermal comfort in a nearly zero-energy loft room in Rome and Copenhagen",static_other,exclude,facade_no_movement
+2-s2.0-84958538161,Development and verification of the Fraunhofer attic thermal model,static_other,exclude,facade_no_movement
+2-s2.0-85029904068,Sensitivity of Building Properties and Use Types for the Application of Adaptive Photovoltaic Shading Systems,control_of_static,exclude,facade_no_movement
+2-s2.0-85045560985,Adaptive tensegrity structures for dynamic facades of energy efficient buildings,insufficient_info,exclude,insufficient_info
+2-s2.0-85042330837,Innovative structures for Dynamic Solar Façades,static_other,exclude,facade_no_movement
+2-s2.0-85020266180,Optimising building net energy demand with dynamic BIPV shading,control_of_static,exclude,facade_no_movement
+2-s2.0-85086311531,"Taxonomy of sustainable, responsive and adaptive Façades",insufficient_info,exclude,insufficient_info
+2-s2.0-85085919393,Multi-zone adaptive building envelope: A pilot study,insufficient_info,exclude,insufficient_info
+2-s2.0-85020515078,"Adaptive Facades, Developed with Innovative Nanomaterials, for a Sustainable Architecture in the Mediterranean Area",static_other,exclude,facade_no_movement
+2-s2.0-85029898447,"Adaptive Box Window, developed with innovative nanomaterial, for a sustainable architecture in the Mediterranean area",static_other,exclude,facade_no_movement
+2-s2.0-85046699823,"Biomimetic inspired, natural ventilated facade A conceptual study",vent_breathing,exclude,facade_no_movement
+2-s2.0-85085924374,The improvement potential on building performance using seasonal adaptable facades - The context of residential buildings with high thermal load in humid subtropical climates,insufficient_info,exclude,insufficient_info
+2-s2.0-85085927179,Natural versus artificial lighting use in an office building under clear sunny skies,not_facade_other,exclude,not_facade
+2-s2.0-85072232827,"Passive design with affordances: Natural ventilation and adaptive shading for Comfort, Churachandpur",insufficient_info,exclude,insufficient_info
+2-s2.0-85085924063,Optimizing the performance of variable geometry shading screens for occupant's comfort,insufficient_info,exclude,insufficient_info
+2-s2.0-85127871191,Sun Shades About Designing Adaptable Solar Facades,static_other,exclude,facade_no_movement
+2-s2.0-85017299328,Designing an integrated daylighting system for deep-plan spaces in Malaysian low-rise buildings,static_other,exclude,facade_no_movement
+2-s2.0-85107349753,Sensitivity analysis of visual and thermal parameters for energy savings: combining illuminance and temperature set-points for possible trade-offs,static_other,exclude,facade_no_movement
+2-s2.0-85086303872,Climate-responsive Façade design for office buildings in London,insufficient_info,exclude,insufficient_info
+2-s2.0-85029762543,Technical planning tasks and participants involved in planning adaptive buildings,not_facade_other,exclude,not_facade
+2-s2.0-85033366955,Experimental and Numerical Analysis of Modelling of Solar Shading,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85015913446,Solar shading performance of window with constant and dynamic shading function in different climate zones,static_other,exclude,facade_no_movement
+2-s2.0-85016626917,Design and control optimisation of adaptive insulation systems for office buildings. Part 1: Adaptive technologies and simulation framework,static_other,exclude,facade_no_movement
+2-s2.0-85000819173,A hierarchical methodology for urban facade parsing from TLS point clouds,static_other,exclude,facade_no_movement
+2-s2.0-85007137545,Coupling energy systems with lightweight structures for a net plus energy building,static_other,exclude,facade_no_movement
+2-s2.0-85016504898,Experimental evaluation of the airflow behaviour in horizontal and vertical Open Joint Ventilated Facades using Stereo-PIV,vent_breathing,exclude,facade_no_movement
+2-s2.0-105026079548,Yokohama Ferry Terminal: Foa,static_other,exclude,facade_no_movement
+2-s2.0-85127848453,ROAMNITURE Multi-Stable Soft Robotic Structures,not_facade_other,exclude,not_facade
+2-s2.0-85063105240,Kinetic principles of dynamic architecture and housing,not_facade_other,exclude,not_facade
+2-s2.0-85021767299,Prototyping responsive carrier-component envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85085929351,Incorporating biomimicry principles into building envelopes: An overview on developed examples,insufficient_info,exclude,insufficient_info
+2-s2.0-85070240714,"Kinetic behavior, the dynamic potential through architecture and design",not_facade_other,exclude,not_facade
+2-s2.0-84977571278,Integration of variable-rate OWC with OFDM-PON for hybrid optical access based on adaptive envelope modulation,static_other,exclude,facade_no_movement
+2-s2.0-84993967103,Compensation of voltage sag caused by partial shading in grid-connected PV system through the three-level SVM inverter,static_other,exclude,facade_no_movement
+2-s2.0-84994043992,Optimal control of indoor-air cooling in buildings using a reduced order model,control_of_static,exclude,facade_no_movement
+2-s2.0-85006707436,Sustainable building design based on building information modeling (BIM),movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-85020515917,Modeling and experimental validation of a low-cost radiation sensor based on the photovoltaic effect for building applications,static_other,exclude,facade_no_movement
+2-s2.0-85010800525,"Energy Performance Assessment of the Heating System Refurbishment on a School Building in Modena, Italy",control_of_static,exclude,facade_no_movement
+2-s2.0-84973450862,Integrated analysis of kinematic form active structures for architectural applications: Experimental verification,static_other,exclude,facade_no_movement
+2-s2.0-84969584417,Model-based shading and lighting controls considering visual comfort and energy use,static_other,exclude,facade_no_movement
+2-s2.0-84988378431,"Adaptive control for lighting, shading and HVAC systems in near zero energy buildings",static_other,exclude,facade_no_movement
+2-s2.0-84974571292,"MATRIX, a multi activity test-room for evaluating the energy performances of 'building/HVAC' systems in Mediterranean climate: Experimental set-up and CFD/BPS numerical modeling",static_other,exclude,facade_no_movement
+2-s2.0-84984537140,Biomimicry as an approach for sustainable architecture case of arid regions with hot and dry climate,not_facade_other,exclude,not_facade
+2-s2.0-84936971957,GlareShade: a visual comfort-based approach to occupant-centric shading systems,static_other,exclude,facade_no_movement
+2-s2.0-84975299252,Adaptive Envelope Shaping for Low and Medium Power Amplifiers with Dynamic Supply,static_other,exclude,facade_no_movement
+2-s2.0-85006210711,The Adaptive Solar Facade: From concept to prototypes,control_of_static,exclude,facade_no_movement
+2-s2.0-84955320928,A structured approach to overall environmental satisfaction in high-rise residential buildings,static_other,exclude,facade_no_movement
+2-s2.0-84954063411,A Fuzzy-Based Building Automation Control System: Optimizing the Level of Energy Performance and Comfort in an Office Space by Taking Advantage of Building Automation Systems and Solar Energy,static_other,exclude,facade_no_movement
+2-s2.0-85007134380,Parametric analysis and systems design of dynamic photovoltaic shading modules,static_other,exclude,facade_no_movement
+2-s2.0-84951733541,New equivalent parameters for thermal characterization of opaque building envelope components under dynamic conditions,static_other,exclude,facade_no_movement
+2-s2.0-85006059028,"Adaptive Façade: Concept, Applications, Research Questions",static_other,exclude,facade_no_movement
+2-s2.0-84973538521,Adaptive building facade optimisation : An integrated Green-BIM approach,static_other,exclude,facade_no_movement
+2-s2.0-84973526839,Adaptive decorative building skin,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84960221188,Architecture of change: Adaptive building skins,static_other,exclude,facade_no_movement
+2-s2.0-85127769591,Material Active Geometry Constituting Programmable Materials for Responsive Building Skins,static_other,exclude,facade_no_movement
+2-s2.0-85015006307,An oak composite thermal dynamic envelope,static_other,exclude,facade_no_movement
+2-s2.0-84958952705,Optimization of a wood plastic composite to produce a new dynamic shading system,static_other,exclude,facade_no_movement
+2-s2.0-85015265028,"The cleaner, the greener? Product sustainability assessment of the biomimetic façade paint Lotusan® in comparison to the conventional façade paint Jumbosil®",static_other,exclude,facade_no_movement
+2-s2.0-85048216619,Machine learning integration for adaptive building envelopes,insufficient_info,exclude,insufficient_info
+2-s2.0-84986880469,Prismatic glazings for façade envelopes,insufficient_info,exclude,insufficient_info
+2-s2.0-85006077950,S.M.O Solution: An Innovative Design Approach to Optimize the Output of BIPV Systems Located in Dense Urban Environments,static_other,exclude,facade_no_movement
+2-s2.0-84979578586,Thermal Environment Dynamic Simulation of Double Skin Façade with Middle Shading Device in Summer,dsf_static,exclude,facade_no_movement
+2-s2.0-84986889098,Dynamic thermal performance of the conventional and alterative building envelope materials,insufficient_info,exclude,insufficient_info
+2-s2.0-85053668997,Field demonstration of superior performance of advanced building envelope technologies,insufficient_info,exclude,insufficient_info
+2-s2.0-85127753607,Magnet-based Interactive Kinetic Bricks,not_facade_other,exclude,not_facade
+2-s2.0-85015661313,Concept for a virtual process data linkage of assembly stations and a dynamic envelope curve for process monitoring,static_other,exclude,facade_no_movement
+2-s2.0-84992397202,Performance Analyses of the D'aDif Pavilion,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84973577793,Breathing skins for wind modulation through morphology : Toward integrating turbulence studies within tectonic scale for design of façade components,insufficient_info,exclude,insufficient_info
+2-s2.0-84947240752,Dynamic Commercial Façades versus Traditional Construction: Energy Performance and Comparative Analysis,static_other,exclude,facade_no_movement
+2-s2.0-84962619718,"Dynamic facades, the smart way of meeting the energy requirements",static_other,exclude,facade_no_movement
+2-s2.0-84962598356,A simulation framework for the evaluation of next generation Responsive Building Envelope technologies,control_of_static,exclude,facade_no_movement
+2-s2.0-84962553287,Lighting and energy performance of an adaptive shading and daylighting system for arid climates,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84962562998,Daylighting and energy analysis of multi-sectional facades,static_other,exclude,facade_no_movement
+2-s2.0-84962493861,A Hydro-Thermal Study of the Bionic Leaf - A Basic Structural Element of the Bionic Façade Inspired by Vertical Greenery,static_other,exclude,facade_no_movement
+2-s2.0-84962552696,Integrated evaluation of CO2eq emission and thermal dynamic simulation for different façade solutions for a typical office building,static_other,exclude,facade_no_movement
+2-s2.0-84962567016,A new methodology for quantifying the impact of direct and diffuse solar radiation on energy savings in commercial office spaces,static_other,exclude,facade_no_movement
+2-s2.0-84970966420,Effect of Air Space Thickness within the External Walls on the Dynamic Thermal Behaviour of Building Envelopes for Energy Efficient Building Construction,static_other,exclude,facade_no_movement
+2-s2.0-84942088214,The effects of direct sunlight on light shelf performance under tropical sky,static_other,exclude,facade_no_movement
+2-s2.0-84936094030,The optimal thermo-optical properties and energy saving potential of adaptive glazing technologies,static_other,exclude,facade_no_movement
+2-s2.0-84960894739,Rapid prototyping for kinetic architecture,not_facade_other,exclude,not_facade
+2-s2.0-84944088873,Dynamic and adaptive building envelopes,insufficient_info,exclude,insufficient_info
+2-s2.0-84941051807,Actualising (overlooked) material capacities,static_other,exclude,facade_no_movement
+2-s2.0-85027938817,A Highly Efficient CMOS Envelope Tracking Power Amplifier Using All Bias Node Controls,static_other,exclude,facade_no_movement
+2-s2.0-84940927271,Adaptive envelope control design for a Buoyant Airborne wind energy system,control_of_static,exclude,facade_no_movement
+2-s2.0-84941299810,Effects of adaptation rate and noise suppression on the intelligibility of compressed-envelope based speech,static_other,exclude,facade_no_movement
+2-s2.0-84935016179,Toward mitigating urban heat island effects: Investigating the thermal-energy impact of bio-inspired retro-reflective building envelopes in dense urban settings,static_other,exclude,facade_no_movement
+2-s2.0-84942626398,High efficiency multi-band envelope tracking power amplifier with tunable output frequency bands,static_other,exclude,facade_no_movement
+2-s2.0-84930620620,"Impact of façade window design on energy, daylighting and thermal comfort in nearly zero-energy houses",static_other,exclude,facade_no_movement
+2-s2.0-84936869055,Polar method to design foldable plate structures,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84951037925,Translational method for designing folded plate structures,movable_possible->include,include,
+2-s2.0-84928922788,Numerical investigation of the Castle of Zena energy needs and a feasibility study for the implementation of electric and gas driven heat pump,static_other,exclude,facade_no_movement
+2-s2.0-84937635937,A standardized method for the analysis of liver sinusoidal endothelial cells and their fenestrations by scanning electron microscopy,static_other,exclude,facade_no_movement
+2-s2.0-84925933649,The totalitarian dynamic behind HRM's democratic façade,static_other,exclude,facade_no_movement
+2-s2.0-84925133553,A computational design framework supporting human interaction with environmentally-responsive building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-84928104984,Textile and film based building envelopes - Lightweight and adaptive,insufficient_info,exclude,insufficient_info
+2-s2.0-84924301156,Effect of adaptive envelope compression in simulated electric hearing in reverberation,static_other,exclude,facade_no_movement
+2-s2.0-85127884673,Real-Time Multi-Zone Building Performance Impacts of Occupant Interaction with Dynamic Façade Systems,static_other,exclude,facade_no_movement
+2-s2.0-84966644085,Dynamic faÇades: Exploring responsive building skins in a comprehensive design studio,insufficient_info,exclude,insufficient_info
+2-s2.0-84934911039,Bio-inspired adaptive building skins,static_other,exclude,facade_no_movement
+2-s2.0-84928679214,Design and energy performance of a buoyancy driven exterior shading device for building application in Taiwan,control_of_static,exclude,facade_no_movement
+2-s2.0-84936096856,Phototropism of tensile façade system through material agency,insufficient_info,exclude,insufficient_info
+2-s2.0-84970016205,A second skin for responsive chemical biological protection,dsf_static,exclude,facade_no_movement
+2-s2.0-84976340671,The potential opaque adaptive façades for office buildings in a temperate climate,insufficient_info,exclude,insufficient_info
+2-s2.0-84948390542,The use of Dynamic Environmental Control Systems (DECS) in Cavities of Double Skin Facades for Energy Savings,dsf_static,exclude,facade_no_movement
+2-s2.0-84985982408,Human-facade-interaction: Constructing augmented reality simulations for cooptimizing dynamic building skin performance,static_other,exclude,facade_no_movement
+2-s2.0-84957885080,Fast Simulation Methods for Dynamic Heat Transfer through Building Envelope Based on Model-order-Reduction,static_other,exclude,facade_no_movement
+2-s2.0-85051341139,Coupling dynamic energy and daylighting simulations for complex fenestration systems,insufficient_info,exclude,insufficient_info
+2-s2.0-84948406512,A Biophysical Framework of Heat Regulation Strategies for the Design of Biomimetic Building Envelopes,static_other,exclude,facade_no_movement
+2-s2.0-84939481406,Control of wind-induced motion of tall buildings using smart façade systems,control_of_static,exclude,facade_no_movement
+2-s2.0-84976413619,Daylighting as a sustainable approach for high-rise office in tropics,insufficient_info,exclude,insufficient_info
+2-s2.0-84957877062,Dynamic Performance of the Shading-type Building-Integrated Photovoltaic Claddings,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84955572973,Decision methodology for the development of an expert system applied in an adaptable energy retrofit façade system for residential buildings,static_other,exclude,facade_no_movement
+2-s2.0-84983132737,Towards an integrated decision tool for evaluation of energy performance during building and plant design,not_facade_other,exclude,not_facade
+2-s2.0-85016771258,Dynamic thermal behavior of double-skin façade and adjacent interior comfort,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84937400597,Development of a modeling strategy for adaptive multifunctional solar energy building envelope systems,static_other,exclude,facade_no_movement
+2-s2.0-85114434219,Thermal Activated Envelope A Method and Model for Embedding Behaviour in a Responsive Envelope by Bi-Materials,insufficient_info,exclude,insufficient_info
+2-s2.0-84928232788,Kinematic design of a reconfigurable deployable canopy,movable_possible->include,include,
+2-s2.0-84940094435,A design of cylindrical lens for linear CCD used in dynamic envelope curve measurement of high-speed train,static_other,exclude,facade_no_movement
+2-s2.0-85034848863,Kinetic architecture and aerial rides: Towards a media archaeology of the revolving restaurant view,not_facade_other,exclude,not_facade
+2-s2.0-84940069270,Field calibration of binocular stereo vision based on fast reconstruction of 3D control field,static_other,exclude,facade_no_movement
+2-s2.0-84924973550,Simulation and sensitivity analysis of a fuzzy-based building automation control system,static_other,exclude,facade_no_movement
+2-s2.0-85058721082,Optimal topology of urban buildings for maximization of annual solar irradiation availability using a genetic algorithm,static_other,exclude,facade_no_movement
+2-s2.0-84921915622,Dynamic daylight and solar control in tropical climate,static_other,exclude,facade_no_movement
+2-s2.0-84906838780,Exploratory numerical analysis of two-way straight cable-net façades subjected to air blast loads,static_other,exclude,facade_no_movement
+2-s2.0-85027957287,Simulation-based method to determine climatic energy strategies of an adaptable building retrofit façade system,static_other,exclude,facade_no_movement
+2-s2.0-84908541747,Multi-Fault detection of rolling element bearings under harsh working condition using imf-based adaptive envelope order analysis,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84911407048,Efficient structured parsing of facades using dynamic programming,static_other,exclude,facade_no_movement
+2-s2.0-84906259400,An adaptive envelope spectrum technique for bearing fault detection,static_other,exclude,facade_no_movement
+2-s2.0-84908149011,Dynamic-envelope analysis of clamp-band joint considering pyroshock of satellite separation,not_facade_other,exclude,not_facade
+2-s2.0-85016433689,Biomimetic Architecture in Building Envelope Maintenance (A Literature),static_other,exclude,facade_no_movement
+2-s2.0-84893169082,The dynamic impact of window characteristics on shading factor and energy consumption,static_other,exclude,facade_no_movement
+2-s2.0-84892452345,Hypervariable region 1 deletion and required adaptive envelope mutations confer decreased dependency on scavenger receptor class B type I and low-density lipoprotein receptor for hepatitis C virus,static_other,exclude,facade_no_movement
+2-s2.0-84891597750,The impact of the dynamic facade elements on the energy balance of the reference building in winter,static_other,exclude,facade_no_movement
+2-s2.0-85088358810,The triple bottom line benefits of climate-responsive dynamic façades,insufficient_info,exclude,insufficient_info
+2-s2.0-84923525105,Towards an ideal adaptive glazed façade for office buildings,static_other,exclude,facade_no_movement
+2-s2.0-84899830699,User satisfaction and interaction with automated dynamic facades: A pilot study,control_of_static,exclude,facade_no_movement
+2-s2.0-84904682271,An adaptive decision-making framework for designing material behaviours,static_other,exclude,facade_no_movement
+2-s2.0-84907483520,The influence of shading control strategies on the visual comfort and energy demand of office buildings,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84903825447,Design of a fuzzy-based control system for energy saving and users comfort,control_of_static,exclude,facade_no_movement
+2-s2.0-84890119885,Experimental assessment of the energy performance of an advanced responsive multifunctional façade module,static_other,exclude,facade_no_movement
+2-s2.0-84901463928,Daylight adaptive shading using parametric camshaft mechanism for SOHO in Jakarta,static_other,exclude,facade_no_movement
+2-s2.0-84907056781,Contribution of linear thermal bridges to the overall thermal performance of the building envelope: Dynamic analysis,static_other,exclude,facade_no_movement
+2-s2.0-85101090706,The Impact of an Ideal Dynamic Building Envelope on the Energy Performance of Low Energy Office Buildings,static_other,exclude,facade_no_movement
+2-s2.0-85030536726,Designing Resilient Buildings with Emergent Materials,movable_possible->include,include,
+2-s2.0-85063810226,"Parametric design for technological and ""smart"" system. Adaptive and optimized skin",insufficient_info,exclude,insufficient_info
+2-s2.0-84888295460,"More cells, bigger cells or simply reorganization? Alternative mechanisms leading to changed internode architecture under contrasting stress regimes",static_other,exclude,facade_no_movement
+2-s2.0-84901408016,Framework for assessing the performance potential of seasonally adaptable facades using multi-objective optimization,static_other,exclude,facade_no_movement
+2-s2.0-85088355797,"Environmental performance of adaptive building envelope design: Urban housing in Seoul, Korea",insufficient_info,exclude,insufficient_info
+2-s2.0-84903840062,WSN-based intelligent visual performance management in tropical buildings,static_other,exclude,facade_no_movement
+2-s2.0-84898997636,Energy performance assessment of and advanced integrated façade through experimental data analysis,static_other,exclude,facade_no_movement
+2-s2.0-84906901718,Dialectic form finding of passive and adaptive shading enclosures,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84924673672,Operative temperature and thermal comfort in the sun - Implementation and verification of a model for IDA ICE,not_facade_other,exclude,not_facade
+2-s2.0-85202486153,INTELLIGENT BUILDING ENVELOPE TO OPTIMISE THE EXPLOITATION OF SOLAR RADIATION,insufficient_info,exclude,insufficient_info
+2-s2.0-84912570607,Control of an adaptive light shelf using multi-objective optimization,control_of_static,exclude,facade_no_movement
+2-s2.0-84912096470,Spectrophotometric evaluation of optical performances of polarizing technologies for smart window applications,static_other,exclude,facade_no_movement
+2-s2.0-84904395903,Parametric analysis of environmentally responsive strategies for building envelopes specific for hot hyperarid regions,pcm_thermal,exclude,facade_no_movement
+2-s2.0-84903214072,Effect of dynamic characteristics of building envelope on thermal-energy performance in winter conditions: In field experiment,static_other,exclude,facade_no_movement
+2-s2.0-84910049142,An adaptive envelope compression strategy for speech processing in cochlear implants,static_other,exclude,facade_no_movement
+2-s2.0-84902805510,Effect of dynamic envelope pavement markings on vehicle driver behavior at a highway-rail grade crossing,static_other,exclude,facade_no_movement
+2-s2.0-84944730050,A parametric simulation study on kinetic envelopes,not_facade_other,exclude,not_facade
+2-s2.0-84929431279,Structural mechanization of giant observation wheels,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84900562357,Whirlstools: Kinetic furniture with adaptive affordance,not_facade_other,exclude,not_facade
+2-s2.0-84899018727,Effect of building envelope on thermal environmental conditions of a naturally ventilated building block in tropical climate,static_other,exclude,facade_no_movement
+2-s2.0-84894123318,Bio-inspired adaptive stadium façades,insufficient_info,exclude,insufficient_info
+2-s2.0-84891276408,Multifunctional adaptive façade at iba 2013; design studies for an integral energy harvesting façade shading system,insufficient_info,exclude,insufficient_info
+2-s2.0-84891277845,Advantages of lightweight tensioned coated fabrics and foils façades for the building sector,insufficient_info,exclude,insufficient_info
+2-s2.0-84891274736,Textile and film based building envelopes - Light weight and adaptive,insufficient_info,exclude,insufficient_info
+2-s2.0-84886701395,Definition of a reference office for standardized evaluations of dynamic façade and lighting technologies,insufficient_info,exclude,insufficient_info
+2-s2.0-84886712908,Mechanical cooling energy reduction for commercial buildings in hot climates: Effective use of external solar shading incorporating effects on daylight contribution,static_other,exclude,facade_no_movement
+2-s2.0-84885744168,Transparent facades: Active and passive,static_other,exclude,facade_no_movement
+2-s2.0-84885625875,No-mech kinetic responsive architecture: Kinetic responsive architecture with no mechanical parts,not_facade_other,exclude,not_facade
+2-s2.0-84885224603,EmoTicSpace: When the built environments get emotional,not_facade_other,exclude,not_facade
+2-s2.0-84884572348,Facade design principles for nearly zero energy buildings in a cold climate,static_other,exclude,facade_no_movement
+2-s2.0-84884551487,Mass-customized net energy-positive housing for the great lakes region,not_facade_other,exclude,not_facade
+2-s2.0-84879495105,Comparative control strategies for roller shades with respect to daylighting and energy performance,control_of_static,exclude,facade_no_movement
+2-s2.0-84881185942,Application of flexible façade systems in reducing the lateral displacement of concrete frames subjected to seismic loads,insufficient_info,exclude,insufficient_info
+2-s2.0-84940646839,Adaptive façade design for the daylighting performance in an office building: The investigation of an opening design strategy with cellular automata,static_other,exclude,facade_no_movement
+2-s2.0-84879110265,Performance of a daylight-redirecting glass-shading system,static_other,exclude,facade_no_movement
+2-s2.0-84883729570,Shapes of miura mesh mechanism with mobility one,movable_possible->include,include,
+2-s2.0-84876865688,Simulating nonlinear nano-to-micro scaled material properties and effects at the architectural scale,static_other,exclude,facade_no_movement
+2-s2.0-84876820824,Choreographic architecture: Inscribing instructions in an auxetic based material system,movable_possible->include,include,
+2-s2.0-84874785714,Nonlinear analysis of out-of-plane masonry façades: Full dynamic versus pushover methods by rigid body and spring model,static_other,exclude,facade_no_movement
+2-s2.0-84875697527,The thermal performance of walls under actual service conditions: Evaluating the results of climatic chamber tests,static_other,exclude,facade_no_movement
+2-s2.0-84876714561,An Experimental Study on a Microclimatic Layer of a Bionic Façade Inspired by Vertical Greenery,static_other,exclude,facade_no_movement
+2-s2.0-85048220892,Energy and daylighting interaction in offices with shading devices,insufficient_info,exclude,insufficient_info
+2-s2.0-85127876385,ARCS Architectural Chameleon Skin A swarm-based architectural installation,insufficient_info,exclude,insufficient_info
+2-s2.0-84879466311,Energy performance of shading devices for thermal and lighting comfort in offices,insufficient_info,exclude,insufficient_info
+2-s2.0-84983531049,Study for the rehabilitation of vernacular architecture with sustainable criteria,not_facade_other,exclude,not_facade
+2-s2.0-105025318037,Responsive Building Envelopes: Characteristics and Evolving Paradigms,insufficient_info,exclude,insufficient_info
+2-s2.0-84878797097,Structural design of blast enhanced cable net facades,static_other,exclude,facade_no_movement
+2-s2.0-84870279087,On-site building walls characterization,static_other,exclude,facade_no_movement
+2-s2.0-85048244442,Energy simulation and design of a hot box suitable for dynamic tests of building envelope opaque components,insufficient_info,exclude,insufficient_info
+2-s2.0-84885652681,Capital cost-aware design and partial shading-aware architecture optimization of a reconfigurable photovoltaic system,static_other,exclude,facade_no_movement
+2-s2.0-84897048301,Acoustic optimization of windows and doors through sound intensity measurements,insufficient_info,exclude,insufficient_info
+2-s2.0-85048228738,"Daylight harvesting: A multivariate regression linear model for predicting the impact on lighting, cooling and heating",insufficient_info,exclude,insufficient_info
+2-s2.0-105025296222,North House: Climate-Responsive Envelope and Control Systems,insufficient_info,exclude,insufficient_info
+2-s2.0-84871874052,Development of polynomial regression models for composite dynamic envelopes' thermal performance forecasting,control_of_static,exclude,facade_no_movement
+2-s2.0-84870494719,Progressive collapse analysis of a high-rise building considering the effect of an outriggerbelt lateral load resisting system,static_other,exclude,facade_no_movement
+2-s2.0-84876527219,A visual - Performative language of façade patterns for the connected sustainable home,insufficient_info,exclude,insufficient_info
+2-s2.0-84863467109,Cross ventilation with small openings: Measurements in a multi-zone test building,static_other,exclude,facade_no_movement
+2-s2.0-84865622141,"Retrofitting using a dynamic envelope to ensure thermal comfort, energy savings and low environmental impact in Mediterranean climates",static_other,exclude,facade_no_movement
+2-s2.0-84865596200,Communication between physical and virtual models in designing smart buildings,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84861569230,Viscoelastic spider connectors for the mitigation of cable-supported façades subjected to air blast loading,static_other,exclude,facade_no_movement
+2-s2.0-84872838848,"The agency of responsive envelopes: Interaction, politics and interconnected systems",static_other,exclude,facade_no_movement
+2-s2.0-84862523171,Innovative strategies for adaptive buildings in large cities,not_facade_other,exclude,not_facade
+2-s2.0-84858710403,Elastoplastic dissipative devices for the mitigation of blast resisting cable-supported glazing façades,static_other,exclude,facade_no_movement
+2-s2.0-84861838567,Building-plant system energy sustainability. An approach for transient thermal performance analysis,static_other,exclude,facade_no_movement
+2-s2.0-84859443262,Dynamic performance of a façade-based solar loop heat pipe water heating system,static_other,exclude,facade_no_movement
+2-s2.0-84956702328,The future of energy-active and adaptive building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-84858679523,Material capacity: Embedded responsiveness,static_other,exclude,facade_no_movement
+2-s2.0-84855243888,Experimental estimation of the solar properties of a switchable liquid shading system for glazed facades,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84860799273,Total energy use in air conditioned buildings: Analysis of main influencing factors,control_of_static,exclude,facade_no_movement
+2-s2.0-84855814331,Daylighting and energy analysis of private offices with automated interior roller shades,control_of_static,exclude,facade_no_movement
+2-s2.0-85127888997,Time as a Designing Factor in Architecture Creation Application of parametric design in dynamic facades,static_other,exclude,facade_no_movement
+2-s2.0-84886708590,An algorithm for designing dynamic solar shading system,static_other,exclude,facade_no_movement
+2-s2.0-84865033966,The impact of a combined dynamic shading system on the thermal performance of building perimeter zones,insufficient_info,exclude,insufficient_info
+2-s2.0-84900857642,"MFREE-S Closed Cavity Façade: Cost-effective, clean, environmental",insufficient_info,exclude,insufficient_info
+2-s2.0-84865874416,The interior experience of daylighting technologies: Histories and potential futures,static_other,exclude,facade_no_movement
+2-s2.0-84886044487,A methodology for daylight optimisation of facades: An investigation of the opening design strategy with cellular automata for an office building,static_other,exclude,facade_no_movement
+2-s2.0-84872040764,A simulation and experimental study of the impact of passive and active façade systems on the energy performance of building perimeter zones,insufficient_info,exclude,insufficient_info
+2-s2.0-84873347851,Potential of dynamic-mechanical analysis toward a complementary material and system testing approach for structural glazing,static_other,exclude,facade_no_movement
+2-s2.0-84900872911,The parametric design of Shanghai Tower's form and façade,insufficient_info,exclude,insufficient_info
+2-s2.0-82555201440,Modeling and simulation of clamp band dynamic envelope in A LV/SC separation system,not_facade_other,exclude,not_facade
+2-s2.0-85048345811,An exploration into computational optimization for motive architecture,not_facade_other,exclude,not_facade
+2-s2.0-84855963275,Design of a 2-DOF 8R linkage for transformable hypar structure,movable_possible->include,include,
+2-s2.0-84873864839,Affect: Adaptive fenestration for emission-free cladding technology,insufficient_info,exclude,insufficient_info
+2-s2.0-84860247255,Structural dynamic façade,insufficient_info,exclude,insufficient_info
+2-s2.0-84870170502,Modelling and optimisation of a biomimetic façade based on animal fur,insufficient_info,exclude,insufficient_info
+2-s2.0-84864141000,Effect of two exterior louver systems on solar transmittance and indoor thermal conditions: Experiment and simulations,insufficient_info,exclude,insufficient_info
+2-s2.0-84867009270,Automated and manual solar shading and glare control: A design framework for meeting occupant comfort and realized energy performance,insufficient_info,exclude,insufficient_info
+2-s2.0-85024275352,Adaptive Partitioning of Urban Facades,static_other,exclude,facade_no_movement
+2-s2.0-84855426634,Adaptive partitioning of urban facades,static_other,exclude,facade_no_movement
+2-s2.0-84867033340,Harvesting energy with solar panels and adaptive shading for building skins. A case study of an office building in Saudi Arabia,insufficient_info,exclude,insufficient_info
+2-s2.0-84870192612,Inverse modelling for the assessment of energy performance: Estimation of envelope thermal characteristics,insufficient_info,exclude,insufficient_info
+2-s2.0-84863734969,HVAC integrated control for energy saving and comfort enhancement,control_of_static,exclude,facade_no_movement
+2-s2.0-81255151169,The adaptive building initiative: The functional aesthetic of adaptivity,static_other,exclude,facade_no_movement
+2-s2.0-81255146361,Feedback architecture,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-80052570730,Kinetic systems in architecture: New approach for environmental control systems and context-sensitive buildings,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-80051593755,Energy performance of an open-joint ventilated façade compared with a conventional sealed cavity façade,vent_breathing,exclude,facade_no_movement
+2-s2.0-79959349592,Endovascular fenestration in aortic dissection with acute malperfusion syndrome: Immediate and late follow-up,static_other,exclude,facade_no_movement
+2-s2.0-79955892373,Dynamic window daylighting systems: Electropolymeric technology for solar responsive building envelopes,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-79954573806,Quantifying the potential of automated dynamic solar shading in office buildings through integrated simulations of energy and daylight,static_other,exclude,facade_no_movement
+2-s2.0-79952338837,Distributed Mass Damper System for Integrating Structural and Environmental Controls in Buildings,static_other,exclude,facade_no_movement
+2-s2.0-78651404478,Seismic response of cable net facade,static_other,exclude,facade_no_movement
+2-s2.0-84870586182,Madrid's landscape through its cornice 1. from a façade to a kinetic section,insufficient_info,exclude,insufficient_info
+2-s2.0-84870158832,Performance of a daylight redirecting glass shading system demonstration in an office building,insufficient_info,exclude,insufficient_info
+2-s2.0-85145654987,"Mobile Phone Transmitters for Wireless Standards: Systems, Architectures and Technologies",static_other,exclude,facade_no_movement
+2-s2.0-80052989352,Responsive shading intelligent façade systems,insufficient_info,exclude,insufficient_info
+2-s2.0-80053018888,Performative responsive architecture powered by climate,static_other,exclude,facade_no_movement
+2-s2.0-84867267320,Dynamic solar shading and glare control for human comfort and energy efficiency at UCSD: Integrated design and simulation strategies,insufficient_info,exclude,insufficient_info
+2-s2.0-84867267682,Fluid filled window system for passive cooling and heating,insufficient_info,exclude,insufficient_info
+2-s2.0-77955566485,The energy savings potential of using dynamic external louvers in an office building,static_other,exclude,facade_no_movement
+2-s2.0-77956093499,Dynamic object-oriented louver fin-and-tube heat exchanger model for vehicle cooling system,static_other,exclude,facade_no_movement
+2-s2.0-77951096129,Approximation-free running SVD and its application to motion detection,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-77951112026,Thermofluid-dynamic analysis of ventilated facades,vent_breathing,exclude,facade_no_movement
+2-s2.0-77956470232,Dynamic performance of cable net facade with consideration of glass panels under earthquake,insufficient_info,exclude,insufficient_info
+2-s2.0-77952604014,Adaptive actions on shading devices in response to local visual stimuli,static_other,exclude,facade_no_movement
+2-s2.0-77649238846,Energy efficiency of a dynamic glazing system,static_other,exclude,facade_no_movement
+2-s2.0-70249119591,Shading performance of a vertical deciduous climbing plant canopy,static_other,exclude,facade_no_movement
+2-s2.0-77950302167,The effect of feeding and fasting on fenestrations in the liver sinusoidal endothelial cell,static_other,exclude,facade_no_movement
+2-s2.0-84898475278,Inelastic dynamic finite-element design of light gauge metal stud façade systems for blast loading,static_other,exclude,facade_no_movement
+2-s2.0-78449270430,Skin in architecture: Towards bioinspired facades,static_other,exclude,facade_no_movement
+2-s2.0-84926522419,Dynamic thermally disconnected building envelopes-A new paradigm for walls and roofs in low-energy buildings,insufficient_info,exclude,insufficient_info
+2-s2.0-78449292725,Challenging the engineering view: Comparative analysis of technological and biological functions targeting energy efficient facade systems,static_other,exclude,facade_no_movement
+2-s2.0-78149400279,Energy saving potential of double-skin façade buildings with active adaptive operation in winter,dsf_static,exclude,facade_no_movement
+2-s2.0-77951003787,Adaptive building skin systems: A morphogenomic framework for developing real-time interactive building skin systems,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-74549219376,Integration of thermal dynamics and lighting in buildings with object oriented multi-domain approach,static_other,exclude,facade_no_movement
+2-s2.0-68849121973,Dynamic performance of cable net facades,static_other,exclude,facade_no_movement
+2-s2.0-70349091052,Numerical simulation of freight railcar dynamic clearance envelopes,static_other,exclude,facade_no_movement
+2-s2.0-59849095281,An investigation of the potential for natural ventilation and building orientation to achieve thermal comfort in warm and humid climates,static_other,exclude,facade_no_movement
+2-s2.0-60549112398,Advanced façades,insufficient_info,exclude,insufficient_info
+2-s2.0-70749085882,Natural ventilation with dynamic Façades,dsf_static,exclude,facade_no_movement
+2-s2.0-57749111641,User interface façades: Towards fully adaptable user interfaces,static_other,exclude,facade_no_movement
+2-s2.0-57549110009,Openings in façades and adaptable dwelling space,insufficient_info,exclude,insufficient_info
+2-s2.0-57349083190,Vector and harmonic amplitude/phase corrected multi-envelope stimulus response measurements of nonlinear devices,static_other,exclude,facade_no_movement
+2-s2.0-79956341778,Object oriented modelling of variable envelope properties in buildings,insufficient_info,exclude,insufficient_info
+2-s2.0-55549117496,The dynamic envelope of a fusion class II virus: E3 domain of glycoprotein E2 precursor in semliki forest virus provides a unique contact with the fusion protein E1,control_of_static,exclude,facade_no_movement
+2-s2.0-39649108871,"The retractable roof and movable field at University of Phoenix Stadium, Arizona",movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84858815862,Implementation of cellular automata for dynamic shading of building façade,static_other,exclude,facade_no_movement
+2-s2.0-37249005312,Energy consumption simulation for residential buildings with shading devices in different regions,static_other,exclude,facade_no_movement
+2-s2.0-84865487569,Luminous efficacy based on fuzzy controlled roller blind positioning,insufficient_info,exclude,insufficient_info
+2-s2.0-84858806571,Evolving cooperative behaviour in a reflexive membrane,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-84869768076,The daylight coefficient method and complex fenestration,insufficient_info,exclude,insufficient_info
+2-s2.0-46449134855,Improved genetic identification algorithms on moisture absorption and desorption on building materials surface,static_other,exclude,facade_no_movement
+2-s2.0-67649803259,Identifying criteria for the design of affective and socially engaging kinetic architectural structures,not_facade_other,exclude,not_facade
+2-s2.0-34548665030,"Defense against environmental ammonia toxicity in the African lungfish, Protopterus aethiopicus: Bimodal breathing, skin ammonia permeability and urea synthesis",static_other,exclude,facade_no_movement
+2-s2.0-37649005375,FEM analysis and experimental study on monolayer cable net for glass facades: Dynamic properties,static_other,exclude,facade_no_movement
+2-s2.0-34250305562,The dynamic envelope of a fusion Class II virus: Prefusion stages of Semliki Forest virus revealed by electron cryomicroscopy,static_other,exclude,facade_no_movement
+2-s2.0-85072420664,Natural and environmentally responsive building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-85128384784,Soft façade: Steps into the definition of a responsive etfe façade for high-rise buildings work in progress,insufficient_info,exclude,insufficient_info
+2-s2.0-85103035355,Pressure equalized insulated glass units in exterior building envelopes,insufficient_info,exclude,insufficient_info
+2-s2.0-84898873405,Bionic breathing skin for buildings,insufficient_info,exclude,insufficient_info
+2-s2.0-34547333417,User interface façades: Towards fully adaptable user interfaces,static_other,exclude,facade_no_movement
+2-s2.0-33750892442,The dynamic envelope of a fusion type 2 virus - Reorganizations observed during prefusion stages in semliki forest virus,static_other,exclude,facade_no_movement
+2-s2.0-33646513708,Modelling indoor illumination by complex fenestration systems based on bidirectional photometric data,static_other,exclude,facade_no_movement
+2-s2.0-85134002790,Mediated Space and Kinetic Architecture: The Synergy of Co-development,not_facade_other,exclude,not_facade
+2-s2.0-33749248368,A predistortion linearization system for high power amplifiers with low frequency envelope memory effects,static_other,exclude,facade_no_movement
+2-s2.0-14644395606,A new evaluation method for daylight discomfort glare,static_other,exclude,facade_no_movement
+2-s2.0-17044376679,Shading for sustainable advantage,insufficient_info,exclude,insufficient_info
+2-s2.0-4344716399,"Reduced linear state model of hollow blocks walls, validation using hot box measurements",static_other,exclude,facade_no_movement
+2-s2.0-0347337985,Adaptive Filter Design Subject to Output Envelope Constraints and Bounded Input Noise,static_other,exclude,facade_no_movement
+2-s2.0-0041592505,A novel behavorial model of power amplifier based on a dynamic envelope gain approach for the system level simulation and design,static_other,exclude,facade_no_movement
+2-s2.0-84947287914,RMIX: A multiprotocol RMI framework for Java,not_facade_other,exclude,not_facade
+2-s2.0-0141630685,Adaptive envelope-constrained filtering,insufficient_info,exclude,insufficient_info
+2-s2.0-0346936510,Delineation of dynamic envelope of light rail transit cars and trains,static_other,exclude,facade_no_movement
+2-s2.0-0036643156,Adaptive envelope-constrained filtering algorithms for noisy input signals,static_other,exclude,facade_no_movement
+2-s2.0-0036611752,Mean square convergence of adaptive envelope-constrained filtering,static_other,exclude,facade_no_movement
+2-s2.0-0036532734,Development of a control algorithm to optimize airflow rates through variable size windows,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-0035414642,Improved gain for a dynamic envelope tracking amplifier in cellular radio handsets,insufficient_info,exclude,insufficient_info
+2-s2.0-0035330810,Application of cubic constraint approximation in the recursive design of FIR filters subject to output envelope constraints,static_other,exclude,facade_no_movement
+2-s2.0-0035245919,Design of adaptive envelope-constrained filters in the presence of impulsive noise,static_other,exclude,facade_no_movement
+2-s2.0-0034825789,Indoor air quality and hygroscopically active materials,not_facade_other,exclude,not_facade
+2-s2.0-1842539574,Indoor Air Quality and Hygroscopically Active Materials,not_facade_other,exclude,not_facade
+2-s2.0-0035686438,High-efficiency high-level modulator for use in dynamic envelope tracking CDMA RF power amplifiers,static_other,exclude,facade_no_movement
+2-s2.0-0034437862,Effect of ventilation systems on prevalence of symptoms associated with “sick buildings” in brazilian commercial establishments,static_other,exclude,facade_no_movement
+2-s2.0-85072426197,Dynamic and responsive building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-0033874541,Building heating requirement calculation: A critical analysis of the new European standards,static_other,exclude,facade_no_movement
+2-s2.0-0034175344,The effect of noise on adaptive envelope-constrained filters,static_other,exclude,facade_no_movement
+2-s2.0-0033682309,Adaptive envelope-constrained filter design,static_other,exclude,facade_no_movement
+2-s2.0-0033694135,High efficiency CDMA RF power amplifier using dynamic envelope tracking technique,static_other,exclude,facade_no_movement
+2-s2.0-0032217999,Adaptive shape from shading,insufficient_info,exclude,insufficient_info
+2-s2.0-0032449495,Neuronal coding of interaural transient envelope disparities,static_other,exclude,facade_no_movement
+2-s2.0-0032186683,Office worker response to an automated venetian blind and electric lighting system: A pilot study,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-0031635886,Efficient approach to noise suppression in adaptive filtering subject to output envelope constraints,static_other,exclude,facade_no_movement
+2-s2.0-0032305060,Thermal and daylighting performance of an automated venetian blind and lighting system in a full-scale private office,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-0030674305,Development of a wind load cycle for testing commercial building envelopes,insufficient_info,exclude,insufficient_info
+2-s2.0-0030718713,New look at adaptive envelope-constrained filtering via the constraint approximation,insufficient_info,exclude,insufficient_info
+2-s2.0-0031539248,Developing a dynamic envelope/lighting control system with field measurements,movable_possible->insufficient_info,exclude,insufficient_info
+2-s2.0-0030354432,Design of adaptive envelope-constrained filters using the cubic smoothing function,insufficient_info,exclude,insufficient_info
+2-s2.0-0030258329,Application of Simplified Line Searches in the Design of Adaptive Envelope-Constrained Filters,static_other,exclude,facade_no_movement
+2-s2.0-0030292257,Seasonal shading of vertical south-facades with prismatic panes,static_other,exclude,facade_no_movement
+2-s2.0-0030283817,Analytical investigation of the steady-state behaviour of dynamic and diffusive building envelopes,static_other,exclude,facade_no_movement
+2-s2.0-0029667147,A simple climagraph for characterizing regional suitability for greenhouse cropping in Greece,static_other,exclude,facade_no_movement
+2-s2.0-84904818588,First mars outpost architectural study,not_facade_other,exclude,not_facade
+2-s2.0-0029697466,Fast convergence algorithms for the adaptive envelope-constrained filter design,insufficient_info,exclude,insufficient_info
+2-s2.0-0029721340,First Mars outpost architectural study,not_facade_other,exclude,not_facade
+2-s2.0-84970417746,Dynamic Evaluation of the Building Envelope for Wind and Wind-Driven Rain Performance,static_other,exclude,facade_no_movement
+2-s2.0-0029235106,Dynamic evaluation of the building envelope for wind and wind-driven rain performance,static_other,exclude,facade_no_movement
+2-s2.0-0027835967,Conceptual framework for dynamic control of daylighting and electric lighting systems,control_of_static,exclude,facade_no_movement
+2-s2.0-34250074213,"Completing the ""One line proof"" of the dynamic envelope theorem",static_other,exclude,facade_no_movement
+2-s2.0-0027003042,Method of measurement nighttime U-values using the mobile window thermal test facility,insufficient_info,exclude,insufficient_info
+2-s2.0-0026223932,"Surface reconstruction from stereoscopy and ""shape from shading"" in SEM images",static_other,exclude,facade_no_movement
+2-s2.0-0026158977,Use of nonlinear envelope feedback to linearize the characteristics of power amplifiers,insufficient_info,exclude,insufficient_info
+2-s2.0-0000345064,The envelope theorem in dynamic optimization,static_other,exclude,facade_no_movement
+2-s2.0-0021543170,Dynamic Changes of Fenestrations in Choriocapillaries,static_other,exclude,facade_no_movement
+2-s2.0-0014481458,Respiratory Influence on Skin Potential and Sweating,static_other,exclude,facade_no_movement
+2-s2.0-77954387152,Physiological and ecological studies in the analysis of plant environment: IX. Adaptive changes in the vegetative growth and development of helianthus annuus induced by an alteration in light level,control_of_static,exclude,facade_no_movement

@@ -1,0 +1,2697 @@
+TY  - CONF
+AU  - Xiong, C.
+AU  - Melenbrink, N.
+TI  - Environmentally Responsive Shading Structures with Sensor-Based Prefabricated Mechanical Systems
+PY  - 2026
+T2  - ASHRAE Transactions
+VL  - 132
+IS  - 1
+SP  - 1444
+EP  - 1451
+DO  - 10.63044/w26xio184
+UR  - https://www.scopus.com/pages/publications/105038361506?origin=resultslist
+AD  - Harvard University, Graduate School of Design, Cambridge, MA, United States
+AD  - Harvard University, Faculty of Arts and Science, Cambridge, MA, United States
+AB  - Climate change has intensified the global demand for cooling solutions, particularly in regions experiencing extreme heatwaves. Kinetic building façades act as a shading structure, dynamically adjusting their shape according to environmental conditions to improve energy efficiency and occupant comfort. However, traditional application has largely been limited to commercial and office buildings due to high upfront costs and complex maintenance. This paper presents a lower cost, prefabricated, data-driven alternative designed for home units. The structure integrates real-time environmental sensing with predictive controls to adjust shading components in response to changing environments. Simulation results show that the proposed approach outperforms static and rule-based scenarios, achieving a 12% reduction in cooling demand during summer months compared to the static baseline. This finding demonstrates the potential of accessible adaptive shading systems to mitigate heat stress while decrease cooling energy use in residential contexts. © 2026 ASHRAE.
+KW  - Climate change
+KW  - Predictive control systems
+KW  - Cooling solutions
+KW  - Data driven
+KW  - Energy
+KW  - Environmental conditions
+KW  - Global demand
+KW  - Heatwaves
+KW  - Low-costs
+KW  - Mechanical systems
+KW  - Occupant comforts
+KW  - Shading structures
+KW  - Office buildings
+PB  - American Society of Heating Refrigerating and Air-Conditioning Engineers
+SN  - 00012505 (ISSN); 978-196417356-6 (ISBN)
+LA  - English
+J2  - ASHRAE Trans
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Conference name: ASHRAE Winter Conference, 2026; Conference date: 31 January 2026 through 4 February 2026; Conference code: 350269; CODEN: ASHTA
+ER  -
+
+TY  - JOUR
+AU  - Tekin, B.H.
+TI  - From greenwashing to grounded practice: A context-specific biophilic design framework for hot arid climates
+PY  - 2026
+T2  - Building and Environment
+VL  - 292
+C7  - 114295
+DO  - 10.1016/j.buildenv.2026.114295
+UR  - https://www.scopus.com/pages/publications/105028592145?origin=resultslist
+AD  - Department of Architecture, Faculty of Arts, Design and Architecture, Sakarya University, Turkey
+AB  - The accelerating impacts of climate change demand design frameworks that reduce environmental burdens while enhancing human well-being. Although biophilic design is increasingly recognised as a regenerative paradigm, its direct application in hot-arid regions remains limited and often unsuitably adapted from temperate contexts, resulting in “greenwashing” and ecological imbalance. As arid regions continue to expand, the need for climate-adaptive design in these contexts is increasingly urgent. Using an exploratory sequential mixed-methods design, this study synthesises a systematic review of six high-quality papers and in-depth interviews with five regional experts to develop a conceptual framework for biophilic design in desert environments. The findings show that temperate biophilia, largely aesthetic and visual, fails under arid conditions. The framework defines two interlinked dimensions of success: the human response (thermal comfort, well-being, and cultural resonance) and the ecological response (resource efficiency and habitat creation). It identifies passive design, water neutrality, native flora, and privacy-sensitive spatial configurations as prerequisites for restorative biophilic environments. Key strategies include hybrid ventilation, adaptive shading hierarchies, kinetic façades, reuse of traditional materials, and multi-scalar microclimates that mitigate urban heat. Acting as a complementary conceptual layer to regional sustainability standards (e.g., Al Sa'fat, GSAS, Mostadam, Estidama), the framework positions biophilic design as a climate-adaptive, ecologically grounded, and culturally embedded methodology. This work provides a conceptual foundation for policymakers and designers seeking integrated strategies that align climate mitigation with human adaptation in the rapidly expanding climatic zone. © 2026 Elsevier Ltd
+KW  - Biophilic design
+KW  - Climate adaptation
+KW  - Climate mitigation
+KW  - Climate-adaptive architecture
+KW  - Ecological resilience
+KW  - Hot-arid climate
+KW  - Human well-being
+KW  - Arid regions
+KW  - Climate change
+KW  - Ecodesign
+KW  - Ecology
+KW  - Regional planning
+KW  - Sustainable development
+KW  - Adaptive architecture
+KW  - Biophilic design
+KW  - Climate adaptation
+KW  - Climate mitigations
+KW  - Climate-adaptive architecture
+KW  - Ecological resilience
+KW  - Greenwashing
+KW  - Hot arid climates
+KW  - Human well-being
+KW  - Well being
+KW  - adaptive management
+KW  - arid region
+KW  - climate change
+KW  - mitigation
+KW  - quality of life
+KW  - Hybrid materials
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: B.H. Tekin; Sakarya University, Faculty of Art, Design and Architecture, Department of Architecture, Serdivan, Sakarya, 54050, Turkey; email: bhtekin@sakarya.edu.tr; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Azimi, M.
+AU  - Mahdavinejad, M.
+AU  - Yeganeh, M.
+AU  - Zamani, Z.
+TI  - Real-time adaptive algae bioreactor facades: a novel method for dynamic daylight and thermal efficiency optimization in buildings
+PY  - 2025
+T2  - Energy Conversion and Management
+VL  - 346
+C7  - 120409
+DO  - 10.1016/j.enconman.2025.120409
+UR  - https://www.scopus.com/pages/publications/105014520687?origin=resultslist
+AD  - Department of Architecture, Faculty of Art and Architecture, Tarbiat Modares University, Tehran, Iran
+AD  - College of Engineering and Architecture, University of Nizwa, Oman
+AD  - Architectural Design, Modeling and Fabrication Lab, Department of Architecture, Tarbiat Modares University, Tehran, Iran
+AD  - Department of Arch. Technology, College of Fine Art, University of Tehran, Iran
+AB  - This study presents the Algae Autobioreactor (AAB), an advanced photo-bioreactor system designed for architectural integration as windows, building facades, and shading elements. We developed the Real-time Image Processing Automation of the Algae Panel (RIPAAP) system to enable continuous monitoring of critical parameters including algal concentration, density, Visible Transmittance (VT), Solar Heat Gain Coefficient (SHGC), and U-value. Unlike conventional approaches limited to static algal concentrations, our method captures dynamic growth patterns over extended periods. The dynamic growth patterns were analyzed in two distinct configurations: Case 1 (vertical slats) and Case 2 (horizontal slats), representing fundamentally different shading approaches. Experimental results demonstrate distinct behavioral patterns: in Case 1, initial concentrations of 20–30 % exhibited rapid fluctuations between 40–90 % during subsequent days before stabilizing, accompanied by reduced VT and SHGC variability. Case 2 showed similar initial behavior but maintained higher concentration volatility through day 4. Quantitative analysis revealed VT variations of 0.05–0.18 (40–80 % concentration) and SHGC ranges of 0.09–0.20 for Case 1, while Case 2 displayed VT changes of 0.02–0.17 (40–90 % concentration) with SHGC values of 0.02–0.21. The RIPAAP system's ability to track these transient phenomena in real-time represents a significant advancement over traditional measurement techniques, offering new capabilities for optimizing both Energy Efficiency (EE) and Human Health (HH) parameters in building-integrated bioreactor systems. These findings establish a foundation for dynamic control of algal-based architectural elements and demonstrate the critical relationship between concentration changes and optical/thermal performance metrics. © 2025 Elsevier Ltd
+KW  - Algae bioreactor
+KW  - Building energy optimization
+KW  - Building envelope
+KW  - Energy efficiency
+KW  - Real-time image processing (RIPAAP)
+KW  - Algae
+KW  - Algae control
+KW  - Automation
+KW  - Bioconversion
+KW  - Photobioreactors
+KW  - Real time systems
+KW  - Solar buildings
+KW  - Solar energy
+KW  - Algae bioreactors
+KW  - Building energy
+KW  - Building energy optimization
+KW  - Building envelopes
+KW  - Energy
+KW  - Energy optimization
+KW  - Real-time image processing
+KW  - Real-time image processing (real-time image processing automation of the alga panel)
+KW  - Solar heat gain coefficient
+KW  - Energy efficiency
+PB  - Elsevier Ltd
+SN  - 01968904 (ISSN)
+LA  - English
+J2  - Energy Convers. Manage.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: M. Mahdavinejad; College of Engineering and Architecture, University of Nizwa, Oman; email: mahdavinejad@unizwa.edu.om; CODEN: ECMAD
+ER  -
+
+TY  - JOUR
+AU  - Zhang, C.
+AU  - Zhong, W.
+AU  - Li, K.
+AU  - Hu, M.
+AU  - Zheng, H.
+AU  - Zhang, T.
+TI  - Surrogate model-based design optimization of modular façades under multifunctional scenarios
+PY  - 2026
+T2  - Building and Environment
+VL  - 295
+C7  - 114475
+DO  - 10.1016/j.buildenv.2026.114475
+UR  - https://www.scopus.com/pages/publications/105033239035?origin=resultslist
+AD  - School of Architecture, Southeast University, 2 Sipailou, Nanjing, 210096, China
+AD  - Department of the Built Environment, College of Design and Engineering, National University of Singapore, 4 Architecture Drive, 117566, Singapore
+AD  - Architectural Intelligence Group, Department of Architecture and Civil Engineering, City University of Hong Kong, Hong Kong Special Administrative Region of China, China
+AB  - As existing buildings are increasingly retrofitted in response to frequently changing demands, the configuration of façade systems becomes critical for ensuring adaptability to evolving functional use and climate conditions. While modular façades offer this potential, current approaches remain case-specific and simulation-intensive, constraining early-stage exploration of scenario-based design and performance-driven optimization. This study proposes an image-to-image surrogate framework that couples a generative adversarial network (GAN) with multi-objective optimization to support design optimization of modular façades in open-plan offices. Using a university educational building in Singapore as a case study, each façade opening-ratio maps (12 × 18 panels) and corresponding annual fields of daylight autonomy (DA), glare autonomy (GA), and thermal comfort percentage (TCP) are generated and encoded as 256 × 256 grayscale images for model training. The calibrated surrogate model accurately reproduces spatial performance patterns and reduces per-evaluation runtime by nearly 90% compared to simulations. Scenario experiments across three representative layouts demonstrate that surrogate-based single and multi-objective optimization decreases combined the root mean square error (RMSE) by 13.7–21.7%, while designer-specified inputs increase errors by up to 57.1% in complex layouts. The results highlight that data-driven façade configurations better capture thermo-optical trade-offs than experience-based schemes. The proposed framework offers a scalable, visually spatial decision-support tool for adaptive modular façade retrofits and can be extended to additional climates, geometries, and performance objectives. © 2026 Elsevier Ltd
+KW  - Daylighting–thermal synergy
+KW  - Design optimization
+KW  - Modular façade
+KW  - Scenarios experiment
+KW  - Surrogate model
+KW  - Singapore [Singapore (NTN)]
+KW  - Singapore [Southeast Asia]
+KW  - Architectural design
+KW  - Decision support systems
+KW  - Facades
+KW  - Fuel additives
+KW  - Mean square error
+KW  - Multiobjective optimization
+KW  - Daylighting–thermal synergy
+KW  - Design optimization
+KW  - Model-based design
+KW  - Modular facade
+KW  - Modulars
+KW  - Multi-objectives optimization
+KW  - Multifunctionals
+KW  - Scenario experiment
+KW  - Surrogate modeling
+KW  - Thermal
+KW  - architectural design
+KW  - autonomy
+KW  - climate conditions
+KW  - optimization
+KW  - performance assessment
+KW  - scenario analysis
+KW  - Economic and social effects
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: T. Zhang; School of Architecture, Southeast University, Nanjing, 2 Sipailou, 210096, China; email: hytong@seu.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Ohene, E.
+AU  - McGehee, M.D.
+AU  - Krarti, M.
+TI  - Evaluation of smart glazing properties for net positive windows in commercial buildings
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 357
+C7  - 117129
+DO  - 10.1016/j.enbuild.2026.117129
+UR  - https://www.scopus.com/pages/publications/105029647797?origin=resultslist
+AD  - Department of Civil, Environmental and Architectural Engineering, United States
+AD  - Department of Chemical Engineering, University of Colorado Boulder, United States
+AB  - The study identifies smart glazing properties necessary for delivering net energy positive performance for office buildings. A comprehensive parametric framework is used to quantify the influence of smart window optical and thermal characteristics, tint control strategies, and building design parameters on whole-building energy performance. The analysis results demonstrate that smart glazed windows can transition from net energy liability to net energy positive elements of office building envelopes when climate-responsive control strategies and daylighting integration are appropriately implemented. Without daylighting control, smart glazed windows can increase annual energy use by up to 20% in cooling-dominated climates, whereas the deployment of daylighting control reduced total energy consumption by 5–7% in mixed climates such as Boulder, CO. Outdoor air temperature (OAT)-based control strategies consistently outperformed incident total solar-radiation (ITSR)-based controls, when coupled with optimal switching settings. Moreover, the sensitivity analyses reveal a nonlinear dependence of energy performance on window-to-wall ratio, with large windows increasing both the penalties and benefits of smart glazed fenestration systems. Improvements in thermal transmittance below 1.10 W/m2·K yielded diminishing returns, indicating that adaptive optical properties are more influential than ultra-low U-factors for achieving net energy positive performance for smart glazed windows. The evaluation of commercially available electrochromic glazing products when deployed to office buildings show energy savings of 2–5% for mild and mixed climates, near-neutral performance for cooling-dominated climates, and energy penalties for heating-dominated climates. © 2026 Elsevier B.V.
+KW  - Net positive energy
+KW  - Office buildings
+KW  - Optical properties
+KW  - Optimal controls
+KW  - Smart glazing
+KW  - Windows
+KW  - Architectural design
+KW  - Climate control
+KW  - Daylighting
+KW  - Energy efficiency
+KW  - Glazes
+KW  - Optimal control systems
+KW  - Sensitivity analysis
+KW  - Control strategies
+KW  - Daylighting control
+KW  - Net energy
+KW  - Net positive energy
+KW  - Optical-
+KW  - Optimal controls
+KW  - Performance
+KW  - Positive energies
+KW  - Property
+KW  - Smart glazing
+KW  - Office buildings
+KW  - Optical properties
+KW  - Windows
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: M. Krarti; Department of Civil, Environmental and Architectural Engineering, United States; email: moncef.krarti@colorado.edu; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Dokhaei, B.
+AU  - Alipour, A.
+AU  - Abdelaziz, K.
+AU  - Shafei, B.
+AU  - Sarkar, P.
+AU  - Hobeck, J.
+TI  - Cyber-physical smart morphing facades driven by reinforcement learning for wind-induced vibration control in tall buildings
+PY  - 2026
+T2  - Journal of Wind Engineering and Industrial Aerodynamics
+VL  - 273
+C7  - 106394
+DO  - 10.1016/j.jweia.2026.106394
+UR  - https://www.scopus.com/pages/publications/105034627643?origin=resultslist
+AD  - Department of Civil, Construction and Environmental Engineering, Iowa State University, United States
+AD  - Department of Mechanical and Nuclear Engineering, Kansas State University, United States
+AD  - Department of Aerospace Engineering, Iowa State University, United States
+AB  - Modern tall and slender structures often experience significant wind-induced vibrations (WIV). This study explores the effectiveness of a smart morphing façade system featuring motorized vertical corner plates to control WIV in high-rise buildings. A novel cyber-physical framework is proposed and validated through wind tunnel experiments using a 1:76 scaled aeroelastic building model. The influence of surrounding buildings on wind turbulence is also considered, ensuring adaptability to dynamic urban environments. To enable real-time responsiveness and optimize plate orientations, the system integrates an encoder-decoder Gated Recurrent Unit (GRU) model and a Genetic Reinforcement Learning (GRL) algorithm. The GRU model defines the system state using data from pressure probes, accelerometers, and atmospheric sensors. At each control interval, the GRL algorithm leverages past plate angles and GRU states to train multi-layer perceptron (MLP) policies. It combines genetic algorithms (GAs) with random search to balance exploration and exploitation while optimizing future plate angles. The results show significant reductions in root mean square (RMS) accelerations, up to 50% compared to the uncontrolled model. Frequency domain analysis also reveals a decrease in energy around dominant frequencies, confirming the system's effectiveness. This represents a pioneering advancement in the development of smart morphing facade systems that adapt to wind conditions and mitigate structural vibrations efficiently. © 2026
+KW  - Encoder-decoder Gated Recurrent Unit (GRU)
+KW  - Genetic reinforcement learning (GRL)
+KW  - Interference effects
+KW  - Smart morphing façade
+KW  - Tall buildings
+KW  - Wind Induced Vibration (WIV)
+KW  - Aeroelasticity
+KW  - Cyber Physical System
+KW  - Facades
+KW  - Frequency domain analysis
+KW  - Genetic algorithms
+KW  - Learning algorithms
+KW  - Plates (structural components)
+KW  - Reinforcement learning
+KW  - Structural dynamics
+KW  - Structural Mechanics
+KW  - Vibrations (mechanical)
+KW  - Wind tunnels
+KW  - Cyber physicals
+KW  - Encoder-decoder
+KW  - Encoder-decoder gated recurrent unit
+KW  - Genetic reinforcement learning
+KW  - Interference effects
+KW  - Morphing
+KW  - Reinforcement learnings
+KW  - Smart morphing facade
+KW  - Wind induced vibration
+KW  - Wind induced vibrations
+KW  - Tall buildings
+PB  - Elsevier B.V.
+SN  - 01676105 (ISSN)
+LA  - English
+J2  - J. Wind Eng. Ind. Aerodyn.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: A. Alipour; Department of Civil, Construction and Environmental Engineering, Iowa State University, United States; email: alipour@iastate.edu
+ER  -
+
+TY  - JOUR
+AU  - Zhao, H.
+AU  - Li, S.
+AU  - Wu, Y.
+AU  - Sun, H.
+AU  - Lin, B.
+TI  - Improved superhydrophobic surface for new phase-change thermal diode in building thermal management
+PY  - 2026
+T2  - Energy
+VL  - 347
+C7  - 140161
+DO  - 10.1016/j.energy.2026.140161
+UR  - https://www.scopus.com/pages/publications/105029407767?origin=resultslist
+AD  - Department of Building Science, Tsinghua University, Beijing, 100084, China
+AD  - Key Laboratory of Eco Planning & Green Building, Ministry of Education, Tsinghua University, China
+AD  - College of Architecture and Environment, Sichuan University, Chengdu, 610065, China
+AB  - Compared with traditional dynamic building envelopes, the performance-adjustable building envelopes combined with the new phase-change thermal diode offer the advantages of excellent adjustability and straightforward control. To further enhance the unidirectional heat transfer capability and durability of the new phase-change thermal diode in building applications, this study employed chemical etching to fabricate a silver nitrate-based superhydrophobic surface with small structural spacing. The experimental results show that the application of a silver nitrate-based superhydrophobic surface effectively ensured the durability and stability of the new phase-change thermal diode. The maximum forward thermal conductivity was found to be 8.85 W/(m·K) and the thermal rectification reached 78.81. This represents an improvement of between 30.89 % and 249.53 % compared to the laser-fabricated superhydrophobic surface. Additionally, simulation demonstrated the energy-saving potential of dynamic building envelopes combined with the new phase-change thermal diode in data centers across different climate zones. The maximum annual energy savings reached 325.62 kWh/m2 were achieved, demonstrating significant application value. This study promotes the transition of performance-adjustable building envelopes from theoretical research to practical application, thereby fostering the dual development of the buildings and materials fields. © 2026
+KW  - New phase-change thermal diode
+KW  - Optimization of superhydrophobic surfaces
+KW  - Passive energy saving in data center
+KW  - Performance-adjustable building envelope
+KW  - Programming simulation
+KW  - Energy conservation
+KW  - Green computing
+KW  - Heat transfer
+KW  - Phase change materials
+KW  - Silver compounds
+KW  - Solar buildings
+KW  - Superhydrophobicity
+KW  - Surface properties
+KW  - Temperature control
+KW  - Thermal conductivity
+KW  - Building envelopes
+KW  - Datacenter
+KW  - New phase-change thermal diode
+KW  - Optimisations
+KW  - Optimization of superhydrophobic surface
+KW  - Passive energy saving in data center
+KW  - Passive energy savings
+KW  - Performance
+KW  - Performance-adjustable building envelope
+KW  - Phase Change
+KW  - Programming simulation
+KW  - Super-hydrophobic surfaces
+KW  - Thermal diodes
+KW  - climate change
+KW  - electrode
+KW  - heat transfer
+KW  - hydrophobicity
+KW  - performance assessment
+KW  - simulation
+KW  - thermal conductivity
+KW  - thermal power
+KW  - Durability
+PB  - Elsevier Ltd
+SN  - 03605442 (ISSN)
+LA  - English
+J2  - Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Y. Wu; Department, of Building Science, Tsinghua University, Beijing, 100084, China; email: wu_yf@mail.tsinghua.edu.cn; B. Lin; Department of Building Science, Tsinghua University, Beijing, 100084, China; email: linbr@tsinghua.edu.cn; CODEN: ENEYD
+ER  -
+
+TY  - JOUR
+AU  - Pantilimonescu-Cioancă, F.
+AU  - Alibrandi, U.
+AU  - Beatini, V.
+TI  - Predicting emotional impact of adaptive façades through Machine Learning, A VR-based study with PAD assessment
+PY  - 2026
+T2  - Building and Environment
+VL  - 297
+C7  - 114541
+DO  - 10.1016/j.buildenv.2026.114541
+UR  - https://www.scopus.com/pages/publications/105034360495?origin=resultslist
+AD  - Ion Mincu University of Architecture and Urbanism, Bucharest, 010014, Romania
+AD  - Umberto Alibrandi, National University of Singapore, Department of Civil and Environmental Engineering
+AD  - Aarhus University, Dept Civil and Architectural Engineering, Aarhus, 8000, Denmark
+AB  - As global mental health concerns rise and indoor environments dominate daily life, understanding how architecture shapes emotional well-being has become urgent. Adaptive façades hold promise for creating responsive environments, yet their emotional impact remains poorly understood due to complex relationships between façade parameters and subjective responses. This study establishes a Machine Learning framework to assess architecture's emotional impact through adaptive shading effects. Using a Virtual Reality experiment, the Pleasure, Arousal, and Dominance (PAD) emotional responses were collected from 111 participants exposed to dynamic façade configurations, varying parameters such as speed, spatial spread, and coverage ratio. Challenges of subjective data were addressed through consensus-based classification and probabilistic modelling, evaluating multiple algorithms based on KL Divergence and Ranked Probability Score. Random Forest emerged optimal, achieving 85% accuracy for pleasure prediction in consensus analysis and 75% top-k accuracy in probabilistic modelling. Participant clustering improved performance to 87% for pleasure, while arousal proved most challenging to predict. Shapley Additive Explanations revealed spread, speed, and coverage ratio as most influential parameters. Optimal design zones occur at moderate speeds (<0.1 m/s) with medium spread ratios (0-10. Such configurations can describe low-distraction dynamic louvers or blinds, supporting calm atmosphere in common working, learning or relaxing spaces. The findings provide transferable, implementation-agnostic, perceptual design principles and parameter thresholds for dynamic shading in adaptive façades. By embracing uncertainty rather than averaging it out, the probabilistic framework offers adaptive systems that respect user diversity. Results advance integration of emotional considerations into evidence-based architectural practice. © 2026 Elsevier Ltd
+KW  - adaptive façade
+KW  - emotional assessment
+KW  - human-centred design
+KW  - Machine Learning
+KW  - PAD
+KW  - Random Forest
+KW  - regenerative design
+KW  - Virtual Reality
+KW  - Adaptive systems
+KW  - Architecture
+KW  - Behavioral research
+KW  - E-learning
+KW  - Facades
+KW  - Forecasting
+KW  - Learning systems
+KW  - Machine learning
+KW  - Memory architecture
+KW  - Adaptive facade
+KW  - Coverage ratio
+KW  - Emotional assessment
+KW  - Human-centred designs
+KW  - Machine-learning
+KW  - Pleasure, arousal, and dominance
+KW  - Probabilistic models
+KW  - Random forests
+KW  - Regenerative designs
+KW  - Spread ratio
+KW  - adaptive management
+KW  - assessment method
+KW  - experimental study
+KW  - machine learning
+KW  - parameterization
+KW  - prediction
+KW  - Virtual reality
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: F. Pantilimonescu-Cioancă; Ion Mincu University of Architecture and Urbanism, Bucharest, 010014, Romania; email: florina.pantilimonescu@academic.tuiasi.ro; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Yousaf, A.
+AU  - Koç, M.
+TI  - Bio-inspired 4D printing of earthen soil composites for structural living wall applications
+PY  - 2026
+T2  - Sustainable Materials and Technologies
+VL  - 48
+C7  - e01957
+DO  - 10.1016/j.susmat.2026.e01957
+UR  - https://www.scopus.com/pages/publications/105032991932?origin=resultslist
+AD  - Division of Sustainable Development, College of Science and Engineering, Hamad bin Khalifa University, Doha, Qatar
+AB  - Rising carbon emissions highlight the need for multifunctional building materials that move beyond inert structural roles toward ecological performance. Vertical greening and living wall systems (LWS) offer climate-responsive façades, yet most rely on synthetic substrates with high embodied carbon, limited biodegradability, and poor long-term moisture retention. This study introduces a 4D printing (4DP) approach for continuous living wall systems, using time as the transformative dimension as printed components evolve biologically. Bio-based earthen composites composed of local Qatari soil, acacia gum, and nanoclay were extrusion-printed to fabricate structural panels capable of supporting germination after printing. 9 formulations were prepared and assessed for rheology, extrudability, buildability, mechanical strength, thermal stability, shrinkage, and germination performance. Germination tests revealed a clear structural–biological relationship: low-binder mixes displayed high shrinkage and rapid moisture loss that inhibited sprouting, while higher acacia-gum dosages improved cohesion, internal moisture retention, and microbial compatibility. Nanoclay enhanced thixotropy, minimized shrinkage, and improved filament stability. The optimal formulation, T3 (90 wt% soil, 6 wt% acacia gum, 0.6 wt% nanoclay), provided stable extrusion, buildability up to 75 layers, and compressive strength above 4 MPa at 28 days. Panels printed using T3 demonstrated rapid biological activation; under controlled humidity, seeds germinated within 54 h while the printed geometry remained dimensionally stable. These results demonstrate that extrusion-based, bio-stabilized earthen composites can act as multifunctional materials that integrate structural integrity, moisture regulation, and biological receptivity. The work establishes a pathway structural element that function as true 4D living structures, evolving over time through controlled germination. Copyright © 2026. Published by Elsevier B.V.
+KW  - 4D printing
+KW  - Additive manufacturing
+KW  - Bio-based composite
+KW  - Moisture-responsive behavior
+KW  - Multifunctional materials
+KW  - Bioactivity
+KW  - Biodegradability
+KW  - Biological materials
+KW  - Carbon
+KW  - Compressive strength
+KW  - Cultivation
+KW  - Extrusion
+KW  - Moisture
+KW  - Seed
+KW  - Shrinkage
+KW  - Soils
+KW  - Walls (structural partitions)
+KW  - %moisture
+KW  - 4d printing
+KW  - Acacia gum
+KW  - Bio-based composites
+KW  - Moisture retention
+KW  - Moisture-responsive behavior
+KW  - Multi-functional materials
+KW  - Nano clays
+KW  - Responsive behaviour
+KW  - Wall systems
+KW  - Copyrights
+PB  - Elsevier B.V.
+SN  - 22149929 (ISSN)
+LA  - English
+J2  - Sustain. Mater. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: A. Yousaf; Division of Sustainable Development, College of Science and Engineering, Hamad bin Khalifa University, Doha, Qatar; email: aryo43840@hbku.edu.qa
+ER  -
+
+TY  - JOUR
+AU  - Aalami, N.
+AU  - Abravesh, M.
+AU  - Maqsood, T.
+AU  - Bhuiyan, M.A.
+TI  - Movement optimization of a movable façade using bimetal as actuators for enhanced indoor airflow
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 351
+C7  - 116753
+DO  - 10.1016/j.enbuild.2025.116753
+UR  - https://www.scopus.com/pages/publications/105023149306?origin=resultslist
+AD  - School of Architecture, College of Fine Arts, University of Tehran, Tehran, 1415564583, Iran
+AD  - STEM College, School of Engineering, RMIT University, VIC, Melbourne, 3001, Australia
+AB  - Contemporary building design increasingly incorporates adaptive envelope systems, such as external louvered blinds, to respond to environmental stimuli and enhance thermal comfort while managing indoor airflow. This study investigates the use of bimetallic materials as passive actuators, integrated with aluminium substrates, to drive thermally responsive louver movement. Three design parameters are examined: bimetal coating percentages, bimetal layers, and aluminium base thickness. Twelve material configurations were evaluated using nonlinear thermo-mechanical finite element analysis, with results validated by laboratory experiments. It demonstrated that solar-induced heating raised the bimetal-integrated aluminium surface temperature by approximately 1–15 °C above ambient, producing free-end flap displacements consistent with Finite Element Method (FEM) predictions. The influence of louver movement on indoor air velocity was analyzed using coupled Computational Fluid Dynamics (CFD) simulations across five coastal Australian cities with diverse climatic conditions. The results demonstrated that reducing the aluminium plate thickness and applying at least 70 % bimetal coating increased flap displacement, exceeding 3 mm, reaching up to 5 mm. Elevated ambient temperatures led to larger deflections and enhanced indoor air velocities, improving passive ventilation performance in warmer climates. This research offers valuable design guidance for optimizing adaptive louver systems to improve natural ventilation and reduce energy consumption in residential buildings. © 2025 Elsevier B.V.
+KW  - Bimetal
+KW  - CFD
+KW  - FEM
+KW  - Indoor air flow
+KW  - Movable façade
+KW  - Natural ventilation
+KW  - Actuators
+KW  - Air
+KW  - Aluminum
+KW  - Architectural design
+KW  - Energy utilization
+KW  - Finite element method
+KW  - Indoor air pollution
+KW  - Structural design
+KW  - Thermal comfort
+KW  - Ventilation
+KW  - Ambients
+KW  - Building design
+KW  - Computational fluid
+KW  - Element method
+KW  - Fluid-dynamics
+KW  - Indoor air velocity
+KW  - Indoor airflow
+KW  - Movable facade
+KW  - Movement optimization
+KW  - Natural ventilation
+KW  - Bimetals
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: M. Abravesh; School of Architecture, College of Fine Arts, University of Tehran, Tehran, 1415564583, Iran; email: abravesh@ut.ac.ir; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Cai, G.
+AU  - Yin, G.
+AU  - Wang, J.
+AU  - Feng, J.
+AU  - Bai, S.
+AU  - Hu, J.
+TI  - Observer-based robust MPC for trajectory tracking of autonomous vehicles with dynamic envelopes
+PY  - 2026
+T2  - Control Engineering Practice
+VL  - 172
+C7  - 106893
+DO  - 10.1016/j.conengprac.2026.106893
+UR  - https://www.scopus.com/pages/publications/105032881431?origin=resultslist
+AD  - School of Mechanical Engineering, Southeast University, Jiangsu, Nanjing, 211189, China
+AD  - School of Automotive Engineering, Liaocheng University, Shandong, Liaocheng, 252000, China
+AD  - School of Cyber Science and Engineering, Southeast University, Jiangsu, Nanjing, 211189, China
+AB  - Trajectory tracking of autonomous vehicles in open-road environments is inherently subject to unpredictable uncertainties, external disturbances, and nonholonomic system constraints. To rigorously address these challenges, this paper proposes an observer-based robust model predictive control (MPC) with theoretically guaranteed robustness and tracking performance. First, a linear parameter-varying (LPV) system representation is formulated by embedding the time-varying tire cornering stiffness and longitudinal velocity into a unified polytopic structure. Then, to enable real-time estimation of the vehicle sideslip angle, a quadratic-boundedness-based robust observer with offline gain computation is designed. The estimation error set is updated online by computing the minimal admissible bound on the observation error. Next, the observer-based robust min-max MPC problem is systematically formulated via constructing tractable linear matrix inequalities (LMIs). Closed-loop stability is guaranteed by incorporating the terminal invariant set. Phase-plane-based vehicle stability region and control barrier function (CBF)-based safety constraints are integrated into the robust MPC framework in a manner that rigorously preserves Lyapunov stability. Subsequently, an offline solution is devised to alleviate the online computational burden and facilitate real-time deployment. Finally, hardware-in-the-loop (HIL) experiments and real-vehicle tests with recent benchmark methods validate the effectiveness and superiority of the proposed approach. © 2026 Elsevier Ltd
+KW  - AFS/TVC Integration
+KW  - Control Barrier Function
+KW  - Observer-based Robust MPC
+KW  - Phase-plane Stability Region
+KW  - Trajectory Tracking
+KW  - Autonomous vehicles
+KW  - Benchmarking
+KW  - Flow control
+KW  - Model predictive control
+KW  - Navigation
+KW  - Predictive control systems
+KW  - Robust control
+KW  - Robustness (control systems)
+KW  - Trajectories
+KW  - Vehicle locating systems
+KW  - AFS/TVC integration
+KW  - Barriers functions
+KW  - Control barrier function
+KW  - Control barriers
+KW  - Observer-based
+KW  - Observer-based robust model predictive control
+KW  - Phase plane
+KW  - Phase-plane stability region
+KW  - Plane stability
+KW  - Robust model predictive control
+KW  - Stability regions
+KW  - Trajectory-tracking
+KW  - Linear matrix inequalities
+PB  - Elsevier Ltd
+SN  - 09670661 (ISSN)
+LA  - English
+J2  - Control Eng. Pract.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: G. Yin; School of Mechanical Engineering, Southeast University, Nanjing, Jiangsu, 211189, China; email: ygd@seu.edu.cn; CODEN: COEPE
+ER  -
+
+TY  - JOUR
+AU  - Chen, G.
+AU  - Zhang, G.
+AU  - Liu, Y.
+AU  - Li, R.
+AU  - Rong, L.
+TI  - Impacts of balconies on air quality within idealized building array: CFD modelling with solar radiation
+PY  - 2026
+T2  - Building and Environment
+VL  - 298
+C7  - 114615
+DO  - 10.1016/j.buildenv.2026.114615
+UR  - https://www.scopus.com/pages/publications/105036251755?origin=resultslist
+AD  - College of Engineering, South China Agricultural University, Guangzhou, 510642, China
+AD  - Department of Civil and Architectural Engineering, Aarhus University, Inge Lehmanns Gade 10, Aarhus C, DK-8000, Denmark
+AD  - School of Civil Engineering and Transportation, Guangzhou University, Guangzhou, 510006, China
+AD  - State Key Laboratory of Subtropical Building and Urban Science, School of Architecture, South China University of Technology, Guangzhou, 510640, China
+AB  - The impact of balconies on outdoor microclimate has typically been overlooked in previous studies. This study investigated how balconies affect airflow and pollutant dispersion within an idealized street canyon using computational fluid dynamics (CFD) with fully coupled radiative, convective, and conductive heat transfer processes. Steady-state CFD simulations were conducted using weather data from a typical day in June in Guangzhou, China, at four representative times of the day (0800, 1200, 1600 and 2000 Local Solar Time (LST)). The results showed that outdoor air quality was influenced by time of the day, balcony form and location. The best and worst outdoor air quality occurred at 0800 LST and 2000 LST, respectively, and pollutant concentrations at pedestrian zone overwhelmingly exceeded those at vertically distributed balcony zones. When only the near-façade pedestrian zone was evaluated, the presence of balconies worsened the outdoor air quality significantly. When all the balcony zones were evaluated, the presence of balconies worsened the outdoor air quality at 0800 LST but improved it at 1200 LST. Generally, the All-sealed balcony is most effective in promoting better air quality in the near-façade areas. Pronounced thermal stratifications on building surfaces developed not only during periods of solar radiation but also at night, driven by temperature differences between interior and exterior surfaces. Overall, the findings highlight the importance of accurately representing façade geometry and dynamic thermal boundary conditions in CFD studies of urban microclimate. Future work should investigate how aspect ratio, balcony configuration, and building materials jointly influence outdoor microclimate. © 2026 Elsevier Ltd
+KW  - Air pollutant
+KW  - Building façade
+KW  - Diurnal variation
+KW  - Heat transfer
+KW  - Urban microclimate
+KW  - Air
+KW  - Air quality
+KW  - Aspect ratio
+KW  - Facades
+KW  - Heat convection
+KW  - Solar radiation
+KW  - Air pollutants
+KW  - Building array
+KW  - Building facades
+KW  - Computational fluid
+KW  - Computational fluid dynamics modeling
+KW  - Diurnal variation
+KW  - Fluid-dynamics
+KW  - Local solar time
+KW  - Outdoor air qualities
+KW  - Urban microclimate
+KW  - Computational fluid dynamics
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: G. Chen; College of Engineering, South China Agricultural University, Guangzhou, 510642, China; email: guoxing.chen@scau.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Miraba, S.
+AU  - Salehi, A.
+AU  - Rostamzadeh-Renani, M.
+AU  - Ehteshami, R.
+AU  - Shahbazi, A.
+AU  - Rostamzadeh-Renani, R.
+AU  - Dehkordi, S.A.H.H.
+AU  - Baghoolizadeh, M.
+TI  - Adaptive BIPV shading optimization for electricity generation and building electricity management, sDA, and DGP using multi-objective algorithms
+PY  - 2025
+T2  - Applied Energy
+VL  - 402
+C7  - 126860
+DO  - 10.1016/j.apenergy.2025.126860
+UR  - https://www.scopus.com/pages/publications/105018307628?origin=resultslist
+AD  - University of Cincinnati, The College of Design, Architecture, Art and Planning, School of Planning, Cincinnati, United States
+AD  - Thomas Jefferson University, College of Architecture and The Built Environment, East Falls Campus, Philadelphia, PA, United States
+AD  - Energy Department, Politecnico di Milano, Via Lambruschini 4, Milan, 20156, Italy
+AD  - Department of Mechanical Engineering, Shahrekord University, Shahrekord, 88186-34141, Iran
+AB  - Background: Adaptive Building-Integrated Photovoltaic Shading Systems (BIPVS) offer a promising solution to simultaneously address sustainable energy generation, daylight optimization, and visual comfort in office buildings. However, current studies mostly focus on static or semi-static shading solutions with limited adaptability to real-time solar conditions. Objective: This study proposes a fully adaptive BIPVS shading configuration and evaluates its performance through comprehensive multi-objective optimization, targeting maximum electricity production (EP), minimum electricity consumption (EC), improved spatial daylight autonomy (sDA), and reduced daylight glare probability (DGP) in an office building located in Tehran, Iran. Methodology: EnergyPlus, Radiance, and Python scripting were integrated into a novel simulation-optimization framework. Four advanced multi-objective algorithms (Multi-Objective Grey Wolf Optimizer Algorithm (MOGWO), Multi-Objective Whale Optimization Algorithm (MOWOA), Multi-Objective Ant Colony Optimization Algorithm (MOACO), Multi-Objective Moth Flame Optimization Algorithm (MOMFO)) were applied to optimize design variables, including tilt angle, azimuth angle, shading-to-window distance, window dimensions, and window-to-wall ratio. Performance was evaluated using eight criteria (Generational distance (GD), Inverted generational distance (IGD), Spacing (SP), Maximum Spread (MS), Time (T), Quality (Q), Mean ideal distance (MID), and the number of Pareto front points (NPS)), ranked by Shannon entropy, and the best solution identified by the TOPSIS method. Results: The findings show that adaptive solar shading can boost net electricity generation by over 200 %, achieving up to 6661.11 kWh annually, while reducing building energy consumption by 22.29 % and improving daylight autonomy by 80 %. Additionally, glare probability was significantly reduced, enhancing occupant visual comfort. This research highlights the potential of adaptive BIPVS systems, combined with advanced optimization methods, to significantly improve building energy efficiency and indoor environmental quality, particularly in semi-arid climates. © 2025 Elsevier Ltd
+KW  - Adaptive solar shading
+KW  - DGP
+KW  - Electricity consumption
+KW  - Electricity produced
+KW  - sDA
+KW  - Iran
+KW  - Tehran [Iran]
+KW  - Ant colony optimization
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Glare
+KW  - Multiobjective optimization
+KW  - Solar power generation
+KW  - Sustainable building
+KW  - Sustainable development
+KW  - Adaptive solar shading
+KW  - Building integrated photovoltaic
+KW  - Daylight autonomies
+KW  - Daylight glare probabilities
+KW  - Electricity produced
+KW  - Electricity-consumption
+KW  - Multi objective
+KW  - Shading systems
+KW  - Solar shadings
+KW  - Spatial daylight autonomy
+KW  - algorithm
+KW  - alternative energy
+KW  - autonomy
+KW  - azimuth
+KW  - electricity generation
+KW  - energy efficiency
+KW  - energy management
+KW  - optimization
+KW  - probability
+KW  - shading
+KW  - Office buildings
+PB  - Elsevier Ltd
+SN  - 03062619 (ISSN)
+LA  - English
+J2  - Appl. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 11; Correspondence Address: M. Baghoolizadeh; Department of Mechanical Engineering, Shahrekord University, Shahrekord, 88186-34141, Iran; email: m_baghoolizadeh@stu.sku.ac.ir; CODEN: APEND
+ER  -
+
+TY  - JOUR
+AU  - Yao, Z.
+AU  - Lu, W.
+AU  - Zhang, H.
+AU  - Wang, X.
+AU  - Zhu, L.
+AU  - Shi, Y.
+TI  - Spatiotemporal dynamics of thermal comfort, energy consumption, and carbon emissions in climate-adaptive MPCMs used for building envelopes across 11 cities with continental climate
+PY  - 2026
+T2  - Energy
+VL  - 356
+C7  - 141160
+DO  - 10.1016/j.energy.2026.141160
+UR  - https://www.scopus.com/pages/publications/105037745526?origin=resultslist
+AD  - School of Biotechnology and Food Science, Tianjin University of Commerce, Tianjin, 300134, China
+AD  - School of Mechanical Engineering, Tianjin University of Commerce, Tianjin, 300134, China
+AD  - School of Foreign Languages, Tianjin University of Commerce, Tianjin, 300134, China
+AB  - To achieve the synergistic optimization of thermal comfort, energy consumption, and carbon emissions, the microencapsulated phase change materials (MPCMs)-reinforced fast-growing Eucommia ulmoides (EU) fibers concrete composite walls (MPCMs-EUWs) were designed and evaluated in 11 representative cities across the Dfa/Dwb and Dfb/Dwb climate zones. The year-round thermal comfort and sustainability simulations were performed. The effects of MPCMs with varying phase change temperatures (18 °C, 24 °C, 28 °C, 32 °C, and 37 °C) on the Predicted Mean Vote (PMV), total operational energy consumption, and carbon emissions were evaluated. Simulation results showed that, among MPCMs with varying phase change temperatures, PMV was effectively modulated by the optimal composite strategies. For the cities of Chicago, Beijing, Seoul, Almaty, Ottawa, Moscow, Helsinki, Calgary, Vladivostok and Warsaw, the comfortable PMV range of −1.1–0.0 was achieved by MPCMs18-EUWs, and the range of 0.1–+1.9 was achieved by MPCMs32-EUWs/MPCMs37-EUWs. Furthermore, substantial reductions in the minimum monthly operational energy consumption (15.37–27.19 MJ/m2) and carbon emissions (0.37–4.65 kgCO2/m2) were achieved in these 10 cities. Although this primary strategy was effective for most cities, region-specific tailored composite strategy of MPCMs28-EUWs, MPCMs24-EUWs, and MPCMs37-EUWs was identified for Bucharest. In addition, a novel energy-PMV synergy index is first proposed to quantify the synergistic effect of thermal comfort and total operational energy consumption. In summary, this work provides a strategy for selecting thermal comfort, energy-efficient, and low-carbon building materials in 11 representative cities. © 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+KW  - Building envelopes
+KW  - Carbon emissions
+KW  - Energy-PMV synergy index
+KW  - MPCMs
+KW  - Operational phase
+KW  - Alberta
+KW  - Almaty
+KW  - Beijing [China]
+KW  - Bucharest [Romania]
+KW  - Calgary
+KW  - Canada
+KW  - Chicago
+KW  - China
+KW  - Finland
+KW  - Helsinki
+KW  - Illinois
+KW  - Kazakhstan
+KW  - Mazowieckie
+KW  - Moscow [(CTY) Russian Federation]
+KW  - Ontario [Canada]
+KW  - Ottawa
+KW  - Poland [Central Europe]
+KW  - Primorye
+KW  - Romania
+KW  - Russian Federation
+KW  - Seoul [South Korea]
+KW  - South Korea
+KW  - United States
+KW  - Varsinais-Suomi
+KW  - Vladivostok
+KW  - Warsaw [Mazowieckie]
+KW  - Carbon
+KW  - Climate change
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Phase change materials
+KW  - Sustainable development
+KW  - Thermal comfort
+KW  - Zero-carbon
+KW  - Building envelopes
+KW  - Carbon emissions
+KW  - Energy
+KW  - Energy-consumption
+KW  - Energy-predicted mean vote synergy index
+KW  - Microencapsulated phase change material
+KW  - Operational phasis
+KW  - Phase Change
+KW  - Predicted mean vote
+KW  - Thermal
+KW  - carbon emission
+KW  - climate change
+KW  - composite
+KW  - concrete
+KW  - construction material
+KW  - energy efficiency
+KW  - optimization
+KW  - spatiotemporal analysis
+KW  - sustainability
+KW  - urban area
+KW  - Solar buildings
+PB  - Elsevier Ltd
+SN  - 03605442 (ISSN)
+LA  - English
+J2  - Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Y. Shi; Tianjin, 300134, China; email: shyan@tjcu.edu.cn; CODEN: ENEYD
+ER  -
+
+TY  - JOUR
+AU  - Shi, S.
+AU  - Zhu, N.
+AU  - Jiang, Y.
+AU  - Dong, G.
+AU  - Lin, B.
+TI  - Optimization of thermally variable solar collection walls integrated with flat plate gravity heat pipes
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 365
+C7  - 117660
+DO  - 10.1016/j.enbuild.2026.117660
+UR  - https://www.scopus.com/pages/publications/105039813460?origin=resultslist
+AD  - Department of Building Science, Tsinghua University, Beijing, 100084, China
+AD  - Key Laboratory of Eco Planning & Green Building, Ministry of Education, Tsinghua University, Beijing, 100084, China
+AD  - CSCEC JIUHE Development Group Co. Ltd., Beijing, 100070, China
+AB  - Extreme climates heighten the need for climate adaptation in low-carbon buildings. Taking thermally variable solar collection walls with flat plate gravity heat pipes as an example, the study explores the effects of geometric parameters and the structure’s radiative characteristics on building energy efficiency. Results showed that increasing the thickness can increase the wall’s heat transfer capacity by 45.0 W/m2 (corresponding to a 36.0%). Still, the increase in the effective heat transfer length shows a negative correlation, and the evaporation section may even decrease by 52.4 W (15.8% of the total). Heat collection performance varied by orientation and season, with the west façade accumulating the most heat in summer and the south façade in winter. Optimizing the evaporation section’s emissivity can increase annual heat collection by 132.57 kW·h (19.49% increase). Electrochromic cover glazing can decrease the annual heat collection by 147.29–994.12 kW·h. Based on the cross-region comparison, the winter heating energy-saving rates in Lhasa, Beijing, and Harbin are 73.08%, 6.42%, and 1.23%, and increases in summer cooling energy consumption are 8.23%, 1.01%, and 2.20%, respectively. Findings can support the development of climate-adaptive building envelopes. Copyright © 2026. Published by Elsevier B.V.
+KW  - Building envelope
+KW  - Climate-adaptive design
+KW  - Energy-efficient material
+KW  - Optimization analysis
+KW  - Energy utilization
+KW  - Evaporation
+KW  - Heat transfer
+KW  - Solar buildings
+KW  - Structural design
+KW  - Walls (structural partitions)
+KW  - Adaptive designs
+KW  - Building envelopes
+KW  - Climate-adaptive design
+KW  - Energy efficient
+KW  - Energy-efficient material
+KW  - Flat plate
+KW  - Gravity heat pipes
+KW  - Heat collection
+KW  - Optimisations
+KW  - Optimization analysis
+KW  - Energy efficiency
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: B. Lin; Department of Building Science, Tsinghua University, Beijing, 100084, China; email: linbr@tsinghua.edu.cn; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Huang, S.
+AU  - Zhang, D.
+AU  - Wang, J.
+AU  - Xiao, Y.
+AU  - Shang, C.
+AU  - Wang, F.
+AU  - Yin, S.
+TI  - Wind-driven rain mitigation effects of building facade shading systems: insights from comparative field measurements
+PY  - 2026
+T2  - Building and Environment
+VL  - 301
+C7  - 114752
+DO  - 10.1016/j.buildenv.2026.114752
+UR  - https://www.scopus.com/pages/publications/105039786699?origin=resultslist
+AD  - South China University of Technology School of Architecture, China
+AB  - Wind-driven rain (WDR) represents a notable concern for building envelopes and indoor environmental quality in hot and humid regions. Although field measurements have characterized WDR distribution patterns on facades, the role of building facade shading systems in WDR mitigation remains underexplored. Building on our previous finding that the buffer zone formed by overhangs can effectively mitigate WDR, this study investigated the modulation mechanisms and mitigation effects of a shading system comprising overhangs and vertical louvers. Synchronized high-resolution wind and rain data were collected via field measurements to compare the shading system with both the directly exposed zone and the buffer zone. Results show that the shading system substantially altered the near-wall flow field, reduced the wind speed inside the shading system by 74.4%–83.9% and shifted the three-dimensional turbulence intensity ratio from 1:0.7:0.4 to 1:0.8:0.6. Raindrop behavior suggests size sorting and breakup: medium raindrops (0.937–2.215 mm) exhibited the highest interception efficiency; small raindrops (<0.562 mm) were deflected by the airflow; large raindrops (>3.75 mm) penetrated due to inertial momentum. Wind speed and rainfall intensity exhibited a significant negative synergy on the WDR mitigation rate. Quantitative analysis shows that the shading system achieves overall WDR mitigation rates of 80% relative to the directly exposed zone and 40% relative to the buffer zone, with the effect strongly dependent on raindrop diameter. This study enhances both empirical and theoretical understanding of WDR mitigation by shading systems, providing a scientific foundation for climate-adaptive facade design. © 2026 Elsevier Ltd
+KW  - Building facade
+KW  - Field measurement
+KW  - Mitigation effect
+KW  - Shading system
+KW  - Wind-driven rain (WDR)
+KW  - Drops
+KW  - Rain
+KW  - Screening
+KW  - Wind
+KW  - Buffer zones
+KW  - Building envelopes
+KW  - Building facades
+KW  - Facade shadings
+KW  - Field measurement
+KW  - Mitigation effects
+KW  - Shading systems
+KW  - Wind speed
+KW  - Wind-driven rain
+KW  - architectural design
+KW  - comparative study
+KW  - environmental quality
+KW  - flow field
+KW  - mitigation
+KW  - quantitative analysis
+KW  - turbulence
+KW  - Facades
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: S. Yin; South China University of Technology School of Architecture, China; email: archyinshi@scut.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Chen, Q.
+AU  - Mao, H.
+AU  - Hu, W.
+AU  - Pan, L.
+TI  - Green facades and building energy performance: a multi-climate perspective
+PY  - 2026
+T2  - Building and Environment
+VL  - 300
+C7  - 114744
+DO  - 10.1016/j.buildenv.2026.114744
+UR  - https://www.scopus.com/pages/publications/105038814362?origin=resultslist
+AD  - College of Forestry and Landscape Architecture, South China Agricultural University, Guangzhou, 510642, China
+AD  - School of Architecture, State Key Laboratory of Subtropical Building and Urban Science, South China University of Technology, Guangzhou, 510640, China
+AB  - Green facades (GFs) offer a promising strategy for improving building energy performance and indoor thermal comfort; however, their effectiveness is highly climate-dependent. This study presents a systematic cross-climate evaluation of direct green facades (DGFs) and indirect green facades (IGFs) across seven Köppen–Geiger climate zones using an EMS-integrated dynamic heat-transfer (DHT) model coupled with EnergyPlus simulations. Results show that DGFs generally achieve greater reductions in interior surface temperature, with a maximum decrease of 2.9 °C observed in the hot desert (Bwh) climate. In contrast, IGFs are more effective in reducing inward heat flux, reaching a peak reduction of 29.2 W/m² in Bwh due to the additional thermal resistance provided by the air cavity. Cooling-load reductions are most significant in hot and high-radiation climates, where IGFs achieve the highest annual cooling-load saving rate of 13.12 % in Bwh, while DGFs outperform IGFs in the remaining climate zones. Heating-load reductions are generally more pronounced for IGFs in climates with non-negligible heating demand, such as Cfb, due to their enhanced insulation effect. Regarding indoor thermal comfort, both GF types reduce mean radiant temperature (Tmrt), with the largest improvement observed in the temperate oceanic climate (Cfb), where DGFs achieve a maximum reduction of 1.3 °C. Overall, the results demonstrate that GF performance is governed by the interplay between climatic conditions, facade configuration, and envelope thermal properties. These findings highlight the importance of climate-adaptive selection of green facade systems to maximize energy savings and thermal comfort benefits. © 2026 Elsevier Ltd
+KW  - Diverse climates
+KW  - Energy saving
+KW  - EnergyPlus co-simulation
+KW  - Green facade
+KW  - Thermal comfort
+KW  - Thermal performance
+KW  - Atmospheric temperature
+KW  - Climate models
+KW  - Climatology
+KW  - Energy efficiency
+KW  - Facades
+KW  - Heat flux
+KW  - Heat resistance
+KW  - Heat transfer
+KW  - Cosimulation
+KW  - Direct Green
+KW  - Diverse climate
+KW  - Energy  savings
+KW  - Energy-savings
+KW  - EnergyPlus
+KW  - Energyplus co-simulation
+KW  - Green facade
+KW  - Thermal
+KW  - Thermal Performance
+KW  - building
+KW  - computer simulation
+KW  - energy conservation
+KW  - energy use
+KW  - heat transfer
+KW  - performance assessment
+KW  - Thermal comfort
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: L. Pan; College of Forestry and Landscape Architecture, South China Agricultural University, Guangzhou, 510642, China; email: panlan@scau.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Zhao, J.
+AU  - Fan, Y.
+AU  - Lu, J.
+AU  - Luo, X.
+AU  - Ge, J.
+TI  - Evaluating permeable pavements' impact on the thermal environment in street canyons through outdoor experiments under hot and humid background climate
+PY  - 2026
+T2  - Building and Environment
+VL  - 288
+C7  - 113948
+DO  - 10.1016/j.buildenv.2025.113948
+UR  - https://www.scopus.com/pages/publications/105021472577?origin=resultslist
+AD  - College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, 310058, China
+AD  - Center of Balance Architecture, Zhejiang University, Hangzhou, 310028, China
+AD  - Architectural Design and Research Institute of Zhejiang University Co., Ltd, Hangzhou, 310028, China
+AD  - International Research Center for Green Building and Low-Carbon City, International Campus, Zhejiang University, Haining, 314400, China
+AD  - School of Civil Engineering and Architecture, Zhejiang University of Science and Technology, Hangzhou, 310023, China
+AB  - Permeable pavements are widely adopted in urban areas for their hydrological benefits and ability to mitigate the urban heat island (UHI) effect through evaporative cooling. However, dynamic shading by buildings significantly alters the surface energy balance, and their cooling efficacy remains insufficiently validated. This study presents a comparative analysis of ceramic permeable bricks (PB) and impervious concrete (IC) under dry and wet conditions across seasons, based on controlled experiments in street canyons and open areas. Results indicate that in a street canyon with an aspect ratio (H/W) of 1 and a northeast–southwest orientation, the near-surface radiation reception efficiency (the ratio of near-surface to background daily global radiation) decreased by 31%, reducing PB's sensible heat fraction from 41% to 23%. Although PB shows a higher midday surface sensible heat flux by 17 W/m2, the daily integrated flux is reduced by 0.08 kWh/m2. During the day, the PB in the canyon is 2.1 °C warmer than IC at noon, but cools at night, being 2.0 °C lower at midnight due to its lower albedo and thermal diffusivity. Moreover, the semi-enclosed geometry of the street canyon helps extend the vertical reach of the cooling and humidifying effects to over 0.5 m, whereas in open areas this effect is below 0.3 m. PB can also improve human thermal comfort by reducing the duration of extreme heat stress by 11.1%.These findings demonstrate the impact of permeable pavements on urban thermal environments, providing evidence for thermal optimization and reference data for simulations, informing climate-adaptive urban planning. © 2025
+KW  - Outdoor experiment
+KW  - Permeable pavements
+KW  - Street canyon
+KW  - Thermal environment
+KW  - Atmospheric radiation
+KW  - Atmospheric temperature
+KW  - Evaporative cooling systems
+KW  - Heat flux
+KW  - Integrated circuits
+KW  - Pavements
+KW  - Radiation effects
+KW  - Urban planning
+KW  - Comparative analyzes
+KW  - Evaporative cooling
+KW  - Near surfaces
+KW  - Outdoor experiment
+KW  - Permeable pavements
+KW  - Street canyon
+KW  - Surface energy balance
+KW  - Thermal environment
+KW  - Urban areas
+KW  - Urban Heat Island Effects
+KW  - heat island
+KW  - humid environment
+KW  - pavement
+KW  - permeability
+KW  - street canyon
+KW  - urban planning
+KW  - Aspect ratio
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: J. Ge; College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, 310058, China; email: gejian1@zju.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Wang, C.
+AU  - Ji, J.
+AU  - Wang, W.
+AU  - Ho, T.C.
+AU  - He, W.
+AU  - Tso, C.Y.
+TI  - Adaptive photonic films for fenestration-integrated PV technology to enhance energy saving and thermal comfort: Concept and theoretical investigation
+PY  - 2026
+T2  - Energy Conversion and Management
+VL  - 355
+C7  - 121306
+DO  - 10.1016/j.enconman.2026.121306
+UR  - https://www.scopus.com/pages/publications/105031735170?origin=resultslist
+AD  - School of Energy and Environment, City University of Hong Kong, Hong Kong
+AD  - Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, China
+AD  - Department of Building Environment and Equipment, Hefei University of Technology, Hefei, China
+AB  - Photovoltaic (PV) fenestration is a widely adopted building-integrated PV technology. However, its application often results in indoor overheating during summer daytime and overcooling during winter nighttime. Traditional thermal insulation solutions are expensive to retrofit and fail to harness the potential energy benefits from the sky. To address these challenges, this study proposes and numerically investigates adaptive glass films based on VO2 photonic coatings for retrofitting existing PV fenestrations. The microstructure of the coating is designed and optimized using the transfer matrix method coupled with the effective medium model. The optimization results suggest that the cooling film has emissivity of about 0.44 during daytime and 0.86 at night, while the heating film has emissivity of about 0.68 during daytime and 0.26 at night. The thermal performance of PV fenestrations equipped with the optimized films is evaluated in a region with hot summers and cold winters. The simulation results indicate that the time percentage within the thermal comfort range could increase by approximately 0.6–2.5% in summer and 0.9–35.2% in winter, depending on the PV coverage ratio and tilt angle. In buildings with temperature and thermal comfort controls, the photonic coatings per unit area are predicted to yield annual electricity savings in the range of approximately 36.5–53.5 kWh and 45.1–63.0 kWh, respectively. This study proposes a conceptual solution to enhance the thermal performance of buildings integrating PV technology and provides simulation-based projections of its potential energy and comfort benefits. © 2026 Elsevier Ltd.
+KW  - Building energy saving
+KW  - Mid-infrared radiation
+KW  - PV fenestration
+KW  - Thermal comfort
+KW  - Vanadium dioxide
+KW  - Adaptive optics
+KW  - Coatings
+KW  - Electromagnetic wave emission
+KW  - Energy conservation
+KW  - Molecular physics
+KW  - Photonic integration technology
+KW  - Potential energy
+KW  - Thermal insulation
+KW  - Transfer matrix method
+KW  - Building energy saving
+KW  - Energy  savings
+KW  - Energy-savings
+KW  - Mid-infrared radiation
+KW  - Photonic films
+KW  - Photovoltaic fenestration
+KW  - Photovoltaic technology
+KW  - Photovoltaics
+KW  - Thermal
+KW  - Vanadium dioxide
+KW  - Thermal comfort
+PB  - Elsevier Ltd
+SN  - 01968904 (ISSN)
+LA  - English
+J2  - Energy Convers. Manage.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: C.Y. Tso; School of Energy and Environment, City University of Hong Kong, Hong Kong; email: chiytso@cityu.edu.hk; CODEN: ECMAD
+ER  -
+
+TY  - JOUR
+AU  - Hao, L.
+AU  - Pang, L.
+AU  - Scartezzini, J.-L.
+AU  - Xu, J.
+AU  - Wu, Y.
+TI  - Learning personalized visual comfort: A data-driven adaptive shading control framework using artificial intelligence
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 352
+C7  - 116801
+DO  - 10.1016/j.enbuild.2025.116801
+UR  - https://www.scopus.com/pages/publications/105023821177?origin=resultslist
+AD  - College of Architecture and Urban Planning, Tongji University, 1239 Siping Road, Shanghai, 200092, China
+AD  - Solar Energy and Building Physics Laboratory (LESO-PB), École polytechnique fédérale de Lausanne (EPFL), Lausanne, CH-1015, Switzerland
+AD  - School of Architecture, Soochow University, 199 Renai Road, Suzhou, 215031, China
+AD  - CTG Shanghai Branch (CTGSH), China Three Gorges Investment Management Co., Ltd. (CTGIM), 231 Shibocun Road, Shanghai, 200003, China
+AB  - Personalized shading control is critical for optimizing occupant visual comfort and building energy efficiency, yet conventional systems rely on static and generalized settings. This study proposes a machine learning (ML) framework that infers individual visual discomfort thresholds from occupants’ real-time interactions with smart blinds. A comparative evaluation of multiple models, including random forest (RF) and long short-term memory (LSTM), found that the convolutional neural networks (CNN) were most effective. Trained on a comprehensive dataset simulating 4860 unique occupant profiles, the CNN leverages a spatiotemporal reconstruction of multi-day behavioral data. In simulations, the CNN-based control system reduced behavioral mismatch scores by approximately 70 % and increased the occupant acceptability rate from 68 % to 83 % compared to a conventional default strategy. The framework’s real-world applicability was confirmed in a preliminary on-site test, where the model successfully learned a user’s preferences from a short observation period and significantly improved system performance. The findings show that model accuracy is highest for metrics that most frequently trigger overrides, such as Daylight Glare Probability (DGP), demonstrating the system’s ability to identify and respond to the most critical comfort drivers. This study presents a robust simulation-based methodology for developing occupant-centric shading systems, which shows promising results in preliminary on-site testing and has the potential to enhance indoor environmental quality and support more energy-efficient building operations. © 2025 Elsevier B.V.
+KW  - Convolutional neural networks (CNN)
+KW  - Daylight control
+KW  - Machine learning
+KW  - Smart blinds
+KW  - Visual comfort
+KW  - Adaptive control systems
+KW  - Behavioral research
+KW  - Convolution
+KW  - Convolutional neural networks
+KW  - Energy efficiency
+KW  - Human computer interaction
+KW  - Intelligent buildings
+KW  - Long short-term memory
+KW  - Vision
+KW  - Building energy efficiency
+KW  - Control framework
+KW  - Conventional systems
+KW  - Convolutional neural network
+KW  - Data driven
+KW  - Daylight control
+KW  - Machine-learning
+KW  - Smart blind
+KW  - Visual comfort
+KW  - Learning systems
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Y. Wu; College of Architecture and Urban Planning, Tongji University, Shanghai, 1239 Siping Road, 200092, China; email: yujie.wu@tongji.edu.cn; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Huang, S.
+AU  - Xiao, Y.
+AU  - Lu, Y.
+AU  - Zhan, Q.
+AU  - Wang, F.
+AU  - Yang, S.
+AU  - Yin, S.
+TI  - Mitigation effects of building facade buffer zones on wind-driven rain: Insights from field measurements
+PY  - 2026
+T2  - Building and Environment
+VL  - 289
+C7  - 114051
+DO  - 10.1016/j.buildenv.2025.114051
+UR  - https://www.scopus.com/pages/publications/105024887111?origin=resultslist
+AD  - State Key Laboratory of Subtropical Building and Urban Science, South China University of Technology, Guangzhou, 510640, China
+AD  - School of Architecture, South China University of Technology, Guangzhou, 510640, China
+AD  - School of Architecture and Urban Planning, Guangdong University of Technology, Guangzhou, 510000, China
+AB  - Climate change has recently intensified extreme wind-rain events in China's hot-humid regions, where wind-driven rain (WDR) critically impacts building envelope durability. While research investigating the effects of WDR on building surfaces is extensive, the influence of facade design morphology remains underexplored. These regions widely employ climate-adaptive facade buffer zones exhibiting strong WDR mitigation potential. However, quantitative studies on wind-rain distribution and mitigation effects within such zones remain limited, thus further investigation is required to clarify WDR mitigation mechanisms. In this study, a sixth-floor buffer zone unit within a multistory building in Guangzhou was examined. Wind-rain parameters were measured in exterior and buffer zones, yielding high-resolution datasets during three short-duration rainfall events in 2025. The results indicated that the buffer zone reduced the mean wind speed (WS) by 65%–81% and altered the turbulence intensity ratio from 1.0:0.9:0.4 (Iu: Iv: Iw) to 1.0:0.7:0.6. Rain intensity (RI) mitigation rate decreased from 83.7% to 71.0% as RI increased. Small raindrops (<0.562 mm) accumulated because of airflow disturbance, whereas larger raindrops exhibited unimodal retention. The gamma distribution fit midrange raindrops (0.562–2.375 mm) well but deviated at the extremes. Critical thresholds for WDR mitigation efficiency (η) were identified at WS <7.05 m/s or RI <7.04 mm/h, with a synergistic suppression effect observed between WS and RI (R² = 0.806; RMSE = 0.11). The findings demonstrate that η depends on WS, RI, and raindrop size distribution (RSD), offering essential theoretical and practical support for designing WDR-resistant and climate-adaptive buildings under extreme weathers. © 2025 Elsevier Ltd
+KW  - Buffer zone
+KW  - Building facade
+KW  - Field measurement
+KW  - Mitigation efficiency
+KW  - Wind-driven rain
+KW  - Architectural design
+KW  - Climate change
+KW  - Durability
+KW  - Extreme weather
+KW  - Facades
+KW  - Intelligent buildings
+KW  - Morphology
+KW  - Rain
+KW  - Tall buildings
+KW  - Wind
+KW  - Buffer zones
+KW  - Building facades
+KW  - Extreme winds
+KW  - Field measurement
+KW  - Mitigation effects
+KW  - Mitigation efficiency
+KW  - Rain events
+KW  - Rain-intensity
+KW  - Wind speed
+KW  - Wind-driven rain
+KW  - buffer zone
+KW  - data set
+KW  - durability
+KW  - extreme event
+KW  - mitigation
+KW  - research
+KW  - Efficiency
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: S. Yin; School of Architecture, South China University of Technology, Guangzhou, Wushan Road 381, Tianhe District, 510640, China; email: archyinshi@scut.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Aeinfar, S.
+AU  - Serteser, N.
+TI  - Performance optimization of parametric hexagonal façade openings for natural ventilation and cooling load reduction in high-rise buildings
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 355
+C7  - 117021
+DO  - 10.1016/j.enbuild.2026.117021
+UR  - https://www.scopus.com/pages/publications/105028922736?origin=resultslist
+AD  - Department of Architecture, Construction Science, Faculty of Architecture, Istanbul Technical University, Istanbul, Turkey
+AB  - This study explores the potential of parametric façade openings to enhance natural ventilation and reduce cooling loads in high-rise office buildings. These buildings often experience stagnation zones on the windward façade, typically at mid-height, where airflow divides upward and downward. Focusing on the floor intersecting the stagnation point, the study investigates how aperture design and spatial distribution can optimize airflow and thermal comfort during warm seasons. A multi-stage methodology was employed, combining CFD analysis (ANSYS Fluent) to identify façade pressure zones, with seasonal energy simulations conducted in EnergyPlus through the Honeybee interface, and generative parametric modeling in Grasshopper. Various hexagonal aperture configurations were assessed based on air change rates (ACH), operative temperature, and cooling energy use intensity (EUI). The results indicate that aperture distribution has a notable influence on ventilation performance and indoor comfort. Among the four tested configurations, the edge-to-center (EC) scenario, which represents a gradient distribution where the size and porosity of openings increase from the façade edges toward the center, achieved the highest comfort percentage and a notable reduction in cooling EUI compared to the least effective scenario. These findings demonstrate that strategic, static aperture design can effectively balance passive airflow and thermal comfort without relying on complex dynamic systems, offering a scalable solution for climate-responsive façade strategies in high-rise buildings. © 2026 Elsevier B.V.
+KW  - CFD
+KW  - High-rise buildings
+KW  - Natural ventilation
+KW  - Nature-inspired façades
+KW  - Parametric energy modeling
+KW  - Architectural design
+KW  - Cooling
+KW  - Cooling systems
+KW  - Energy utilization
+KW  - Facades
+KW  - Office buildings
+KW  - Structural design
+KW  - Thermal comfort
+KW  - Ventilation
+KW  - Cooling energy
+KW  - Cooling load
+KW  - Energy model
+KW  - Energy-use intensities
+KW  - Facade openings
+KW  - High rise building
+KW  - Natural ventilation
+KW  - Nature-inspired façade
+KW  - Parametric energy modeling
+KW  - Thermal
+KW  - Tall buildings
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: S. Aeinfar; Department of Architecture, Construction Science, Faculty of Architecture, Istanbul Technical University, Istanbul, Turkey; email: aeinfar19@itu.edu.tr; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Li, Y.
+AU  - Song, Y.
+AU  - Wang, Z.
+AU  - Chen, X.
+AU  - Song, J.
+TI  - Mimosa pudica-inspired phase change-driven reversible building facades for zero-energy thermal management
+PY  - 2026
+T2  - Journal of Building Engineering
+VL  - 123
+C7  - 115816
+DO  - 10.1016/j.jobe.2026.115816
+UR  - https://www.scopus.com/pages/publications/105032533589?origin=resultslist
+AD  - School of Materials Science and Engineering, Chang'an University, Xi'an, 710061, China
+AD  - State Key Laboratory of Advanced Waterproof Materials, Beijing Oriental Yuhong Waterproof Technology Co., Ltd., Beijing, 101111, China
+AB  - Daily heating and cooling requirements generate approximately 50% of the global total energy demand for buildings. The exploration of active thermal management for buildings that dynamically responding to variable environments including seasonal changes, daily time variations, and solar irradiation with low energy consumption is of high importance. Inspired by the dynamic deformation responses of Mimosa pudica to light, we present kinetic reversible building facades with stacked anisotropic thermal conductivity and radiation-regulation layers that facilitate radiative heating and cooling. In response to ambient solar radiation, the deformation of the facades via a “cell-like-hinge” based on liquid–vapor phase changing achieves intelligent switching between solar heating and radiative cooling. Compared with present adaptive facades based on programing materials, the working temperature and response of our facades can be modulated simply in a wide range by grayscale of hinge with double self-weight load-bearing capacities to drive thermal regulation. The device achieves ∼40.80 W m−2 of average cooling power in hot and ∼531.4 W m−2 of average heating power in cold without any external energy consumption during the whole process. Coupled with heat-flow adjustment in accordance with the anisotropic thermal conductivity, a temperature reduction of 5 °C at an ambient temperature of 33 °C was achieved in experimental scale. Building energy simulation predicts quantitatively our prototype of dual-mode reversible building facades represents efficient radiative thermal-management strategy toward applying in a scalable and cost-efficient buildings with dynamic daily and seasonal variations. © 2026 Elsevier Ltd
+KW  - Anisotropic thermal conductivity
+KW  - Mimosa-inspired
+KW  - Radiative cooling
+KW  - Reversible building facades
+KW  - Anisotropy
+KW  - Facades
+KW  - Intelligent buildings
+KW  - Solar radiation
+KW  - Temperature control
+KW  - Thermal conductivity
+KW  - Zero energy buildings
+KW  - Ambients
+KW  - Anisotropic thermal conductivity
+KW  - Building facades
+KW  - Heating and cooling
+KW  - Mimosa pudica
+KW  - Mimosa-inspired
+KW  - Phase Change
+KW  - Radiative cooling
+KW  - Reversible building facade
+KW  - Thermal
+KW  - Radiative Cooling
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Z. Wang; School of Materials Science and Engineering, Chang'an University, Xi'an, 710061, China; email: wangzhuo@chd.edu.cn; X. Chen; State Key Laboratory of Advanced Waterproof Materials, Beijing Oriental Yuhong Waterproof Technology Co., Ltd., Beijing, 101111, China; email: chenxj@yuhong.com.cn
+ER  -
+
+TY  - JOUR
+AU  - Naboni, E.
+AU  - Marchesini, G.E.
+AU  - Grifoni, R.C.
+TI  - 3D façade geometry as a dual passive control in hot urban canyons: reducing street MRT and cooling loads
+PY  - 2026
+T2  - Building and Environment
+VL  - 297
+C7  - 114479
+DO  - 10.1016/j.buildenv.2026.114479
+UR  - https://www.scopus.com/pages/publications/105035388547?origin=resultslist
+AD  - Departamento de Construcciones Arquitectónicas 1, Instituto Universitario de Arquitectura y Ciencias de la Construcción, Universidad de Sevilla, C/Reina Mercedes 2, Sevilla, 41012, Spain
+AD  - Institute of Architecture and Technology, Royal Danish Academy Royal Danish Academy, Philip de Langes Allé 10, Copenhagen, 1435, Denmark
+AD  - Department of Engineering and Architecture, Università di Parma, Parma, 43125, Italy
+AD  - Norman Foster Institute, Norman Foster Foundation, Calle de Monte Esquinza 22, Madrid, 28010, Spain
+AD  - Scuola di Architettura e Design "E. Vittoria", Università di Camerino, Ascoli Piceno, Italy
+AB  - Both horizontal and vertical surface characteristics shape urban microclimates in hot‑summer cities. Although recent attention has turned to three‑dimensional (3D) façade geometries, their simultaneous quantitative impact on both building cooling energy and pedestrian thermal comfort has not been established. We simulate five façade morphologies, flat, pixelated, wedge, carved, and wavy, within a controlled Mediterranean canyon (H/W = 1.0, Nicosia, Cyprus) and compare summer heat conditions. A Honeybee–EnergyPlus–Radiance workflow, bench‑checked under laboratory conditions (MBE + 0.06 °C; CV(RMSE) 3 %), quantifies peak wall surface temperature, pavement conditions, and pedestrian‑level mean radiant temperature (MRT), Universal Thermal Climate Index (UTCI) hours and buildings’ annual cooling energy. 3D façades reduced peak wall temperature by up to 8.5 °C and annual cooling energy by 9–16 % under the current climate, with energy benefits narrowing to 6–9 % under RCP 8.5. Orientation is critical: in north–south canyons, 3D forms lowered peak pedestrian MRT by 4.7 °C and reduced UTCI “Very Strong” exposure by 9 percentage points. To contextualise the magnitude of these geometry driven effects, the discussion reports indicative ranges from established façade scale passive strategies. Compared with material‑based interventions, 3D forms slightly outperformed green façades (cooling efficiency up to 16 % vs 7–15 %) and matched retroreflective coatings for pedestrian comfort (MRT relief of 3–5 °C). These findings provide an evidence‑based foundation for the orientation‑specific deployment of 3D geometry as a passive, climate‑responsive envelope strategy. © 2026
+KW  - Climate change
+KW  - Cooling loads
+KW  - Façade surface temperature
+KW  - Mean radiant temperature
+KW  - Parametric simulation
+KW  - Pedestrian thermal comfort
+KW  - Three-dimensional façade geometry
+KW  - Urban canyon
+KW  - UTCI
+KW  - Atmospheric temperature
+KW  - Computer integrated manufacturing
+KW  - Cooling
+KW  - Facades
+KW  - Geometry
+KW  - Thermal comfort
+KW  - Walls (structural partitions)
+KW  - Climate index
+KW  - Cooling load
+KW  - Facade surface temperature
+KW  - Mean radiant temperature
+KW  - Parametric simulations
+KW  - Pedestrian thermal comfort
+KW  - Surface temperatures
+KW  - Thermal
+KW  - Three-dimensional facade geometry
+KW  - Universal thermal climate index
+KW  - Urban canyons
+KW  - Climate change
+KW  - Surface properties
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: E. Naboni; Departamento de Construcciones Arquitectónicas 1, Instituto Universitario de Arquitectura y Ciencias de la Construcción, Universidad de Sevilla, C/Reina Mercedes 2, Sevilla, 41012, Spain; email: enaboni@us.es; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Merç, K.E.
+AU  - Ekici, B.
+TI  - High-performance envelopes in the Mediterranean: Energy and comfort effects of BIPVs, shading devices, and green walls
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 358
+C7  - 117222
+DO  - 10.1016/j.enbuild.2026.117222
+UR  - https://www.scopus.com/pages/publications/105031888860?origin=resultslist
+AD  - İzmir Institute of Technology, Department of Architecture, Gülbahçe Campus, Urla, İzmir, 35430, Turkey
+AB  - This study addresses the challenge of improving building envelope performance in Mediterranean climates, where dynamic seasonal changes require innovative solutions. The review examines the potential of high-performance building envelope applications, including building-integrated photovoltaics (BIPVs), shading devices, and vertical green walls, to enhance energy efficiency, comfort, and minimize environmental impact. While previous studies have predominantly focused on individual systems, this review considers a holistic approach by examining both separate and combined applications. The findings indicate that BIPV systems significantly enhance energy production, while shading devices mitigate overheating and enhance thermal and visual comfort. Additionally, vertical green walls enhance building performance by providing insulation and contributing to environmental benefits. The integration of these systems demonstrates synergistic potential to achieve multiple performance objectives, including energy savings, enhanced indoor comfort, and reduced emissions. However, the review identifies critical gaps in the literature, such as a lack of integration of holistic systems, limited consideration of future climate scenarios, and underutilization of optimization algorithms and machine learning in high-performance building envelope studies. Future research should lead to the development of adaptive design strategies, modular façade systems, holistic use of various applications, and incorporation of future climate predictions to ensure long-term sustainability. This study highlights the importance of developing integrated, high-performance building envelopes that adapt to changing environmental and climatic conditions. In conclusion, this review offers a comprehensive framework for advancing sustainable building practices in Mediterranean climates, providing valuable insights for architects and engineers seeking to create energy-efficient and resilient built environments. © 2026 Elsevier B.V.
+KW  - Building envelope
+KW  - Building performance
+KW  - Energy efficiency
+KW  - Green wall
+KW  - Mediterranean
+KW  - Photovoltaic panel
+KW  - Shading device
+KW  - Climate change
+KW  - Environmental impact
+KW  - Green buildings
+KW  - Intelligent buildings
+KW  - Learning algorithms
+KW  - Optimization
+KW  - Solar buildings
+KW  - Sustainable building
+KW  - Sustainable development
+KW  - Building envelopes
+KW  - Building integrated photovoltaic
+KW  - Building performance
+KW  - Energy
+KW  - Green wall
+KW  - High performance buildings
+KW  - Mediterranean
+KW  - Mediterranean climates
+KW  - Photovoltaic panels
+KW  - Shading devices
+KW  - Energy efficiency
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: K.E. Merç; İzmir Institute of Technology, Department of Architecture, Gülbahçe Campus, İzmir, Urla, 35430, Turkey; email: kevsermerc@iyte.edu.tr; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Yao, Q.
+AU  - Zhao, K.
+AU  - Zhou, Y.
+AU  - Ge, J.
+TI  - Thermal performance and climate applicability analysis of multiple building envelopes
+PY  - 2026
+T2  - Applied Thermal Engineering
+VL  - 283
+C7  - 128924
+DO  - 10.1016/j.applthermaleng.2025.128924
+UR  - https://www.scopus.com/pages/publications/105021081103?origin=resultslist
+AD  - Department of Architecture, Zhejiang University, Hangzhou, 310058, China
+AD  - Center for Balance Architecture, Architectural Design & Research Institute of Zhejiang University, Hangzhou, 310058, China
+AD  - International Research Center for Green Building and Low-Carbon City, Zhejiang University, International Campus, Haining, 314400, China
+AB  - The building envelope has a significant effect on its overall energy consumption. Integrating advanced techniques, such as phase change material (PCM), dynamic insulation materials and systems (DIMS), and pipe-embedded technology, into envelope design can significantly reduce heating and cooling loads. However, the energy-saving performance of these technologies varies considerably across different climatic conditions. In this study, five wall types incorporating various combinations of PCM, DIMS, and embedded pipes were modeled in COMSOL to evaluate their thermal performance and climate adaptability across different regions. In Hangzhou, results showed that during peak summer, PCM alone had a limited effect. In contrast, dynamic insulation achieved much higher savings, and the combined system reduced cooling load by up to 84%, showing the most significant potential. Further analysis revealed that different wall types exhibit varying sensitivities to climatic conditions, with day temperature having the most critical impact, explaining over 69 % of the cooling load variance in non-pipe-embedded walls. Regression analysis quantified the sensitivity of each wall type to key climatic parameters, and clustering analysis identified the most applicable wall type for each climate zone. Across 30 cities, cooling load reductions varied greatly, ranging from below 5 % to nearly 100 %, across different climatic groups, highlighting the strong climate dependence of wall applicability. The study quantitatively links climatic parameters with wall performance, providing a rational basis for climate-adaptive envelope design. © 2025 Elsevier Ltd.
+KW  - Building envelope
+KW  - Dynamic insulation
+KW  - Embedded pipes
+KW  - Multi-climate applicability
+KW  - PCM
+KW  - Cooling
+KW  - Cooling systems
+KW  - Embedded systems
+KW  - Energy conservation
+KW  - Energy utilization
+KW  - Insulation
+KW  - Phase change materials
+KW  - Regression analysis
+KW  - Walls (structural partitions)
+KW  - Building envelopes
+KW  - Cooling load
+KW  - Dynamic insulation
+KW  - Embedded pipe
+KW  - Insulation materials
+KW  - Insulation system
+KW  - Multi-climate applicability
+KW  - Phase Change
+KW  - Thermal Performance
+KW  - Wall types
+KW  - Solar buildings
+PB  - Elsevier Ltd
+SN  - 13594311 (ISSN)
+LA  - English
+J2  - Appl Therm Eng
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: K. Zhao; Zijingang Campus of Zhejiang University, Hangzhou, Yuhangtang Road No. 866, Zhejiang Province, 310058, China; email: zhaok@zju.edu.cn; CODEN: ATENF
+ER  -
+
+TY  - JOUR
+AU  - Osman, O.
+AU  - Yehya, A.
+AU  - Maalouf, E.
+TI  - Controlled ventilated phase change material façades for climate-responsive buildings
+PY  - 2025
+T2  - Journal of Energy Storage
+VL  - 138
+C7  - 118654
+DO  - 10.1016/j.est.2025.118654
+UR  - https://www.scopus.com/pages/publications/105017673516?origin=resultslist
+AD  - Department of Mechanical Engineering, Maroun Semaan Faculty of Engineering and Architecture, American University of Beirut, Lebanon
+AD  - Department of Civil and Environmental Engineering, Maroun Semaan Faculty of Engineering and Architecture, American University of Beirut, Beirut, Lebanon
+AD  - Baha and Walid Bassatne Department of Chemical Engineering and Advanced Energy, Maroun Semaan Faculty of Engineering and Architecture, American University of Beirut, Lebanon
+AB  - Enhancing the thermal performance of phase change materials (PCM) has become an essential strategy for improving building envelope efficiency; however, effectively managing the charging and discharging cycles of PCM remains critical to maximizing their benefits. This study explores a promising novel solution, which is the use of controlled ventilation within PCM-enhanced wall assemblies (VPCM). Results demonstrated that the VPCM system consistently maintained inner surface temperatures between 23 and 24 °C, significantly outperforming conventional wall designs, which fluctuated from 23.5 to 26.5 °C. Cooling efficiency was notably improved, with gains of up to 75 % compared to traditional PCM-based walls. A detailed parametric analysis further highlighted key factors such as inlet air temperature, airflow velocity, pipe dimension, PCM melting temperature, PCM thickness, and PCM positioning that strongly influence overall system performance. Specifically, reducing inlet air temperature from 24 °C to 18 °C increased cooling efficiency from approximately 50 % to 77 %, and optimal pipe sizing boosted total efficiency from 18 % to 63 %. Alternative wall configurations, including dual inlet-outlet setups and pre-insulation placement, further increased total efficiency to 84 %, though these enhancements were accompanied by a cooling efficiency decline from 76 % to 63 %. Overall, the results underscore the substantial benefits of actively ventilated PCM systems, emphasizing the critical role of controlled ventilation in optimizing thermal comfort and energy performance within building envelopes. This work provides a scalable pathway toward climate-responsive and low-energy building envelopes, offering practical design strategies that can be integrated into sustainable construction and retrofit practices. © 2025 Elsevier Ltd
+KW  - Active ventilation
+KW  - Building envelope
+KW  - Climate-responsive
+KW  - Phase change materials (PCM)
+KW  - Thermal efficiency
+KW  - Ventilated façade
+KW  - Air
+KW  - Architectural design
+KW  - Climate change
+KW  - Cooling
+KW  - Cooling systems
+KW  - Energy efficiency
+KW  - Thermal comfort
+KW  - Ventilation
+KW  - Walls (structural partitions)
+KW  - Active ventilation
+KW  - Building envelopes
+KW  - Climate-responsive
+KW  - Cooling efficiency
+KW  - Inlet air temperatures
+KW  - Phase Change
+KW  - Phase change material
+KW  - Thermal-efficiency
+KW  - Total efficiency
+KW  - Ventilated facade
+KW  - Phase change materials
+KW  - Solar buildings
+PB  - Elsevier Ltd
+SN  - 2352152X (ISSN)
+LA  - English
+J2  - J. Energy Storage
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: A. Yehya; Department of Civil and Environmental Engineering, Maroun Semaan Faculty of Engineering and Architecture, American University of Beirut, Beirut, Lebanon; email: ay36@aub.edu.lb
+ER  -
+
+TY  - JOUR
+AU  - Sun, Y.
+AU  - Yang, F.
+AU  - Xiao, Y.
+AU  - Wang, D.
+AU  - Zhou, H.
+AU  - Zhang, L.
+TI  - Comprehensive evaluation of building energy load, power generation, and shading effects of vertical single-axis tracking PV louver systems
+PY  - 2026
+T2  - Applied Thermal Engineering
+VL  - 299
+C7  - 131205
+DO  - 10.1016/j.applthermaleng.2026.131205
+UR  - https://www.scopus.com/pages/publications/105037762368?origin=resultslist
+AD  - China MCC5 Group Corp., Ltd., Chengdu, 611830, China
+AD  - College of Architectural and Urban-Rural Planning, Sichuan Agricultural University, Sichuan, Dujiangyan, 611830, China
+AB  - Vertical Building-Integrated Photovoltaics (BIPV) offer a promising pathway for decarbonizing high-rise buildings, yet optimizing the trade-off between power generation and thermal load management remains challenging in Hot Summer and Cold Winter (HSCW) climates. This study proposes a vertical single-axis tracking PV louver system and establishes a hybrid simulation framework that couples Radiance for optical-electrical modeling with a high-fidelity XGBoost surrogate thermal model to predict annual building performance efficiently. Taking a representative office in Chengdu as a case study, the research systematically evaluates the energy impacts of array density, static tilt angles, and dynamic tracking strategies. Results demonstrate that maximizing louver density yields optimal net energy performance despite increased mutual shading. Compared to the optimal fixed-angle configuration (EUI = 56.1 kWh/m2), introducing solar tracking significantly reduces energy consumption. The Rule-Based Dynamic System achieved the theoretical minimum EUI of 44.1 kWh/m2, representing a 59.4% reduction relative to the baseline. The results show that, while solar tracking maximizes power generation by aligning panels perpendicular to the low-angle winter sun, it simultaneously acts as a shading barrier that obstructs beneficial passive heat gain, exacerbating heating loads. However, optimization analysis reveals that the Rule-Based Dynamic System defaults to the solar-tracking mode for the vast majority of the year, indicating that the value of electricity generation outweighs passive heat gain during most operational hours. Consequently, the performance advantage of the complex Dynamic System over the continuous Pure Solar-Tracking System (EUI = 44.3 kWh/m2) is marginal (0.2 kWh/m2). Considering the diminishing returns of acquiring passive heat versus high-grade electricity in cooling-dominated regions, the Pure Solar-Tracking System is recommended as the most robust and pragmatically optimal solution for vertical facades. © 2026 Elsevier Ltd.
+KW  - Building-integrated photovoltaics
+KW  - Dynamic shading
+KW  - Energy use intensity
+KW  - Vertical single-axis tracking PV
+KW  - XGBoost surrogate model
+KW  - Buildings
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Photovoltaic effects
+KW  - Photovoltaics
+KW  - Solar power generation
+KW  - Thermal load
+KW  - Tracking (position)
+KW  - Building integrated photovoltaic
+KW  - Dynamic shading
+KW  - Energy-use intensities
+KW  - Power- generations
+KW  - Rule based
+KW  - Single-axis
+KW  - Solar-tracking
+KW  - Surrogate modeling
+KW  - Vertical single-axis tracking PV
+KW  - Xgboost surrogate model
+KW  - Economic and social effects
+PB  - Elsevier Ltd
+SN  - 13594311 (ISSN)
+LA  - English
+J2  - Appl Therm Eng
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Y. Xiao; College of Architectural and Urban-Rural Planning, Sichuan Agricultural University, Dujiangyan, Sichuan, 611830, China; email: xiaoyuling@sicau.edu.cn; CODEN: ATENF
+ER  -
+
+TY  - JOUR
+AU  - Qi, Z.
+AU  - Li, J.
+AU  - Yu, M.
+AU  - Ma, Q.
+AU  - Bart, D.
+AU  - Gao, W.
+TI  - Segmented dynamic photovoltaic shading façade based on kiri-origami: Multi-objective decision-making and interpretable machine learning analysis
+PY  - 2026
+T2  - Building and Environment
+VL  - 296
+C7  - 114519
+DO  - 10.1016/j.buildenv.2026.114519
+UR  - https://www.scopus.com/pages/publications/105033708421?origin=resultslist
+AD  - College of Architecture and Urban Planning, Qingdao University of Technology, Qingdao, 266033, China
+AD  - Department of Architecture, The University of Kitakyushu, Kitakyushu, 808-0135, Japan
+AB  - With rising demands for building energy conservation and indoor quality, photovoltaic shading facades (PVSFs) attract attention for radiation control and power generation. However, current designs struggle with synergistic optimization, photovoltaic (PV) self-shading, and high actuation energy. Existing analytical frameworks are constrained by neglecting view quality (VQ), decision redundancy, and insufficient mechanism analysis. Therefore, inspired by kiri-origami, this study proposes a novel segmented dynamic PVSF that utilizes single-sided stretching to achieve partitioned collaborative optimization (upper light guiding, lower PV shading) while mitigating PV self-shading. Concurrently, a framework integrating interpretable machine learning (IML) and criteria importance through intercriteria correlation (CRITIC) analyzes PVSF improvements in VQ, energy consumption, and daylighting. Results indicate the static PVSF selected via multi-objective decision making (MODM) maintains low PV self-shading (5.7%) and limited view obstruction, increasing useful daylight illuminance (UDI100–3000) by 7.4% and reducing net energy use intensity (net EUI) by 19.9% versus baseline. Furthermore, dynamic seasonal strategies (larger summer/smaller winter stretching angles) further optimize UDI100–3000, net EUI, VQ, and PV self-shading by 1.2%, 4.9%, 4.4%, and 7%, respectively. Subsequent climate adaptability analysis indicates that the system maintains low PV self-shading and optimizes daylighting and energy consumption in different climates, with dynamic strategies further enhancing performance. Finally, sensitivity analysis reveals that across climate zones (2A-6A), shading density gradually emerges as the dominant factor for energy efficiency, while component distribution replaces it as the primary factor for daylighting. Thus, this system offers a viable pathway for building-integrated photovoltaics (BIPV), while the framework enhances decision-making accuracy. © 2026 Elsevier Ltd
+KW  - Climate adaptability
+KW  - Interpretable machine learning
+KW  - Kiri-origami structure
+KW  - Multi-objective decision-making
+KW  - Segmented dynamic photovoltaic shading facade
+KW  - View quality
+KW  - Behavioral research
+KW  - Computer software
+KW  - Daylighting
+KW  - Decision making
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Factor analysis
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Machine learning
+KW  - Optimization
+KW  - Photovoltaics
+KW  - Power control
+KW  - Quality control
+KW  - Climate adaptability
+KW  - Interpretable machine learning
+KW  - Kiri-origami structure
+KW  - Machine-learning
+KW  - Multi objective decision making
+KW  - Optimisations
+KW  - Photovoltaics
+KW  - Segmented dynamic photovoltaic shading facade
+KW  - Self-shading
+KW  - View quality
+KW  - alternative energy
+KW  - architectural design
+KW  - climate effect
+KW  - data interpretation
+KW  - decision making
+KW  - demand-side management
+KW  - energy efficiency
+KW  - integrated approach
+KW  - machine learning
+KW  - optimization
+KW  - performance assessment
+KW  - photovoltaic system
+KW  - power generation
+KW  - Sensitivity analysis
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Q. Ma; College of Architecture and Urban Planning, Qingdao University of Technology, Qingdao, 266033, China; email: maqingsong@qut.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Du, X.
+AU  - Yao, P.
+AU  - Qu, S.
+AU  - Wang, Q.
+AU  - Zhou, P.
+AU  - Liu, X.
+AU  - Wang, T.
+AU  - Sun, Y.
+AU  - Chu, D.
+AU  - Huang, C.
+TI  - Real-time monitoring of grinding wheel using a dynamic envelope model
+PY  - 2026
+T2  - Precision Engineering
+VL  - 100
+SP  - 39
+EP  - 51
+DO  - 10.1016/j.precisioneng.2026.02.017
+UR  - https://www.scopus.com/pages/publications/105031629892?origin=resultslist
+AD  - Center for Advanced Jet Engineering Technologies (CaJET), School of Mechanical Engineering, Shandong University, Shandong, Jinan, 250061, China
+AD  - Key Laboratory of High Efficiency and Clean Mechanical Manufacture, Shandong University, Ministry of Education, Shandong, Jinan, 250061, China
+AD  - Yanshan University, Hebei, Qinhuangdao, 066000, China
+AB  - In the grinding process, measuring the profile of the grinding wheel is important for evaluating the accuracy of machining the workpiece, monitoring the wear of the grinding wheel and compensating for machining errors. Vision-based monitoring methods are more accurate and intuitive than traditional methods. Therefore, this paper proposes an automatic grinding wheel profile monitoring method based on the dynamic wheel envelope. A sub-pixel edge detection method based on omnidirectional gradient is proposed, which expands the gradient direction of the image to any direction by constructing a variable image window. The high-precision localization of sub-pixel edges is achieved by normalizing the window, bringing the edge detection accuracy to the sub-pixel level. The idea of dimensionality reduction and parameter space decomposition is introduced into the Hough circle transformation to obtain outer circle pixels for coarse edge localization, and then the Tukey weight function is used to iteratively fit the circle to locate the precise edge of the dynamic grinding wheel envelope. A dynamic real-time detection algorithm for grinding wheel wear was implemented through the design of an omnidirectional gradient sub-pixel edge detection algorithm and Turkey's improved Hough transform fitting algorithm. The proposed wheel profile monitoring method was validated on a high-precision motion platform. As the rotational speed increased, the radius deviation of the wheel was reduced from ±0.56 μm to ±0.24 μm, and the maximum radius deviation was reduced from less than 0.13% to less than 0.03% of the nominal radius. The graphite plate replica method was also used to verify the accuracy of the measurements, and the results demonstrated the feasibility and accuracy of the method for the rapid, non-contact measurement and monitoring of grinding wheel profiles. © 2026 Elsevier Inc.
+KW  - Dynamic envelope
+KW  - Grinding wheel wear
+KW  - Hough transform
+KW  - Omnidirectional gradient
+KW  - Tukey weights
+KW  - Dimensionality reduction
+KW  - Edge detection
+KW  - Grinding (machining)
+KW  - Iterative methods
+KW  - Pixels
+KW  - Signal detection
+KW  - Wear of materials
+KW  - Detection algorithm
+KW  - Dynamic envelope
+KW  - Grinding wheel wear
+KW  - Monitoring methods
+KW  - Omnidirectional gradient
+KW  - Profile monitoring
+KW  - Sub-pixels
+KW  - Subpixel edge detection
+KW  - Tukey weight
+KW  - Wheel profile
+KW  - Grinding wheels
+KW  - Hough transforms
+PB  - Elsevier Inc.
+SN  - 01416359 (ISSN)
+LA  - English
+J2  - Precis Eng
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: P. Yao; Center for Advanced Jet Engineering Technologies (CaJET), School of Mechanical Engineering, Shandong University, Jinan, Shandong, 250061, China; email: yaopeng@sdu.edu.cn; ; CODEN: PREGD
+ER  -
+
+TY  - JOUR
+AU  - Zhang, H.
+AU  - Wang, Z.
+AU  - Ye, B.
+AU  - Zhou, Y.
+AU  - Liu, X.
+AU  - Zhang, Y.
+AU  - Shen, P.
+TI  - Real-time optimization of a dynamic solar PV integrated shading design with data-driven reactive control and spatial daylighting prediction
+PY  - 2026
+T2  - Building and Environment
+VL  - 300
+C7  - 114718
+DO  - 10.1016/j.buildenv.2026.114718
+UR  - https://www.scopus.com/pages/publications/105038742714?origin=resultslist
+AD  - Institute of Future Human Habitats, Shenzhen International Graduate School, Tsinghua University, Guangdong Province, Shenzhen, China
+AD  - Huawei Device Co., Ltd, Shenzhen Branch, Guangdong Province, Shenzhen, China
+AD  - School of Civil Engineering and Architecture, Zhejiang Sci-Tech University, Zhejiang Province, Hangzhou, China
+AD  - School of Architecture and Art, Central South University, Changsha, China
+AD  - Division of Emerging Interdisciplinary Areas, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong SAR, China
+AD  - School of Architecture, Southwest Jiaotong University, Sichuan Province, Chengdu, China
+AB  - This study proposes a high-degree-of-freedom photovoltaic shading device (PVSD) with 255 distinct configurations through combined vertical translation and single-axis rotation. Machine learning models trained on computational simulations achieve R² of 0.984 and RMSE of 0.039 for spatial daylight metrics, reducing computation time significantly. This enables real-time reactive optimal control integrating particle swarm optimization to balance indoor illuminance, glare protection, visual connectivity, and photovoltaic generation. Performance evaluation in a Shenzhen office demonstrated substantial improvements: spatial Useful Daylight Illuminance increased from 23% to 79%; near-complete glare protection achieved with spatial Daylight Glare Probability of 0.95; net energy consumption reduced by 52%; and annual electricity generation reached 850 kWh. The integrated optimization strategy maintained 92% of maximum photovoltaic generation (under energy production priority strategy) while delivering superior daylight quality. These results demonstrate that high-degree-of-freedom PVSDs with intelligent data-driven control can transform building facades into adaptive energy-generating systems, offering a practical pathway toward net-zero energy buildings. © 2026 Elsevier Ltd
+KW  - BIPV
+KW  - Data-driven model
+KW  - Daylighting
+KW  - Machine learning
+KW  - Multi-objective optimization
+KW  - Photovoltaic shading device (PVSD)
+KW  - China
+KW  - Guangdong
+KW  - Shenzhen
+KW  - Adaptive control systems
+KW  - Daylight simulation
+KW  - Degrees of freedom (mechanics)
+KW  - Energy utilization
+KW  - Glare
+KW  - Intelligent buildings
+KW  - Learning systems
+KW  - Machine learning
+KW  - Multiobjective optimization
+KW  - Optimal control systems
+KW  - Particle swarm optimization (PSO)
+KW  - Photovoltaics
+KW  - Solar power generation
+KW  - BIPV
+KW  - Data-driven model
+KW  - High Degree of Freedom
+KW  - Machine-learning
+KW  - Multi-objectives optimization
+KW  - Photovoltaic shading device
+KW  - Photovoltaics
+KW  - Photovoltaics generations
+KW  - Realtime optimizations (RTO)
+KW  - Shading devices
+KW  - design
+KW  - machine learning
+KW  - optimization
+KW  - photovoltaic system
+KW  - prediction
+KW  - real time
+KW  - shading
+KW  - solar power
+KW  - spatial analysis
+KW  - Daylighting
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: P. Shen; Institute of Future Human Habitats, Shenzhen International Graduate School, Tsinghua University, Shenzhen, Guangdong Province, China; email: shenpengyuan@sz.tsinghua.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Miracco, G.
+AU  - Nicoletti, F.
+AU  - Arcuri, N.
+TI  - Smart thermal energy storage system integrated into the building envelope for photovoltaic surplus management
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 358
+C7  - 117258
+DO  - 10.1016/j.enbuild.2026.117258
+UR  - https://www.scopus.com/pages/publications/105032104928?origin=resultslist
+AD  - Department of Mechanical, Energy and Management Engineering (DIMEG), University of Calabria, Via Pietro Bucci 46C, Cosenza, Rende, 87036, Italy
+AB  - In the context of increasing residential photovoltaic penetration, the mismatch between electricity generation and demand produces surplus power that can threaten grid stability. To valorize this surplus, a thermal energy storage system integrated within the building envelope is proposed: a radiant coil embedded in the wall mass, supplied by a heat pump powered exclusively by excess photovoltaic energy, and variable-transmittance panels that modulate heat release into the interior. Using a finite-difference model implemented in MATLAB, five typical Italian wall types were characterized, showing thermal time constants between 40 and 80 h and discharge times longer than charging times, ensuring effective energy storage. Dynamic simulations in EnergyPlus, supported by a dedicated energy management system (EMS), validated the solution both in a test room and in a real detached house across four Italian cities with different climates. The integration of a phase change material (PCM) further enhanced storage capacity, while hygrothermal analyses excluded the risk of interstitial condensation. In the simplified model, the system achieved an average efficiency of 67% and reduced thermal energy consumption by approximately 33%, with savings up to 52% depending on photovoltaic system size. In the real building, cooling energy demand decreased by 40–50% and heating demand by 5–15%. This configuration transforms the building envelope into an intelligent thermal reservoir, enhancing PV self-consumption and building energy flexibility. © 2026 The Author(s).
+KW  - Building energy simulation
+KW  - Dynamic building envelope
+KW  - Photovoltaic surplus management
+KW  - Thermal energy storage
+KW  - Variable transmittance panel
+KW  - Electric energy storage
+KW  - Energy efficiency
+KW  - Energy management
+KW  - Energy management systems
+KW  - Heat pump systems
+KW  - Heat storage
+KW  - Phase change materials
+KW  - Photovoltaics
+KW  - Storage (materials)
+KW  - Storage management
+KW  - Thermal energy
+KW  - Walls (structural partitions)
+KW  - Building energy simulations
+KW  - Building envelopes
+KW  - Dynamic building envelope
+KW  - Electricity-generation
+KW  - Photovoltaic surplus management
+KW  - Photovoltaics
+KW  - Residential photovoltaic
+KW  - Thermal energy storage
+KW  - Thermal energy storage systems
+KW  - Variable transmittance panel
+KW  - Solar buildings
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: G. Miracco; Department of Mechanical, Energy and Management Engineering (DIMEG), University of Calabria, Rende, Via Pietro Bucci 46C, Cosenza, 87036, Italy; email: giovanni.miracco@unical.it; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Khan, I.H.
+AU  - Jaradat, N.M.
+AU  - Munawer, T.
+TI  - Climate-adaptive energy performance of green facades in a composite climate
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 360
+C7  - 117393
+DO  - 10.1016/j.enbuild.2026.117393
+UR  - https://www.scopus.com/pages/publications/105035055152?origin=resultslist
+AD  - Department of Architecture, Faculty of Architecture and Ekistics, Jamia Millia Islamia, New Delhi, 110025, India
+AD  - Central Public Works Department, Ministry of Housing and Urban Affairs, Government of India, New Delhi, 110011, India
+AD  - Department of Architecture and Design, Jordan University of Science and Technology, Irbid, 22110, Jordan
+AB  - Green facades are increasingly promoted as climate-adaptive envelope strategies for moderating solar heat gains, yet their annual energy performance in composite climates remains uncertain due to pronounced seasonal thermal reversals and the widespread use of static vegetation assumptions in simulation studies. This study evaluates the energy performance of a direct green facade incorporating deciduous climbing vegetation through a multiscale framework that integrates long-term field monitoring with seasonally calibrated building energy simulation. A one-year experimental campaign was conducted on paired vegetated and bare brick masonry walls of a residential building in New Delhi, India, capturing summer, monsoon, winter, and extreme weather conditions, including heatwave events with ambient temperatures exceeding 47 °C. Field measurements indicate substantial summer thermal buffering, with reductions of 3.2 °C in exterior surface temperature and 2.2 °C in indoor air temperature relative to a control wall, while winter impacts were minimal due to reduced foliage density. These observations were used to calibrate a seasonally responsive EnergyPlus model incorporating monthly variation in vegetation shading effectiveness, achieving high predictive accuracy for indoor air temperature during summer conditions (R2 = 0.97). At the building scale, the validated model projects annual cooling energy savings of approximately 8% for west-facing facades and up to 25% when applied across all orientations, with limited and localized winter heating penalties. The results demonstrate that explicitly accounting for vegetation seasonality is essential for reliably quantifying the annual energy implications of green facades in composite climates and provides climate-sensitive guidance for facade greening strategies under conditions of strong seasonal thermal contrast. © 2026 Elsevier B.V.
+KW  - Climate resilience
+KW  - Climate-adaptive design
+KW  - Composite climate
+KW  - Direct green facade
+KW  - Energy simulation
+KW  - Vertical greenery system
+KW  - Cooling
+KW  - Energy efficiency
+KW  - Extreme weather
+KW  - Facades
+KW  - Indoor air pollution
+KW  - Solar energy
+KW  - Vegetation
+KW  - Walls (structural partitions)
+KW  - Adaptive designs
+KW  - Climate resilience
+KW  - Climate-adaptive design
+KW  - Composite climate
+KW  - Direct Green
+KW  - Direct green facade
+KW  - Energy performance
+KW  - Energy simulation
+KW  - Indoor air temperature
+KW  - Vertical greenery system
+KW  - Atmospheric temperature
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: I.H. Khan; Department of Architecture, Faculty of Architecture and Ekistics, New Delhi, Jamia Millia Islamia, 110025, India; email: irfan2008815@st.jmi.ac.in; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Ming, Y.
+AU  - Zeng, S.
+AU  - Zhang, H.
+AU  - Yuan, Y.
+AU  - Jiang, F.
+TI  - Design development and characterization of thermotropic façade system with honeycomb construction
+PY  - 2026
+T2  - Applied Thermal Engineering
+VL  - 293
+C7  - 130448
+DO  - 10.1016/j.applthermaleng.2026.130448
+UR  - https://www.scopus.com/pages/publications/105031895975?origin=resultslist
+AD  - School of Mechanical Engineering, Southwest Jiaotong University, Chengdu, 610031, China
+AD  - Yibin Research Institute, Southwest Jiaotong University, Yibin, 644000, China
+AB  - Adaptive façades present significant potential for improving building energy efficiency. Existing thermotropic (TT) smart facade designs mainly employ single-layer structures, which limit their optimization in terms of thermal insulation, and occupant views. Research on structural optimization of TT façades still remains limited, and current TT parallel slats configurations may still lead to uneven daylight distribution under low solar altitude angles and can suffer from structural instability. To address these limitations, this study proposes a novel thermotropic honeycomb transparent insulation material (TT HC-TIM) system, integrating a honeycomb TT structure into conventional double-glazing façade. The optical and thermal performance of the system was investigated using ray-tracing and CFD simulations, while its annual thermal and daylighting performance were analyzed through EnergyPlus simulations. In addition, the numerical model was validated by experimental measurements. Results indicate that TT HC-TIM provides improved daylight uniformity while maintaining outward visibility, effectively modulates direct solar radiation, and reduces convective heat transfer through cavity subdivision. The system presents high solar transmittance about 70% at low incident angle even under the translucent state, showcasing good view connection for indoor occupants. It also exhibits the lowest U-value compared with double-glazing and current TT façade systems, reduces monthly heat loss by over 30%, and balances solar gains to support both cooling and heating demands, demonstrating high potential for enhancing indoor thermal environment and daylighting quality. Copyright © 2024. Published by Elsevier Ltd.
+KW  - Adaptive facade
+KW  - Daylight quality
+KW  - Solar regulation
+KW  - Thermal performance
+KW  - Thermal responsive
+KW  - Daylight simulation
+KW  - Daylighting
+KW  - Energy efficiency
+KW  - Facades
+KW  - Glazes
+KW  - Heat radiation
+KW  - Incident solar radiation
+KW  - Ray tracing
+KW  - Structural design
+KW  - Structural optimization
+KW  - Thermal insulation
+KW  - 'current
+KW  - Adaptive facade
+KW  - Daylight qualities
+KW  - Design development
+KW  - Double glazings
+KW  - Solar regulation
+KW  - Thermal
+KW  - Thermal Performance
+KW  - Thermal responsive
+KW  - Thermotropics
+KW  - Construction
+KW  - Honeycomb structures
+PB  - Elsevier Ltd
+SN  - 13594311 (ISSN)
+LA  - English
+J2  - Appl Therm Eng
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: F. Jiang; School of Mechanical Engineering, Southwest Jiaotong University, Chengdu, 610031, China; email: jfjhvac@swjtu.edu.cn; CODEN: ATENF
+ER  -
+
+TY  - JOUR
+AU  - Abuhussain, M.A.
+TI  - Digital twin and AI-driven smart adaptive walls for energy, comfort and carbon optimization in intelligent green buildings
+PY  - 2026
+T2  - Energy
+VL  - 353
+C7  - 140990
+DO  - 10.1016/j.energy.2026.140990
+UR  - https://www.scopus.com/pages/publications/105035264470?origin=resultslist
+AD  - Architectural Engineering Department, College of Engineering, Najran University, Najran, 66426, Saudi Arabia
+AB  - Buildings account for nearly 40% of global energy use and carbon emissions, yet conventional static envelopes lack the capacity to respond to shifting weather, occupancy, or grid carbon signals. This paper presents a Digital Twin-Artificial Intelligence-Smart Adaptive Wall (DT-AI-SAW) framework that couples materially adaptive envelopes with safety-aware learning control for joint optimization of energy, comfort, and carbon. The architecture places a DT in the control loop and pairs Model Predictive Control (MPC) with a Soft Actor-Critic (SAC) reinforcement-learning agent operating behind a safety shield. A unified Energy-Comfort-Carbon (ECC) objective drives decisions using time-varying grid carbon intensity. The SAW combines switchable optical transmittance, adjustable louvers, variable thermal resistance, and phase-change material (PCM) storage as coordinated control variables. Across Helsinki, Antalya, and Najran, including multi-day heatwave events, the framework delivered 36.3% energy reduction, 40.8% carbon reduction, 31.8% peak-demand reduction, and 22.3 percentage-point comfort gains over static-envelope baselines. The safety shield resolved 91.7% of constraint conflicts through projection, with zero default fallbacks. Ablation confirmed synergistic contributions from every component; pure RL achieved the lowest energy but incurred 560% more constraint violations than the hybrid design. Life-cycle carbon payback fell between 1.9 and 2.8 years, with 30-year cumulative emission cuts of 39.5-45.6%. These results show that adaptive envelopes paired with safety-aware intelligent control can simultaneously advance objectives that static designs force into trade-off. © 2026 Published by Elsevier Ltd.
+KW  - Carbon-aware control
+KW  - Digital twin
+KW  - Intelligent green buildings
+KW  - Reinforcement learning
+KW  - Smart adaptive wall
+KW  - Antalya [Turkey]
+KW  - Finland
+KW  - Helsinki
+KW  - Najran [Saudi Arabia]
+KW  - Saudi Arabia
+KW  - Turkey
+KW  - Varsinais-Suomi
+KW  - Adaptive control systems
+KW  - Carbon
+KW  - Carbon cycle
+KW  - Digital twin
+KW  - Ecodesign
+KW  - Intelligent buildings
+KW  - Intelligent control
+KW  - Learning algorithms
+KW  - Life cycle
+KW  - Model predictive control
+KW  - Phase change materials
+KW  - Predictive control systems
+KW  - Safety engineering
+KW  - Sustainable development
+KW  - Walls (structural partitions)
+KW  - Zero-carbon
+KW  - Carbon emissions
+KW  - Carbon-aware control
+KW  - Energy
+KW  - Energy use
+KW  - Global energy
+KW  - Green buildings
+KW  - Optimisations
+KW  - Reinforcement learnings
+KW  - Safety-aware
+KW  - Smart adaptive wall
+KW  - building
+KW  - control system
+KW  - energy use
+KW  - heat wave
+KW  - optimization
+KW  - safety
+KW  - Economic and social effects
+PB  - Elsevier Ltd
+SN  - 03605442 (ISSN)
+LA  - English
+J2  - Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: M.A. Abuhussain; Architectural Engineering Department, College of Engineering, Najran University, Najran, 66426, Saudi Arabia; email: maabuhussain@nu.edu.sa; CODEN: ENEYD
+ER  -
+
+TY  - JOUR
+AU  - Xu, A.
+AU  - Mei, H.
+AU  - Fan, Z.
+AU  - Zhai, C.
+TI  - A hybrid framework for optimal design and control strategies of retractable roof stadium based on CNN-LSTM and NSGA-II
+PY  - 2025
+T2  - Building and Environment
+VL  - 286
+C7  - 113749
+DO  - 10.1016/j.buildenv.2025.113749
+UR  - https://www.scopus.com/pages/publications/105016872513?origin=resultslist
+AD  - School of Architecture and Design, Harbin Institute of Technology, Harbin, 150001, China
+AD  - Key Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and Technology, Ministry of Industry and Information Technology, Harbin, 150001, China
+AD  - College of Architecture and Urban Planning, Tongji University, China
+AB  - This study addresses the dual challenges of time-varying environmental responses and multi-objective optimization in retractable roof stadiums. We propose a hybrid framework integrating Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) and Non-dominated Sorting Genetic Algorithm II (NSGA-II) to resolve competing environmental performance objectives, specifically addressing daylight and thermal comfort. Validated through a case study of a real retractable roof tennis court, the CNN-LSTM surrogate model achieved notable predictive accuracy with mean R² values of 0.948 for Period Spatial Useful Daylight Illuminance (psUDI) and 0.914 for Thermal Comfort Measure Points Percentage (TCMP). The retractable roof control strategy demonstrated significant performance enhancements, yielding an approximate 6.25-fold increase in the average psUDI and a 41.06 % improvement in the average TCMP compared to the fully open roof baseline. The framework and empirical findings provide theoretical foundation and a performance assessment tool for large-scale retractable roof stadiums, advancing the development of data-driven control strategies for dynamic building envelopes. © 2025 Elsevier Ltd
+KW  - Building performance simulation
+KW  - CNN-LSTM
+KW  - Dynamic envelope control strategy
+KW  - Multi-objective optimization
+KW  - Retractable roof stadium
+KW  - Convolutional neural networks
+KW  - Environmental management
+KW  - Genetic algorithms
+KW  - Long short-term memory
+KW  - Multiobjective optimization
+KW  - Roofs
+KW  - Thermal comfort
+KW  - Building performance simulations
+KW  - Control strategies
+KW  - Convolutional neural network
+KW  - Convolutional neural network-long short-term memory
+KW  - Dynamic envelope control strategy
+KW  - Multi-objectives optimization
+KW  - Retractable roof stadium
+KW  - Retractable roofs
+KW  - Short term memory
+KW  - Thermal
+KW  - architectural design
+KW  - artificial neural network
+KW  - control system
+KW  - daylight
+KW  - genetic algorithm
+KW  - optimization
+KW  - performance assessment
+KW  - roof
+KW  - sports facility
+KW  - temperature tolerance
+KW  - Stadiums
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: H. Mei; School of Architecture and Design, Harbin Institute of Technology, Harbin, 150001, China; email: meihongyuanadri@126.com; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Gür, M.
+AU  - Öztop, H.F.
+AU  - Yamaç, H.İ.
+AU  - Gürgenç, E.
+AU  - Selimefendigil, F.
+TI  - An experimental study on thermal effects in building integrated semi transparent double skin façades for a nearly zero energy building
+PY  - 2026
+T2  - Applied Thermal Engineering
+VL  - 290
+C7  - 129995
+DO  - 10.1016/j.applthermaleng.2026.129995
+UR  - https://www.scopus.com/pages/publications/105029256420?origin=resultslist
+AD  - Department of Mechanical Engineering, Technology Faculty, Firat University, Elazig, Turkey
+AD  - Department of Mechatronics Engineering, Technology Faculty, Firat University, Elazig, Turkey
+AD  - Department of Mechanical Engineering, Engineering Faculty, Manisa Celal Bayar University, Manisa, Turkey
+AB  - An experimental study has been performed to evaluate the thermal behavior of a naturally ventilated double-skin façade (DSF) integrating semi-transparent monocrystalline PV modules on the east, south, and west façades of a nearly zero energy building in Elazığ, Türkiye. The 18 cm cavity with seasonally operated vents was assessed through the cavity outdoor temperature difference (ΔT) and degree-hour integrals. In winter, the cavity remained 3–6 °C warmer, yielding 70–135 °C·h heating gains. Spring maintained positive ΔT, dominated by east morning and west afternoon effects. Summer showed limited cooling in June and net heating in July–August, while autumn regained strong heating (95–106 °C·h). Orientation analysis identified east-morning, south-midday, west-afternoon dominance. Accordingly, vents should remain closed in winter and open in summer. Annual results show 2.43 MWh on site electricity generation, 1.457 tCO2 avoided emissions, and USD 114 benefit, demonstrating the potential of orientation-aware façades for climate adaptive, energy efficient building design. Importantly, the presented field-measurement methodology and the degree-hour based performance indicators are not limited to the investigated building; they can be adopted to evaluate and optimize PV-integrated double-skin façades across different orientations, climates, and retrofit scenarios, enabling practical engineering applications in high-performance building design. Copyright © 2026. Published by Elsevier Ltd.
+KW  - Building integrated semi transparent photovoltaics
+KW  - Energy efficiency
+KW  - Façade
+KW  - Nearly zero energy buildings
+KW  - Renewable energy
+KW  - Architectural design
+KW  - Energy efficiency
+KW  - Intelligent buildings
+KW  - Structural design
+KW  - Sustainable development
+KW  - Thermal effects
+KW  - Zero energy buildings
+KW  - Building design
+KW  - Building integrated
+KW  - Building integrated semi transparent photovoltaic
+KW  - Double skin
+KW  - Energy
+KW  - Nearly zero energy building
+KW  - Renewable energies
+KW  - Semi-transparent
+KW  - Semi-transparent photovoltaic
+KW  - Zero energies
+KW  - Facades
+PB  - Elsevier Ltd
+SN  - 13594311 (ISSN)
+LA  - English
+J2  - Appl Therm Eng
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: M. Gür; Department of Mechanical Engineering, Technology Faculty, Firat University, Elazig, Turkey; email: muhammed.gur23@gmail.com; CODEN: ATENF
+ER  -
+
+TY  - JOUR
+AU  - Neseliler, P.
+AU  - Klamt, M.
+AU  - Akgün, Y.
+AU  - Blandini, L.
+TI  - A novel adaptive façade using cable-driven compliant mechanisms
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 114
+C7  - 114325
+DO  - 10.1016/j.jobe.2025.114325
+UR  - https://www.scopus.com/pages/publications/105017841864?origin=resultslist
+AD  - Department of Architecture, Faculty of Fine Arts and Design, Izmir University of Economics, Izmir, Turkey
+AD  - Institute for Lightweight Structures and Conceptual Design, University of Stuttgart, Stuttgart, Germany
+AD  - Department of Architecture, Dokuz Eylül University, Izmir, 35160, Turkey
+AD  - of Natural and Applied Sciences, Department of Architecture, Dokuz Eylül University, İzmir, 35160, Turkey
+AB  - Adaptive façade systems have the potential to significantly reduce energy consumption and CO2 emissions while enhancing, among others, the thermal and lighting comfort of building occupants. However, most existing adaptive façades rely on rigid body mechanisms, which introduce mechanical complexity and increase maintenance costs. To address these challenges, bio-inspired compliant mechanisms, which use flexible elements capable of elastic deformation, offer a promising solution by eliminating the need for conventional hinges. However, studies in the literature show that while such systems often succeed in reducing the number of hinges, they do not typically achieve a reduction in the number of actuators. This study addresses the gap by combining cable networks with compliant mechanisms to minimize the number of actuators while proposing a holistic approach that integrates kinematic design, material selection, pattern development, structural analysis, and daylight performance evaluation. The study uses computer simulations to evaluate the system's kinematic characteristics, material properties, structural integrity, and daylight performance. The study explores façade patterns, cable networks, and actuation systems, alongside structural and environmental analyses, to develop an efficient and innovative adaptive façade system that simplifies mechanical design and enhances visual comfort. © 2025 Elsevier Ltd
+KW  - Adaptive architecture
+KW  - Adaptive façades
+KW  - Bio-inspired folding mechanisms
+KW  - Cable-driven shading devices
+KW  - Compliant mechanisms
+KW  - Curved-line folding technique
+KW  - Lightweight pattern analysis
+KW  - Actuators
+KW  - Biomimetics
+KW  - Cables
+KW  - Daylight simulation
+KW  - Energy utilization
+KW  - Facades
+KW  - Kinematics
+KW  - Structural analysis
+KW  - Adaptive architecture
+KW  - Adaptive façade
+KW  - Bio-inspired folding mechanism
+KW  - Cable-driven
+KW  - Cable-driven shading device
+KW  - Curved lines
+KW  - Curved-line folding technique
+KW  - Folding mechanism
+KW  - Folding technique
+KW  - Lightweight pattern analyze
+KW  - Pattern analysis
+KW  - Shading devices
+KW  - Compliant mechanisms
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Y. Akgün; Department of Architecture, Dokuz Eylül University, Izmir, 35160, Turkey; email: yenal.akgun@deu.edu.tr
+ER  -
+
+TY  - JOUR
+AU  - Mohajerzadeh, Z.
+AU  - Elmi, M.
+AU  - Nozariasbmarz, A.
+AU  - Wang, J.
+AU  - Azari, R.
+TI  - Self-Powered dynamic Façades using thermoelectric generators and phase change materials
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 355
+C7  - 117066
+DO  - 10.1016/j.enbuild.2026.117066
+UR  - https://www.scopus.com/pages/publications/105029086300?origin=resultslist
+AD  - Department of Architecture, Pennsylvania State University, University Park, 16802, PA, United States
+AD  - Department of Architectural Engineering, Pennsylvania State University, University Park, 16802, PA, United States
+AD  - Department of Mechanical Engineering, Rowan University, Glassboro, 08028, NJ, United States
+AB  - Residential and commercial buildings in the U.S. are major energy consumers, with demand projected to rise significantly in the coming decades. This research develops a self-powered dynamic façade that integrates thermoelectric generators (TEGs) with phase change materials (PCMs) to convert solar-driven temperature gradients into electricity for automated shading. While TEG performance is constrained by thermal management, PCMs act as latent-heat buffers that stabilize the cold side and help maintain larger temperature differences. A prototype combining two 4 cm × 4 cm TEG modules with a 29 °C BioPCM was designed and evaluated in both controlled solar chamber conditions and outdoor testing. In the solar chamber, the measured surface temperature difference between the sun-exposed aluminum fin and the outer PCM container reached approximately 24 °C under 800 W/m2 irradiance with PCM integration. This enabled a 1.5 V supercapacitor to charge to 1.0 V and intermittently drive a 3 V DC motor to rotate a 39 cm × 7 cm aluminum louver, consuming an average of 19.5 mW. Outdoor tests in a humid continental climate (ASHRAE 5A) showed strong weather dependence and demonstrated that black-coated fins achieved stored voltages above 400 mV. To increase thermal input, a Fresnel lens and acrylic dome were added. This optical–thermal configuration improved voltage generation by ∼ 20% by concentrating solar flux and reducing convective losses. Under these enhanced conditions, the 29 °C PCM did not always fully melt, prompting evaluation of a 20 °C PCM to activate the phase-change process more completely. The 20 °C PCM fully melted and produced higher early-stage stored voltage (∼550 mV) compared with the 29 °C PCM (∼450 mV), although its cooling duration was shorter once fully liquid. Overall, the results show that melting-point selection, optical concentration, and thermal storage can be combined to advance façade-integrated thermoelectric systems toward autonomous operation and lower building energy demand. © 2026 Elsevier B.V.
+KW  - Building envelope
+KW  - Dynamic façade
+KW  - Energy harvesting
+KW  - Phase change materials
+KW  - Thermoelectric generators
+KW  - Electric generators
+KW  - Electronic equipment
+KW  - Facades
+KW  - Fins (heat exchange)
+KW  - Heat storage
+KW  - Lenses
+KW  - Office buildings
+KW  - Thermoelectric equipment
+KW  - Thermoelectricity
+KW  - Building envelopes
+KW  - Commercial building
+KW  - Dynamic facade
+KW  - Energy
+KW  - Optical-
+KW  - Phase Change
+KW  - Residential building
+KW  - Self-powered
+KW  - Thermal
+KW  - Thermoelectric generators
+KW  - Energy harvesting
+KW  - Phase change materials
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: Z. Mohajerzadeh; Department of Architecture, Pennsylvania State University, University Park, 16802, United States; email: zjm5337@psu.edu; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Chen, X.
+AU  - Ma, R.
+AU  - Xu, Z.
+AU  - Hu, H.
+AU  - Wu, Z.
+AU  - Wang, X.
+AU  - Qiu, Y.
+TI  - Energy performance and optimal design of three typical dynamic photovoltaic façade systems for office buildings in hot-summer- cold-winter climate zone
+PY  - 2026
+T2  - Building and Environment
+VL  - 287
+C7  - 113861
+DO  - 10.1016/j.buildenv.2025.113861
+UR  - https://www.scopus.com/pages/publications/105018669060?origin=resultslist
+AD  - College of Architecture and Urban Planning, Qingdao University of Technology, Qingdao, 266033, China
+AD  - Innovation Institute for Sustainable Maritime Architecture Research and Technology, Qingdao University of Technology, Qingdao, 266033, China
+AB  - As global warming escalates, dynamic photovoltaic facade systems (DPFS) offer a promising but underexplored pathway to enhance building energy efficiency. However, existing studies have predominantly focused on static photovoltaic designs. This study aims to explore the energy performance and optimal design strategies of DPFS for an office building in Changshu, China. The novelty is to comprehensively investigate DPFS with varying adjustment frequencies (monthly and hourly) and tracking strategies (vertical-axis, horizontal-axis, and dual-axis). The energy performance of various optimized DPFS was simulated and compared based on minimal net energy consumption under consistent structural and lighting constraints. The main findings indicate that: (1) the three DPFS achieved minimal energy consumption when the azimuth angles on different facades ranged from -45° to 10° (east), -14° to -9° (south), and -14° to 45° (west), and the altitude angles ranged fro. m 21° to 26° (east, west) and from 24° to 34° (south); (2) the dual-axis system performed best when PV area was unconstrained, while the horizontal-axis system excelled under equal-area conditions; (3) the horizontal-axis system proved to be the most economically viable. These findings provide a systematic theoretical exploration for the design and application of photovoltaic shading systems in the hot-summer-cold-winter climate zone. © 2025
+KW  - Design strategy
+KW  - Dynamic photovoltaic façade system (DPFS)
+KW  - Energy use intensity (EUI)
+KW  - Hot-summer-cold-winter climate zone
+KW  - Office building
+KW  - China
+KW  - Architectural design
+KW  - Dynamics
+KW  - Energy efficiency
+KW  - Energy Intensity
+KW  - Energy utilization
+KW  - Facades
+KW  - Global warming
+KW  - Optimal systems
+KW  - Photovoltaics
+KW  - Structural design
+KW  - Cold winter
+KW  - Design strategies
+KW  - Dynamic photovoltaic facade system
+KW  - Energy performance
+KW  - Energy use intensity
+KW  - Energy-use intensities
+KW  - Horizontal axis
+KW  - Hot-summer-cold-winter climate zone
+KW  - Performances design
+KW  - Photovoltaic facades
+KW  - energy efficiency
+KW  - energy management
+KW  - optimization
+KW  - performance assessment
+KW  - photovoltaic system
+KW  - seasonal variation
+KW  - Office buildings
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: Y. Qiu; College of Architecture and Urban Planning, Qingdao University of Technology, Qingdao, 266033, China; email: qiuyiqun@stu.qut.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - He, Y.
+AU  - Shrestha, S.
+AU  - Zhou, H.
+TI  - Integrating greenery systems and active insulation into adaptive building envelopes for enhanced sustainability and thermal resilience
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 354
+C7  - 116940
+DO  - 10.1016/j.enbuild.2025.116940
+UR  - https://www.scopus.com/pages/publications/105027279474?origin=resultslist
+AD  - Department of Civil and Environmental Engineering, University of Tennessee, Knoxville, TN, United States
+AD  - Energy and Transportation Science Division, Oak Ridge National Laboratory, Oak Ridge, TN, United States
+AB  - Urbanization has intensified climate change and exacerbated urban heat island effects, increasing energy burdens and heat stress. This underscores the urgent need for thermally resilient and adaptive building solutions. As key contributors to heat gain, building roofs present critical opportunities for enhancing thermal performance. While effective, static insulation in passive techniques hinders adaptive thermal regulation under fluctuating environmental conditions. In response, this study proposes a novel self-adaptive roof that integrates active insulation systems (AISs) and greenery systems as a responsive building envelope (RBE) configuration to leverage ambient thermal energy. Simulation studies were conducted on a representative residential building with various roof configurations across very hot to mixed climate zones to evaluate its performance in energy savings, thermal comfort, and thermal resilience. The RBE-based roof achieved up to 87.9 % monthly energy savings and 10 % improvement in annual long-term thermal comfort, outperforming traditional green roofs. Unlike passive techniques with nonlinear or diminishing gains under increasing insulation, its performance improved consistently with higher insulation levels. AIS with intermediate insulation suggested a potential to balance performance and cost. Moreover, it maintained a safe heat index and superior passive habitability throughout heatwave-induced power outages, surpassing the baseline and green roof cases. A concise life-cycle cost-benefit analysis and water-energy-carbon trade-off assessment further confirmed its promising economic viability and context-sensitive environmental performance. This uniquely integrated system maximizes climate-adaptive synergistic performance while addressing limitations of passive cooling, demonstrating strong potential as a scalable and resource-efficient resilient cooling strategy, particularly in regions with minimal reliance on freshwater irrigation. © 2026 Elsevier B.V.
+KW  - Building energy
+KW  - Dynamic/active insulation
+KW  - Evaporative cooling
+KW  - Life-cycle cost-benefit analysis
+KW  - Resilient cooling
+KW  - Responsive building envelope
+KW  - Water–energy–carbon nexus
+KW  - Climate change
+KW  - Cooling
+KW  - Cost benefit analysis
+KW  - Economic analysis
+KW  - Energy conservation
+KW  - Environmental management
+KW  - Environmental regulations
+KW  - Life cycle
+KW  - Roofs
+KW  - Sustainable development
+KW  - Thermal comfort
+KW  - Thermal insulation
+KW  - Building energy
+KW  - Building envelopes
+KW  - Dynamic/active insulation
+KW  - Evaporative cooling
+KW  - Life-cycle cost-benefit analysis
+KW  - Resilient cooling
+KW  - Responsive building envelope
+KW  - Thermal
+KW  - Water energy
+KW  - Water–energy–carbon nexus
+KW  - Economic and social effects
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: H. Zhou; Department of Civil and Environmental Engineering, University of Tennessee, Knoxville, United States; email: hzhou8@utk.edu; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Albadaineh, R.
+AU  - Fattah, A.A.E.
+TI  - Assessing cooling–lighting trade-offs in a low-income Jordanian housing archetype under climate change and heat waves
+PY  - 2026
+T2  - Building and Environment
+VL  - 288
+C7  - 114040
+DO  - 10.1016/j.buildenv.2025.114040
+UR  - https://www.scopus.com/pages/publications/105022661726?origin=resultslist
+AD  - Architecture and City Design Department, College of Design and Built Environment, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia
+AD  - Research Scholar, Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia
+AB  - This study examines climate-robust passive envelope strategies for a low-income dwelling in Irbid, Jordan. The analysis covers a heatwave (23–29 July 2023) and projected future climates (2020, 2050, 2080). Using a BIM-based model, four scenarios were simulated: (S1) baseline, (S2) a trade-off strategy, (S3) S2 plus a ventilated cool roof, and (S4) S2 plus removal of west windows. The performance metrics were cooling loads, lighting loads, discomfort hours, and daylight indicators (sDA, UDI, ASE). S2 reduced cooling load, but increased lighting load and glare. This highlighted the trade-off mechanism. Adding a ventilated cool roof (S3) gave the most robust results across future climates. It reduced cooling energy by up to 48 % and delivered the most consistent reduction in discomfort hours. S1 was still the most optimal strategy, maximizing daylight while minimizing excessive ASE. In contrast, removing west windows (S4) reduced overheating but led to the poorest daylight outcomes. From 2020 to 2080, static shading lost effectiveness. Discomfort hours increased sharply across all scenarios and operative temperatures. sDA declined, despite minor improvements in ASE and UDI under S3. These findings indicate that passive static shading alone cannot guarantee long-term comfort in extreme heat. Higher operative temperatures of 31–32 °C are expected by 2080. This study is the first to quantify the trade-offs between cooling and lighting in low-income housing across current and projected climates, advocating for dynamic shading or ventilated roof strategies combined with balanced window-to-wall ratios and daylight-responsive lighting. This approach offers a low-cost, climate-adaptive solution that enhances comfort and reduces energy demand under future warming scenarios. © 2025
+KW  - Affordability
+KW  - Climate change
+KW  - Heat wave
+KW  - Low-income
+KW  - Shading
+KW  - Trade-off
+KW  - Irbid [Jordan]
+KW  - Jordan
+KW  - Climate change
+KW  - Cooling
+KW  - Cost effectiveness
+KW  - Economic analysis
+KW  - Housing
+KW  - Lighting
+KW  - Roofs
+KW  - Affordability
+KW  - Cool roofs
+KW  - Cooling load
+KW  - Future climate
+KW  - Heatwaves
+KW  - Lighting loads
+KW  - Low incomes
+KW  - Operative temperature
+KW  - Shading
+KW  - Trade off
+KW  - climate change
+KW  - cooling
+KW  - heat wave
+KW  - light
+KW  - low income housing
+KW  - shading
+KW  - trade-off
+KW  - Economic and social effects
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: R. Albadaineh; Architecture and City Design Department, College of Design and Built Environment, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia; email: g202424760@kfupm.edu.sa; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Hong, D.
+AU  - Cheng, R.
+AU  - Lei, H.
+AU  - Zhou, X.
+AU  - Yang, L.
+AU  - Feng, C.
+AU  - Gao, S.
+TI  - Comprehensive review on the impact of building envelopes on indoor thermal comfort in office buildings: Balancing occupant comfort and energy efficiency
+PY  - 2026
+T2  - Building and Environment
+VL  - 289
+C7  - 114018
+DO  - 10.1016/j.buildenv.2025.114018
+UR  - https://www.scopus.com/pages/publications/105022659001?origin=resultslist
+AD  - Yunnan Key Laboratory of Building Structure and New Materials, Yunnan Institute of Building Research, Co., Ltd., Kunming, 650223, China
+AD  - School of Architecture and Urban Planning, Chongqing University, Chongqing, 400045, China
+AD  - China Southwest Architectural Design and Research Institute Corp. Ltd., Chengdu, 610042, China
+AB  - The building sector accounts for 30%–40% of the global energy consumption, with office buildings being particularly significant because of their dense occupancy, abundant internal heat sources, and concentrated operational hours. Although extensive research has been conducted on building envelopes, a comprehensive review linking office building envelopes directly with thermal comfort is lacking. This study systematically analyzed the relationship between office building envelope components and indoor thermal comfort through a rigorous review of 186 peer-reviewed articles. The analysis revealed that the envelope components influenced the thermal comfort through three fundamental mechanisms of thermodynamic change: conduction, convection, and radiation. Advanced materials, such as aerogels, exhibit exceptional insulation performance, whereas phase-change materials integrated into walls reduce peak indoor temperatures. Smart technologies, including smart window systems and dynamic shading systems, can reduce the thermal discomfort hours. This study presents climate-specific optimization strategies: ultrahigh insulation for cold regions, efficient external shading for hot climates, and adaptable envelopes for moderate climates. This comprehensive review provides valuable insights for designers and engineers to optimize office building envelopes to enhance thermal comfort while maintaining energy efficiency. © 2025 Elsevier Ltd
+KW  - Building envelope
+KW  - Energy efficiency
+KW  - Office building
+KW  - Thermal comfort
+KW  - Energy utilization
+KW  - Phase change materials
+KW  - Solar buildings
+KW  - Thermal insulation
+KW  - Building envelopes
+KW  - Buildings sector
+KW  - Energy
+KW  - Energy-consumption
+KW  - Fundamental mechanisms
+KW  - Global energy
+KW  - Indoor thermal comfort
+KW  - Internal heat source
+KW  - Occupant comforts
+KW  - Thermal
+KW  - air temperature
+KW  - building
+KW  - energy efficiency
+KW  - indoor air
+KW  - Energy efficiency
+KW  - Office buildings
+KW  - Thermal comfort
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 10; Correspondence Address: S. Gao; School of Architecture and Urban Planning, Chongqing University, Chongqing, 400045, China; email: gaoshan@cqu.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Li, S.
+AU  - Xu, X.
+AU  - Wang, H.
+AU  - Cao, Y.
+AU  - An, H.
+AU  - Wang, Z.
+AU  - A, S.
+AU  - Wang, C.
+TI  - A Non-Invasive stacked ensemble framework with shadow correction for Cost-Effective daylight illuminance prediction in buildings
+PY  - 2026
+T2  - Energy and Buildings
+VL  - 356
+C7  - 117116
+DO  - 10.1016/j.enbuild.2026.117116
+UR  - https://www.scopus.com/pages/publications/105029367098?origin=resultslist
+AD  - College of Civil Engineering, Dalian Minzu University, Dalian, 116000, China
+AB  - Rapid and accurate prediction of indoor daylight illuminance is pivotal for dynamically optimizing artificial lighting operation under insufficient daylight conditions, a key strategy for reducing building energy consumption. To address the limitations of existing methodologies, including the computational latency of physical simulations, the insufficient adaptability to dynamic shading, and the data complexity challenges in machine learning algorithms, this study introduces a novel non-intrusive methodological framework for rapid daylight prediction, achieved through the synergistic integration of stacked ensemble learning and shadow correction strategies. A large-scale dataset of 46,656 scenarios, encompassing diverse environmental, spatial, and building-related variables, was generated using DIALux evo software. At its core, a Bayesian-optimized stacked ensemble model, combining XGBoost and Random Forest, was developed, achieving a Mean Absolute Percentage Error (MAPE) of 1.89% and a Mean Absolute Error (MAE) of 21.95 lx under complex lighting conditions, markedly surpassing single-algorithm models. To circumvent the geometric explosion in data volume associated with incorporating occlusion parameters, a partitioned shading coverage method guided by the Bayesian Information Criterion (BIC) was further proposed. This efficient post-hoc correction strategy enhances the framework’s theoretical capability to characterize dynamic shading effects from different scenarios, thereby significantly expanding its methodological applicability. Furthermore, SHapley Additive exPlanations (SHAP) analysis was employed to identify XGBoost as the primary contributor of the model and verify the model’s consistency with established daylighting principles. While validated on a simulation-based dataset, the proposed framework presents a low-cost, high-precision solution for rapid indoor daylight prediction and exhibits theoretical adaptability to complex shading scenarios, thereby offering a valuable data basis for subsequent lighting control strategies. © 2026 Elsevier B.V.
+KW  - Daylight illuminance prediction
+KW  - Shadow correction
+KW  - SHAPanalysis
+KW  - Stacked ensemble learning
+KW  - Bayesian networks
+KW  - Buildings
+KW  - Computer software
+KW  - Daylight simulation
+KW  - Daylighting
+KW  - Energy utilization
+KW  - Forecasting
+KW  - Large datasets
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Machine learning
+KW  - Optimization
+KW  - Accurate prediction
+KW  - Artificial lighting
+KW  - Cost effective
+KW  - Daylight illuminance
+KW  - Daylight illuminance prediction
+KW  - Ensemble learning
+KW  - In-buildings
+KW  - Shadow correction
+KW  - Shapanalyze
+KW  - Stacked ensemble learning
+KW  - Cost effectiveness
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: H. An; College of Civil Engineering, Dalian Minzu University, Dalian, 116000, China; email: anhongda@dlnu.edu.cn; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Zhou, Z.
+AU  - Dong, L.
+AU  - Jiao, R.
+AU  - Fang, Z.
+AU  - Li, L.
+TI  - Effects of building shading on outdoor adaptive thermal comfort and the development of predictive models
+PY  - 2026
+T2  - Building and Environment
+VL  - 288
+C7  - 113983
+DO  - 10.1016/j.buildenv.2025.113983
+UR  - https://www.scopus.com/pages/publications/105022288003?origin=resultslist
+AD  - College of Architecture and Urban Planning, Guangzhou University, Guangzhou, 510006, China
+AD  - School of Architecture, Huaqiao University, Xiamen, 361021, China
+AD  - Guangzhou Municipal Group Design Institute Co., Ltd., Guangzhou, 510095, China
+AD  - School of Civil Engineering and Transportation, Guangzhou University, Guangzhou, 510006, China
+AB  - Against the backdrop of worsening urban thermal environments, shaded spaces play a significant role in improving outdoor thermal comfort. This study, conducted in Xiamen, China—a city in the hot-summer and warm-winter climate zone—employed a comparative experimental approach to examine differences in outdoor thermal adaptation between participants in building-shaded and unshaded environments. Drawing on the Griffiths method, an outdoor thermal sensation prediction model and a thermal comfort range prediction model were developed, and both models were validated through field surveys. The results show that the Griffiths constant (G) is higher under shaded conditions than under unshaded ones, and that shaded environments also exhibit greater psychological tolerance, with demand factors below 1 in summer and the transitional season, and approaching 1 in winter. Neutral temperature increases significantly with rising outdoor mean radiant temperature of the open area (Tmrt_OA) under both conditions, but the growth patterns differ. Furthermore, based on experimental results, an outdoor thermal sensation model and a thermal comfort range prediction model were established by incorporating shade-seeking probability and a demand factor. Compared to traditional linear models, the proposed models significantly improve the accuracy of predicting thermal sensation and thermal comfort ranges. © 2025
+KW  - Griffiths constant
+KW  - Neutral temperature
+KW  - Outdoor thermal comfort
+KW  - Shaded space
+KW  - Thermal adaptation
+KW  - China
+KW  - Fujian
+KW  - Xiamen
+KW  - Forecasting
+KW  - Prediction models
+KW  - Sensory perception
+KW  - Condition
+KW  - Demand factors
+KW  - Griffith constant
+KW  - Neutral temperature
+KW  - Outdoor thermal comfort
+KW  - Prediction modelling
+KW  - Shaded space
+KW  - Thermal
+KW  - Thermal adaptation
+KW  - Thermal sensations
+KW  - heat island
+KW  - local adaptation
+KW  - numerical model
+KW  - shading
+KW  - temperature tolerance
+KW  - urban design
+KW  - Thermal comfort
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Z. Zhou; College of Architecture and Urban Planning, Guangzhou University, Guangzhou, 510006, China; email: zhouzhiqiang@gzhu.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Xu, S.
+AU  - Wang, X.
+AU  - Song, Z.
+AU  - Tang, Y.
+AU  - Ji, J.
+TI  - Design, experimental testing, and numerical investigation of a ventilated semi-transparent photovoltaic facade integrated with supply-air conditioning in summer
+PY  - 2026
+T2  - Renewable Energy
+VL  - 263
+C7  - 125415
+DO  - 10.1016/j.renene.2026.125415
+UR  - https://www.scopus.com/pages/publications/105034579858?origin=resultslist
+AD  - Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Anhui, Hefei, 230026, China
+AD  - Institute for Carbon Neutrality, Tsinghua University, Beijing, 100084, China
+AD  - Key Laboratory of Solar Thermal Conversion of Anhui Province, Anhui, Hefei, 230026, China
+AB  - Building-integrated photovoltaics (BIPV) still face numerous challenges, such as limited efficiency, inadequate utilization of waste heat, and high energy demand for air conditioning. To address these issues, this study proposes a ventilated semi-transparent double-skin photovoltaic façade (STPV-DSF) system coupled with air-conditioning supply air. A full-scale experimental platform was established, and comparative tests with an opaque PV façade (OPV) were conducted under typical summer conditions. Results indicate that the STPV facade achieved a 40.1% average thermal efficiency and a maximum heat recovery of 966 W, 36.6% higher than the OPV façade. A dynamic electrical and thermal coupling model was developed and validated in MATLAB. The model was validated against experimental data, with Cv(RMSE) values below 7%, confirming its accuracy. Parametric analysis shows that increasing the supply-air bypass ratio from 0.1 to 0.6 lowered PV temperatures and improved net energy gain by 18%. Southeast- and south-facing façades exhibited more balanced performance compared to other orientations. During system operation, PV efficiency improved, while indoor comfort remained acceptable (PMV -0.7 to 0.7; max PPD ≤11.42%). These results demonstrate the STPV-DSF system's potential for integrating BIPV and air conditioning systems and thereby support sustainable, energy-efficient building design. © 2026 Published by Elsevier Ltd.
+KW  - Air-conditioning integration
+KW  - Energy performance
+KW  - Semi-transparent PV façade
+KW  - Solar energy
+KW  - Thermal comfort
+KW  - Air conditioning
+KW  - Architectural design
+KW  - Energy efficiency
+KW  - Facades
+KW  - Intelligent buildings
+KW  - Photovoltaics
+KW  - Waste heat
+KW  - Air-conditioning integration
+KW  - Building integrated photovoltaic
+KW  - Double skin
+KW  - Energy
+KW  - Energy performance
+KW  - Experimental testing
+KW  - Photovoltaic facades
+KW  - Semi-transparent
+KW  - Semi-transparent PV facade
+KW  - Thermal
+KW  - air conditioning
+KW  - experimental design
+KW  - numerical method
+KW  - performance assessment
+KW  - photovoltaic system
+KW  - solar power
+KW  - summer
+KW  - testing method
+KW  - waste technology
+KW  - Thermal comfort
+PB  - Elsevier Ltd
+SN  - 09601481 (ISSN)
+LA  - English
+J2  - Renew. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Y. Tang; Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, Anhui, 230026, China; email: tangyayun@mail.tsinghua.edu.cn; J. Ji; Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, Anhui, 230026, China; email: jijie@ustc.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Rajeev, P.
+AU  - Navaratnam, S.
+AU  - Munmulla, T.
+AU  - Sanjayan, J.
+TI  - 3D-to-4D printing technologies in construction: Roadmap review of current status and potential applications
+PY  - 2026
+T2  - Automation in Construction
+VL  - 189
+C7  - 107051
+DO  - 10.1016/j.autcon.2026.107051
+UR  - https://www.scopus.com/pages/publications/105039829141?origin=resultslist
+AD  - Department of Civil and Construction Engineering, School of Engineering, Swinburne University of Technology, Australia
+AD  - Institute of Innovation, Science and Sustainability (IISS), Federation University, Mt Helen Campus, Ballarat, Australia
+AB  - Rapid advancements in four-dimensional (4D) printing have introduced time-dependent functionality into additive manufacturing. Research trends indicate that biomedical, aerospace, and materials science disciplines primarily drive 4D printing. However, its applications in civil engineering remain underexplored, while some developed applications remain in the laboratory stage. This paper systematically examines the current progress, applications, and emerging potential of 4D printing with a focus on its relevance to civil and construction engineering. A bibliometric mapping and critical analysis were conducted. Results show that, within civil engineering, about 35 research articles were published focusing on modular self-assembling components, climate-adaptive façades, deployable bridges, and regolith-based lunar construction. However, large-scale adoption is constrained by limited materials and printing equipment, as well as the absence of performance-based standards. To transition 4D printing from experimental studies to practical applications, future research should focus on developing AI-driven predictive modelling and a formalised standardisation framework. © 2026 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license. http://creativecommons.org/licenses/by/4.0/
+KW  - 3D-to-4D transformation
+KW  - 4D printing
+KW  - Adaptive structure
+KW  - Civil Engineering
+KW  - Shape-morphing
+KW  - Smart materials
+KW  - Structural design
+KW  - 3d-to-four-dimensional transformation
+KW  - Adaptive structure
+KW  - Current status
+KW  - Current-potential
+KW  - Four-dimensional printing
+KW  - Four-dimensional transformation
+KW  - Printing technologies
+KW  - Roadmap
+KW  - Shape morphing
+KW  - Time dependent
+KW  - Intelligent materials
+PB  - Elsevier B.V.
+SN  - 09265805 (ISSN)
+LA  - English
+J2  - Autom Constr
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: S. Navaratnam; Institute of Innovation, Science and Sustainability (IISS), Federation University, Ballarat, Mt Helen Campus, Australia; email: s.nava@federaion.edu.au; CODEN: AUCOE
+ER  -
+
+TY  - JOUR
+AU  - Alvarez-Rodriguez, M.
+AU  - Silva-Klein, L.T.
+AU  - Alonso-Martinez, M.
+AU  - Suarez-Ramon, I.
+TI  - Experimentally validated numerical model of adaptive envelopes with macroencapsulated PCMs under real conditions, including the effects of the capsule and indoor temperature variation
+PY  - 2026
+T2  - Energy
+VL  - 355
+C7  - 141166
+DO  - 10.1016/j.energy.2026.141166
+UR  - https://www.scopus.com/pages/publications/105037445983?origin=resultslist
+AD  - University of Oviedo, GICONSIME Research Group, C/Pedro Puig Adam s/n, Asturias, Gijón, 33204, Spain
+AB  - Incorporating macroencapsulated phase change materials (PCMs) in building envelopes is a strategy to reduce building energy consumption. However, most numerical models ignore the effects of encapsulation (capsule mass and thermal resistance), do not distinguish between solidification and melting dynamics, and assume constant indoor temperatures. This work presents an experimentally validated numerical model of envelopes based on Spanish standards that incorporate macroencapsulated PCM. Two envelope types with different thermal mass were simulated. The model includes the capsule effects and accounts for the distinct behavior of melting and solidification, as well as phase change interruption. Simulations were performed for typical winter and summer days in Gijón (Northwestern coastal city in Spain). A sensitivity analysis was conducted to evaluate the impact of PCM position, phase change temperature, and indoor temperature. The outputs included typical indicators of thermal inertia and three new parameters: thermal oscillation, phase change efficiency, and active time of the PCM. These new indices facilitate interpretating PCM dynamics and designing energy-efficient envelopes under realistic operating conditions. Results showed that lower thermal oscillation occurred when the PCM was active longer and its temperature remained near the peak phase change point. The relationship between PCM position, indoor temperature, and phase change temperature is critical. In this case study, the optimal case placed the PCM near the interior, with a peak temperature 0.5 °C above the winter indoor setpoint. Under these conditions, thermal oscillation dropped by 59.82%. An adaptive envelope with an adequate PCM shows better thermal performance than a thicker higher-mass traditional envelope. © 2026 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC license. http://creativecommons.org/licenses/by-nc/4.0/
+KW  - Adaptive building envelope
+KW  - Experimental validation
+KW  - Macroencapsulated PCM
+KW  - Numerical model
+KW  - Phase change material
+KW  - Thermal energy storage in buildings
+KW  - Encapsulation
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Melting
+KW  - Sensitivity analysis
+KW  - Solar buildings
+KW  - Solidification
+KW  - Space heating
+KW  - Thermal energy
+KW  - Adaptive building envelope
+KW  - Building envelopes
+KW  - Experimental validations
+KW  - In-buildings
+KW  - Indoor temperature
+KW  - Macroencapsulated phase change material
+KW  - Phase Change
+KW  - Thermal energy storage
+KW  - Thermal energy storage in building
+KW  - Numerical models
+KW  - Phase change materials
+PB  - Elsevier Ltd
+SN  - 03605442 (ISSN)
+LA  - English
+J2  - Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: M. Alvarez-Rodriguez; University of Oviedo, GICONSIME Research Group, Gijón, C/Pedro Puig Adam s/n, Asturias, 33204, Spain; email: alvarezrmatias@uniovi.es; CODEN: ENEYD
+ER  -
+
+TY  - JOUR
+AU  - Alkhatib, H.
+AU  - O'Neill, N.
+AU  - Norton, B.
+TI  - Month-by-month prioritization of heating and ventilation from an adaptive mechanically-ventilated double-skin façade
+PY  - 2025
+T2  - Energy Reports
+VL  - 14
+SP  - 2627
+EP  - 2641
+DO  - 10.1016/j.egyr.2025.09.038
+UR  - https://www.scopus.com/pages/publications/105016999242?origin=resultslist
+AD  - School of Mechanical Engineering, Technological University Dublin, Dublin, Ireland
+AD  - Dublin Energy Lab, Technological University Dublin, Dublin, Ireland
+AD  - MaREI, the SFI Centre for Energy, Climate and Marine, Cork, Ireland
+AD  - School of Transport & Civil Engineering, Technological University Dublin, Dublin, Ireland
+AD  - IERC, International Energy Research Centre, Tyndall National Institute, University College Cork, Cork, Ireland
+AB  - In addition to admitting daylight into a building, a mechanically ventilated double-skin façade can heat, ventilate and insulate to meet occupant comfort requirements. Generally, in the Irish temperate climate, buildings require ventilation in summer and heating at other times of the year. Control strategies for a mechanically ventilated double-skin façade that achieve this have been investigated using experimentally validated building simulations. A ventilation-prioritized strategy ventilates the building during the day and provides thermal insulation at night. A heating-prioritizing strategy provides heating during the day and reverts to solely thermally insulating at night. The applicable duration of the ventilation-prioritized strategy becomes progressively shorter towards winter. For a single-room building, applying these seasonal prioritized modes on a month-by-month schedule enabled a particular type of mechanically-ventilated double-skin façade to reduce energy consumption by 36 % compared with the same room with a full-height double-glazed window. © 2025
+KW  - Adaptive façade
+KW  - Building energy efficiency
+KW  - Double skin façade
+KW  - Occupancy comfort
+KW  - Ventilation
+KW  - Climatology
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Facades
+KW  - Thermal insulation
+KW  - Adaptive facade
+KW  - Building energy efficiency
+KW  - Building simulation
+KW  - Control strategies
+KW  - Double-skin facades
+KW  - Occupancy comfort
+KW  - Occupant comforts
+KW  - Prioritization
+KW  - Temperate climate
+KW  - Thermal
+KW  - Ventilation
+PB  - Elsevier Ltd
+SN  - 23524847 (ISSN)
+LA  - English
+J2  - Energy Rep.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 6; Correspondence Address: H. Alkhatib; School of Mechanical Engineering, Technological University Dublin, Dublin, Ireland; email: Hani.Alkhatib@TUDublin.ie
+ER  -
+
+TY  - JOUR
+AU  - Arauz, R.
+AU  - Mehdizadeh, E.
+AU  - Fascetti, A.
+AU  - Filipov, E.
+AU  - Clifford, D.T.
+AU  - Brigham, J.C.
+TI  - A comprehensive approach to evaluate environmentally adaptive façade concepts through the use of fundamental environmental conditions
+PY  - 2025
+T2  - Energy and Buildings
+VL  - 347
+C7  - 116319
+DO  - 10.1016/j.enbuild.2025.116319
+UR  - https://www.scopus.com/pages/publications/105014006634?origin=resultslist
+AD  - Civil and Environmental Engineering, University of Pittsburgh, Pittsburgh, 15261, PA, United States
+AD  - Civil and Environmental Engineering, University of Michigan, Ann Arbor, 48109, MI, United States
+AD  - College of Architecture and Environmental Design, California Polytechnic State University, San Luis Obispo, 93405, CA, United States
+AB  - A novel framework for comprehensive evaluation of the design space and potential performance of environmentally responsive adaptive façade concepts is presented and evaluated. In particular, this framework seeks to quantify the potential impacts of a concept on building performance beyond what can be derived from individual case studies. This approach derives fundamental environmental conditions to represent the broad spectrum of potential use cases, and evaluates optimal design and performance for all combinations of these fundamental conditions. To demonstrate generalization capabilities, a novel approach is presented to estimate optimal design and performance for a wide range of use cases. A kirigami-inspired double skin façade concept for solar tracking and adaptive ventilation is used as a case study to demonstrate the capability of the approach. By evaluating the results of the generalized analysis, the optimal designs and potential performances for each combination of fundamental conditions are identified. Furthermore, the features of the optimal designs that are common across the range of environmental variations can also be determined. Capabilities of this approach are further demonstrated with the approach shown to estimate the optimal design parameters and potential performance of any given use case. Through the analysis of two prototypical buildings, it is shown that the performance, as measured by net energy generation, and the optimal set of component design parameters can be estimated for specific cases. However, it is noted that the accuracy of both estimates could improve by expanding the set of fundamental environmental conditions considered. © 2025 Elsevier B.V.
+KW  - Adaptive façade
+KW  - Design optimization
+KW  - Environmentally responsive
+KW  - Fundamental environmental conditions
+KW  - Performance evaluation
+KW  - Ecodesign
+KW  - Structural design
+KW  - Adaptive facade
+KW  - Case-studies
+KW  - Design optimization
+KW  - Environmental conditions
+KW  - Environmentally responsive
+KW  - Fundamental environmental condition
+KW  - Optimal design
+KW  - Optimal performance
+KW  - Performance
+KW  - Performances evaluation
+KW  - Optimal systems
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: R. Arauz; Civil and Environmental Engineering, University of Pittsburgh, Pittsburgh, 15261, United States; email: raa177@pitt.edu; CODEN: ENEBD
+ER  -
+
