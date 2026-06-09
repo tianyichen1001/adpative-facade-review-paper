@@ -1,0 +1,2502 @@
+TY  - JOUR
+AU  - Abdulqader, S.Kh.
+AU  - Al-Moula, E.K.
+TI  - Simulation-Based Evaluation of Bio-Inspired Wall Materials for Energy-Efficient Prefabricated Housing in Hot-Arid Climates
+PY  - 2025
+T2  - International Journal of Design and Nature and Ecodynamics
+VL  - 20
+IS  - 9
+SP  - 2091
+EP  - 2108
+DO  - 10.18280/ijdne.200914
+UR  - https://www.scopus.com/pages/publications/105021299672?origin=resultslist
+AD  - Department of Architectural Engineering, College of Engineering, University of Mosul, Mosul, 41002, Iraq
+AB  - Prefabricated housing in hot, arid regions faces critical challenges, including high cooling energy demand and thermal discomfort, highlighting the need for climate-responsive wall systems. Bio-inspired materials, with adaptive properties such as thermal regulation and moisture responsiveness, offer innovative solutions to improve energy efficiency and indoor comfort. This study evaluates the effectiveness of six bio-inspired wall assemblies, hempcrete, compressed straw bale, cork insulation, PCM wallboards, hydrogel panels, and biomimetic aerogel, through dynamic simulation using DesignBuilder (EnergyPlus) for a prefabricated dwelling in Mosul, Iraq. Annual cooling energy demand, indoor operative temperature, and thermal comfort (PMV index) were assessed against a conventional concrete wall base case. Results showed that biomimetic aerogel panels achieved the lowest cooling load (5549 kWh/month, annual average monthly value, 42.6% savings), followed closely by straw bale walls (5667 kWh/month, 41.4% savings, PMV ≈ +0.3). Intermediate savings (approximately 38%), were obtained with cork and hydrogel paneling whereas 37.5% savings were obtained with PCM wallboards. Hempcrete panels did the worst job (6749 kWh/month, 30 percent). All in all, materials that had extremely low thermal conductivity (aerogel, straw bale) performed better compared to systems based on latent storage (PCM) or moisture buffering (hydrogel). The results support the idea that bio-inspired facades have a considerable beneficial effect on the energy performance and thermal comfort of prefabricated housing, which can further be considered a validated model of sustainable material choice in hot-arid climates. ©2025 The authors.
+KW  - bio-inspired façade materials
+KW  - building performance simulation
+KW  - DesignBuilder
+KW  - hot-arid climate
+KW  - prefabricated housing
+PB  - International Information and Engineering Technology Association
+SN  - 17557437 (ISSN)
+LA  - English
+J2  - Int. J. Des. Nat. ecodyn.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: S.Kh. Abdulqader; Department of Architectural Engineering, College of Engineering, University of Mosul, Mosul, 41002, Iraq; email: shaimaa.aldabbagh@uomosul.edu.iq
+ER  -
+
+TY  - JOUR
+AU  - Zhang, J.
+AU  - Gao, T.
+AU  - Liu, S.
+AU  - Mi, Y.
+AU  - Liu, J.
+AU  - Wang, C.
+TI  - Design and photothermal coupling analysis of Kresling origami-based intelligent dynamic shading system
+PY  - 2025
+T2  - Thin-Walled Structures
+VL  - 207
+C7  - 112739
+DO  - 10.1016/j.tws.2024.112739
+UR  - https://www.scopus.com/pages/publications/85209902839?origin=resultslist
+AD  - School of Civil Engineering and Mechanics, Yanshan University, Qinhuangdao, 066004, China
+AD  - Hebei Key Laboratory of Mechanical Reliability for Heavy Equipments and Large Structures, Yanshan University, Qinhuangdao, 066004, China
+AD  - School of Mechanical Engineering, Yanshan University, Qinhuangdao, 066004, China
+AD  - National Key Laboratory of Science and Technology on Advanced Composites in Special Environments, Harbin Institute of Technology, Harbin, 150080, China
+AD  - Center for Composite Materials and Structures, Harbin Institute of Technology, Harbin, 150001, China
+AB  - This study investigates the design and mechanical analysis of Kresling origami structures for reconfigurable intelligent dynamic shading system aimed at enhancing energy efficiency and thermal management. A mechanical model was developed using the principle of minimum potential energy, followed by 4D printing of specimens tested under compression, showing strong alignment with theoretical predictions. The research highlights the system's intelligent ventilation capabilities, incorporating adjustable fan blade units into the Kresling structure. Shape Memory Polymer (SMP) enables intelligent folding, while Carbon Fiber Reinforced Polymer (CFRP) ensures structural stability. The photothermal coupling analysis reveals how the system autonomously adjusts the shade angle in response to environmental changes, improving indoor illumination and thermal comfort. This intelligent shading system outperforms conventional permanent solutions, reducing energy consumption and enhancing user comfort, ultimately providing innovative insights for future energy-saving technologies in buildings. © 2024 Elsevier Ltd
+KW  - 4D printing
+KW  - Intelligent dynamic shading system
+KW  - Kresling origami
+KW  - Photothermal coupling
+KW  - Shape-memory polymer
+KW  - Thermal comfort
+KW  - 4d printing
+KW  - Coupling analysis
+KW  - Design Analysis
+KW  - Intelligent dynamic shading system
+KW  - Kresling origami
+KW  - Mechanical analysis
+KW  - Photo-thermal
+KW  - Photothermal coupling
+KW  - Shading systems
+KW  - Thermal
+KW  - Carbon fiber reinforced plastics
+PB  - Elsevier Ltd
+SN  - 02638231 (ISSN)
+LA  - English
+J2  - Thin-Walled Struct
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 10; Correspondence Address: J. Zhang; School of Civil Engineering and Mechanics, Yanshan University, Qinhuangdao, 066004, China; email: zhangji6383@foxmail.com; CODEN: TWASD
+ER  -
+
+TY  - JOUR
+AU  - Claros-Marfil, L.J.
+AU  - Vargas, V.Z.
+AU  - Padial, J.F.
+AU  - Lauret, B.
+TI  - Experimental energy performance assessment of a smart controlled water-flow glazing adaptive facade in heating demand conditions
+PY  - 2025
+T2  - Applied Energy
+VL  - 378
+C7  - 124787
+DO  - 10.1016/j.apenergy.2024.124787
+UR  - https://www.scopus.com/pages/publications/85208399934?origin=resultslist
+AD  - Architectural Construction and Technology Department, E.T.S. Arquitectura, Universidad Politécnica de Madrid, Avda. Juan de Herrera, 4, Madrid, 28040, Spain
+AD  - Construction Management Department, Facultad Ciencias de Ingeniería y Construcción, Universidad Católica del Norte, Avda. Angamos 0610, Antofagasta, Chile
+AD  - Applied Mathematics Department, E.T.S. Arquitectura, Universidad Politécnica de Madrid, Avda. Juan de Herrera, 4, Madrid, 28040, Spain
+AB  - Water-flow glazing (WFG) adaptive facades can significantly enhance the energy efficiency of glazed buildings. Although the energy potential of WFG has already been studied, there remains a research gap between this potential and the control strategies needed. This study evaluates the performance of a smart controller designed to manage active WFG adaptive facades by executing programmed algorithms. These algorithms consider both internal and external ambient conditions in two reduced-scale test cells. The influence of the intelligent controller on the internal cell ambient, the stored water temperature, and the heating energy consumption is examined. The results indicate that the smart control enables the active WFG adaptive facade to reduce the indoor temperature of the test cells during solar radiation hours by absorbing a portion of the internal ambient energy. The stored energy can be used later within a specific time delay, thereby reducing heating energy consumption. © 2024
+KW  - Adaptive facade
+KW  - Dynamic glazing control
+KW  - Smart controlled WFG
+KW  - Water-flow glazing
+KW  - Facades
+KW  - Adaptive facade
+KW  - Ambients
+KW  - Controlled waters
+KW  - Dynamic glazing control
+KW  - Energy
+KW  - Smart controled water-flow glazing
+KW  - Test cell
+KW  - Water flows
+KW  - Water-flow glazing
+KW  - algorithm
+KW  - energy efficiency
+KW  - fuel cell
+KW  - heating
+KW  - performance assessment
+KW  - solar radiation
+KW  - water temperature
+KW  - Glazes
+PB  - Elsevier Ltd
+SN  - 03062619 (ISSN)
+LA  - English
+J2  - Appl. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: L.J. Claros-Marfil; Architectural Construction and Technology Department, E.T.S. Arquitectura, Universidad Politécnica de Madrid, Madrid, Avda. Juan de Herrera, 4, 28040, Spain; email: luisj.claros@gmail.com; CODEN: APEND
+ER  -
+
+TY  - JOUR
+AU  - Qi, Z.
+AU  - Wan, Z.
+AU  - Li, L.
+AU  - Ma, Q.
+AU  - Gao, W.
+AU  - Wei, X.
+TI  - Kirigami-inspired novel photovoltaic shading facade: multi-objective optimization of energy consumption, daylighting, thermal comfort, visual comfort, and landscape view
+PY  - 2025
+T2  - Solar Energy
+VL  - 299
+C7  - 113692
+DO  - 10.1016/j.solener.2025.113692
+UR  - https://www.scopus.com/pages/publications/105008155170?origin=resultslist
+AD  - iSMART, Qingdao University of Technology, Qingdao, 266033, China
+AD  - Department of Architecture, The University of Kitakyushu, Kitakyushu, 808-0135, Japan
+AD  - School of Environmental and Municipal Engineering, Jilin Jianzhu University, Changchun, 130118, China
+AB  - With rising global building energy consumption, photovoltaic shading facades (PVSFs) have gained attention for their dual function of solar radiation control and electricity generation. However, most of existing PVSFs are simple louver structures, lacking in-depth exploration of complex aesthetic design and PV self-shading issues, and have repeated evaluation of the schemes. Inspired by kirigami, this paper designed a novel lightweight honeycomb PVSF, aiming to improve the indoor environment and energy consumption while improving the efficiency of photovoltaic power generation (PVPG). The study also comprehensively considers comfort and view, and combines criteria importance through intercriteria correlation (CRITIC) and analytic hierarchy process (AHP) to assign weights, aiming to improve the accuracy of decision making. Results showed that the optimal solution improved net EUI, UDIe, UDI100-3000, and TCP by 20.1%, 70.8%, 5.4%, and 23%, respectively, compared to the baseline. The view reached 19.75%, within the user-acceptable range; the PV self-shading rate was only 4.7%, significantly lower than traditional PV blinds. Compared with single-objective optimization, the multi-objective optimization (MOO) scheme demonstrated superior overall performance. Sensitivity analysis showed that the number of vertical grids had the greatest impact, and bond length had the smallest impact, but it did not have a negative impact on other objectives. Climate adaptability analysis showed that honeycomb PVSF effectively optimized energy consumption and indoor environment, but had limitations in cold regions such as Changchun. The research results have demonstrated the advantages of the novel PVSF and optimized MOO process, and provide a reference for PVSF design and MOO. © 2025 International Solar Energy Society
+KW  - Kirigami structure
+KW  - Multi-objective optimization
+KW  - Parametric performance design
+KW  - Photovoltaic self-shading
+KW  - Photovoltaic shading facade
+KW  - Changchun
+KW  - China
+KW  - Jilin
+KW  - Analytic hierarchy process
+KW  - Bond length
+KW  - Decision making
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Photovoltaics
+KW  - Sensitivity analysis
+KW  - Solar energy
+KW  - Solar power generation
+KW  - Structural design
+KW  - Structural optimization
+KW  - Kirigami structure
+KW  - Multi-objectives optimization
+KW  - Parametric performance
+KW  - Parametric performance design
+KW  - Performances design
+KW  - Photovoltaic self-shading
+KW  - Photovoltaic shading facade
+KW  - Photovoltaics
+KW  - Self-shading
+KW  - correlation
+KW  - design method
+KW  - electricity generation
+KW  - energy use
+KW  - exploration
+KW  - optimization
+KW  - photovoltaic system
+KW  - shading
+KW  - solar radiation
+KW  - Multiobjective optimization
+PB  - Elsevier Ltd
+SN  - 0038092X (ISSN)
+LA  - English
+J2  - Sol. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 6; Correspondence Address: Q. Ma; iSMART, Qingdao University of Technology, Qingdao, 266033, China; email: maqingsong@qut.edu.cn; CODEN: SRENA
+ER  -
+
+TY  - CONF
+AU  - Chen, Z.
+AU  - Tang, C.
+AU  - Herr, C.M.
+TI  - A Workflow for Implementing Reinforcement Learning Incorporating Occupant Preference in Climate-Adaptive Facade Control
+PY  - 2025
+T2  - Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia
+VL  - 3
+SP  - 305
+EP  - 314
+DO  - 10.52842/conf.caadria.2025.3.305
+UR  - https://www.scopus.com/pages/publications/105023482070?origin=resultslist
+AD  - Southern University of Science and Technology, China
+AD  - University College London, United Kingdom
+AB  - Indoor air quality (IAQ) and thermal comfort significantly influence occupants, who spend most of their time indoors. Climate-adaptive façades (CAFs) can modify their configurations in response to external conditions, and contribute significantly to improving and maintaining a desirable IAQ and thermal comfort. In response to contemporary CAF systems, which tend to generalize comfort levels, this paper addresses the difficulties of accommodating individual comfort preferences. To this end, we propose a novel workflow for training reinforcement learning (RL) controllers tailored for high-performance CAFs that incorporate fine-tuning mechanisms. RL has been widely adopted as a control strategy for various building components and equipment, such as HVAC systems. However, the application of RL to CAFs remains underexplored. Existing RL controllers for the built environment are typically trained on generalized comfort models, which can lead to incompatibilities between human self-determined operation of environment control systems based on variable personal comfort perceptions and digitally predetermined optimum values. This misalignment can result in occupant discomfort and increase energy consumption. In this paper, we conducted an analysis of a naturally ventilated building, and present the results demonstrating the effectiveness of the proposed workflow in aligning an RL-based control system for CAFs with individual occupant comfort preferences. © 2025 and published by the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA), Hong Kong.
+KW  - Climate-adaptive facades
+KW  - Naturally ventilated buildings
+KW  - Occupant-centric control
+KW  - Personal occupant comfort
+KW  - Reinforcement learning
+KW  - Adaptive control systems
+KW  - Architectural design
+KW  - Energy utilization
+KW  - Facades
+KW  - HVAC
+KW  - Indoor air pollution
+KW  - Man machine systems
+KW  - Room and pillar mining
+KW  - Thermal comfort
+KW  - Climate-adaptive facade
+KW  - Indoor air quality
+KW  - Learning controllers
+KW  - Naturally ventilated buildings
+KW  - Occupant comforts
+KW  - Occupant-centric control
+KW  - Personal occupant comfort
+KW  - Reinforcement learnings
+KW  - Thermal
+KW  - Work-flows
+KW  - Reinforcement learning
+A2  - Reinhardt D.
+A2  - Globa A.
+A2  - Rogeau N.
+A2  - Herr C.M.
+A2  - Chen J.
+A2  - Narahara T.
+PB  - The Association for Computer-Aided Architectural Design Research in Asia
+SN  - 27104257 (ISSN); 978-988789186-4 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Comput.-Aided Architect. Des. Res. Asia
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Conference name: 30th International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2025; Conference date: 22 March 2025 through 29 March 2025; Conference code: 343759
+ER  -
+
+TY  - JOUR
+AU  - Gao, Y.
+AU  - Ming, T.
+AU  - Xiong, H.
+AU  - Zhou, J.
+AU  - Li, W.
+AU  - Yuan, X.
+AU  - Lin, W.
+AU  - Wu, Y.
+TI  - Energy saving performance of dual-mode adaptive wall with phase change material and dynamic louver
+PY  - 2025
+T2  - Energy
+VL  - 332
+C7  - 137294
+DO  - 10.1016/j.energy.2025.137294
+UR  - https://www.scopus.com/pages/publications/105008944128?origin=resultslist
+AD  - Sanya Science and Education Innovation Park, Wuhan University of Technology, Sanya, 572024, China
+AD  - School of Civil Engineering and Architecture, Wuhan University of Technology, Wuhan, 430070, China
+AD  - School of Safety Science and Engineering, Nanjing University of Science and Technology, Jiangsu, Nanjing, 210094, China
+AD  - School of Computer and Information Science, Chongqing Normal University, Chongqing, 401331, China
+AB  - Passive solar design is essential for developing energy-efficient buildings. Traditional passive solar walls often struggle to regulate solar heat gain effectively under varying climatic conditions. This study proposes a novel Thermal Diode Solar Wall (TDSW) integrated with translucent phase change material and dynamic louver control, establishing a dual-mode thermal regulation mechanism. The TDSW mitigates summer overheating, provides winter heating and daylighting, and enhances thermal comfort and energy efficiency. The operational results from test and reference rooms across multiple climatic regions in China demonstrate the effectiveness of TDSW. In Kunming, the TDSW test room showed an 8.36 °C temperature difference in winter, while in Beijing, it reduced indoor temperatures by 6.36 °C in summer. The TDSW absorbed up to 1500 W of solar radiation in winter, with Tibet receiving up to 10.71 GJ annually. In Yunnan, the cooling load decreased by 2.59 GJ, and 55.14 % of annual solar radiation was blocked in Hainan. Comfort hours in Yunnan increased by 2429 h (114.71 % improvement). The test rooms achieved up to 6.67 GJ in annual energy savings, with an energy-saving rate of 87.58 %. The TDSW demonstrates substantial thermal benefits, enhancing thermal comfort and energy efficiency, positioning it as an optimal solution for sustainable building design. © 2025 Elsevier Ltd
+KW  - Building energy efficiency
+KW  - Passive buildings
+KW  - Solar energy
+KW  - Sustainable buildings
+KW  - Thermal diodes
+KW  - Beijing [China]
+KW  - China
+KW  - Hainan
+KW  - Yunnan
+KW  - Architectural design
+KW  - Energy efficiency
+KW  - Green buildings
+KW  - Intelligent buildings
+KW  - Passive solar
+KW  - Solar heating
+KW  - Solar heating
+KW  - Solar radiation
+KW  - Sustainable building
+KW  - Thermal comfort
+KW  - Building energy efficiency
+KW  - Dual modes
+KW  - Energy
+KW  - Passive buildings
+KW  - Phase Change
+KW  - Solar walls
+KW  - Sustainable building
+KW  - Test room
+KW  - Thermal
+KW  - Thermal diodes
+KW  - energy efficiency
+KW  - energy storage
+KW  - performance assessment
+KW  - positioning system
+KW  - solar power
+KW  - solar radiation
+KW  - summer
+KW  - sustainability
+KW  - Phase change materials
+PB  - Elsevier Ltd
+SN  - 03605442 (ISSN)
+LA  - English
+J2  - Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: T. Ming; Sanya Science and Education Innovation Park, Wuhan University of Technology, Sanya, 572024, China; email: tzming@whut.edu.cn; Y. Wu; Sanya Science and Education Innovation Park, Wuhan University of Technology, Sanya, 572024, China; email: yjwu2019@whut.edu.cn; CODEN: ENEYD
+ER  -
+
+TY  - JOUR
+AU  - Wang, M.
+AU  - Jia, Z.
+AU  - Xiang, C.
+TI  - Machine learning-based adaptive control of PV shading for residential energy and visual comfort optimization
+PY  - 2025
+T2  - Building and Environment
+VL  - 283
+C7  - 113359
+DO  - 10.1016/j.buildenv.2025.113359
+UR  - https://www.scopus.com/pages/publications/105009764615?origin=resultslist
+AD  - Division of Integrative Systems and Design, Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology, Hong Kong
+AB  - Building-integrated photovoltaic (BIPV) façade technology effectively reduces urban energy consumption. However, dynamic optimization strategies for photovoltaic shading devices (PVSDs), particularly in residential buildings, remain insufficiently studied. Using public housing in Hong Kong as a case study, this research investigates how building orientation and internal spatial functions influence shading performance. A random forest-based optimization strategy was developed to simultaneously enhance energy efficiency and visual comfort, with Shapley values quantifying key influencing factors. Results showed that the random forest algorithm achieved over 85 % prediction accuracy (±5° tolerance), outperforming eight other algorithms. Orientation-specific strategies emerged: south façades responded primarily to solar azimuth angles with moderate adjustments (15°–50°), whereas west façades required significant adjustments (20°–80°) due to rapid solar altitude changes. Three distinct control strategies were compared: a typical-day-based approach achieved energy savings of 37.01 % (south) and 29.78 % (west), while a machine learning predictive control strategy best balanced energy savings (>30 %) and glare reduction (annual glare-free hours: 90.95 % south; 88.36 % west). These findings provide architects and policymakers with actionable insights into implementing adaptive PVSD controls, thus facilitating energy-efficient and comfortable residential environments in subtropical urban areas. © 2025 Elsevier Ltd
+KW  - BIPV
+KW  - Energy-visual comfort trade-off
+KW  - Machine learning predictive control
+KW  - Near-zero energy buildings
+KW  - Photovoltaic shading device
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Facades
+KW  - Glare
+KW  - Housing
+KW  - Intelligent buildings
+KW  - Learning systems
+KW  - Machine learning
+KW  - Optimization
+KW  - Predictive control systems
+KW  - Random forests
+KW  - Zero energy buildings
+KW  - Building integrated photovoltaic
+KW  - Energy
+KW  - Energy-visual comfort trade-off
+KW  - Machine learning predictive control
+KW  - Machine-learning
+KW  - Near-zero energy building
+KW  - Photovoltaic shading device
+KW  - Photovoltaics
+KW  - Predictive control
+KW  - Shading devices
+KW  - Trade off
+KW  - Visual comfort
+KW  - Zero energies
+KW  - algorithm
+KW  - architectural design
+KW  - control system
+KW  - energy efficiency
+KW  - machine learning
+KW  - optimization
+KW  - photovoltaic system
+KW  - prediction
+KW  - residential energy
+KW  - shading
+KW  - subtropical region
+KW  - urban housing
+KW  - Economic and social effects
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 8; CODEN: BUEND
+ER  -
+
+TY  - CONF
+AU  - Van Thillo, L.
+AU  - Verbeke, S.
+AU  - Audenaert, A.
+TI  - Automating Solar Shading Control in Residential Buildings Located in a Temperate Climate: A Household-Specific Decision
+PY  - 2025
+T2  - Building Simulation Applications
+SP  - 165
+EP  - 172
+DO  - 10.13124/9788860462022_22
+UR  - https://www.scopus.com/pages/publications/105014513235?origin=resultslist
+AD  - University of Antwerp, Belgium
+AD  - Unit Water and Energy Transition, VITO, Belgium
+AB  - The implementation of movable solar shading is strongly encouraged in order to reduce the overheating of residential buildings. However, their efficacy is, amongst other factors, determined by the control system employed. Building occupants are often relatively passive in manually operating their shading, leading to suboptimal use, whereas automated control reacts consistently to changes in outdoor and indoor conditions. This study evaluates the impact of automated shading control on annual heating and artificial lighting energy consumption, and thermal comfort compared to manual operation in residential buildings without cooling installations. Building performance simulations are conducted for three building designs in the temperate climate of Belgium using EnergyPlus. Multiple variations are investigated to analyse the sensitivity of the impact of automated control to boundary conditions such as the orientation, reflectance of the solar shading, household composition and manual operation strategy. The results demonstrate that the implementation of automated shading control has the potential to substantially reduce thermal discomfort while exerting a minimal impact on the energy consumption. However, the relative differences in overheating show considerable variation, primarily influenced by the building design and occupant behaviour. These findings emphasise the necessity of considering co-benefits (e.g. thermal comfort) and boundary conditions when evaluating shading control strategies. © 2025, Free University of Bozen Bolzano. All rights reserved.
+KW  - Architectural design
+KW  - Automation
+KW  - Energy utilization
+KW  - Housing
+KW  - Lighting
+KW  - Solar heating
+KW  - Structural design
+KW  - Thermal comfort
+KW  - Automated control
+KW  - Building design
+KW  - Condition
+KW  - Energy-consumption
+KW  - Indoor conditions
+KW  - Manual operations
+KW  - Residential building
+KW  - Solar shadings
+KW  - Temperate climate
+KW  - Thermal
+KW  - Boundary conditions
+A2  - Pernigotto G.
+A2  - Patuzzi F.
+A2  - Gasparella A.
+A2  - Ballarini I.
+A2  - Corrado V.
+A2  - Prada A.
+PB  - Free University of Bozen Bolzano
+SN  - 25316702 (ISSN); 978-886046202-2 (ISBN)
+LA  - English
+J2  - Build. Simul. Appl.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Conference name: 6th Building Simulation Applications conference, BSA 2024; Conference date: 26 June 2024 through 28 June 2024; Conference code: 337119
+ER  -
+
+TY  - CONF
+AU  - Neseliler, P.
+AU  - Turhan-Haskara, G.D.
+AU  - Akgün, Y.
+AU  - Maden, F.
+TI  - Smart Hinges Using Shape Memory Alloys for Architectural Applications
+PY  - 2025
+T2  - Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+VL  - 2
+SP  - 445
+EP  - 452
+DO  - 10.52842/conf.ecaade.2025.2.445
+UR  - https://www.scopus.com/pages/publications/105029224408?origin=resultslist
+AD  - Department of Architecture, Faculty of Fine Arts and Design, Izmir University of Economics, Turkey
+AD  - Department of Interior Architecture and Environmental Design, Faculty of Fine Arts and Design, Izmir University of Economics, Turkey
+AD  - Department of Architecture, Faculty of Architecture, Dokuz Eylul University, Turkey
+AD  - Department of Architecture, Faculty of Architecture, Yasar University, Turkey
+AB  - The objective of reducing energy usage in buildings has led to the development of adaptive and responsive systems that can respond to environmental changes in real time. Most responsive systems utilize rigid body mechanisms and electrically or pneumatically driven actuators. Actuation strategies are significant in designing adaptive facades since they are also in charge of energy consumption. Responsive systems can be integrated with smart materials capable of shape, color, and volume shifts in response to external stimuli change through material technology rather than relying on sensors, control systems, or active actuators. These smart materials, referred to as smart actuators, can be utilized to actuate systems. This study aims to present suggestions for a smart hinge for passive responsive shading structures using smart materials. The chosen smart material is nitinol wire, a shape memory alloy (SMA) with the ability to recall its preformed position. The methodology consists of two parts: an investigation of responsive systems composed of smart actuators and a proposal for a new smart hinge based on SMA utilizing Crane tool in Grasshopper. This paper shows the potential and constraints of smart actuators in architectural applications. The proposed smart hinge has the potential to contribute to the improvement of building envelopes through material technology. © 2025, Education and research in Computer Aided Architectural Design in Europe. All rights reserved.
+KW  - biomimetic architecture
+KW  - nitinol wire
+KW  - shape memory alloy
+KW  - smart actuator
+KW  - smart materials
+A2  - Sorguç A.
+A2  - Yemişcioğlu M.K.
+A2  - Erol S.B.
+A2  - Bük M.E.
+A2  - Güney D.
+A2  - Sulayıcı B.A.
+A2  - Akol M.
+PB  - Education and research in Computer Aided Architectural Design in Europe
+SN  - 26841843 (ISSN); 978-949120740-2 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Educ. Res. Comput. Aided. Archit. Des. Eur.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Conference name: 43rd Conference on Education and Research in Computer Aided Architectural Design in Europe, eCAADe 2025; Conference date: 1 September 2025 through 5 September 2025; Conference code: 344709
+ER  -
+
+TY  - JOUR
+AU  - Andrade Santos, R.
+AU  - Vieira Simões, N.
+AU  - Dinis Silvestre, J.
+AU  - Flores-Colen, I.
+TI  - Suitable transition temperature on thermo-adaptive reflectance for opaque facades: Influence of climate, solar orientation, and facade material
+PY  - 2025
+T2  - Solar Energy
+VL  - 291
+C7  - 113268
+DO  - 10.1016/j.solener.2025.113268
+UR  - https://www.scopus.com/pages/publications/86000784109?origin=resultslist
+AD  - CERIS, Department of Civil Engineering, Architecture and Environment, Instituto Superior Tecnico, Universidade de Lisboa, Av. Rovisco Pais 1, Lisboa, 1049-001, Portugal
+AD  - University of Coimbra, CERIS, Department of Civil Engineering, Coimbra, Portugal
+AD  - Itecons, Coimbra, Portugal
+AB  - Thermo-adaptive reflectance (TAR) opaque facades change their solar reflectance in response to temperature variations. This behaviour can be optimised to improve indoor thermal comfort by tailoring the transition temperature (TT), i.e., the temperature in which the solar reflectance changes. The study aims to identify which factors influence the suitable transition temperature (STT), i.e., the transition temperature that enables achieving the lowest total degree hour, and the magnitude of the benefits of applying TAR concept to opaque facades. A 3D model was created to assess indoor thermal comfort by running dynamic thermal simulations. Resorting to the energy management system, the solar reflectance variation based on the external face's temperature was possible, enabling thermo-adaptive reflectance emulation. A parametric study was conducted, considering three solar orientations, four density facade categories and four different climates. For each scenario, the STT for TAR on opaque facades was determined by considering the lowest total degree hour. Two multiple regression models were generated using the sample comprising the case studies in which the most STT was used. The entities (case studies) were characterized by variables covering the climate, facade solar orientation, material, and comfort subjects. The analysis identified climate as the primary influencing factor on the STT, followed by facade material and solar orientation. The impact of TAR on the relative total degree hours improvement was significantly influenced by the facade material, followed by climate. Concluding that TT prescription is mandatory for each facade, even within the same building, and that TAR concept application is not universal. © 2025 International Solar Energy Society
+KW  - Climate
+KW  - Opaque façade
+KW  - Solar orientation
+KW  - Suitable transition temperature (STT)
+KW  - Thermo-adaptive reflectance (TAR)
+KW  - Facades
+KW  - Thermal comfort
+KW  - Case-studies
+KW  - Climate
+KW  - Facade materials
+KW  - Indoor thermal comfort
+KW  - Opaque facade
+KW  - Solar orientation
+KW  - Solar reflectance
+KW  - Suitable transition temperature
+KW  - Temperature variation
+KW  - Thermo-adaptive reflectance
+KW  - climate change
+KW  - energy management
+KW  - multiple regression
+KW  - solar radiation
+KW  - spectral reflectance
+KW  - temperature effect
+KW  - Tar
+PB  - Elsevier Ltd
+SN  - 0038092X (ISSN)
+LA  - English
+J2  - Sol. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: R. Andrade Santos; CERIS, Department of Civil Engineering, Architecture and Environment, Instituto Superior Tecnico, Universidade de Lisboa, Lisboa, Av. Rovisco Pais 1, 1049-001, Portugal; email: andrade.santos@tecnico.ulisboa.pt; CODEN: SRENA
+ER  -
+
+TY  - JOUR
+AU  - Lee, Y.
+AU  - Ng, E.
+TI  - Enhancing thermal performance of subtropical low-income housing through passive and behaviour-guided adaptive design
+PY  - 2025
+T2  - Building and Environment
+VL  - 285
+C7  - 113542
+DO  - 10.1016/j.buildenv.2025.113542
+UR  - https://www.scopus.com/pages/publications/105013366575?origin=resultslist
+AD  - The Chinese University of Hong Kong, Hong Kong
+AD  - Institute of Future Cities, The Chinese University of Hong Kong, Hong Kong
+AB  - Extreme heat events in densely populated tropical cities increasingly undermine the performance of conventional passive cooling strategies in low-income housing. Motivated by the urgent need to develop occupant-responsive housing solutions amid escalating extreme heat events in high density cities, the approach addresses the declining performance of traditional passive measures based on the indoor-outdoor temperature differential. This study presents a comprehensive design approach that synergizes conventional passive cooling strategies with observed adaptive occupant behaviour to enhance thermal resilience in low-income housing within tropical, high-density urban environments. Hong Kong serves as case study, where building simulations are conducted using prevailing climatic conditions. Three scenarios were developed. The first scenario incorporates internal and spatial modifications to establish localised microclimates. The second scenario evaluates the efficacy of envelope interventions to control solar heat gain. Scenario 3 combines spatial and envelope modifications. The core methodology is comprised of simulation tool EnergyPlus and inferential statistics. Quantitative analyses, including linear regression modelling and Sobol based global sensitivity analysis, assess the impact of these design interventions on cooling loads and thermal comfort. The results indicate that while conventional passive cooling measures struggle during extreme heat events, the combined adaptive spatial and passive façade strategies have synergistic effects, yielding substantial reductions in cooling load from 1634 to 443 kWh (73 % reduction) and significant improvements in comfort hours from 496 to 833 h (68 % increase). Overall, this integrated approach bridges passive technical performance with adaptive occupant-centric design and offers scalable recommendations for enhancing thermal comfort in low-income housing. © 2025 Elsevier Ltd
+KW  - Adaptive behaviour
+KW  - High-density living
+KW  - Low-income housing
+KW  - Occupant-guided design
+KW  - Subtropical climate
+KW  - China
+KW  - Hong Kong
+KW  - Architectural design
+KW  - Behavioral research
+KW  - Cooling
+KW  - Economic analysis
+KW  - Housing
+KW  - Solar energy
+KW  - Space heating
+KW  - Thermal comfort
+KW  - Tropics
+KW  - Adaptive behaviour
+KW  - Cooling load
+KW  - Cooling strategy
+KW  - High-density living
+KW  - Low-income housing
+KW  - Occupant-guided design
+KW  - Passive cooling
+KW  - Performance
+KW  - Subtropical climates
+KW  - Thermal
+KW  - climate conditions
+KW  - cooling
+KW  - design
+KW  - extreme event
+KW  - human behavior
+KW  - low income housing
+KW  - Sensitivity analysis
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 4; Correspondence Address: Y. Lee; The Chinese University of Hong Kong, Hong Kong; email: 1155184103@link.cuhk.edu.hk; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Tahmasbi, F.
+AU  - Khdair, A.I.
+AU  - Aburumman, G.A.
+AU  - Tahmasebi, M.
+AU  - Thi, N.H.
+AU  - Afrand, M.
+TI  - Energy-efficient building façades: A comprehensive review of innovative technologies and sustainable strategies
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 99
+C7  - 111643
+DO  - 10.1016/j.jobe.2024.111643
+UR  - https://www.scopus.com/pages/publications/85213535470?origin=resultslist
+AD  - Tyler School of Art and Architecture, Temple University, Philadelphia, 19122, United States
+AD  - Ballinger, Philadelphia, 19107, PA, United States
+AD  - Mech. Eng. Dep., Jordan University of Science and Technology, P.O.Box: 3030, Irbid, 2011, Jordan
+AD  - Civil Engineering department, Faculty of Engineering, Zarqa University, P.O.Box:13110, Zarqa, 2000, Jordan
+AD  - Department of civil and environmental engineering, University of New Hampshire, Durham, 03824, NH, United States
+AD  - Institute of Research and Development, Duy Tan University, Da Nang, Viet Nam
+AD  - International School, Duy Tan University, Da Nang, Viet Nam
+AD  - School of Engineering & Technology, Duy Tan University, Da Nang, Viet Nam
+AB  - Increasing energy needs in urban environments demand necessary improvements in building designs toward energy efficiency, sustainability, and comfort. This review explores some of the state-of-the-art technologies and strategic approaches for energy-efficient façade design in buildings, such as adaptive, double-skin, and photovoltaic-integrated façades. The paper assesses recent innovations of smart material technologies that enable dynamic response of the façade to environmental conditions and enhancement of thermal performance to contribute toward Net Zero Energy Building (NZEB) goals. Façade systems are reviewed according to their roles and impacts on reducing energy consumption, cutting carbon emissions, and improving indoor environmental quality (IEQ) significantly. Additionally, this review discusses the challenges and future opportunities for integrating these systems in different climates and urban settings. The comprehensive assessment offers valuable insights for architects, engineers, and policymakers working to create sustainable, resilient, and energy-efficient buildings. © 2024 Elsevier Ltd
+KW  - Adaptive façade systems
+KW  - Energy-efficient façades
+KW  - Photovoltaic integration
+KW  - Smart materials in architecture
+KW  - Sustainable building design
+KW  - Green buildings
+KW  - Adaptive facade system
+KW  - Energy efficient
+KW  - Energy efficient building
+KW  - Energy-efficient façade
+KW  - In-buildings
+KW  - Innovative technology
+KW  - Photovoltaic integration
+KW  - Photovoltaics
+KW  - Smart material in architecture
+KW  - Sustainable building design
+KW  - Sustainable building
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 33; Correspondence Address: M. Afrand; Institute of Research and Development, Duy Tan University, Da Nang, Viet Nam; email: masoudafrand@duytan.edu.vn
+ER  -
+
+TY  - JOUR
+AU  - Wu, S.
+AU  - Zhu, P.
+AU  - Song, J.
+AU  - Sun, H.
+AU  - Cheng, Z.
+AU  - Lin, B.
+TI  - Design and application optimization of static and dynamic shading technologies in multi-climate based on parameter simulation
+PY  - 2024
+T2  - Renewable Energy
+VL  - 237
+C7  - 121846
+DO  - 10.1016/j.renene.2024.121846
+UR  - https://www.scopus.com/pages/publications/85208768810?origin=resultslist
+AD  - College of Architecture and Environment, Sichuan University, Chengdu, 610065, China
+AD  - Department of Building Science, Tsinghua University, Beijing, 100084, China
+AD  - Key Laboratory of Eco Planning & Green Building, Ministry of Education, Tsinghua University, China
+AD  - State Key Laboratory of Intelligent Construction and Healthy Operation and Maintenance of Deep Underground Engineering, Sichuan University, Chengdu, 610065, China
+AB  - Efficient shading is an important channel to realize energy savings. Static and dynamic shading technologies are diverse and complex but improper use can lead to additional burdens. This study explores the design and application of shadings in multiple climates. Single-parameter and multi-parameter simulations were carried out to obtain the best energy-efficient design of shading parameters and to clarify the differences in climate adaptation of shading devices. Results show that for louver-shading design, high-latitude cities with larger window and wider slats can better control low-angle sunlight, while low-latitude cities need smaller window and larger shading angle to control high-intensity solar radiation. For adaptive shading design, hot cities should adopt lower phase change temperature based on small windows and cooler cities should adopt larger windows and it is relatively difficult to stimulate phase change. For application, thermochromic adaptive window (TAW) has the best energy performance, followed by cooling-excited tracking louver shading (CLSW) and static louver shading window (SLSW), while track louver shading window (TLSW) consistently consume the most energy. The difference in energy consumption between TLSW and TAW is as high as 8 to 14.5 kWh/m2. This study is expected to clarify the design and application of shading strategies from a bidirectional perspective. © 2024
+KW  - Dynamic shading
+KW  - Energy-saving optimization
+KW  - Multi-climate adaptability
+KW  - Parameter optimization
+KW  - Thermochromic adaptive window
+KW  - Adaptive windows
+KW  - Dynamic shading
+KW  - Energy  savings
+KW  - Energy-saving optimization
+KW  - Energy-savings
+KW  - Multi-climate adaptability
+KW  - Optimisations
+KW  - Parameter optimization
+KW  - Thermo-chromic
+KW  - Thermochromic adaptive window
+KW  - adaptation
+KW  - alternative energy
+KW  - energy use
+KW  - optimization
+KW  - shading
+KW  - solar radiation
+KW  - Energy efficiency
+PB  - Elsevier Ltd
+SN  - 09601481 (ISSN)
+LA  - English
+J2  - Renew. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 11; Correspondence Address: H. Sun; College of Architecture and Environment, Sichuan University, Chengdu, 610065, China; email: shl@scu.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Luo, C.
+AU  - Feng, C.
+AU  - Zhong, H.
+AU  - Liu, Y.
+AU  - Dou, M.
+TI  - Design optimization of climate-responsive rural residences in solar rich areas considering sustainability and occupant comfort
+PY  - 2025
+T2  - Energy and Buildings
+VL  - 336
+C7  - 115546
+DO  - 10.1016/j.enbuild.2025.115546
+UR  - https://www.scopus.com/pages/publications/86000790700?origin=resultslist
+AD  - China Southwest Architectural Design and Research Institute Corp. Ltd., Chengdu, 610042, China
+AD  - School of Architecture and Urban Planning, Chongqing University, Chongqing, 400045, China
+AD  - Key Laboratory of New Technology for Construction of Cities in Mountain Area, Ministry of Education, Chongqing University, Chongqing, 400045, China
+AD  - State Key Laboratory of Green Building, School of Architecture, Xi'an University of Architecture and Technology, Shaanxi, Xi'an, 710055, China
+AB  - Rural residences in solar rich areas (SRA) remain inadequately progress on the challenges of balancing sustainability and occupant comfort simultaneously. Recent advancements in achieving zero-carbon buildings have highlighted the growing demand on climate-responsive strategies that effectively address design considerations of building performances. This paper attempts to explore the optimal design solutions of a case building in Lhasa, a typical city located in SRA, through multi-objective optimization (MOO) based on machine learning in terms of energy, cost, carbon, thermal comfort, and daylight. Initiating comparative selection through representative surrogate models and metaheuristic algorithms, XGBoost achieves the most desirable predictive performances with the least prediction errors, and NSGA-II dominates the superior capability in this case. Based on the solutions discussed through entropy weight and biased weight TOPSIS of objectives, critical outcomes reveal the identification of the optimal building layout in addition to the potential interactions of design variables and building performances investigated. Offering a scalable solution-oriented climate-responsive design pattern, building envelope of the proposed building demonstrates greater potential in balancing building performances, while morphology tends to be comparatively constrained. Results also indicate that, in the most applicable scenario, energy use intensity (EUI) and life cycle carbon emission (LCCE) can be substantially reduced by 47.2% and 38.1%, while concurrently maintaining considerable levels of thermal comfort albeit with acceptable compromises in daylight availability. This paper presents a transferable approach to optimal climate-responsive design solutions, contributing notable insights of data-driven decision-making for rural residences in SRA. © 2025 Elsevier B.V.
+KW  - Climate-responsive
+KW  - Metaheuristic algorithm
+KW  - Multi-objective optimization
+KW  - Solar rich areas
+KW  - Surrogate model
+KW  - Building performance
+KW  - Climate-responsive
+KW  - Design solutions
+KW  - Meta-heuristics algorithms
+KW  - Multi-objectives optimization
+KW  - Occupant comforts
+KW  - Rural residences
+KW  - Solar rich area
+KW  - Surrogate modeling
+KW  - Thermal
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 7; Correspondence Address: M. Dou; CSWADI Lakeside Design Headquarters, Chengdu, No. 1071, North Section of Hupan Road, Xinglong Street, Tianfu New Area, 610000, China; email: dmei36@xauat.edu.cn; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Shi, C.
+AU  - Zhang, Q.
+AU  - Feng, J.
+AU  - Kim, S.
+AU  - Cai, J.
+TI  - Tensile self-locking behavior of reconfigurable origami structure
+PY  - 2025
+T2  - Engineering Structures
+VL  - 335
+C7  - 120362
+DO  - 10.1016/j.engstruct.2025.120362
+UR  - https://www.scopus.com/pages/publications/105002776077?origin=resultslist
+AD  - Key Laboratory of C & PC Structures of Ministry of Education, National Prestress Engineering Research Center, Southeast University, Nanjing, 211189, China
+AB  - Reconfigurable origami structures can adjust their mechanical performance by altering their geometric configuration. In this study, a origami structure composed of non-Euclidean vertex was designed and fabricated using planar cutting and assembly, with geometric analysis confirming its excellent reconfigurability. Tensile tests were then performed to evaluate the tensile self-locking behavior under different Z-direction and Y-direction unit layers and configurations. The test results revealed that the mechanical performance of the structure was closely related to the number of Z-direction and Y-direction unit layers, the reconfiguration state, the tensile layer, and the compression degree of the model. Increasing the Z-direction and Y-direction unit layers enhanced the tensile mechanical response, while configuration adjustments facilitated a transition from a non-self-locking to a self-locking state. These changes in unit layers and configuration resulted in up to 90 times variation in tensile performance. The structure displayed distinct mechanical properties in the Z-direction and Y-direction tensile layers. The Z-direction layers showed symmetric behavior due to geometric symmetry, while the Y-direction layers exhibited variations in performance due to asymmetry along the XOZ plane. Furthermore, the degree of compression significantly impacted self-locking performance, with smaller Z-direction heights enhancing the self-locking effect for the same configuration during tensile testing. The superior reconfigurability of the structure, along with the mechanical performance changes resulting from geometric adjustments, can potentially be applied in the future to robotic arms, soft robots, adaptive building skins, and as deformable materials for impact resistance. © 2025
+KW  - Non-Euclidean origami
+KW  - Planar cutting
+KW  - Reconfiguration
+KW  - Self-locking
+KW  - Building materials
+KW  - Compression testing
+KW  - Intelligent robots
+KW  - Religious buildings
+KW  - Robotic arms
+KW  - Tensile strength
+KW  - Mechanical performance
+KW  - Non-Euclidean
+KW  - Non-euclidean origami
+KW  - Planar cutting
+KW  - Reconfigurability
+KW  - Reconfigurable
+KW  - Reconfiguration
+KW  - Selflocking
+KW  - Unit layers
+KW  - Z-directions
+KW  - asymmetry
+KW  - compression
+KW  - geometry
+KW  - height
+KW  - mechanical property
+KW  - tensile strength
+KW  - Tensile testing
+PB  - Elsevier Ltd
+SN  - 01410296 (ISSN)
+LA  - English
+J2  - Eng. Struct.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 13; Correspondence Address: Q. Zhang; Key Laboratory of C & PC Structures of Ministry of Education, National Prestress Engineering Research Center, Southeast University, Nanjing, 211189, China; email: z.qian@seu.edu.cn; CODEN: ENSTD
+ER  -
+
+TY  - JOUR
+AU  - de la Barra, P.
+AU  - Luna-Navarro, A.
+AU  - Brembilla, E.
+AU  - Allen, M.
+AU  - Knaack, U.
+AU  - Overend, M.
+TI  - User interaction with smart glazing: Effect of switching speed under overcast sky condition
+PY  - 2025
+T2  - Building and Environment
+VL  - 270
+C7  - 112409
+DO  - 10.1016/j.buildenv.2024.112409
+UR  - https://www.scopus.com/pages/publications/85214505558?origin=resultslist
+AD  - Faculty of Architecture and the Built Environment, Delft University of Technology, Julianalaan 134, BL, Delft, 2628, Netherlands
+AB  - Smart dynamic building technologies can help to significantly reduce operational energy and carbon emissions. However, human acceptance remains a significant barrier, particularly for switchable glazing used in smart windows. This study examines how users are affected by the speed and direction of transitions in the transparency of fast switchable glazing, specifically dynamic liquid crystal technology under overcast sky. Perceptual and behavioural data including facial action units, were collected through an experimental campaign in a semi-controlled environment where the glazing transparency was transitioned at two rates (1 and 10 s). It was found that user perception remained consistent regardless of transition speed or direction, but override behaviour was influenced by both factors. In the absence of glare, user overrides were primarily driven by the transition direction, with more users reacting to transitions from dark to clear. Faster transition rates led to an increase in user overrides for both transition directions. Unlike those who did not override, users who overrode the automated glazing control strategy had a negative perception of the visual environment and the window control system. Users directed their gaze more towards the glazing when this was transitioning, suggesting possible distractions. Users were clustered based on their background knowledge and reported preferences. These clusters showed a good correlation with the override delay times. However, the agreement with actual behaviour was low, indicating that a larger number of variables and clusters should be tested to predict user behaviour. Nevertheless, clustering users highlighted the importance of considering individual differences for interaction strategies. © 2024
+KW  - Adaptive façade
+KW  - Smart glazing
+KW  - Switchable glazing
+KW  - User interaction
+KW  - User-centred façade
+KW  - Facades
+KW  - Adaptive facade
+KW  - Building technologies
+KW  - Overcast skies
+KW  - Sky condition
+KW  - Smart glazing
+KW  - Switchable glazing
+KW  - Switching speed
+KW  - User interaction
+KW  - User-centered facade
+KW  - User-centred
+KW  - adaptive management
+KW  - carbon emission
+KW  - cluster analysis
+KW  - experimental study
+KW  - perception
+KW  - smart city
+KW  - strategic approach
+KW  - Glazes
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: A. Luna-Navarro; Faculty of Architecture and the Built Environment, Delft University of Technology, Delft, Julianalaan 134, BL, 2628, Netherlands; email: a.lunanavarro@tudelft.nl; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Avcı, P.
+AU  - Ekici, B.
+AU  - Kazanasmaz, Z.T.
+TI  - A review on adaptive and non-adaptive shading devices for sustainable buildings
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 100
+C7  - 111701
+DO  - 10.1016/j.jobe.2024.111701
+UR  - https://www.scopus.com/pages/publications/85214011602?origin=resultslist
+AD  - İzmir Institute of Technology, Department of Architecture, Gülbahçe Campus, İzmir, Urla, 35430, Turkey
+AB  - Adaptive and non-adaptive shading devices are noteworthy façade components in designing sustainable buildings. As the comparisons of their characteristics are limited, it becomes challenging to understand their efficiency, including their impacts on occupant behavior and comfort metrics. This comprehensive review covers (a) identifying the relationship between architectural parameters and performance targets, (b) exploring model development techniques due to performance targets, and (c) declaring both energy and visual comfort metrics. The paper covers 103 papers under architectural parameters and their corresponding performance targets, namely, daylight and visual comfort metrics with lighting energy. The aim is to identify existing research trends, methodological gaps, and potential for future study by examining how performance targets affect model development approaches. The categorizations include design parameters (shading elements and façade organization), control systems (shading device control, artificial lighting control, integrated systems), performance targets (daylight metrics, visual comfort metrics, lighting energy metrics), and modeling methods (simulation, experimental, optimization). Results showed that few studies combined daylight, visual comfort, and lighting energy due to complex modeling approaches, whereas most studies dealt only with daylight. With the increase in simulation software used to conduct research results on various focuses, an increasing trend in published papers is available in this field. Studies mostly observed changes in shading device typologies, slat angles, and numbers. The most dominant climate types were humid subtropical (Cfa) and Mediterranean (Csa). Future studies can be directed to integrated performance targets and combine suitable modeling approaches with AI technologies to produce more validated and accurate results. © 2024 Elsevier Ltd
+KW  - Adaptive shading device
+KW  - Building performance
+KW  - Daylight
+KW  - Façade configuration
+KW  - Visual comfort
+KW  - Sustainable building
+KW  - Adaptive shading device
+KW  - Architectural parameters
+KW  - Building performance
+KW  - Daylight
+KW  - Energy
+KW  - Facade configuration
+KW  - Performance targets
+KW  - Shading devices
+KW  - Sustainable building
+KW  - Visual comfort
+KW  - Green buildings
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 12; Correspondence Address: P. Avcı; İzmir Institute of Technology, Department of Architecture, Urla, Gülbahçe Campus, İzmir, 35430, Turkey; email: pelinavci@iyte.edu.tr
+ER  -
+
+TY  - JOUR
+AU  - Touil, M.
+AU  - Rahmoun, O.
+AU  - Iken, O.
+AU  - Dlimi, M.
+AU  - Saadani, R.
+AU  - Rahmoune, M.
+TI  - Assessing the thermal performance of building walls containing eco-friendly composite materials: A combined numerical and simulation approach
+PY  - 2025
+T2  - Thermal Science and Engineering Progress
+VL  - 59
+C7  - 103336
+DO  - 10.1016/j.tsep.2025.103336
+UR  - https://www.scopus.com/pages/publications/85217044784?origin=resultslist
+AD  - Laboratory of Advanced Materials Studies and Applications, FS-EST, Moulay Ismail University of Meknès, Morocco
+AB  - This study investigates the thermal performance of construction materials, such as mortar and plaster, thermally enhanced with bio-based materials, including Alfa Fibers, Ferula Communis, and Coffee Grounds. The research is divided into two main tasks: the first involves a numerical analysis of multilayer walls using the implicit finite difference method to discretize the heat equation through MATLAB, while the second consists of dynamic thermal simulations of building envelope via TRNSYS software. The aim is to determine the impact of these composites on enhancing thermal inertia and reducing energy consumption for thermal comfort. Economic and environmental impacts, are also assessed. However, the results demonstrate that these composites significantly improved decrement factors and time lag, reduce thermal fluctuations in summer and provide thermal benefits in winter. Additionally, dynamic simulations show a reduction in energy consumption to maintain comfort, while economic and environmental analyses confirm that integrating these composites leads to notable savings in project costs and reductions in CO2 emissions, offering a sustainable solution for energy efficient buildings. © 2025 Elsevier Ltd
+KW  - Bio-sourced materials
+KW  - CO<sub>2</sub> emissions reduction
+KW  - Composites
+KW  - Dynamic thermal simulation
+KW  - Economic analysis
+KW  - Energy requirements
+KW  - Implicit finite difference method
+KW  - Multilayer wall modeling
+KW  - Thermal inertia
+KW  - Thermal performance
+KW  - TRNSYS software
+KW  - Green buildings
+KW  - MATLAB
+KW  - Walls (structural partitions)
+KW  - Zero-carbon
+KW  - Bio-sourced material
+KW  - CO 2 emission
+KW  - CO2 emission reduction
+KW  - Dynamic thermal simulations
+KW  - Economics analysis
+KW  - Emission reduction
+KW  - Energy requirements
+KW  - Implicit finite difference method
+KW  - Multilayer wall modeling
+KW  - Multilayer walls
+KW  - Thermal inertia
+KW  - Thermal Performance
+KW  - TRNSYS software
+KW  - Wall model
+PB  - Elsevier Ltd
+SN  - 24519049 (ISSN)
+LA  - English
+J2  - Therm. Sci. Eng. Prog.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 4; Correspondence Address: M. Touil; Laboratory of Advanced Materials Studies and Applications, FS-EST, Moulay Ismail University of Meknès, Morocco; email: mohamed.touil.as@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Caro, R.
+AU  - Cruz, L.
+AU  - Martínez, A.
+AU  - Naharro, P.S.
+AU  - Muelas, S.
+AU  - King Sancho, K.
+AU  - Cuerda, E.
+AU  - Barbero-Barrera, M.D.M.
+AU  - LaTorre, A.
+TI  - Prescriptive tool for zero-emissions building fenestration design using hybrid metaheuristic algorithms
+PY  - 2025
+T2  - Energy and Buildings
+VL  - 336
+C7  - 115594
+DO  - 10.1016/j.enbuild.2025.115594
+UR  - https://www.scopus.com/pages/publications/105001330352?origin=resultslist
+AD  - Departamento de Construcción y Tecnología Arquitectónicas, Escuela Técnica Superior de Arquitectura, Universidad Politécnica de Madrid, Avenida Juan de Herrera, 4, Madrid, 28040, Spain
+AD  - Lurtis Rules SL, Plaza del Sol 31, Madrid, Móstoles, 28938, Spain
+AD  - Lurtis Rules LTD., Wood Centre For Innovation, Quarry Road, Oxford, United Kingdom
+AD  - Departamento de Arquitectura, Escuela de Arquitectura, Universidad de Alcalá de Henares, Calle Santa Úrsula, 8. Alcalá de Henares, 28801 Madrid, Spain
+AD  - Center for Computational Simulation (CCS), Universidad Politécnica de Madrid, Campus de Montegancedo, Avenida de Montepríncipe s/n, 28660 Boadilla del Monte, Madrid, Spain
+AB  - Designing Zero-Emissions Buildings (ZEBs) involves balancing numerous complex objectives that traditional methods struggle to address. Fenestration, encompassing façade openings and shading systems, plays a critical role in ZEB performance due to its high thermal transmittance and solar radiation admission. This paper presents a novel simulation-based optimization method for fenestration designed for practical application. It uses a hybrid metaheuristic algorithm and relies on rules and an updatable catalog, to fully automate the design process, create a highly diverse search space, minimize biases, and generate detailed solutions ready for architectural prescription. Nineteen fenestration variables, over which architects have design flexibility, were optimized to reduce heating, cooling demand, and thermal discomfort in residential buildings. The method was tested across three Spanish climate zones. Results demonstrate that the considered optimization algorithm significantly outperforms the baseline Genetic Algorithm in both quality and robustness, with these differences proven to be statistically significant. Furthermore, the findings offer valuable insights for ZEB design, highlighting challenges in reducing cooling demand in warm climates, and showcasing the superior efficiency of automated movable shading systems compared to fixed solutions. © 2025 Elsevier B.V.
+KW  - Building shading system
+KW  - Computer-aided building design
+KW  - Efficient building envelope
+KW  - Fenestration optimization
+KW  - Hybrid metaheuristic algorithms
+KW  - Multi-objective optimization
+KW  - Zero emission building
+KW  - Heuristic algorithms
+KW  - Multiobjective optimization
+KW  - Optimization algorithms
+KW  - Building envelopes
+KW  - Building shading system
+KW  - Computer-aided building design
+KW  - Efficient building envelope
+KW  - Efficient buildings
+KW  - Fenestration optimization
+KW  - Hybrid metaheuristic algorithms
+KW  - Multi-objectives optimization
+KW  - Optimisations
+KW  - Shading systems
+KW  - Zero emission buildings
+KW  - Genetic algorithms
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: R. Caro; Departamento de Construcción y Tecnología Arquitectónicas, Escuela Técnica Superior de Arquitectura, Universidad Politécnica de Madrid, Madrid, Avenida Juan de Herrera, 4, 28040, Spain; email: ra.caro@upm.es; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Zhao, B.
+AU  - Lu, K.
+AU  - Zhang, W.
+AU  - Jin, C.
+AU  - Xuan, Q.
+AU  - Pei, G.
+TI  - Thermo-responsive hydrogel-based building envelopes for building energy-saving
+PY  - 2025
+T2  - Solar Energy
+VL  - 288
+C7  - 113306
+DO  - 10.1016/j.solener.2025.113306
+UR  - https://www.scopus.com/pages/publications/85215966151?origin=resultslist
+AD  - Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, China
+AD  - School of Automotive and Transportation Engineering, Hefei University of Technology, Hefei, China
+AB  - Transparent windows and opaque walls/roofs are two kinds of important building envelopes that significantly affect building energy consumption. Herein, a smart window with switchable solar transmittance and a wall/roof with dynamic solar absorptivity are proposed and fabricated by introducing the hydrogel that can modulate optical properties based on temperature stimulus. Optical measurement shows that the smart window can change its spectral transmittance at the solar radiation band between 0 (hot state) to 0.78 (cold state), while the solar absorptivity of the smart wall/roof varies between 0.29 (hot state) to 0.95 (cold state), exhibiting potential for self-adaptive thermal management for buildings. The experimental demonstration proves that the proposed smart window and wall/roof can reduce the indoor air temperature by 2.3 °C and 7.5 °C. In addition, building energy consumption is predicted, which reveals that energy consumption can be reduced by 10.79 %–34.28 % after the implementation of the smart window and wall/roof in buildings at Phoenix, Singapore, Nairobi, Cairo, and Hong Kong, indicating the proposed temperature-responsive spectrum modulation strategy for the window and wall/roof contributes to building energy saving. © 2025 International Solar Energy Society
+KW  - Building energy saving
+KW  - Hydrogel
+KW  - Radiative cooling
+KW  - Spectrum modulation
+KW  - Arizona
+KW  - Cairo
+KW  - China
+KW  - Hong Kong
+KW  - Nairobi
+KW  - Phoenix
+KW  - Singapore
+KW  - United States
+KW  - Building energy consumption
+KW  - Building energy saving
+KW  - Building envelopes
+KW  - Cold state
+KW  - Radiative cooling
+KW  - Smart windows
+KW  - Solar absorptivity
+KW  - Spectrum-modulation
+KW  - Thermoresponsive hydrogels
+KW  - Window wall
+KW  - air temperature
+KW  - building
+KW  - cooling
+KW  - energy use
+KW  - indoor air
+KW  - solar radiation
+KW  - transmittance
+KW  - Walls (structural partitions)
+PB  - Elsevier Ltd
+SN  - 0038092X (ISSN)
+LA  - English
+J2  - Sol. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 8; Correspondence Address: G. Pei; Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, China; email: peigang@ustc.edu.cn; CODEN: SRENA
+ER  -
+
+TY  - JOUR
+AU  - Ibrahim, A.
+AU  - Alsukkar, M.
+AU  - Dong, Y.
+AU  - Hu, P.
+TI  - Investigations for the daylighting performance of trapezoid profile shadings using multi-objective optimization
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 99
+C7  - 111645
+DO  - 10.1016/j.jobe.2024.111645
+UR  - https://www.scopus.com/pages/publications/85212953481?origin=resultslist
+AD  - Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, 230027, China
+AD  - Department of Architectural Engineering, Faculty of Engineering, The Hashemite University, PO Box (330127), Zarqa, 13133, Jordan
+AD  - Institute of Microelectronics, Chinese Academy of Sciences, Beijing, 100029, China
+AB  - Office buildings present significant potential for energy savings using innovative shading systems, particularly given their extensive daytime usage. However, comprehensive studies that integrate automated shading systems with multi-objective optimization (MOO) to balance visual comfort, energy savings, and daylight distribution are still needed. This research aims to enhance daylighting performance and reduce dependence on artificial lighting by employing MOO techniques. It focuses on automated and split-controlled louvers that adjust slat positions horizontally across the top, middle, and bottom sections of the façade to optimize work plane illuminance under varying conditions. Different illuminance ranges were reviewed for visual comfort in relation to Useful Daylight Illuminance (UDI), with a focus on UDI500∼1000 lx for improved daylighting. The study parametrically modeled automatic trapezoid-profile louver shading devices applied to the climates of Miami, Guangzhou, and Amman. Ladybug Tools, integrated with Grasshopper and Rhinoceros 3D, were used to connect Radiance and Octopus to identify optimal shading solutions. The optimal slat length and angle were determined using MOO based on SPEA-2 with hyper-mutation. The fixed exterior trapezoid shadings achieve at least 70 % of the optimal illuminance between 10:00 and 15:00 on typical dates. The newly introduced dynamic louvers, based on hourly openness level for the top, middle, and bottom sections of the façade, achieved at least 98 % coverage within the UDI500∼1000 lx range. Monthly variations suggest that an illuminance uniformity above 0.6 can be achieved, along with 90 % coverage of UDI500∼1000 lx. The Daylight Glare Probability (DGP) index remained below 0.35 for the camera positioned at the back and below 0.4 at the center of the office space, indicating imperceptible and perceptible glare, respectively. © 2024 Elsevier Ltd
+KW  - Daylight performance
+KW  - Hourly openness
+KW  - Multi-objective optimization
+KW  - Parametric design
+KW  - Trapezoid louvers
+KW  - Daylighting
+KW  - Glare
+KW  - Parametric devices
+KW  - Daylight performance
+KW  - Energy  savings
+KW  - Energy-savings
+KW  - Hourly openness
+KW  - Multi-objectives optimization
+KW  - Parametric design
+KW  - Performance
+KW  - Shading systems
+KW  - Trapezoid louver
+KW  - Useful daylight illuminance
+KW  - Multiobjective optimization
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 15; Correspondence Address: M. Alsukkar; Department of Architectural Engineering, Faculty of Engineering, The Hashemite University, Zarqa, PO Box (330127), 13133, Jordan; email: muna.alsukkar@hu.edu.jo; P. Hu; Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, 230027, China; email: hupeng@ustc.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Li, C.
+AU  - Xie, J.
+AU  - Liu, R.
+AU  - Tan, J.
+AU  - Zhu, X.
+AU  - Li, N.
+AU  - Tang, H.
+TI  - Fully exploiting solar energy with building envelops: Experimental study on an adjustable photovoltaic green facade
+PY  - 2025
+T2  - Energy and Buildings
+VL  - 332
+C7  - 115431
+DO  - 10.1016/j.enbuild.2025.115431
+UR  - https://www.scopus.com/pages/publications/85217063442?origin=resultslist
+AD  - School of Architecture & Urban Planning, Shenzhen University, Shenzhen, China
+AD  - State Key Laboratory of Subtropical Building and Urban Science, Shenzhen, China
+AD  - Towngas Energy Academy, Shenzhen, China
+AD  - China Academy of Building Research, Beijing, China
+AB  - An innovative adjustable photovoltaic green facade (APVGF) was proposed that combines an adjustable photovoltaic (PV) blind system with a green facade (GF), offering high flexibility, significant energy output, excellent architectural aesthetics, and considerable building energy-saving potential. Experimental evaluations with identical test boxes showcased the system's multifaceted benefits, including a notable decrease in the average daytime temperature of window glass by 4.2 ℃ and 5.2 ℃ for the GF and APVGF, respectively, with peak reductions reaching 9.7 ℃ and 13.7 ℃. The interior air temperature was reduced by an average of 6.5 °C and 7.7 °C, with maximum reductions of 15.3 °C and 18.6 °C. Additionally, the GF and the APVGF reduced the daytime average light intensity inside the test box by 6837 and 7706 lx, reducing the glare risk. High temperatures and self-shading significantly reduced the power generation efficiency of the PV modules in the auto-adjusting and 30° fixed modes. However, the higher total equivalent irradiance (GE) received in auto-adjusting angle mode resulted in daily power generation being approximately 17.2 % and 22.5 % higher than that in the 30° and 90° fixed angle modes. The APVGF system's key innovation is its dual-purpose design: it adjusts the angle of the PV blinds based on the sun's position and environmental needs, boosting PV efficiency, and it enhances the building's ecological and aesthetic value with a green facade. This system marks a breakthrough in green building tech and offers a new approach to urban sustainability. © 2025
+KW  - Adaptive photovoltaic green facade
+KW  - Building energy saving
+KW  - Distributed renewable energy utilization
+KW  - Solar energy
+KW  - Adaptive photovoltaic green facade
+KW  - Building energy saving
+KW  - Building envelop
+KW  - Distributed renewable energy utilization
+KW  - Distributed renewables
+KW  - Energy
+KW  - Energy output
+KW  - High flexibility
+KW  - Photovoltaics
+KW  - Renewable energies
+KW  - Green buildings
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 12; Correspondence Address: H. Tang; School of Architecture & Urban Planning, Shenzhen University, Shenzhen, China; email: tanghd@szu.edu.cn; CODEN: ENEBD
+ER  -
+
+TY  - CONF
+AU  - Dağlier, Y.
+AU  - Ekici, B.
+AU  - Korkmaz, K.
+TI  - Developing Machine Learning Models to Predict Outdoor Thermal Comfort of Kinetic Shading Devices: An approach for global optimization
+PY  - 2025
+T2  - Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+VL  - 1
+SP  - 211
+EP  - 216
+DO  - 10.52842/conf.ecaade.2025.1.211
+UR  - https://www.scopus.com/pages/publications/105026170058?origin=resultslist
+AD  - Izmir Institute of Technology (IZTECH), Turkey
+AB  - Utilizing artificial intelligence (AI) methods in the design process supports the achievement of sustainable alternatives during the conceptual design. In various AI methods, optimization and machine learning (ML) algorithms are the most common methods to develop predictive models and discover favorable design alternatives with significantly reduced computational time. Recent works focused on limited datasets, as well as the evaluation of the developed prediction models based on collected data. During the optimization process of complex design problems, the number of design parameters becomes enormous; thus, search areas contain many design alternatives that might lead the search outside of the collected data. Therefore, evaluating the accuracy of prediction models only based on the collected samples may result in scenarios where the predicted outcome during the optimization process aligns with an unrealistic solution. This study investigates how accurately prediction models developed using different ML algorithms can perform in optimization processes. The proposed framework is used to cope with outdoor thermal performance, considering kinetic shading devices with rigid origami techniques. A parametric shading device model with kinematic principles and 10 design parameters is created in Grasshopper 3d. LadyBug is used to analyze the performance of the universal thermal climate index (UTCI). To minimize the UTCI, the radial basis function optimization (RBFOpt) algorithm in the Opossum plugin is used. To compare the optimization results with the prediction results, multiple linear regression, support vector machines, random forest, polynomial regression algorithms, and artificial neural networks (ANN) are developed to predict outdoor thermal comfort performance targets on each collected data set with 2000 samples. Results showed that ANN models can provide more accurate predictions during the optimization process. The paper aims to discuss the way ML algorithms are applied and evaluated for ML-based optimization domains in design problems. © 2025, Education and research in Computer Aided Architectural Design in Europe. All rights reserved.
+KW  - artificial neural network
+KW  - kinetic shading devices
+KW  - machine learning
+KW  - optimization
+KW  - universal thermal climate index
+A2  - Sorguç A.
+A2  - Yemişcioğlu M.K.
+A2  - Erol S.B.
+A2  - Bük M.E.
+A2  - Güney D.
+A2  - Sulayıcı B.A.
+A2  - Akol M.
+PB  - Education and research in Computer Aided Architectural Design in Europe
+SN  - 26841843 (ISSN); 978-949120739-6 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Educ. Res. Comput. Aided. Archit. Des. Eur.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Conference name: 43rd Conference on Education and Research in Computer Aided Architectural Design in Europe, eCAADe 2025; Conference date: 1 September 2025 through 5 September 2025; Conference code: 344709
+ER  -
+
+TY  - JOUR
+AU  - Wang, Y.
+AU  - Ji, S.
+AU  - Feng, G.
+AU  - Huang, C.
+TI  - Two-stage optimization of infinite rotation-freedom façade systems using machine learning surrogate models
+PY  - 2025
+T2  - Automation in Construction
+VL  - 176
+C7  - 106295
+DO  - 10.1016/j.autcon.2025.106295
+UR  - https://www.scopus.com/pages/publications/105005854246?origin=resultslist
+AD  - School of Architecture, Tianjin University, Tianjin, 300072, China
+AD  - College of Architecture and Urban Planning, Tongji University, Shanghai, 200092, China
+AB  - Increasing the Degrees Of Freedom (DOFs) of Kinetic Façade Systems (KFS) potentially enhances environmental adaptability but presents challenges in mechanical feasibility and optimization complexity due to high-dimensional design spaces. This paper investigates the mechanism design and optimization strategies for multi-DOF KFS, and assesses the performance trade-offs associated with increased motion and control freedom. An Infinite Rotation Freedom (IRF) prototype is proposed and experimentally validated, and a two-stage surrogate-based optimization framework is developed for multi-DOF façade systems by integrating machine learning-based surrogate models with optimization algorithms for both static feature selection and kinetic motion control. Comparative performance analyses demonstrated that the IRF system significantly improves daylight distribution and thermal regulation compared to conventional louvers, with multi-DOF motion enhancing daylight distribution and increased control freedom enabling more precise glare mitigation. These findings highlight the feasibility and environmental advantages of multi-DOF KFS. Future research should address movement continuity issues to improve operational efficiency. © 2025 Elsevier B.V.
+KW  - Enviromental adaptivity
+KW  - Infinite rotation freedom
+KW  - Kinetic façade system
+KW  - Multi-objective optimization
+KW  - Surrogate modelling
+KW  - Thermal variables control
+KW  - Adaptivity
+KW  - Enviromental adaptivity
+KW  - Infinite rotation freedom
+KW  - Kinetic facade system
+KW  - Kinetic facades
+KW  - Machine-learning
+KW  - Multi degree-of-freedom
+KW  - Multi-objectives optimization
+KW  - Surrogate modeling
+KW  - Two stage optimizations
+KW  - Kinetics
+PB  - Elsevier B.V.
+SN  - 09265805 (ISSN)
+LA  - English
+J2  - Autom Constr
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: G. Feng; School of Architecture, Tianjin University, Tianjin, 300072, China; email: fenggangarch@tju.edu.cn; CODEN: AUCOE
+ER  -
+
+TY  - JOUR
+AU  - Wang, M.
+AU  - Jia, Z.
+AU  - Tao, L.
+AU  - Xiang, C.
+TI  - Review of dynamic façade typologies, physical performance and control methods: Towards smarter and cleaner zero-energy buildings
+PY  - 2024
+T2  - Journal of Building Engineering
+VL  - 98
+C7  - 111310
+DO  - 10.1016/j.jobe.2024.111310
+UR  - https://www.scopus.com/pages/publications/85209399497?origin=resultslist
+AD  - Division of Integrative Systems and Design, The Hong Kong University of Science and Technology, Hong Kong
+AB  - Dynamic façade (DF) technology is key to mitigating global climate change, benefiting significantly from machine learning (ML) advancements in interdisciplinary research. However, a systematic review and summary of the key roles and performance of intelligent control methods (ICM) in dynamic façade design are lacking, and there is a pressing need to delineate future research directions. In this context, we have conducted a comprehensive review of ICM applied in DF systems. We classified DF from 97 articles into four categories from the perspectives of expression, movement type, response to environmental conditions, and architectural performance objectives: adaptive, kinetic, biomimetic, and passive façade. Further, we subdivided these into transparent, semi-transparent and opaque façades, analyzing their energy and visual performance. Generally, depending on the climatic zone and environmental conditions, DF can reduce energy consumption by 10–50 % and achieve about 80 % visual comfort. Additionally, we explored control methods based on rules, models, and machine learning. Notably, control methods based on ML have achieved over 90 % accuracy in real-time adjustments of façades in response to predicted future climate and environmental changes. Despite this, the application of ML in DF is still in its infancy, with the development of advanced ML algorithms, human-centered control strategies, and fault detection technologies not yet widely explored. Therefore, the broader application of ML technologies in DF systems is set to significantly advance the transition towards smarter, cleaner zero-energy buildings. © 2024 Elsevier Ltd
+KW  - Architecture design
+KW  - Dynamic façade
+KW  - Machine learning
+KW  - PRISMA method
+KW  - Zero-carbon buildings
+KW  - Carbon sequestration
+KW  - Cleaner production
+KW  - Zero-carbon
+KW  - Architecture designs
+KW  - Control methods
+KW  - Dynamic facade
+KW  - Environmental conditions
+KW  - Machine-learning
+KW  - Physical control
+KW  - PRISMA method
+KW  - Zero carbons
+KW  - Zero energies
+KW  - Zero-carbon building
+KW  - Green buildings
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 21; Correspondence Address: C. Xiang; Division of Integrative Systems and Design, The Hong Kong University of Science and Technology, Hong Kong; email: changyingx@ust.hk
+ER  -
+
+TY  - JOUR
+AU  - Yu, Z.
+AU  - Yu, R.
+AU  - Ge, X.
+AU  - Fu, J.
+AU  - Hu, Y.
+AU  - Chen, S.
+TI  - Tabular prior-data fitted network for urban air temperature inference and high temperature risk assessment
+PY  - 2025
+T2  - Sustainable Cities and Society
+VL  - 128
+C7  - 106484
+DO  - 10.1016/j.scs.2025.106484
+UR  - https://www.scopus.com/pages/publications/105006665733?origin=resultslist
+AD  - College of Architecture and Urban Planning, Tongji University, 200092, China
+AD  - Key Laboratory of Ecology and Energy Saving Study of Dense Habitat, Ministry of Education, 200092, China
+AD  - Tongji Architectural Design (Group) Co., Ltd., 200092, China
+AD  - Architecture and Design College, Nanchang University, 330047, China
+AD  - School of Architecture and Urban-Rural Planning, Fuzhou University, 350108, China
+AD  - Laboratory of Smart Habitat for Humanity, Fuzhou University, 350108, China
+AB  - Field measurements with 38 weather stations in Shanghai revealed a strong daytime UHI effect that Tmax was 0.25°C–5.66°C higher than suburban areas during extreme summer afternoons. Through regression analysis, nonlinear effects of urban morphologies on pedestrian-level air temperature were observed. The TabPFN model outperformed the linear regression, random forest, AdaBoost, and XGBoost, with RMSE of 0.71°C for Tavg and 1.01°C for Tmax, respectively. Compared with the linear regression, the TabPFN reduced prediction error of Tavg and Tmax by 35 % and 33 %, respectively. Among the investigated urban morphologies, the sky view factor, ground albedo, and impervious ground surface fraction were the key parameters affecting afternoon temperature. The sky view factor was the most influential parameter, accounting for about 0.22 and 0.27 of the variances in Tavg and Tmax, respectively. As SVF increased from 0.06 to 0.71, the average Tavg and Tmax changed by 4-5°C. The high temperature risk assessment indicated that a 50 % reduction in SVF led to a significant decrease in the probability of high temperature events, with the probability of Tmax > 35°C decreasing from 59.5 % to 34.1 %, the probability of Tmax > 37°C decreasing from 44.3 % to 9.7 %, and the probability of Tmax > 40°C decreasing from 17.3 % to 2.2 %. Radiative cooling material was effective in mitigating extreme heat events (Tmax > 40°C). When ground albedo increased by 20 %, the probability of Tmax > 40°C decreased significantly from 17.3 % to 6.5 %, while the probability of Tmax > 35°C increased from 59.5 % to 81.1 %. These findings highlight that lightweight shading (e.g., trees, retractable covers) effectively reduces solar radiation, while minimizing impervious surfaces (e.g., grass bricks) and using high-reflectivity ground materials can enhance microclimate conditions. © 2025 Elsevier Ltd
+KW  - Air temperature
+KW  - Heat exposure
+KW  - Tabular prior-data fitted network
+KW  - Urban heat island
+KW  - Urban morphology
+KW  - China
+KW  - Shanghai
+KW  - Linear regression
+KW  - Air temperature
+KW  - Field measurement
+KW  - Heat exposure
+KW  - Highest temperature
+KW  - Risks assessments
+KW  - Sky view factor
+KW  - Tabular prior-data fitted network
+KW  - Urban air
+KW  - Urban heat island
+KW  - Urban morphology
+KW  - air temperature
+KW  - field survey
+KW  - heat island
+KW  - high temperature
+KW  - microclimate
+KW  - performance assessment
+KW  - probability
+KW  - radiative transfer
+KW  - regression analysis
+KW  - risk assessment
+KW  - urban atmosphere
+KW  - urban morphology
+KW  - Risk assessment
+PB  - Elsevier Ltd
+SN  - 22106707 (ISSN)
+LA  - English
+J2  - Sustainable Cities Soc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 13; Correspondence Address: S. Chen; Key Laboratory of Ecology and Energy Saving Study of Dense Habitat, Ministry of Education, 200092, China; email: chenshisheng@fzu.edu.cn
+ER  -
+
+TY  - CONF
+AU  - Liu, Y.
+AU  - Wei, H.
+AU  - Colletti, M.
+AU  - Grigoriadis, K.
+TI  - Programming Bilayer Structures in 4D-printed Hygromorphs by Tailoring Porosity in Macroscale
+PY  - 2025
+T2  - Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia
+VL  - 2
+SP  - 449
+EP  - 458
+DO  - 10.52842/conf.caadria.2025.2.449
+UR  - https://www.scopus.com/pages/publications/105023438458?origin=resultslist
+AD  - University College London, United Kingdom
+AB  - The study investigates the impact of macroscale porosity on deformation in 4D-printed hygromorphic bilayer structures, focusing on applications in building envelopes. Aiming to reduce cost and material use, the research, inspired by biomimetic principles, investigates the combination of an active layer with high moisture responsiveness (printed with wood filament) and a passive layer (fabricated with normal PLA) for structural stability. The qualitative relationship between porosity in the active and passive layers and the deformation parameters are assessed in three experiments. Results reveal that (1) active layer porosity (Pa) is directly related to response speed, (2) passive layer porosity (Pp) significantly affects deformation magnitude, (3) a balanced porosity ratio (Rp) between layers enables controlled, predictable shape transformation. Findings from the experiments inform a proposed design application consisting of three prototypes that demonstrate the potential for adaptive building envelopes which dynamically adjust to environmental humidity, providing energy-efficient shading. This work contributes a novel framework for programmable material design, achieving maximum architectural functionalities with minimal material use. Furthermore, it lays the groundwork for further exploration of cross-scale porosity design, aiming to optimize precise deformation control in adaptive architectural systems. © 2025 and published by the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA), Hong Kong.
+KW  - 4D printing
+KW  - bilayer structure
+KW  - building envelope
+KW  - hygromorph material
+KW  - macroscale porosity
+KW  - Material programming
+KW  - Architectural design
+KW  - Biomimetics
+KW  - Computer aided design
+KW  - Energy efficiency
+KW  - Macros
+KW  - Porosity
+KW  - Stability
+KW  - Structural design
+KW  - 4d printing
+KW  - Active Layer
+KW  - Bi-layer structure
+KW  - Building envelopes
+KW  - Hygromorph material
+KW  - Macroscale porosity
+KW  - Macroscales
+KW  - Material programming
+KW  - Material use
+KW  - Passive layer
+KW  - Solar buildings
+A2  - Reinhardt D.
+A2  - Globa A.
+A2  - Rogeau N.
+A2  - Herr C.M.
+A2  - Chen J.
+A2  - Narahara T.
+PB  - The Association for Computer-Aided Architectural Design Research in Asia
+SN  - 27104257 (ISSN); 978-988789185-7 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Comput.-Aided Architect. Des. Res. Asia
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Conference name: 30th International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2025; Conference date: 22 March 2025 through 29 March 2025; Conference code: 343759
+ER  -
+
+TY  - JOUR
+AU  - Özlük, R.
+AU  - Aydın, F.
+AU  - Yıldız, Y.
+TI  - Artificial intelligence algorithms, simulation tools and software for optimization of adaptive facades: A systematic literature review
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 106
+C7  - 112566
+DO  - 10.1016/j.jobe.2025.112566
+UR  - https://www.scopus.com/pages/publications/105002391504?origin=resultslist
+AD  - Department of Architecture, Balikesir University, Balikesir, Turkey
+AD  - Department of Computer Engineering, Balikesir University, Balikesir, Turkey
+AB  - In an increasingly digital world, many methods such as AI algorithms, simulation tools, and software are used for performance-based optimization of adaptive facades, and rapid developments are taking place in these areas. Currently, although there are many studies on these topics, they are not yet fully understood and addressed holistically. To fill this gap, this paper conducted a comprehensive review of these researches. In order to accomplish this objective, a bibliometric approach has been conducted with studies published between 2000 and 2023 to systematically analyze the literature on these topics. Using the systematic literature review, the case study location, case study building types, AF movement typologies, sustainability aspects, objectives of the studies and design parameters to achieve these objectives are investigated within the study scope. As a result, among the artificial intelligence algorithms used to optimize the performance of adaptive facades and their typologies, GAs (GA, NSGA-2, MOGA, MOEA) were found as the most widely used algorithms. Furthermore, the common software, simulation and modelling tools required in optimization process are Grasshopper, EnergyPlus and Rhino-Grasshopper, respectively. Finally, this review paper will make a general database for current and emerging AI algorithms and tools used in optimization of adaptive façade. © 2025 Elsevier Ltd
+KW  - Adaptive facades
+KW  - Artificial intelligence algorithms
+KW  - Energy performance
+KW  - Simulation tools
+KW  - Systematic literature review
+KW  - User comfort
+KW  - Adaptive facade
+KW  - AI algorithms
+KW  - Algorithm simulation
+KW  - Artificial intelligence algorithms
+KW  - Case-studies
+KW  - Energy performance
+KW  - Optimisations
+KW  - Simulation tool
+KW  - Systematic literature review
+KW  - User comforts
+KW  - Digital elevation model
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 10; Correspondence Address: R. Özlük; Department of Architecture, Balikesir University, Balikesir, Turkey; email: resul.ozluk@balikesir.edu.tr
+ER  -
+
+TY  - JOUR
+AU  - Noor, M.C.
+AU  - Saradj, F.M.
+AU  - Yazdanfar, S.-A.
+TI  - Optimal daylighting design for standard photopic and melanopic equivalent daylight illuminance, and glare minimization in Tehran classrooms
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 105
+C7  - 112104
+DO  - 10.1016/j.jobe.2025.112104
+UR  - https://www.scopus.com/pages/publications/105000918728?origin=resultslist
+AD  - School of Architecture and Environmental Design, Iran University of Science and Technology, Tehran, Iran
+AB  - Taking advantage of adequate daylight in schools is crucial not only for visual tasks but also for its non-visual effects, including the melanopic effects of light that promote alertness and regulate the sleep-wake cycle. This study seeks to determine the optimal factors for daylighting design by analyzing various window-to-wall ratios (WWRs) and wall surface reflection coefficients in three prevailing classroom geometries. The goal is to achieve sufficient photopic illuminance (for visual activities) and melanopic equivalent daylight illuminance (M-EDI) (for promoting alertness) while minimizing glare. A simulation method utilizing ALFA and Climate Studio software was conducted at two climatically critical times for elementary school classrooms in Tehran. The findings offer a range of acceptable values to enhance its applicability in the current classroom. The optimal solutions for achieving both M-EDI and photopic illuminance while minimizing glare are: an east-west rectangle geometry with a WWR of 40 % and a reflection coefficient of 75 %, a square geometry with a WWR of 30 % and a reflection coefficient of 75 %, and a north-south rectangle geometry with a WWR of 40 % and a reflection coefficient of 80 %. The results can be implemented into current classroom design guidelines to enhance healthier and more efficient daylighting in educational settings, which typically prioritize visual activities and require revision due to their inadequacy. Further evaluations of annual daylighting scenarios and dynamic shading are recommended for future studies. © 2025 Elsevier Ltd
+KW  - Classroom
+KW  - Daylighting
+KW  - Melanopic equivalent daylight illuminance
+KW  - Plan geometry
+KW  - Wall reflectance
+KW  - Window
+KW  - Daylighting
+KW  - Glare
+KW  - Glare effects
+KW  - 'current
+KW  - Classroom
+KW  - Daylight illuminance
+KW  - Daylighting design
+KW  - Melanopic equivalent daylight illuminance
+KW  - Photopic illuminance
+KW  - Plan geometry
+KW  - Visual activity
+KW  - Wall reflectance
+KW  - Window-to-wall ratio
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: S.-A. Yazdanfar; Iran University of Science and Technology, Hengam St., Resalat Square, Tehran, Iran; email: yazdanfar@iust.ac.ir
+ER  -
+
+TY  - JOUR
+AU  - Lor, S.
+AU  - Dong, Y.
+AU  - Luo, T.
+AU  - Bian, Y.
+AU  - Xu, N.
+AU  - Zhang, N.
+AU  - Xue, P.
+TI  - A field-based evaluation of blackboard visibility in daylit classrooms
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 114
+C7  - 114475
+DO  - 10.1016/j.jobe.2025.114475
+UR  - https://www.scopus.com/pages/publications/105019742966?origin=resultslist
+AD  - Beijing Key Laboratory of Green Built Environment and Energy Efficient Technology, Beijing University of Technology, Beijing, 100124, China
+AD  - Real Estate Development Co., Ltd., China Railway 22nd Bureau Group, Beijing, 100041, China
+AD  - Chongqing Research Institute of Beijing University of Technology, Chongqing, 401121, China
+AD  - China Academy of Building Research, Beijing, China
+AD  - School of Architecture//State Key Laboratory of Subtropical Building Science, South China University of Technology, Guangzhou, China
+AD  - Institute of Architecture Design and Research, Chinese Academy of Sciences, Beijing, 100086, China
+AB  - Daylight plays a critical role in shaping the visual quality of indoor educational spaces, influencing blackboard visibility and instructional effectiveness. Most existing studies have examined visual factors such as viewing angle, chalk color, and shading in isolation, without addressing how these elements interact under dynamic daylight conditions. A field-based study was conducted to evaluate the influence of curtain-mediated daylight modulation on blackboard visibility, considering its interaction with chalk color, viewing angle, and blackboard area. A full-factorial field experiment was carried out in a naturally lit classroom across four curtain openness ratios (0/3, 1/3, 2/3, 3/3), six chalk colors (white, yellow, orange, green, red, blue), eight viewing angles (20°–90°), and five blackboard regions (A–E). Objective visibility was assessed using chalk–background luminance contrast, and subjective assessments were obtained via a five-point visibility scale. Results indicated that visibility was greatest under fully open curtain conditions, particularly from frontal viewing angles and with high-reflectance chalks such as yellow and green. Visibility was highest in board zones closest to the windows and declined with distance, reflecting uneven daylight distribution. A significant monotonic relationship between luminance contrast and visibility ratings (rs = 0.69, p < 0.001) confirmed luminance contrast as a key determinant of instructional visibility. These findings support daylight-responsive classroom design strategies, including the use of brighter chalks, alignment of instructional zones with daylight gradients, and adaptive shading control to enhance blackboard visibility and ensure equitable viewing conditions for students. © 2025 Elsevier Ltd
+KW  - Blackboard visibility
+KW  - Chalk color
+KW  - Classroom design
+KW  - Curtain openness
+KW  - Luminance contrast
+KW  - Color
+KW  - Luminance
+KW  - Molecular physics
+KW  - Students
+KW  - Teaching
+KW  - Visibility
+KW  - Blackboard visibility
+KW  - Chalk color
+KW  - Classroom design
+KW  - Condition
+KW  - Curtain openness
+KW  - Educational spaces
+KW  - Full factorial
+KW  - Luminance contrast
+KW  - Viewing angle
+KW  - Visual qualities
+KW  - Limestone
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Correspondence Address: P. Xue; Beijing Key Laboratory of Green Building Environment and Energy Saving Technology, Beijing University of Technology, Beijing, 100124, China; email: xp@bjut.edu.cn
+ER  -
+
+TY  - CONF
+AU  - Zhang, H.
+AU  - Wang, Y.
+AU  - Xu, L.
+AU  - Cong, H.
+AU  - Li, C.
+AU  - Lu, J.
+AU  - Chen, J.
+TI  - A Data-Driven Optimization Control Framework for Adaptive Solar Façades Balancing Photovoltaic Performance and Indoor Environment
+PY  - 2025
+T2  - Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia
+VL  - 3
+SP  - 213
+EP  - 222
+DO  - 10.52842/conf.caadria.2025.3.213
+UR  - https://www.scopus.com/pages/publications/105023473343?origin=resultslist
+AD  - Harbin Institute of Technology, China
+AD  - Tsinghua University, China
+AD  - University College London (UCL), United Kingdom
+AB  - Global warming and increasing urban density highlight the necessity of adaptive solar façades (ASF), yet challenges persist in achieving a balance between photovoltaic performance and indoor comfort. This study proposes a novel optimization control framework for ASF based on the vertical mobility of solar-tracking units. In the research case, the ASF system is divided into seven rows in an office setting, with photovoltaic irradiance, indoor irradiance, and daylight glare probability (DGP) as performance metrics. Batch sampling uncovers dynamic correlations between façade positions and performance metrics, providing references for open-loop control strategies. A machine learning-based surrogate model (XGBoost), trained on simulation data and paired with NSGA-II optimization, supports real-time control. Results show that façade unit positions significantly correlate with performance metrics, with vertical angles varying by unit height, season, and time. Higher-positioned units are generally more effective for indoor control. The XGBoost model achieved high precision (R² = 0.999) and reduced simulation time by 99.9%, enabling real-time predictions. Optimization results demonstrated a 5% increase in photovoltaic irradiance, a 19% improvement in indoor irradiance, and a 5% reduction in DGP, validating the effectiveness of the control framework. © 2025 and published by the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA), Hong Kong.
+KW  - Adaptive solar façades
+KW  - Machine learning
+KW  - Multi-objective optimization
+KW  - Natural lighting
+KW  - Photovoltaic performance
+KW  - Architectural design
+KW  - Balancing
+KW  - Computer control systems
+KW  - Energy conservation
+KW  - Facades
+KW  - Global warming
+KW  - Indoor positioning systems
+KW  - Machine learning
+KW  - Multiobjective optimization
+KW  - Photovoltaics
+KW  - Real time control
+KW  - Solar irradiance
+KW  - Adaptive solar façade
+KW  - Control framework
+KW  - Daylight glare probabilities
+KW  - Machine-learning
+KW  - Multi-objectives optimization
+KW  - Natural lighting
+KW  - Optimization control
+KW  - Performance metrices
+KW  - Photovoltaic performance
+KW  - Photovoltaics
+KW  - Learning systems
+A2  - Reinhardt D.
+A2  - Globa A.
+A2  - Rogeau N.
+A2  - Herr C.M.
+A2  - Chen J.
+A2  - Narahara T.
+PB  - The Association for Computer-Aided Architectural Design Research in Asia
+SN  - 27104257 (ISSN); 978-988789186-4 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Comput.-Aided Architect. Des. Res. Asia
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Conference name: 30th International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2025; Conference date: 22 March 2025 through 29 March 2025; Conference code: 343759
+ER  -
+
+TY  - JOUR
+AU  - Huang, Y.
+AU  - Zeng, T.
+AU  - Jia, M.
+AU  - Yang, J.
+AU  - Xu, W.
+AU  - Lu, S.
+TI  - Fusing Transformer and diffusion for high-resolution prediction of daylight illuminance and glare based on sparse ceiling-mounted input
+PY  - 2025
+T2  - Building and Environment
+VL  - 267
+C7  - 112163
+DO  - 10.1016/j.buildenv.2024.112163
+UR  - https://www.scopus.com/pages/publications/85205459706?origin=resultslist
+AD  - Shenzhen International Graduate School, Tsinghua University, Guangdong, Shenzhen, 518055, China
+AB  - Accurate prediction of workplane daylight illuminance and eye-height glare is crucial for lighting control. Existing studies used machine learning to predict illuminance at predetermined locations based on indoor sensors, but they may encounter challenges in scenarios 1) with flexible seating arrangements, 2) with dynamic shading devices, and 3) requiring the prediction of glare. To address these challenges, we proposed a novel method fusing Transformer and Diffusion models, with the input being data collected from sparse ceiling-mounted illuminance sensors, and the outputs being high-resolution workplane illuminance and glare. The model works well for rooms without and with dynamic roller shades. For the former, the mean absolute errors for illuminance below 3000 lx and Daylight Glare Index (DGI) are only 20.77 lx and 0.20, and the error rates in detecting illuminance <500 lx and DGI>22 are only 0.85 % and 5.55 %. For the more complicated latter case, the aforementioned four numbers are 34.78 lx, 0.59, 2.47 % and 23.13 %. The model significantly outperforms the linear and the ANN models, particularly in glare prediction. The influence of sensor number and placement strategy on model performance was also revealed. The model can potentially enhance lighting control, especially in cases with dynamic shading, with flexible seating arrangements, and where glare is of interest. © 2024 Elsevier Ltd
+KW  - Ceiling-mounted sensor
+KW  - Daylight performance prediction
+KW  - Denoising diffusion probabilistic model (DDPM)
+KW  - Lighting control
+KW  - Transformer model
+KW  - Ceilings
+KW  - Daylighting
+KW  - Error statistics
+KW  - Glare
+KW  - Glare effects
+KW  - Seats
+KW  - Ceiling-mounted
+KW  - Ceiling-mounted sensor
+KW  - Daylight performance prediction
+KW  - De-noising
+KW  - Denoising diffusion probabilistic model
+KW  - Lighting controls
+KW  - Mounted sensors
+KW  - Performance prediction
+KW  - Probabilistic models
+KW  - Transformer modeling
+KW  - accuracy assessment
+KW  - artificial neural network
+KW  - control system
+KW  - light availability
+KW  - light effect
+KW  - model test
+KW  - performance assessment
+KW  - prediction
+KW  - shading
+KW  - Prediction models
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 30; Correspondence Address: S. Lu; Shenzhen International Graduate School, Tsinghua University, Shenzhen, Guangdong, 518055, China; email: shuai.lu@sz.tsinghua.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - CONF
+AU  - Ma, Z.
+AU  - Shi, Y.
+AU  - Qiu, J.
+AU  - Lin, Y.
+AU  - Qiu, H.
+AU  - Lin, J.
+TI  - A Predictive Model for Dynamic Facades' Daylight Performance using Multimodal Fusion Learning
+PY  - 2025
+T2  - Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia
+VL  - 3
+SP  - 243
+EP  - 252
+DO  - 10.52842/conf.caadria.2025.3.243
+UR  - https://www.scopus.com/pages/publications/105023472535?origin=resultslist
+AD  - College of Architecture and Urban Planning, Tongji University, China
+AB  - Against the backdrop of energy crises and climate change, dynamic facades have increasingly garnered attention. Dynamic facades are capable of responding to changes in the outdoor climate environment, thereby achieving the effect of regulating the indoor lighting and thermal environments. Dynamic facades’ shape-shifting in response to environmental changes complicates daylight simulation. Therefore, predicting the indoor daylight environment based on the morphological changes of dynamic facades is beneficial for the design optimization and intelligent control of the facades. This paper introduces a multimodal fusion learning model for predicting the hourly indoor daylight environment of dynamic facades. We created a parametric generation model for dynamic facades. After simulating daylight uniformity, we constructed a multi-modal dataset that includes image data and numerical data. Subsequently, we applied ResNet-50 to extract image features and Multilayer Perceptron to extract numerical data features. After performing feature fusion, we utilized a neural network to establish a regression prediction model. The results show that the multimodal fusion prediction model is superior to the single-modal model. The multimodal fusion model with an attention module to extract image features, demonstrates the best predictive performance, with an R2 value reaching 0.92 on the training set and 0.90 on the test set. © 2025 and published by the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA), Hong Kong.
+KW  - Artificial intelligence
+KW  - Building Dynamic facades
+KW  - Building Performance Prediction
+KW  - Daylight Uniformity
+KW  - Multimodal Fusion Learning
+KW  - Architectural design
+KW  - Climate change
+KW  - Facades
+KW  - Forecasting
+KW  - Intelligent buildings
+KW  - Learning systems
+KW  - Modal analysis
+KW  - Neural networks
+KW  - Prediction models
+KW  - Building dynamic facade
+KW  - Building dynamics
+KW  - Building performance
+KW  - Building performance prediction
+KW  - Daylight uniformity
+KW  - Image features
+KW  - Multi-modal fusion
+KW  - Multimodal fusion learning
+KW  - Numerical data
+KW  - Performance prediction
+KW  - Daylight simulation
+A2  - Reinhardt D.
+A2  - Globa A.
+A2  - Rogeau N.
+A2  - Herr C.M.
+A2  - Chen J.
+A2  - Narahara T.
+PB  - The Association for Computer-Aided Architectural Design Research in Asia
+SN  - 27104257 (ISSN); 978-988789186-4 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Comput.-Aided Architect. Des. Res. Asia
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Conference name: 30th International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2025; Conference date: 22 March 2025 through 29 March 2025; Conference code: 343759
+ER  -
+
+TY  - JOUR
+AU  - Hwang, Y.
+AU  - Wasti, A.
+AU  - Borca-Tasciuc, T.
+AU  - Tsamis, A.
+TI  - Investigation of climate-adaptive thermal effects of a double-sided hydronic loop embedded in an opaque building envelope
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 102
+C7  - 111943
+DO  - 10.1016/j.jobe.2025.111943
+UR  - https://www.scopus.com/pages/publications/85217060741?origin=resultslist
+AD  - College of Architecture, Illinois Institute of Technology, 3360 South State Street, Chicago, 60616, IL, United States
+AD  - Mechanical, Aerospace, and Nuclear Engineering Department, Rensselaer Polytechnic Institute, 110 8th Street, Troy, 12180, NY, United States
+AD  - School of Architecture, Rensselaer Polytechnic Institute, 110 8th Street, Troy, 12180, NY, United States
+AB  - Dynamic opaque building envelopes have emerged as a promising solution to mitigate the impact of conventional static envelopes on building heating and cooling demands. However, the development faces several challenges, including a predominant focus on thermal barriers optimized for either heating or cooling, limited dynamic operational modes, and a lack of studies evaluating their performance under diverse climate conditions with practical applications. This research investigates the dynamic operational modes of a hydronic-based opaque building envelope system featuring a double-sided hydronic heating and cooling layer across various climate conditions. The system incorporates two hydronic layers, positioned on the exterior and interior surfaces of the envelope. Eight operational configurations were examined: two coupled modes, where the layers function as a closed loop to facilitate direct heat transfer between distinct environments, and six decoupled modes, where the layers operate independently, responding separately to their respective environments. Computational simulations conducted using Modelica demonstrated that the coupled modes for direct heat exchange significantly enhanced heat transfer rates, ranging from −155.05 W/m2 to 172.81 W/m2, compared to a conventional static wall, which exhibited rates between −11.48 W/m2 and 13.65 W/m2. Decoupled modes displayed effective thermal barrier properties, achieving nearly zero heat transfer under certain conditions. They also provided effective heating and cooling transfer rates ranging from −73.28 W/m2 to 79.21 W/m2, in contrast to static walls, which increased heating and cooling loads between −9.34 W/m2 and 11.5 W/m2. The study highlights the potential of dynamic operational modes, offering insights for advancing hydronic-based dynamic opaque building envelopes to enhance building energy efficiency. © 2025
+KW  - Climate-adaptive
+KW  - Dynamic building envelope
+KW  - Heating and cooling
+KW  - Hydronic system
+KW  - Solar energy
+KW  - Building envelopes
+KW  - Climate condition
+KW  - Climate-adaptive
+KW  - Coupled mode
+KW  - Double sided
+KW  - Dynamic building envelope
+KW  - Energy
+KW  - Heating and cooling
+KW  - Hydronic systems
+KW  - Operational modes
+KW  - HVAC
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: A. Tsamis; School of Architecture, Rensselaer Polytechnic Institute, Troy, 110 8th Street, 12180, United States; email: tsamia@rpi.edu
+ER  -
+
+TY  - CONF
+AU  - Giammarco, M.
+AU  - Zeng, C.
+AU  - Aggarwal, M.
+AU  - Correa, D.
+TI  - Bio-inspired Climate-responsive Wood Composite Architectural Facade Actuator: Architectural research based on the asclepias syriaca, mimosa pudica, and mandevilla plants as biological role models
+PY  - 2025
+T2  - Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+VL  - 2
+SP  - 285
+EP  - 294
+DO  - 10.52842/conf.ecaade.2025.2.285
+UR  - https://www.scopus.com/pages/publications/105029253996?origin=resultslist
+AD  - University of Waterloo, Canada
+AB  - Passive designs, using smart and sustainable materials, are of great interest to the contemporary building industry as they can support a reduction in embodied carbon emissions and lower the operational energy consumption during a building’s life cycle by adapting, replacing, or integrating with industry-standard and carbon-intensive mechanical systems. Shape-changing, programmable bilayer prototypes using wood can respond to the environmental changes of relative humidity. However, there is limited research in this field concerning the type of movement that these mechanisms can achieve and their potential integration into façade applications that are void of energy-dependent elements. Previous research has focused primarily on small single curvature deformations for apertures, complex wooden composite with double curvature for glue laminated structures, or large but very slow louvre mechanisms for shading. A biomimetic approach was used to produce and develop a climate-responsive mechanism for façade applications built from prototypes of multilayered wood by looking at unique plant biomechanics of the Mimosa pudica, Mandevilla and Asclepias syriaca as biological role models. The research looks at the kinematic model, microscopic tissue structure, environmental adaptation strategies, structural growth pattern and functional performance of the three plant exemplars to develop a series of proposed bio-inspired mechanisms with the potential for upscaling into adaptive façade systems driven by passive actuation. We expect that this early-stage investigation can provide insights into the unique kinematic strategies of the selected plants while contributing toward a better understanding of a potential range of passive façade strategies that are achievable with climate responsive wood composite bilayers and the aspiration to support a more sustainable building industry. © 2025, Education and research in Computer Aided Architectural Design in Europe. All rights reserved.
+KW  - Biomimicry
+KW  - Climate Responsive Design
+KW  - Kinematic Model
+KW  - Passive Façade Systems
+KW  - Self-shaping Prototypes
+KW  - Wood Bilayers
+A2  - Sorguç A.
+A2  - Yemişcioğlu M.K.
+A2  - Erol S.B.
+A2  - Bük M.E.
+A2  - Güney D.
+A2  - Sulayıcı B.A.
+A2  - Akol M.
+PB  - Education and research in Computer Aided Architectural Design in Europe
+SN  - 26841843 (ISSN); 978-949120740-2 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Educ. Res. Comput. Aided. Archit. Des. Eur.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Conference name: 43rd Conference on Education and Research in Computer Aided Architectural Design in Europe, eCAADe 2025; Conference date: 1 September 2025 through 5 September 2025; Conference code: 344709
+ER  -
+
+TY  - JOUR
+AU  - Ali Abaker Omer, A.
+AU  - Li, M.
+AU  - Zhang, F.
+AU  - Hassaan, M.M.E.
+AU  - El Kolaly, W.
+AU  - Zhang, X.
+AU  - Lan, H.
+AU  - Liu, J.
+AU  - Liu, W.
+TI  - Impacts of agrivoltaic systems on microclimate, water use efficiency, and crop yield: A systematic review
+PY  - 2025
+T2  - Renewable and Sustainable Energy Reviews
+VL  - 221
+C7  - 115930
+DO  - 10.1016/j.rser.2025.115930
+UR  - https://www.scopus.com/pages/publications/105007295168?origin=resultslist
+AD  - School of Tea and Coffee, Puer University, Puer, 665000, China
+AD  - School of Physical Sciences, University of Science and Technology of China, Hefei, 230026, China
+AD  - Institute of Advanced Technology, University of Science and Technology of China, Hefei, 230094, China
+AD  - Institute of Plasma Physics, Hefei Institute of Physical Science, Chinese Academy of Sciences, Hefei, 230031, China
+AD  - School of Science and Technology, Puer University, Puer, 665000, China
+AD  - Agricultural Engineering Research Institute, Agricultural Research Center, 256 Dokki, Giza, Egypt
+AB  - Agrivoltaic (AV) systems have emerged as a transformative solution to address the interrelated global challenges of food security, water conservation, and renewable energy generation. This study aims to provide a systematic review of 33 studies published between 2013 and 2023, analyzing the impacts of AV systems on microclimate regulation, evapotranspiration (ET), soil evaporation, water-use efficiency (WUE), and crop yield across diverse agricultural and climatic contexts. The findings highlight that AV systems improve WUE by 20–47 %, lower air and soil temperatures by 1–4 °C, and enhance crop resilience in water-scarce regions. However, yield reductions are observed in light-dependent crops under high shading intensities, underscoring the need for tailored designs that optimize shading intensity while balancing energy generation and agricultural productivity. Advanced technologies, such as dynamic shading systems and semi-transparent photovoltaic (PV) panels, are identified as critical for maximizing AV efficiency and adaptability to specific regional needs. This study also addresses significant gaps in the literature, including the underrepresentation of tropical and arid climates, insufficient long-term ecological assessments, and the lack of comprehensive economic feasibility analyses for large-scale implementation. By integrating geographic and temporal trends, diverse methodological approaches, and innovative PV technologies, this study provides actionable research directions for optimizing AV system scalability and sustainability, advancing AV systems as a cornerstone of climate-resilient and sustainable agriculture. © 2025 Elsevier Ltd
+KW  - Agrivoltaic
+KW  - Climate resilience
+KW  - Crop yield
+KW  - Microclimate
+KW  - Renewable energy
+KW  - Sustainability
+KW  - Water use efficiency
+KW  - Agricultural robots
+KW  - Hydroelectric power
+KW  - Reforestation
+KW  - Seed
+KW  - Solar fuels
+KW  - Sustainable agriculture
+KW  - Wave power
+KW  - Agrivoltaic
+KW  - Climate resilience
+KW  - Crop yield
+KW  - Food security
+KW  - Global challenges
+KW  - Microclimate
+KW  - Renewable energies
+KW  - Shading intensity
+KW  - Systematic Review
+KW  - Water use efficiency
+KW  - Crops
+PB  - Elsevier Ltd
+SN  - 13640321 (ISSN)
+LA  - English
+J2  - Renewable Sustainable Energy Rev
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 28; Correspondence Address: A. Ali Abaker Omer; School of Tea and Coffee, Puer University, Puer, 665000, China; email: altyebali@peu.edu.cn; ; CODEN: RSERF
+ER  -
+
+TY  - JOUR
+AU  - Humaidan, O.
+AU  - Almazam, K.
+AU  - Bashir, F.M.
+AU  - Alshayeb, M.J.
+AU  - Al-Tamimi, N.
+AU  - Dodo, Y.A.
+TI  - Comprehensive assessment of dynamic shading devices for daylighting and energy management in Saudi Arabian hot-arid buildings
+PY  - 2025
+T2  - Energy and Buildings
+VL  - 346
+C7  - 116180
+DO  - 10.1016/j.enbuild.2025.116180
+UR  - https://www.scopus.com/pages/publications/105011737870?origin=resultslist
+AD  - Architectural Engineering Department, College of Engineering, Najran University, Najran, 66426, Saudi Arabia
+AD  - Department of Decoration and Interior Design Engineering, College of Engineering, University of Hail, Hail, 55427, Saudi Arabia
+AD  - Department of Architecture, College of Architecture and Planning, King Khalid University, Abha, 62529, Saudi Arabia
+AB  - Dynamic shading devices offer promising solutions for balancing daylighting and solar heat gain in hot-arid buildings, yet their operational effectiveness requires systematic evaluation. Filling a critical gap in comprehensive performance assessment, this study uniquely integrates long-term field measurements, calibrated building energy simulations, detailed occupant feedback, advanced control strategies, and techno-economic analysis to evaluate various dynamic shading systems within the challenging climate context of Saudi Arabia. The research methodology employed field measurements in eight identical test rooms equipped with different dynamic shading technologies, including electrochromic glazing, automated venetian blinds, and motorized roller shades. Continuous monitoring of interior illuminance, energy consumption, and occupant response was conducted over 14 months. Calibrated building energy simulations extended the analysis to additional climate contexts. Results revealed that automated external venetian blinds provided the best overall performance, reducing cooling energy by 32 % while maintaining useful daylight illuminance (300–3000 lux) for 68 % of occupied hours. Electrochromic glazing demonstrated superior glare control but reduced daylight availability by 27 % during cloudy conditions. The study concludes that dynamic shading systems must be carefully selected based on building type, orientation, and climate zone, with properly commissioned automation algorithms being crucial for optimizing the balance between daylighting and thermal performance. Integration with building management systems can further enhance performance by responding to both environmental conditions and occupant preferences. Theoretically, the work extends façade-performance modelling by delivering the first long-duration, empirically calibrated dataset for hot-arid contexts and by formalizing an optimized multi-parameter control algorithm that can be generalized to comparable climates. © 2025 Elsevier B.V.
+KW  - Building performance
+KW  - Daylighting
+KW  - Dynamic shading
+KW  - Energy efficiency
+KW  - Thermal comfort
+KW  - Automation
+KW  - Daylight simulation
+KW  - Economic analysis
+KW  - Electrochromic devices
+KW  - Electrochromism
+KW  - Energy management
+KW  - Energy utilization
+KW  - Intelligent buildings
+KW  - Solar energy
+KW  - Building energy simulations
+KW  - Building performance
+KW  - Climate context
+KW  - Dynamic shading
+KW  - Energy
+KW  - Field measurement
+KW  - Hot arid
+KW  - Shading devices
+KW  - Shading systems
+KW  - Thermal
+KW  - Daylighting
+KW  - Energy efficiency
+KW  - Thermal comfort
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 8; Correspondence Address: K. Almazam; Architectural Engineering Department, College of Engineering, Najran University, Najran, 66426, Saudi Arabia; email: kaalmazam@nu.edu.sa; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Zhang, X.
+AU  - Ren, P.
+AU  - Yao, L.-Y.
+AU  - Li, Q.
+AU  - Zhong, X.
+AU  - Liu, K.-X.
+AU  - Guo, T.-Y.
+AU  - Yang, J.-H.
+AU  - Zhao, L.-H.
+AU  - Pauleit, S.
+AU  - Rahman, M.A.
+TI  - Investigating tree shading and thermal variations in a subtropical zone: Single Tree to Urban Squares
+PY  - 2025
+T2  - Building and Environment
+VL  - 283
+C7  - 113408
+DO  - 10.1016/j.buildenv.2025.113408
+UR  - https://www.scopus.com/pages/publications/105010842104?origin=resultslist
+AD  - Chair for Strategic Landscape Planning and Management, Technical University of Munich, Emil-Ramann-Str. 6, Freising, 85354, Germany
+AD  - State Key Laboratory of Subtropical Building and Urban Science, Guangzhou, 510641, China
+AD  - School of Architecture, South China University of Technology, Guangzhou, 510641, China
+AD  - School of Architecture, The Chinese University of Hong Kong, New Territories, Hong Kong
+AD  - School of Architecture, Southwest Jiaotong University, Chengdu, 611756, China
+AD  - Department of Architecture, Tianjin University, Tianjin, 300072, China
+AD  - School of Architecture and Urban Planning, Guangzhou University, Guangzhou, 510006, China
+AD  - School of Civil Engineering, Chongqing University, Chongqing, 400045, China
+AD  - School of Agriculture, Food and Ecosystem Sciences, The University of Melbourne, Burnley, 3121, VIC, Australia
+AB  - Urban trees are widely regarded as effective solutions for mitigating microclimate. However, fewer studies focused on the spatiotemporal characteristics of their thermal effects on adjacent spaces, particularly in urban squares where design and land constraints restrict extensive tree planting. In Guangzhou, China, this study first analyzed how a single tree influences energy components and microclimate variations in its adjacent space, considering dynamic shading effects. Subsequently, we used a validated ENVI-met model to assess physiological equivalent temperature (PET) variations across 36 planting scenarios that combined three tree species, four spacing to crown diameter ratios, and three line-planting patterns (One-line, Two-line, and Staggered). Results revealed that tree shading reduced PET by up to 4.7 °C, with surrounding areas experiencing an additional 1.1 °C reduction in the afternoon due to extended cooling effects. In shaded areas, sensible heat flux (Qh) was mainly driven by negative heat storage (Qs) from the underlying surface. Interestingly, tall trees with high canopies provided limited cooling directly beneath them but were more effective in adjacent spaces during morning and afternoon hours. Furthermore, cooling benefits exhibited threshold effects and delayed temporal responses. The Two-line configuration with a spacing to crown diameter ratio of 1:1 demonstrated the highest efficiency, balancing tree quantity and PET reduction. These findings improve understanding of urban trees’ thermal effects and offer design recommendations for the squares and similar open spaces to maximize cooling potential. © 2025
+KW  - Dynamic shading
+KW  - Energy balance
+KW  - ENVI-met
+KW  - Local thermal comfort
+KW  - Microclimate
+KW  - Urban trees
+KW  - China
+KW  - Guangdong
+KW  - Guangzhou
+KW  - Cooling
+KW  - Dynamics
+KW  - Heat flux
+KW  - Physiological models
+KW  - Reforestation
+KW  - Thermal effects
+KW  - Tropics
+KW  - Dynamic shading
+KW  - Energy
+KW  - ENVI-met
+KW  - Local thermal comfort
+KW  - Microclimate
+KW  - Physiological equivalent temperatures
+KW  - Thermal
+KW  - Tree shadings
+KW  - Urban squares
+KW  - Urban trees
+KW  - climate variation
+KW  - cooling
+KW  - energy balance
+KW  - microclimate
+KW  - sensible heat flux
+KW  - spatiotemporal analysis
+KW  - temperature effect
+KW  - Energy balance
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 7; Correspondence Address: L.-H. Zhao; State Key Laboratory of Subtropical Building and Urban Science, Guangzhou, 510641, China; email: lhzhao@scut.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Gao, M.
+AU  - Zhao, L.
+AU  - Gao, G.
+AU  - Jin, R.
+AU  - Nie, Z.
+TI  - A method for achieving optimal thermal performance of adaptive opaque facades based on monthly loads across China
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 102
+C7  - 111813
+DO  - 10.1016/j.jobe.2025.111813
+UR  - https://www.scopus.com/pages/publications/85216645086?origin=resultslist
+AD  - State Key Laboratory of Subtropical Building and Urban Science, School of Architecture, South China University of Technology, Guangzhou, 510640, China
+AD  - School of Architecture and Civil Engineering, Xihua University, Chengdu, 610039, China
+AB  - With the promotion of nearly zero energy buildings (nZEBs) in China, adaptive opaque facades (AOFs) have gained attention for their high energy-saving potential. Recent research on AOFs has focused on dynamic thermal behaviors and simulations of specific elements or systems. Limited studies on their climate specific thermal requirements which is critical for engineers and AOF producers. This paper develops an analytical methodology to evaluate the energy-saving performance of AOFs in office buildings across China. Optimal AOF designs were determined based on monthly energy loads for different orientations in five cities with varying climates. Two parameters were used to quantify AOF performance: solar absorption (SA) and heat-transfer coefficient (K). Results showed that: 1) Energy savings for office buildings with optimized AOFs reached 1.41 %, 2.42 %, 3.40 %, 6.07 %, and 3.08 % in Harbin, Beijing, Nanchang, Kunming, and Guangzhou, respectively. 2) High SA values and thick insulation (low K values) were optimal in all climate zones in winter. In Harbin and Beijing, adaptive insulation with broad range variation was necessary, while in Nanchang, Kunming, and Guangzhou, high flexibility in K values proved most beneficial. 3) Adaptive SA values were not universally advantageous; for instance, in Harbin, south-facing facades saved 0.57 %, while north-facing facades only saved 0.17 %. In Beijing and Nanchang, adaptive SA values most benefitted the south facing facades. However, in Kunming and Guangzhou the west facing facades benefited most due to solar radiation levels. 4) The inappropriate design or control of AOFs may have counterproductive effects on energy-savings and thermal comfort. © 2025
+KW  - Adaptive opaque facade
+KW  - Cooling and heating loads
+KW  - Energy-saving
+KW  - Heat-transfer coefficient (K value)
+KW  - Solar absorption (SA value)
+KW  - Facings
+KW  - Absorption values
+KW  - Adaptive opaque facade
+KW  - Cooling load
+KW  - Energy  savings
+KW  - Energy-savings
+KW  - Heat transfer co-efficients
+KW  - Heat-transfer coefficient (K value)
+KW  - Heating load
+KW  - K-values
+KW  - Solar absorption
+KW  - Solar absorption (solar absorption value)
+KW  - Energy saving
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 3; Correspondence Address: Z. Nie; State Key Laboratory of Subtropical Building and Urban Science, School of Architecture, South China University of Technology, Guangzhou, 510640, China; email: 202210181024@mail.scut.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Beatini, V.
+AU  - Pantilimonescu, F.
+AU  - Djebbara, Z.
+AU  - Drișcu, M.-C.
+TI  - Adaptive facades for emotionally enriching indoor environments
+PY  - 2024
+T2  - Journal of Building Engineering
+VL  - 98
+C7  - 111472
+DO  - 10.1016/j.jobe.2024.111472
+UR  - https://www.scopus.com/pages/publications/85211184888?origin=resultslist
+AD  - Aarhus University, Department of Civil and Architectural Engineering, Aarhus, 8000, Denmark
+AD  - Ion Mincu University of Architecture and Urban Planning Bucharest, Department of Architecture, Bucharest, 010014, Romania
+AD  - Aalborg University, Department of Architecture, Design and Media Technology, Aalborg, 9000, Denmark
+AB  - Buildings are increasingly required to have a restorative effect as people spend a significant portion of their time indoors, inducing them stress. In this regard, the research investigates the emotional impact of adaptive façades, focusing on the correlation between shadow patterns and emotions elicited. Using a combination of controlled Virtual Reality experiments and statistical comparisons, the study explores how different dynamic effects, abstracted from the specificity of the design, influence emotional responses, the latter based on the PAD (Pleasure-Arousal-Dominance) affection model. Empirical data supports the hypothesis that dynamic architecture can significantly enhance the emotional experience of indoor environments, highlighting the potential for adaptive façade designs to enhance indoor environments. Future studies are recommended to validate these findings in real-world settings and explore the integration of additional sensory dynamics, also considering demographic factors. This study marks a first step in exploring the possibility to inform design practices by linking abstract design features and emotional impacts. © 2024 Elsevier Ltd
+KW  - Adaptive facades
+KW  - Emotional design
+KW  - Experiencing architecture
+KW  - Kinetic architecture
+KW  - PAD affection model
+KW  - Regenerative design
+KW  - Virtual reality
+KW  - Adaptive facade
+KW  - Design influences
+KW  - Dynamic effects
+KW  - Emotional design
+KW  - Experiencing architecture
+KW  - Indoor environment
+KW  - Kinetic architectures
+KW  - Pleasure-arousal-dominance affection model
+KW  - Regenerative designs
+KW  - Statistical comparisons
+KW  - Virtual environments
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 12; Correspondence Address: V. Beatini; Aarhus University, Department of Civil and Architectural Engineering, Aarhus, 8000, Denmark; email: vb@cae.au.dk
+ER  -
+
+TY  - JOUR
+AU  - Hu, H.
+AU  - Xu, L.
+AU  - Huang, W.
+AU  - Ji, J.
+AU  - Zhong, S.
+AU  - Cai, J.
+AU  - Dai, L.
+AU  - Chen, C.
+TI  - Comprehensive performance analysis of semitransparent CdTe PV windows in static and dynamic facades: A real ship case study
+PY  - 2025
+T2  - Sustainable Energy Technologies and Assessments
+VL  - 76
+C7  - 104297
+DO  - 10.1016/j.seta.2025.104297
+UR  - https://www.scopus.com/pages/publications/105001572160?origin=resultslist
+AD  - Provincial Key Laboratory of Naval Architecture & Ocean Engineering, Institute of Marine Engineering, Jimei University, Xiamen, 361021, China
+AD  - Shanghai Micro Electronics Equipment (Group) Co., Ltd., China
+AD  - Department of Thermal Science and Energy Engineering, University of Science and Technology of China, Hefei, 361021, China
+AD  - College of Energy and Mechanical Engineering, Shanghai University of Electric Power, Shanghai, 200090, China
+AB  - PV windows are mostly installed on fixed facades of static buildings with limitations such as partial shading and non-uniformity power generation. Ships, as special man-made construction, their orientation and speed are changeable under sailing condition. A significant portion of ship's energy consumption is dedicated to maintaining the comfort of cabin environment. To expand the PV windows application scenarios and reduce the cabin energy consumption, this paper proposes an innovative application of CdTe PV windows in ship-based moving condition. The dynamic variations in solar irradiation received angle depend on different energy converting orientations of PV window since the ship movements. Thus, PV windows can avoid non-uniform irradiation and partial shading, leading to better energy harvesting efficiency in solar energy capture when PV windows are connected in parallel. The comprehensive performance of PV windows is compared under two conditions: a mooring condition with a northwest-facing bow and a sailing condition with closed sailing routes. The results indicate that under sailing condition, the average power generation efficiency of PV windows increased by 65.05% and heat transfer was reduced by 57.47%. The energy generation by PV windows can meet 100% of energy demand for ship cabin air conditioning and lighting under sailing condition. © 2025
+KW  - Cabin optical environment
+KW  - Electrical generation efficiency
+KW  - Heat transfer
+KW  - PV window
+KW  - Ship-based environment
+KW  - Air conditioning
+KW  - Energy utilization
+KW  - Facades
+KW  - Solar power generation
+KW  - Windows
+KW  - Cabin optical environment
+KW  - CdTe
+KW  - Comprehensive performance
+KW  - Condition
+KW  - Electrical generation efficiency
+KW  - Optical environment
+KW  - Partial shading
+KW  - PV window
+KW  - Sailing conditions
+KW  - Ship-based environment
+KW  - efficiency measurement
+KW  - electricity generation
+KW  - energy use
+KW  - heat transfer
+KW  - indoor air
+KW  - performance assessment
+KW  - power generation
+KW  - ship motion
+KW  - solar radiation
+KW  - Energy harvesting
+PB  - Elsevier Ltd
+SN  - 22131388 (ISSN)
+LA  - English
+J2  - Sustainable Energy Technol. Assess.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: L. Xu; Provincial Key Laboratory of Naval Architecture & Ocean Engineering, Institute of Marine Engineering, Jimei University, Xiamen, 361021, China; email: lijiexu@jmu.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Liu, W.
+AU  - Liu, X.
+AU  - Lin, L.
+AU  - Li, C.
+AU  - Pan, C.
+AU  - Chow, T.-T.
+AU  - Zhou, J.
+AU  - Cao, J.
+TI  - Liquid flow window: Technology review and future trends
+PY  - 2025
+T2  - Renewable and Sustainable Energy Reviews
+VL  - 223
+C7  - 115988
+DO  - 10.1016/j.rser.2025.115988
+UR  - https://www.scopus.com/pages/publications/105009414425?origin=resultslist
+AD  - School of Energy and Environmental Engineering, University of Science and Technology Beijing, Beijing, 100083, China
+AD  - School of Economic and Finance, Xi'an Jiaotong University, Shaanxi, Xi'an, 710049, China
+AD  - School of Architecture & Urban Planning, Shenzhen University, Shenzhen, China
+AD  - College of Civil Engineering, Hunan University, Changsha, 410082, China
+AD  - Shunde Graduate School, University of Science and Technology Beijing, Foshan, 528399, China
+AD  - Greater Bay Area Institute for Innovation, Hunan University, Guangdong, 511300, China
+AD  - Key Laboratory of Building Safety and Energy Efficiency of Ministry of Education, Hunan University, Hunan, Changsha, China
+AB  - Liquid flow windows (LFWs) represent a novel technology for enhancing building energy efficiency by integrating solar thermal collection, radiative heating/cooling, and dynamic shading. Recent years have seen extensive research on LFW systems, with advances in design, optical, thermal, and acoustic performance, supported by both experimental tests and validated numerical studies. This review aims at providing an up-to-date classification and achievement of the global research works on LFWs, and focusing particularly on the various design options, applications, and their associated benefits. Advanced integrations—such as nanofluids, phase-change materials, and hybrid systems with photovoltaics or heat pumps—significantly enhance stability and energy flexibility. The review also addresses the key challenges hindering the commercialization of LFW technology, such as low-temperature heat utilization, microbial growth in cavities, and insufficient long-term performance data. Additionally, it offers insights into future advancements to accelerate adoption in net-zero energy buildings, which are crucial to the milestone advancements in liquid flow window technology. © 2025 Elsevier Ltd
+KW  - Active glazing
+KW  - Building energy conservation
+KW  - Building-integrated solar thermal
+KW  - Liquid flow window
+KW  - Thermal performance
+KW  - Energy efficiency
+KW  - Historic preservation
+KW  - Hybrid materials
+KW  - Hybrid systems
+KW  - Solar heating
+KW  - Active glazing
+KW  - Building energy conservation
+KW  - Building integrated
+KW  - Building-integrated solar thermal
+KW  - Future trends
+KW  - Liquid flow
+KW  - Liquid flow window
+KW  - Solar thermal
+KW  - Technology review
+KW  - Thermal Performance
+KW  - Phase change materials
+PB  - Elsevier Ltd
+SN  - 13640321 (ISSN)
+LA  - English
+J2  - Renewable Sustainable Energy Rev
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: J. Cao; College of Civil Engineering, Hunan University, Changsha, 410082, China; email: jycao@hnu.edu.cn; CODEN: RSERF
+ER  -
+
+TY  - JOUR
+AU  - Wang, M.
+AU  - Jia, Z.
+AU  - Tao, L.
+AU  - Wang, W.
+AU  - Xiang, C.
+TI  - Optimizing the tilt angle of kinetic photovoltaic shading devices considering energy consumption and power Generation— Hong Kong case
+PY  - 2025
+T2  - Energy and Buildings
+VL  - 326
+C7  - 115072
+DO  - 10.1016/j.enbuild.2024.115072
+UR  - https://www.scopus.com/pages/publications/85209555632?origin=resultslist
+AD  - Division of Integrative Systems and Design, Hong Kong University of Science and Technology, Hong kong SAR, Hong Kong
+AB  - Photovoltaic Shading Devices (PVSDs) serve as integral components of Building-Integrated Photovoltaics (BIPV), fulfilling both architectural shading functions and supplying on-site renewable energy to buildings. Previous studies have primarily focused on the energy efficiency of PVSDs in single-story or low-rise buildings, often overlooking the thermal hotspot effects caused by the shading of upper devices on lower ones in multi-story settings, which significantly impairs the efficiency and lifespan of the PV systems. This study focuses on a residential high-rise in Hong Kong, where a kinetic PVSD was designed alongside three innovative control strategies aimed at minimizing energy consumption and optimizing photovoltaic efficiency. Results indicate that in Hong Kong's context, a ratio of PV panel width to the vertical spacing of adjacent PVSDs below 1:10 prevents vertical shading between devices. Moreover, setting the PVSDs at a constant optimal angle of 65° throughout the year, adjusting to optimal monthly angles, or employing real-time angle optimization can reduce energy consumption by 25%, 31.9%, and 36.5%, respectively, compared to units without PVSDs. Furthermore, the hourly control strategy generated 6.4% and 11.4% more electricity than the monthly and yearly control strategies. The kinetic photovoltaic solar devices (PVSD) and the diverse control strategies discussed in this research provide valuable practical insights for the integration of building-integrated photovoltaics (BIPV) on urban facades in densely populated cities. These findings also support the advancement of zero-carbon building practices in high-density environments. © 2024 Elsevier B.V.
+KW  - Building integrated photovoltaic (BIPV)
+KW  - EnergyPlus
+KW  - Kinetic façade
+KW  - Optimizing strategy
+KW  - Photovoltaic shading device (PVSD)
+KW  - Building integrated photovoltaic
+KW  - Control strategies
+KW  - EnergyPlus
+KW  - Hong-kong
+KW  - Kinetic facades
+KW  - Optimizing strategy
+KW  - Photovoltaic shading device
+KW  - Photovoltaics
+KW  - Shading devices
+KW  - Zero-carbon
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 18; Correspondence Address: C. Xiang; Division of Integrative Systems and Design, Hong Kong University of Science and Technology, Hong kong SAR, Hong Kong; email: changyingx@ust.hk; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Zhou, S.
+AU  - Shan, K.
+AU  - Lin, Q.
+AU  - Guo, X.
+AU  - Song, M.
+AU  - Zhang, L.
+TI  - An innovative adaptive double-skin wall system integrating a phase change material layer: comprehensive performances across different climate zones for heating
+PY  - 2025
+T2  - Building and Environment
+VL  - 281
+C7  - 113187
+DO  - 10.1016/j.buildenv.2025.113187
+UR  - https://www.scopus.com/pages/publications/105005761786?origin=resultslist
+AD  - Department of Energy and Power Engineering, School of Mechanical Engineering, Beijing Institute of Technology, Beijing, 100081, China
+AD  - Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hong Kong
+AD  - Zhengzhou Research Institute, Beijing Institute of Technology, Zhengzhou, 450000, China
+AD  - Chongqing Key Laboratory for Resource Utilization of Heavy Metal Wastewater, Chongqing University of Arts and Sciences, Chongqing, 402160, China
+AD  - School of Chemistry & Chemical Engineering, Henan University of Science and Technology, Luoyang, 471000, China
+AD  - Department of Chemistry, School of Physical and Chemical Sciences, Queen Mary University of London, London, E1 4NS, United Kingdom
+AB  - The adaptive building envelope is an efficient approach for building energy savings and thermal comfort. However, conventional approaches commonly adopted to achieve the adaptive building envelope are advanced materials or complex adaptive structural design alone. In this paper, a novel adaptive PCM double-skin wall system, which combines the PCMs and simple structural design, is proposed, and its comprehensive thermal, energy, economic, and environmental analyses under eight different climate zones during the heating season are analyzed. The findings indicate that compared to the mean ambient temperature, the corresponding indoor temperature can be improved by 15 °C to 40.7 °C. The studied climate zones are classifiable into two distinct categories: Climate Ⅰ and Climate Ⅱ. Climate Ⅰ encompasses cold humid, very cold, and subarctic/arctic zones, while Climate Ⅱ encompasses warm humid, mixed humid, cold humid, mixed dry, and cold dry zones. Furthermore, in Climate Ⅱ, zero carbon emissions, and thermal comfort throughout the day could be achieved. The annual heating cost savings demonstrate a spectrum of 8.27 % to 43.57 % across the studied climate zones, with the exception of the subarctic/arctic zone. The research results will enrich the climate-adaptive envelope structures and provide in-depth and detailed guidance for their practical application. © 2025
+KW  - Adaptive envelope
+KW  - Climate characteristics
+KW  - Double-skin wall
+KW  - Heating
+KW  - PCMs
+KW  - Architectural design
+KW  - Model structures
+KW  - Reconstruction (structural)
+KW  - Structural dynamics
+KW  - Structural health monitoring
+KW  - Walls (structural partitions)
+KW  - 'Dry' [
+KW  - Adaptive envelope
+KW  - Building envelopes
+KW  - Climate characteristics
+KW  - Comprehensive performance
+KW  - Double-skin wall
+KW  - Material layers
+KW  - Phase Change
+KW  - Thermal
+KW  - Wall systems
+KW  - architectural design
+KW  - building
+KW  - climate
+KW  - heating
+KW  - wall
+KW  - Dynamic response
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 4; Correspondence Address: M. Song; Department of Energy and Power Engineering, School of Mechanical Engineering, Beijing Institute of Technology, Beijing, 100081, China; email: mengjie.song@bit.edu.cn; CODEN: BUEND
+ER  -
+
+TY  - CONF
+AU  - Pantilimonescu-Cioancă, F.
+AU  - Beatini, V.
+TI  - Adaptive Façades for Activity-Specific Well-Being: Exploring emotional responses with virtual reality and machine learning
+PY  - 2025
+T2  - Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+VL  - 1
+SP  - 421
+EP  - 430
+DO  - 10.52842/conf.ecaade.2025.1.421
+UR  - https://www.scopus.com/pages/publications/105026139531?origin=resultslist
+AD  - "Ion Mincu" University of Architecture and Urbanism Bucharest, Romania
+AD  - Aarhus University, Denmark
+AB  - While façades shape interior ambiance through light and shadow, architects lack evidence-based methods to tailor dynamic façades to activity-specific emotional needs. This study tests a novel framework combining Virtual Reality and unsupervised Machine Learning to identify how users configure façade features (speed, coverage, spread, position) for distinct activities (working, relaxing, socializing). Seventy-five participants customized façades in an interactive environment and rated their emotional states. Analyses revealed both activity-driven preferences (slow-moving, low-coverage façades for work/relaxation vs. dynamic, high-coverage patterns for socializing) and participants’ cluster specific trend. Although these findings need validation across demographics, they demonstrate that Virtual Reality experimentation and Machine Learning clustering can decode activity-specific preferences, offering architects a data-driven starting point for adaptive façade design. © 2025, Education and research in Computer Aided Architectural Design in Europe. All rights reserved.
+KW  - adaptive façades
+KW  - Affective Computing
+KW  - PAD emotional response
+KW  - Self-Assessment Manikin
+KW  - unsupervised learning
+KW  - Virtual Reality
+A2  - Sorguç A.
+A2  - Yemişcioğlu M.K.
+A2  - Erol S.B.
+A2  - Bük M.E.
+A2  - Güney D.
+A2  - Sulayıcı B.A.
+A2  - Akol M.
+PB  - Education and research in Computer Aided Architectural Design in Europe
+SN  - 26841843 (ISSN); 978-949120739-6 (ISBN)
+LA  - English
+J2  - Proc. Int. Conf. Educ. Res. Comput. Aided. Archit. Des. Eur.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 1; Conference name: 43rd Conference on Education and Research in Computer Aided Architectural Design in Europe, eCAADe 2025; Conference date: 1 September 2025 through 5 September 2025; Conference code: 344709
+ER  -
+
+TY  - JOUR
+AU  - Xu, W.
+AU  - Zheng, X.
+AU  - Chen, Y.
+AU  - Xu, X.
+AU  - Shen, Y.
+TI  - Field monitoring and numerical analysis of thermal behavior of the National Stadium under solar radiation
+PY  - 2025
+T2  - Journal of Building Engineering
+VL  - 114
+C7  - 114258
+DO  - 10.1016/j.jobe.2025.114258
+UR  - https://www.scopus.com/pages/publications/105018641167?origin=resultslist
+AD  - College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, 310058, China
+AD  - Center for Balance Architecture, Zhejiang University, Hangzhou, 310058, China
+AD  - Innovation Center of Yangtze River Delta, Zhejiang University, Jiashan, 314102, China
+AD  - Zhejiang Communications Construction Group Co., LTD, Hangzhou, 310051, China
+AD  - Key Laboratory of Space Structures of Zhejiang Province, Hangzhou, 310058, China
+AB  - Due to high static indeterminacy, large-span spatial structures are sensitive to temperature changes. But dynamic boundary conditions like solar radiation, wind, and atmospheric factors cause spatiotemporal thermal non-uniformity, deviating from the uniformity assumption. Thus, non-uniform thermal behavior of the National Stadium was studied by long-term monitoring and numerical analysis. Sensor node was developed with vibrating-wire stress/temperature sensor and wireless communication module comprising ATmega64, CC1101, TPS7333, AT45DB641E, and ADS1115. A robust tree-type wireless sensor network was deployed, featuring time-aligned data acquisition and cloud computing-based remote platform. The National Stadium's system adopts 160 sensors to monitor temperature and stress in 40 members, including 9 top chords, 22 bottom chords, 6 webs, and 3 columns. Long-term monitoring revealed significant spatiotemporal non-uniformity in the structural temperature field, with solar radiation causing >10 °C differences and daytime temperatures well above ambient. The structure showed marked thermal-sensitivity, with clear stress gradients, strong stress-temperature correlation, and annual stress variations of many members exceeding 20 MPa. Based on ray-tracing and computer graphics, an algorithm was established to identify dynamic shading effects among structural members and applied to thermal/structural analysis. A numerical method was developed that incorporates heat conduction, convection, and radiation, while accounting for realistic thermal boundary conditions induced by solar radiation, wind, and ambient temperature. In the simulation, temperature distribution was modeled using link elements, and thermal stresses were modeled using beam elements. Measured and simulated data closely replicate each other, with average error rates for temperature and stress in monitored members below 8 % and 16 %, respectively, and average deviations within 2.9 °C and 1.1 MPa. These results highlight the reliability of the numerical approach and support the validity of the simulation method in representing structural thermal behavior. Methodologies and conclusions of this study provides practical insights for thermal design, monitoring, and control of spatial structures. © 2025 Elsevier Ltd
+KW  - Finite element analysis
+KW  - Large-span spatial structures
+KW  - Long-term field monitoring
+KW  - Spatiotemporal temperature distribution
+KW  - Thermally induced stresses
+KW  - Boundary conditions
+KW  - Computer graphics
+KW  - Heat conduction
+KW  - Heat convection
+KW  - Numerical methods
+KW  - Ray tracing
+KW  - Solar radiation
+KW  - Stadiums
+KW  - Structural analysis
+KW  - Temperature distribution
+KW  - Trees (mathematics)
+KW  - Field monitoring
+KW  - Finite element analyse
+KW  - Large-span spatial structures
+KW  - Long term monitoring
+KW  - Long-term field monitoring
+KW  - National-stadium
+KW  - Spatiotemporal temperature distribution
+KW  - Term field
+KW  - Thermal behaviours
+KW  - Thermally induced stress
+KW  - Recreation centers
+PB  - Elsevier Ltd
+SN  - 23527102 (ISSN)
+LA  - English
+J2  - J. Build. Eng.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: Y. Shen; College of Civil Engineering and Architecture, Zhejiang Univ., Hangzhou, 310058, China; email: ybshen@zju.edu.cn
+ER  -
+
+TY  - JOUR
+AU  - Wang, H.
+AU  - Lu, Z.
+AU  - Wojtasiak, A.
+AU  - Owyong, S.
+AU  - Sun, B.
+AU  - Fang, Y.
+AU  - Vassigh, S.
+AU  - Lin, A.
+TI  - Biomimetic self-shading walls via 3D-printing for reduced heat gain: Multiscale learning using graph neural networks to predict solar radiation absorption
+PY  - 2025
+T2  - Building and Environment
+VL  - 279
+C7  - 113048
+DO  - 10.1016/j.buildenv.2025.113048
+UR  - https://www.scopus.com/pages/publications/105003811207?origin=resultslist
+AD  - Department of the Built Environment, National University of Singapore, 4 Architecture Drive, SDE1, 117566, Singapore
+AD  - School of Architecture, Florida International University, 11200 SW 8th St., Miami, 33199, FL, United States
+AD  - School of Architecture, Southeast University, No. 2 Si-Pai-Lou, Jiangsu, Nanjing, 210096, China
+AD  - Department of Electrical & Computer Engineering, National University of Singapore, 4 Engineering Drive 3, 117583, Singapore
+AB  - Energy efficiency in buildings is critical for decarbonization, especially in tropical climates where minimizing heat gain is essential. This study introduces a novel self-shading design that uses varied modular block geometries to enable adaptability in static self-shading facades. We demonstrate that the proposed design significantly reduces absorbed solar radiation, contributing to meaningful energy savings in building operations. In addition, with the purpose of accelerating assessment progress, we develop an efficient computational framework for evaluating self‑shading performance by comparing two Graph Convolution Network (GCN)‑based approaches. Our results indicate that an indirect multiscale learning framework—GCN + Neural Network (NN)—outperforms a direct GCN approach, achieving a lower Mean Relative Rrror (MRE) while using less memory and computational time. This scalable method offers a promising alternative to traditional Finite Element Method (FEM) simulations for assessing complex self‑shading designs. © 2025
+KW  - Decarbonization
+KW  - Energy conservation
+KW  - Graph neural networks
+KW  - Multiscale learning
+KW  - Self-shading walls
+KW  - 3D reconstruction
+KW  - Convolutional neural networks
+KW  - Energy Intensity
+KW  - Energy saving
+KW  - Facades
+KW  - Graph algorithms
+KW  - Graph neural networks
+KW  - Network theory (graphs)
+KW  - Walls (structural partitions)
+KW  - 3-D printing
+KW  - 3D-printing
+KW  - Decarbonisation
+KW  - Energy
+KW  - Graph neural networks
+KW  - Heat gains
+KW  - Multiscale learning
+KW  - Radiation absorption
+KW  - Self-shading
+KW  - Self-shading wall
+KW  - absorption
+KW  - artificial neural network
+KW  - energy conservation
+KW  - energy efficiency
+KW  - finite element method
+KW  - learning
+KW  - solar power
+KW  - solar radiation
+KW  - wall
+KW  - Energy efficiency
+PB  - Elsevier Ltd
+SN  - 03601323 (ISSN)
+LA  - English
+J2  - Build. Environ.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 9; Correspondence Address: A. Lin; Department of the Built Environment, National University of Singapore, 4 Architecture Drive, SDE1, 117566, Singapore; email: bdgal@nus.edu.sg; CODEN: BUEND
+ER  -
+
+TY  - JOUR
+AU  - Du, H.
+AU  - Loenders, S.
+AU  - Han, Q.
+TI  - Navigating the built environment energy transition in the Netherlands: A tool for energy-oriented design and planning
+PY  - 2025
+T2  - Energy and Buildings
+VL  - 346
+C7  - 116223
+DO  - 10.1016/j.enbuild.2025.116223
+UR  - https://www.scopus.com/pages/publications/105012275280?origin=resultslist
+AD  - School of Urban Planning and Design, Peking University Shenzhen Graduate School, Nanshan District, Shenzhen, China
+AD  - Department of the Built Environment, Eindhoven University of Technology, Eindhoven, Netherlands
+AB  - The built environment is pivotal to achieving global climate targets, yet electrification and renewable energy integration strain aging electricity grids. This study addresses these challenges through a decision-making support tool designed for energy self-sufficient greenfield developments. Combining hourly-resolution modeling of energy demand, renewable supply (solar, wind), and communal storage, the tool bridges spatial planning and energy transition goals. Evaluated via two Dutch case studies, the tool demonstrated how to optimize self-sufficiency by up to 100% through communal storage integration, dynamic shading, and wind energy adoption. Results revealed that while photovoltaic (PV) systems dominate supply, their seasonal variability necessitates oversized storage without complementary wind energy. The tool's iterative development incorporated expert feedback, refining datasets with 10-year averaged climate profiles and COP-driven efficiency adjustments. Practical insights include the need for multi-tiered dashboards to serve diverse stakeholders and predefined building typologies to enhance early-stage usability. Despite limitations in dwelling-type scalability and financial assessment, the tool proves critical for guiding sustainable urban design, emphasizing storage, and balancing grid resilience with decarbonization targets. © 2025 Elsevier B.V.
+KW  - Communal energy storage
+KW  - Energy self-sufficiency
+KW  - Energy transition in built environments
+KW  - Hourly-resolution modeling
+KW  - Renewable energy integration
+KW  - Sustainable urban design
+KW  - Architectural design
+KW  - Decision making
+KW  - Ecodesign
+KW  - Electric utilities
+KW  - Energy efficiency
+KW  - Energy storage
+KW  - Integration
+KW  - Structural design
+KW  - Sustainable development
+KW  - Urban planning
+KW  - Wind power
+KW  - Built environment
+KW  - Communal energy storage
+KW  - Energy
+KW  - Energy self-sufficiency
+KW  - Energy transition in build environment
+KW  - Energy transitions
+KW  - Hourly-resolution modeling
+KW  - Renewable energy integrations
+KW  - Resolution modeling
+KW  - Sustainable urban designs
+KW  - Energy transition
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: H. Du; School of Urban Planning and Design, Peking University Shenzhen Graduate School, Nanshan District, Shenzhen, China; email: duhua@pku.edu.cn; CODEN: ENEBD
+ER  -
+
+TY  - JOUR
+AU  - Shao, C.
+AU  - Migan-Dubois, A.
+AU  - Diallo, D.
+TI  - Design of Building-Installed PV system, with consideration given to the size and position of the building
+PY  - 2025
+T2  - Renewable Energy
+VL  - 250
+C7  - 123143
+DO  - 10.1016/j.renene.2025.123143
+UR  - https://www.scopus.com/pages/publications/105004414522?origin=resultslist
+AD  - University Paris Saclay, CentraleSupelec, CNRS, GeePs, 11 Rue Joliot Curie, Palaiseau, Ile de France, 91192, France
+AB  - Building-installed Photovoltaic (BPV) provides solutions to improving energy flexibility in urban areas. There are two problems: 1) the simple view factor is inapplicable to cities; 2) Partial Shading Conditions (PSCs) are the main cause of power loss in urban areas. Moreover, the PSCs increase the difficulties in estimating performance and designing a BPV system with higher efficiency. This work implements the Building Environment Analysis Tool (BEA) to help design BPV configurations and proposes installation strategies under dynamic PSCs. This work designs a dual-building model to study the performance of the BPV system under PSCs. In addition, the paper considers the series-parallel (SP) and the total-cross-tied (TCT) for the PV system's configuration to mitigate the PSCs’ effect. Based on the PV configuration and the double building model, this article studies the impact of the height and shape of the neighboring building on the performance of the BPV system. Based on the simulation results, this article provides guidelines for designing more efficient BPV systems, considering their environment. © 2025
+KW  - BPV design
+KW  - Dynamic partial shading condition
+KW  - Efficiency
+KW  - PV reconfiguration
+KW  - Building-installed photovoltaic design
+KW  - Condition
+KW  - Dynamic partial shading condition
+KW  - Partial shading
+KW  - Performance
+KW  - Photovoltaic systems
+KW  - Photovoltaics
+KW  - PV reconfiguration
+KW  - PV system
+KW  - Urban areas
+KW  - building
+KW  - energy efficiency
+KW  - installation
+KW  - performance assessment
+KW  - photovoltaic system
+KW  - simulation
+KW  - Architectural design
+PB  - Elsevier Ltd
+SN  - 09601481 (ISSN)
+LA  - English
+J2  - Renew. Energy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 2; Correspondence Address: A. Migan-Dubois; University Paris Saclay, CentraleSupelec, CNRS, GeePs, Ile de France, 11 Rue Joliot Curie, Palaiseau, 91192, France; email: anne.dubois@centralesupelec.fr
+ER  -
+
+TY  - JOUR
+AU  - Feng, Y.
+AU  - Xu, M.
+AU  - Chen, T.
+AU  - Liu, J.
+AU  - Li, L.
+TI  - Bio-adaptive reflective photovoltaic (BARP) facade system: a multimodal energy-saving solution based on light reflection
+PY  - 2025
+T2  - Energy and Buildings
+VL  - 345
+C7  - 116105
+DO  - 10.1016/j.enbuild.2025.116105
+UR  - https://www.scopus.com/pages/publications/105010473513?origin=resultslist
+AD  - School of Architecture, Southeast University, No. 2 Sipailou, Nanjing, 210018, China
+AD  - School of Architecture, Carnegie Mellon University, Pittsburgh, PA, United States
+AD  - Department of Architecture, National University of Singapore, 21 Lower Kent Ridge Rd, 119077, Singapore
+AB  - Buildings account for approximately 40% of global energy consumption, creating an urgent need for innovative solutions that enhance energy efficiency while maintaining occupant comfort. Traditional photovoltaic (PV) façades are often constrained by low energy output, limited intelligence, single functionality, and poor environmental interaction. This study presents a Bio-Adaptive Reflective Photovoltaic (BARP) facade system incorporating dynamic reflection technology with smart control systems to substantially improve both energy generation and indoor environmental quality (IEQ). The system employs biomimetic finger-like adaptive reflective blades that precisely track solar trajectories through a specialized mechanical structure. These blades dynamically redirect incident sunlight onto strategically positioned PV panels while supporting multimodal operation, including an indoor light-guiding mode that optimizes natural illumination. The design methodology combines computational fluid dynamics simulation, parametric optimization, and physical prototyping. A novel ray-tracing algorithm was developed to optimize the reflective panel geometries and motion control parameters. Experimental validation conducted at 31.65°N, 120.75°E demonstrates that the BARP system achieves peak power outputs 2.4 times higher than conventional fixed PV panels, with daily energy generation approximately 1.8 times greater. The system's biomimetic mechanism effectively mitigates efficiency losses from self-shading while maintaining stable performance across seasonal variations. Indoor light measurements confirm that the system's guidance mode improves illumination uniformity by 40% compared to traditional façades. This research establishes a comprehensive framework for integrating adaptive reflection technology with PV systems, with significant implications for green building adoption in urban environments. Implementation in commercial buildings could reduce energy consumption while providing flexible control over IEQ, though widespread adoption will require addressing challenges related to maintenance costs, durability under extreme weather conditions, and integration with existing building management systems. © 2025
+KW  - Adaptive building envelope
+KW  - Bio-inspired façade
+KW  - Building-integrated photovoltaics
+KW  - Daylighting control
+KW  - Solar tracking façade
+KW  - Adaptive control systems
+KW  - Biomimetics
+KW  - Dynamics
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Environmental technology
+KW  - Facades
+KW  - Intelligent buildings
+KW  - Motion control
+KW  - Office buildings
+KW  - Quality control
+KW  - Solar power generation
+KW  - Adaptive building envelope
+KW  - Bio-inspired facade
+KW  - Building envelopes
+KW  - Building integrated photovoltaic
+KW  - Daylighting control
+KW  - Energy generations
+KW  - Indoor environmental quality
+KW  - Photovoltaic facades
+KW  - Solar tracking facade
+KW  - Solar-tracking
+KW  - Light reflection
+PB  - Elsevier Ltd
+SN  - 03787788 (ISSN)
+LA  - English
+J2  - Energy Build.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 09 June 2026; Cited By: 0; Correspondence Address: L. Li; School of Architecture, Southeast University, Nanjing, No. 2 Sipailou, 210018, China; email: 101012053@seu.edu.cn; CODEN: ENEBD
+ER  -
+
