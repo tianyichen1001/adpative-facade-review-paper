@@ -14,9 +14,9 @@
 | **Stage-1 保留(进入 Stage-2)** | **2118** |
 | └─ include(明显可动表皮) | 423 |
 | └─ uncertain(拿不准,保守保留) | 1695 |
-| 抓摘要数(Cowork) | 〔Stage-2 时回填,基数 = 2118〕 |
-| Screening-2 后(摘要细筛) | 〔待填〕 |
-| Included | 〔待填〕 |
+| 抓摘要数(摘要覆盖) | 1874/2118 = 88.5%(scrape+OpenAlex+Scopus,见 §下 Stage-2) |
+| Screening-2 后(摘要细筛) | include 595 + related_review 141 + uncertain_fulltext 1131(exclude 251) |
+| Included(纳入集) | **595**(+ 全文核 1131 uncertain 后增补) |
 
 ## Stage-1b 弱桶再筛(2026-06-08)
 
@@ -86,3 +86,23 @@
 - **最不确定 / 最需 Stage-2 关注:**
   1. `soft_motion_facade`(1013):"adaptive/dynamic facade" 高度歧义——可能是真·kinetic,也可能是热工动态静态(PCM/动态保温)或控制算法。**Stage-2 摘要细筛将在此大量分流。**
   2. ~~`no_signal_keep`(204):零信号保守保留,含真噪声~~ → **已由 Stage-1b 弱桶再筛处理**(204→12),连同 `soft_motion_no_building`、`motion_no_building` 一并复核,共剔除 287,Stage-2 基数从 2405 降至 **2118**。
+
+---
+
+## Stage-2 摘要细筛(2026-06-09)— 严格 §3.1 物理可动
+
+输入 = Stage-2 集 2118(摘要覆盖 88.5%:`stage2_with_abstracts_v3`)。litmus = **表皮物理部件可见地改变位置/形状**(旋转/平移/折叠/充气/带运动形变)且一手研究;只变光学态/热工/控制固定系统 → 排除。脚本:`scripts/stage2_screen.py`(规则+灰区 AI);抽检 `stage2_spotcheck_40.csv`;桥接表预览 `bridge_preview.md`。
+
+| 决定 Decision | N | 占比 |
+|---|---|---|
+| **include(物理可动,一手)** | **595** | 28.1% |
+| related_review(综述,留作引言/对标) | 141 | 6.7% |
+| **exclude** | **251** | 11.8% |
+| └ facade_no_movement(光学/热工/媒体静态) | 159 | |
+| └ not_facade(跨域噪声) | 92 | |
+| └ not_building(可动但非建筑表皮) | 0 | |
+| **uncertain_fulltext(摘要未明物理运动,待全文)** | **1131** | 53.4% |
+
+- **无摘要 244 条**(title-only 判,置信降低):uncertain 153 / exclude 60 / include 26 / related_review 5——即 ~63% 无摘要者保守留 uncertain。
+- **uncertain 占 53%** 是真实信号,不是失败:大量 "adaptive/dynamic/responsive façade" 在摘要层面分不清是否物理可动——这正是 §1.1 要划界的 conflation 带,留全文核。
+- **PRISMA Stage-2 漏斗:** 2118 →(细筛)→ include 595 + related_review 141 + uncertain 1131(待全文)+ exclude 251。**纳入集 = 595(+ 全文核 uncertain 后增补)。**
