@@ -131,3 +131,43 @@
 - 提级项全列于 `promoted_from_uncertain.csv` 供人工核(~45/52 明确为 kinetic/movable 表皮,余为表皮语境的概念性论文,已标注)。
 - uncertain 仍 1042(49%):并入关键词后只能再切出 89 条(52+37),其余确实在摘要+关键词层面分不清是否物理可动——**这正是 §1.1 conflation 的量化证据**,留全文核。
 - bridge_preview(在 647 上重算):报告性能 77% / 机制明确 58%(unclear 42%)/ simulation:实验原型 ≈ 0.9:1 —— 与原 595 一致:**「性能重、机制轻」成立;「只仿真不落地」证据弱**(如实)。
+
+---
+
+## Stage-2c 三轮提纯(2026-06-09)— uncertain 归零
+
+step0 落 11 条人工 QC;step1 对 640 按「具体可动系统」提纯;step2 把 1052 uncertain 全部装桶销账(movable_possible 精读捞回)。
+
+| 最终决定 | N |
+|---|---|
+| include | 608 |
+| related_review | 157 |
+| exclude | 1353 |
+| uncertain_fulltext | 0 |
+
+**纳入集 included_core = 608**(`included_core.csv`)。uncertain 已归零。
+
+### exclude 按 reason
+| reason | N |
+|---|---|
+| facade_no_movement | 960 |
+| insufficient_info | 193 |
+| not_facade | 150 |
+| no_specific_system | 50 |
+
+### uncertain 装桶明细(1052)
+| bucket | N |
+|---|---|
+| static_other | 652 |
+| insufficient_info | 124 |
+| control_of_static | 81 |
+| movable_possible->insufficient_info | 69 |
+| not_facade_other | 58 |
+| movable_possible->include | 33 |
+| dsf_static | 17 |
+| vent_breathing | 10 |
+| pcm_thermal | 4 |
+| chromogenic | 3 |
+| media_led | 1 |
+
+- 提级捞回 movable_possible→include 已并入 core;removed_from_640 见同名 csv;rescued_from_uncertain.csv 列精读捞回供核。
