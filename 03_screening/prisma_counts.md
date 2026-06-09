@@ -16,7 +16,7 @@
 | └─ uncertain(拿不准,保守保留) | 1695 |
 | 抓摘要数(摘要覆盖) | 1874/2118 = 88.5%(scrape+OpenAlex+Scopus,见 §下 Stage-2) |
 | Screening-2 后(摘要细筛) | include 595 + related_review 141 + uncertain_fulltext 1131(exclude 251) |
-| Included(纳入集) | **595**(+ 全文核 1131 uncertain 后增补) |
+| Included(纳入集) | **647**(595 + 关键词二轮提级 52;详见 Stage-2b) |
 
 ## Stage-1b 弱桶再筛(2026-06-08)
 
@@ -106,3 +106,28 @@
 - **无摘要 244 条**(title-only 判,置信降低):uncertain 153 / exclude 60 / include 26 / related_review 5——即 ~63% 无摘要者保守留 uncertain。
 - **uncertain 占 53%** 是真实信号,不是失败:大量 "adaptive/dynamic/responsive façade" 在摘要层面分不清是否物理可动——这正是 §1.1 要划界的 conflation 带,留全文核。
 - **PRISMA Stage-2 漏斗:** 2118 →(细筛)→ include 595 + related_review 141 + uncertain 1131(待全文)+ exclude 251。**纳入集 = 595(+ 全文核 uncertain 后增补)。**
+
+---
+
+## Stage-2b 关键词二轮筛(2026-06-09)— 并入 Scopus 作者关键词后
+
+并入 Scopus 全导出作者关键词(v4:author_keywords 126→**1559**=73.6%,index_keywords 1352)后,对一轮 1131 个 `uncertain_fulltext` 用 **标题+作者关键词** 重判。**红线:绝不因 adaptive/dynamic/responsive/smart 等 buzzword 提级**(经核实 0 例违规);提级须同时具备**明确运动/机制词 + 表皮语境**。脚本 `scripts/stage2b_rescreen.py`。
+
+| 去向 | N |
+|---|---|
+| → include(提级,关键词含 kinetic/origami/SMA/movable/foldable… + 表皮语境) | **52** |
+| → exclude facade_no_movement(降除:DSF 无 operable / 电致变色 / PCM 蓄热 / 动态保温) | 37 |
+| 仍 uncertain_fulltext(真说不清,conflation 证据 / limitation) | 1042 |
+
+### 二轮后 Stage-2 漏斗(终)
+| 决定 | N | 占比 |
+|---|---|---|
+| **include(纳入集 included_final)** | **647** | 30.5% |
+| related_review | 141 | 6.7% |
+| exclude(facade_no_movement 196 + not_facade 92) | 288 | 13.6% |
+| uncertain_fulltext(待全文,limitation) | 1042 | 49.2% |
+
+- **纳入集 included_final = 647**(原 595 + 提级 52)→ `included_final.csv`(含 §4.4 轻量标签)。
+- 提级项全列于 `promoted_from_uncertain.csv` 供人工核(~45/52 明确为 kinetic/movable 表皮,余为表皮语境的概念性论文,已标注)。
+- uncertain 仍 1042(49%):并入关键词后只能再切出 89 条(52+37),其余确实在摘要+关键词层面分不清是否物理可动——**这正是 §1.1 conflation 的量化证据**,留全文核。
+- bridge_preview(在 647 上重算):报告性能 77% / 机制明确 58%(unclear 42%)/ simulation:实验原型 ≈ 0.9:1 —— 与原 595 一致:**「性能重、机制轻」成立;「只仿真不落地」证据弱**(如实)。
