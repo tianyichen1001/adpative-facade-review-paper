@@ -1,0 +1,1957 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="freq" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Computer science">
+      <data key="d0">1051</data>
+    </node>
+    <node id="Architectural engineering">
+      <data key="d0">701</data>
+    </node>
+    <node id="Environmental science">
+      <data key="d0">494</data>
+    </node>
+    <node id="Engineering">
+      <data key="d0">431</data>
+    </node>
+    <node id="Shading">
+      <data key="d0">327</data>
+    </node>
+    <node id="Facade">
+      <data key="d0">316</data>
+    </node>
+    <node id="Building envelope">
+      <data key="d0">297</data>
+    </node>
+    <node id="Daylight">
+      <data key="d0">256</data>
+    </node>
+    <node id="Envelope (radar)">
+      <data key="d0">245</data>
+    </node>
+    <node id="Materials science">
+      <data key="d0">195</data>
+    </node>
+    <node id="Daylighting">
+      <data key="d0">191</data>
+    </node>
+    <node id="Thermal">
+      <data key="d0">174</data>
+    </node>
+    <node id="Architecture">
+      <data key="d0">168</data>
+    </node>
+    <node id="Energy consumption">
+      <data key="d0">165</data>
+    </node>
+    <node id="Thermal comfort">
+      <data key="d0">142</data>
+    </node>
+    <node id="Energy (signal processing)">
+      <data key="d0">141</data>
+    </node>
+    <node id="Systems engineering">
+      <data key="d0">134</data>
+    </node>
+    <node id="Structural engineering">
+      <data key="d0">133</data>
+    </node>
+    <node id="Photovoltaic system">
+      <data key="d0">131</data>
+    </node>
+    <node id="Glazing">
+      <data key="d0">130</data>
+    </node>
+    <node id="Efficient energy use">
+      <data key="d0">128</data>
+    </node>
+    <node id="Process (computing)">
+      <data key="d0">114</data>
+    </node>
+    <node id="Simulation">
+      <data key="d0">107</data>
+    </node>
+    <node id="Solar gain">
+      <data key="d0">88</data>
+    </node>
+    <node id="Parametric statistics">
+      <data key="d0">85</data>
+    </node>
+    <node id="Mechanical engineering">
+      <data key="d0">82</data>
+    </node>
+    <node id="Control (management)">
+      <data key="d0">80</data>
+    </node>
+    <node id="Meteorology">
+      <data key="d0">79</data>
+    </node>
+    <node id="Context (archaeology)">
+      <data key="d0">77</data>
+    </node>
+    <node id="Illuminance">
+      <data key="d0">73</data>
+    </node>
+    <node id="Kinetic energy">
+      <data key="d0">72</data>
+    </node>
+    <node id="GLARE">
+      <data key="d0">71</data>
+    </node>
+    <node id="Artificial intelligence">
+      <data key="d0">67</data>
+    </node>
+    <node id="Sustainability">
+      <data key="d0">60</data>
+    </node>
+    <node id="Automotive engineering">
+      <data key="d0">60</data>
+    </node>
+    <node id="Solar energy">
+      <data key="d0">59</data>
+    </node>
+    <node id="Renewable energy">
+      <data key="d0">57</data>
+    </node>
+    <node id="Civil engineering">
+      <data key="d0">54</data>
+    </node>
+    <node id="Human–computer interaction">
+      <data key="d0">53</data>
+    </node>
+    <node id="Adaptation (eye)">
+      <data key="d0">51</data>
+    </node>
+    <edge source="Computer science" target="Daylight">
+      <data key="d1">156</data>
+    </edge>
+    <edge source="Computer science" target="Efficient energy use">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="Computer science" target="Energy consumption">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="Computer science" target="GLARE">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="Computer science" target="Simulation">
+      <data key="d1">86</data>
+    </edge>
+    <edge source="Computer science" target="Thermal comfort">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="Computer science" target="Engineering">
+      <data key="d1">213</data>
+    </edge>
+    <edge source="Computer science" target="Systems engineering">
+      <data key="d1">112</data>
+    </edge>
+    <edge source="Computer science" target="Control (management)">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="Computer science" target="Daylighting">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="Computer science" target="Environmental science">
+      <data key="d1">169</data>
+    </edge>
+    <edge source="Computer science" target="Photovoltaic system">
+      <data key="d1">62</data>
+    </edge>
+    <edge source="Computer science" target="Shading">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="Computer science" target="Solar energy">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Computer science" target="Architectural engineering">
+      <data key="d1">405</data>
+    </edge>
+    <edge source="Computer science" target="Artificial intelligence">
+      <data key="d1">65</data>
+    </edge>
+    <edge source="Computer science" target="Glazing">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Computer science" target="Thermal">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="Computer science" target="Energy (signal processing)">
+      <data key="d1">83</data>
+    </edge>
+    <edge source="Computer science" target="Context (archaeology)">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="Computer science" target="Parametric statistics">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="Computer science" target="Illuminance">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Computer science" target="Building envelope">
+      <data key="d1">121</data>
+    </edge>
+    <edge source="Computer science" target="Envelope (radar)">
+      <data key="d1">117</data>
+    </edge>
+    <edge source="Computer science" target="Automotive engineering">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Computer science" target="Mechanical engineering">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="Computer science" target="Process (computing)">
+      <data key="d1">87</data>
+    </edge>
+    <edge source="Computer science" target="Architecture">
+      <data key="d1">127</data>
+    </edge>
+    <edge source="Computer science" target="Kinetic energy">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="Computer science" target="Facade">
+      <data key="d1">176</data>
+    </edge>
+    <edge source="Computer science" target="Renewable energy">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Computer science" target="Adaptation (eye)">
+      <data key="d1">37</data>
+    </edge>
+    <edge source="Computer science" target="Materials science">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="Computer science" target="Human–computer interaction">
+      <data key="d1">52</data>
+    </edge>
+    <edge source="Computer science" target="Sustainability">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Computer science" target="Structural engineering">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Computer science" target="Civil engineering">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Computer science" target="Meteorology">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Computer science" target="Solar gain">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Architectural engineering" target="Architecture">
+      <data key="d1">93</data>
+    </edge>
+    <edge source="Architectural engineering" target="Context (archaeology)">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Architectural engineering" target="Engineering">
+      <data key="d1">259</data>
+    </edge>
+    <edge source="Architectural engineering" target="Process (computing)">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Architectural engineering" target="Sustainability">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="Architectural engineering" target="Civil engineering">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="Architectural engineering" target="Efficient energy use">
+      <data key="d1">69</data>
+    </edge>
+    <edge source="Architectural engineering" target="Energy (signal processing)">
+      <data key="d1">64</data>
+    </edge>
+    <edge source="Architectural engineering" target="Facade">
+      <data key="d1">179</data>
+    </edge>
+    <edge source="Architectural engineering" target="Environmental science">
+      <data key="d1">201</data>
+    </edge>
+    <edge source="Architectural engineering" target="Photovoltaic system">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="Architectural engineering" target="Renewable energy">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Architectural engineering" target="Adaptation (eye)">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Architectural engineering" target="Building envelope">
+      <data key="d1">118</data>
+    </edge>
+    <edge source="Architectural engineering" target="Envelope (radar)">
+      <data key="d1">52</data>
+    </edge>
+    <edge source="Architectural engineering" target="Solar gain">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Architectural engineering" target="Thermal comfort">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="Architectural engineering" target="Energy consumption">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="Architectural engineering" target="Shading">
+      <data key="d1">96</data>
+    </edge>
+    <edge source="Architectural engineering" target="Meteorology">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Architectural engineering" target="Automotive engineering">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Architectural engineering" target="Daylighting">
+      <data key="d1">93</data>
+    </edge>
+    <edge source="Architectural engineering" target="Glazing">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="Architectural engineering" target="Daylight">
+      <data key="d1">109</data>
+    </edge>
+    <edge source="Architectural engineering" target="Systems engineering">
+      <data key="d1">83</data>
+    </edge>
+    <edge source="Architectural engineering" target="Control (management)">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="Architectural engineering" target="GLARE">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Architectural engineering" target="Materials science">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Architectural engineering" target="Thermal">
+      <data key="d1">37</data>
+    </edge>
+    <edge source="Architectural engineering" target="Structural engineering">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Architectural engineering" target="Artificial intelligence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Architectural engineering" target="Parametric statistics">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Architectural engineering" target="Human–computer interaction">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Architectural engineering" target="Illuminance">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Architectural engineering" target="Kinetic energy">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Architectural engineering" target="Solar energy">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Architectural engineering" target="Mechanical engineering">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Architectural engineering" target="Simulation">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Environmental science" target="Daylight">
+      <data key="d1">87</data>
+    </edge>
+    <edge source="Environmental science" target="Illuminance">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Environmental science" target="Meteorology">
+      <data key="d1">74</data>
+    </edge>
+    <edge source="Environmental science" target="Shading">
+      <data key="d1">135</data>
+    </edge>
+    <edge source="Environmental science" target="Energy consumption">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Environmental science" target="Facade">
+      <data key="d1">76</data>
+    </edge>
+    <edge source="Environmental science" target="Kinetic energy">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Environmental science" target="Thermal">
+      <data key="d1">89</data>
+    </edge>
+    <edge source="Environmental science" target="Engineering">
+      <data key="d1">90</data>
+    </edge>
+    <edge source="Environmental science" target="Materials science">
+      <data key="d1">53</data>
+    </edge>
+    <edge source="Environmental science" target="Daylighting">
+      <data key="d1">61</data>
+    </edge>
+    <edge source="Environmental science" target="Photovoltaic system">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="Environmental science" target="Control (management)">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Environmental science" target="Solar energy">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Environmental science" target="Energy (signal processing)">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="Environmental science" target="Building envelope">
+      <data key="d1">77</data>
+    </edge>
+    <edge source="Environmental science" target="Thermal comfort">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="Environmental science" target="Glazing">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="Environmental science" target="Renewable energy">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Environmental science" target="Automotive engineering">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Environmental science" target="Envelope (radar)">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="Environmental science" target="Efficient energy use">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Environmental science" target="Civil engineering">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Environmental science" target="Solar gain">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="Environmental science" target="GLARE">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Environmental science" target="Sustainability">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Environmental science" target="Parametric statistics">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Environmental science" target="Adaptation (eye)">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Environmental science" target="Context (archaeology)">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Environmental science" target="Simulation">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Environmental science" target="Systems engineering">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Environmental science" target="Structural engineering">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Environmental science" target="Architecture">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Environmental science" target="Mechanical engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Environmental science" target="Process (computing)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Engineering" target="Architecture">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Engineering" target="Context (archaeology)">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Engineering" target="Process (computing)">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Engineering" target="Sustainability">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Engineering" target="Systems engineering">
+      <data key="d1">71</data>
+    </edge>
+    <edge source="Engineering" target="Materials science">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Engineering" target="Civil engineering">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Engineering" target="Efficient energy use">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Engineering" target="Energy (signal processing)">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Engineering" target="Facade">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="Engineering" target="Building envelope">
+      <data key="d1">58</data>
+    </edge>
+    <edge source="Engineering" target="Meteorology">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Engineering" target="Thermal comfort">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Engineering" target="Artificial intelligence">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Engineering" target="Structural engineering">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="Engineering" target="Envelope (radar)">
+      <data key="d1">52</data>
+    </edge>
+    <edge source="Engineering" target="Mechanical engineering">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Engineering" target="Automotive engineering">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Engineering" target="Daylighting">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Engineering" target="Energy consumption">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Engineering" target="Glazing">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Engineering" target="Solar gain">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Engineering" target="Daylight">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="Engineering" target="Renewable energy">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Engineering" target="Control (management)">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Engineering" target="Kinetic energy">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Engineering" target="Photovoltaic system">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Engineering" target="Shading">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Engineering" target="Simulation">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Engineering" target="Solar energy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Engineering" target="Adaptation (eye)">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Engineering" target="Thermal">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Engineering" target="Human–computer interaction">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Engineering" target="GLARE">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Engineering" target="Parametric statistics">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Engineering" target="Illuminance">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shading" target="Daylight">
+      <data key="d1">96</data>
+    </edge>
+    <edge source="Shading" target="Illuminance">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Shading" target="Meteorology">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Shading" target="Daylighting">
+      <data key="d1">74</data>
+    </edge>
+    <edge source="Shading" target="Photovoltaic system">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Shading" target="Facade">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="Shading" target="Control (management)">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Shading" target="Solar energy">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Shading" target="Energy (signal processing)">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Shading" target="Thermal">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Shading" target="Artificial intelligence">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Shading" target="Energy consumption">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="Shading" target="Thermal comfort">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Shading" target="Solar gain">
+      <data key="d1">46</data>
+    </edge>
+    <edge source="Shading" target="Building envelope">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Shading" target="Efficient energy use">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Shading" target="GLARE">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="Shading" target="Glazing">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Shading" target="Adaptation (eye)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Shading" target="Context (archaeology)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Shading" target="Simulation">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="Shading" target="Automotive engineering">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Shading" target="Materials science">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Shading" target="Mechanical engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Shading" target="Renewable energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Shading" target="Structural engineering">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Shading" target="Civil engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Shading" target="Process (computing)">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Shading" target="Architecture">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Shading" target="Kinetic energy">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Shading" target="Parametric statistics">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Shading" target="Envelope (radar)">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Shading" target="Human–computer interaction">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Shading" target="Systems engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Facade" target="Energy consumption">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Facade" target="Kinetic energy">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Facade" target="Thermal">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Facade" target="Meteorology">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Facade" target="Civil engineering">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Facade" target="Efficient energy use">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Facade" target="Energy (signal processing)">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Facade" target="Structural engineering">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Facade" target="Building envelope">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Facade" target="Automotive engineering">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Facade" target="Photovoltaic system">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Facade" target="Daylight">
+      <data key="d1">62</data>
+    </edge>
+    <edge source="Facade" target="GLARE">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Facade" target="Glazing">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Facade" target="Illuminance">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Facade" target="Solar gain">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Facade" target="Materials science">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Facade" target="Renewable energy">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Facade" target="Parametric statistics">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="Facade" target="Sustainability">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Facade" target="Solar energy">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Facade" target="Daylighting">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="Facade" target="Architecture">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Facade" target="Systems engineering">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Facade" target="Adaptation (eye)">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Facade" target="Control (management)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Facade" target="Thermal comfort">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Facade" target="Artificial intelligence">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Facade" target="Simulation">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Facade" target="Process (computing)">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Facade" target="Context (archaeology)">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Facade" target="Envelope (radar)">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Facade" target="Mechanical engineering">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Facade" target="Human–computer interaction">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Building envelope" target="Meteorology">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Building envelope" target="Thermal comfort">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="Building envelope" target="Adaptation (eye)">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Building envelope" target="Envelope (radar)">
+      <data key="d1">161</data>
+    </edge>
+    <edge source="Building envelope" target="Solar gain">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Building envelope" target="Automotive engineering">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Building envelope" target="Photovoltaic system">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Building envelope" target="Thermal">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="Building envelope" target="Efficient energy use">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Building envelope" target="Materials science">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Building envelope" target="Parametric statistics">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Building envelope" target="Daylight">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="Building envelope" target="Kinetic energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Building envelope" target="Structural engineering">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Building envelope" target="Glazing">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Building envelope" target="Daylighting">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="Building envelope" target="Renewable energy">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Building envelope" target="Systems engineering">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="Building envelope" target="Energy consumption">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="Building envelope" target="Context (archaeology)">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Building envelope" target="Mechanical engineering">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Building envelope" target="Energy (signal processing)">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Building envelope" target="Solar energy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Building envelope" target="Civil engineering">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Building envelope" target="Control (management)">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Building envelope" target="Architecture">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Building envelope" target="Process (computing)">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Building envelope" target="Simulation">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Building envelope" target="Sustainability">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Building envelope" target="GLARE">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Building envelope" target="Illuminance">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Building envelope" target="Human–computer interaction">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Daylight" target="Illuminance">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="Daylight" target="Meteorology">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Daylight" target="Efficient energy use">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Daylight" target="Energy consumption">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="Daylight" target="GLARE">
+      <data key="d1">54</data>
+    </edge>
+    <edge source="Daylight" target="Simulation">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="Daylight" target="Thermal comfort">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Daylight" target="Daylighting">
+      <data key="d1">131</data>
+    </edge>
+    <edge source="Daylight" target="Photovoltaic system">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Daylight" target="Glazing">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="Daylight" target="Thermal">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Daylight" target="Materials science">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Daylight" target="Solar gain">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Daylight" target="Context (archaeology)">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Daylight" target="Process (computing)">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Daylight" target="Adaptation (eye)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Daylight" target="Artificial intelligence">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Daylight" target="Automotive engineering">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Daylight" target="Solar energy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Daylight" target="Sustainability">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Daylight" target="Renewable energy">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Daylight" target="Control (management)">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Daylight" target="Energy (signal processing)">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Daylight" target="Architecture">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Daylight" target="Kinetic energy">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Daylight" target="Parametric statistics">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Daylight" target="Mechanical engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Daylight" target="Civil engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Daylight" target="Envelope (radar)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Daylight" target="Human–computer interaction">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Daylight" target="Structural engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Daylight" target="Systems engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Materials science">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Mechanical engineering">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Structural engineering">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Adaptation (eye)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Solar gain">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Thermal comfort">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Automotive engineering">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Photovoltaic system">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Thermal">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Efficient energy use">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Kinetic energy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Control (management)">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Glazing">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Energy consumption">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Context (archaeology)">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Energy (signal processing)">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Solar energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Renewable energy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Systems engineering">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Civil engineering">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Daylighting">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Meteorology">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Illuminance">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Process (computing)">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Parametric statistics">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Simulation">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Architecture">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Sustainability">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Artificial intelligence">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Envelope (radar)" target="Human–computer interaction">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Materials science" target="Solar energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Materials science" target="Thermal">
+      <data key="d1">53</data>
+    </edge>
+    <edge source="Materials science" target="Mechanical engineering">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Materials science" target="Structural engineering">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Materials science" target="Daylighting">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Materials science" target="Solar gain">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Materials science" target="Photovoltaic system">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Materials science" target="Process (computing)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Materials science" target="Energy (signal processing)">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Materials science" target="Parametric statistics">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Materials science" target="Efficient energy use">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Materials science" target="Kinetic energy">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Materials science" target="Thermal comfort">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Materials science" target="Glazing">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Materials science" target="Control (management)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Materials science" target="GLARE">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Materials science" target="Automotive engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Materials science" target="Energy consumption">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Materials science" target="Simulation">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Materials science" target="Context (archaeology)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Materials science" target="Architecture">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Daylighting" target="Illuminance">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="Daylighting" target="Photovoltaic system">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Daylighting" target="Control (management)">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Daylighting" target="Solar energy">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Daylighting" target="Glazing">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Daylighting" target="Thermal">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Daylighting" target="Solar gain">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Daylighting" target="Automotive engineering">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Daylighting" target="Energy consumption">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Daylighting" target="GLARE">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="Daylighting" target="Meteorology">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Daylighting" target="Efficient energy use">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Daylighting" target="Energy (signal processing)">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Daylighting" target="Parametric statistics">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Daylighting" target="Context (archaeology)">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Daylighting" target="Systems engineering">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Daylighting" target="Renewable energy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Daylighting" target="Thermal comfort">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Daylighting" target="Civil engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Daylighting" target="Structural engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Daylighting" target="Simulation">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Daylighting" target="Kinetic energy">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Daylighting" target="Process (computing)">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Daylighting" target="Human–computer interaction">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Thermal" target="Energy consumption">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Thermal" target="Kinetic energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Thermal" target="Solar energy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Thermal" target="Glazing">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Thermal" target="Meteorology">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Thermal" target="Solar gain">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Thermal" target="Automotive engineering">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Thermal" target="Photovoltaic system">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Thermal" target="Thermal comfort">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="Thermal" target="Energy (signal processing)">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Thermal" target="Parametric statistics">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Thermal" target="Adaptation (eye)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Thermal" target="Context (archaeology)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Thermal" target="Simulation">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Thermal" target="Efficient energy use">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Thermal" target="Structural engineering">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Thermal" target="Mechanical engineering">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Thermal" target="Artificial intelligence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Thermal" target="Architecture">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Thermal" target="Civil engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Thermal" target="Renewable energy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Thermal" target="Process (computing)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Architecture" target="Context (archaeology)">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Architecture" target="Process (computing)">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="Architecture" target="Sustainability">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Architecture" target="Kinetic energy">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Architecture" target="Systems engineering">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Architecture" target="Human–computer interaction">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Architecture" target="Energy consumption">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Architecture" target="Civil engineering">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Architecture" target="Efficient energy use">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Architecture" target="Energy (signal processing)">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Architecture" target="Artificial intelligence">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Architecture" target="Thermal comfort">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Architecture" target="Adaptation (eye)">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Architecture" target="Control (management)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Architecture" target="Parametric statistics">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Architecture" target="Renewable energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Architecture" target="Mechanical engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Architecture" target="Simulation">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Energy consumption" target="Efficient energy use">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="Energy consumption" target="GLARE">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Energy consumption" target="Simulation">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Energy consumption" target="Thermal comfort">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="Energy consumption" target="Kinetic energy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Energy consumption" target="Automotive engineering">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Energy consumption" target="Glazing">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="Energy consumption" target="Solar gain">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="Energy consumption" target="Sustainability">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Energy consumption" target="Energy (signal processing)">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Energy consumption" target="Photovoltaic system">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Energy consumption" target="Solar energy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Energy consumption" target="Meteorology">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Energy consumption" target="Parametric statistics">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Energy consumption" target="Civil engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Energy consumption" target="Control (management)">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Energy consumption" target="Process (computing)">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Energy consumption" target="Structural engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Energy consumption" target="Renewable energy">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Energy consumption" target="Illuminance">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Energy consumption" target="Context (archaeology)">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Energy consumption" target="Adaptation (eye)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Thermal comfort" target="Efficient energy use">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Thermal comfort" target="GLARE">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Thermal comfort" target="Simulation">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Thermal comfort" target="Meteorology">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Thermal comfort" target="Adaptation (eye)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Thermal comfort" target="Solar gain">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Thermal comfort" target="Civil engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Thermal comfort" target="Context (archaeology)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Thermal comfort" target="Structural engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Thermal comfort" target="Automotive engineering">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Thermal comfort" target="Control (management)">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Thermal comfort" target="Photovoltaic system">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Thermal comfort" target="Solar energy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Thermal comfort" target="Energy (signal processing)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Thermal comfort" target="Glazing">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Thermal comfort" target="Artificial intelligence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Thermal comfort" target="Process (computing)">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Thermal comfort" target="Illuminance">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Thermal comfort" target="Parametric statistics">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Civil engineering">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Efficient energy use">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Photovoltaic system">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Solar energy">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Artificial intelligence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Solar gain">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Automotive engineering">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Parametric statistics">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Kinetic energy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Renewable energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Meteorology">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Control (management)">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Structural engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Process (computing)">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="GLARE">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Illuminance">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Sustainability">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Mechanical engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Glazing">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Human–computer interaction">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Simulation">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Energy (signal processing)" target="Adaptation (eye)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Systems engineering" target="Artificial intelligence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Systems engineering" target="Efficient energy use">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Systems engineering" target="Process (computing)">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="Systems engineering" target="Renewable energy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Systems engineering" target="Context (archaeology)">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Systems engineering" target="Photovoltaic system">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Systems engineering" target="Adaptation (eye)">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Systems engineering" target="Control (management)">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Systems engineering" target="Sustainability">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Systems engineering" target="Human–computer interaction">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Systems engineering" target="Parametric statistics">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Systems engineering" target="Mechanical engineering">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Systems engineering" target="Kinetic energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Structural engineering" target="Mechanical engineering">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Structural engineering" target="Kinetic energy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Structural engineering" target="Parametric statistics">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Structural engineering" target="Civil engineering">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Structural engineering" target="Glazing">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Structural engineering" target="Solar energy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Structural engineering" target="Photovoltaic system">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Structural engineering" target="Simulation">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Structural engineering" target="Context (archaeology)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Structural engineering" target="Solar gain">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Illuminance">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Control (management)">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Solar energy">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Renewable energy">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Artificial intelligence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Automotive engineering">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Mechanical engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Efficient energy use">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Parametric statistics">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Glazing">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Simulation">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Solar gain">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Context (archaeology)">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Sustainability">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Kinetic energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Meteorology">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Photovoltaic system" target="Process (computing)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Glazing" target="Automotive engineering">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Glazing" target="Solar gain">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Glazing" target="GLARE">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="Glazing" target="Illuminance">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="Glazing" target="Process (computing)">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Glazing" target="Renewable energy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Glazing" target="Sustainability">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Glazing" target="Efficient energy use">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Glazing" target="Control (management)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glazing" target="Context (archaeology)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glazing" target="Solar energy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Glazing" target="Civil engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glazing" target="Meteorology">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Glazing" target="Simulation">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Glazing" target="Parametric statistics">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Efficient energy use" target="Simulation">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Efficient energy use" target="Civil engineering">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Efficient energy use" target="Artificial intelligence">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Efficient energy use" target="Automotive engineering">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Efficient energy use" target="Parametric statistics">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Efficient energy use" target="Process (computing)">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Efficient energy use" target="Solar energy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Efficient energy use" target="Solar gain">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Efficient energy use" target="Kinetic energy">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Efficient energy use" target="Renewable energy">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Efficient energy use" target="Meteorology">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Efficient energy use" target="Sustainability">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Efficient energy use" target="Control (management)">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Efficient energy use" target="Mechanical engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Efficient energy use" target="Context (archaeology)">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Process (computing)" target="Context (archaeology)">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Process (computing)" target="Sustainability">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Process (computing)" target="Artificial intelligence">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Process (computing)" target="Parametric statistics">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Process (computing)" target="Control (management)">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Process (computing)" target="Illuminance">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Process (computing)" target="Solar gain">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Process (computing)" target="Simulation">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Process (computing)" target="Adaptation (eye)">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Process (computing)" target="Human–computer interaction">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Process (computing)" target="Mechanical engineering">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Simulation" target="GLARE">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Simulation" target="Adaptation (eye)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Simulation" target="Context (archaeology)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Simulation" target="Automotive engineering">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Simulation" target="Solar energy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Simulation" target="Solar gain">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Simulation" target="Artificial intelligence">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Simulation" target="Control (management)">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Simulation" target="Parametric statistics">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="Simulation" target="Kinetic energy">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Simulation" target="Meteorology">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Simulation" target="Illuminance">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="Simulation" target="Human–computer interaction">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Simulation" target="Mechanical engineering">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Solar gain" target="Solar energy">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="Solar gain" target="Automotive engineering">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Solar gain" target="Meteorology">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="Solar gain" target="Illuminance">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Solar gain" target="GLARE">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Solar gain" target="Renewable energy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Solar gain" target="Parametric statistics">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Parametric statistics" target="Control (management)">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Parametric statistics" target="GLARE">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Parametric statistics" target="Kinetic energy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Parametric statistics" target="Context (archaeology)">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Parametric statistics" target="Illuminance">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Parametric statistics" target="Adaptation (eye)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Parametric statistics" target="Human–computer interaction">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Mechanical engineering" target="Automotive engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mechanical engineering" target="Kinetic energy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Mechanical engineering" target="Civil engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Control (management)" target="Solar energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Control (management)" target="Artificial intelligence">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Control (management)" target="GLARE">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Control (management)" target="Automotive engineering">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Control (management)" target="Civil engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Control (management)" target="Adaptation (eye)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Control (management)" target="Human–computer interaction">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Control (management)" target="Context (archaeology)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Control (management)" target="Meteorology">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Meteorology" target="Illuminance">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Meteorology" target="Solar energy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Meteorology" target="Civil engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Meteorology" target="Kinetic energy">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Meteorology" target="GLARE">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Context (archaeology)" target="Sustainability">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Context (archaeology)" target="Adaptation (eye)">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Context (archaeology)" target="Renewable energy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Context (archaeology)" target="GLARE">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Context (archaeology)" target="Artificial intelligence">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Context (archaeology)" target="Kinetic energy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Context (archaeology)" target="Illuminance">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Context (archaeology)" target="Human–computer interaction">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Illuminance" target="GLARE">
+      <data key="d1">35</data>
+    </edge>
+    <edge source="Illuminance" target="Automotive engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Illuminance" target="Kinetic energy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Kinetic energy" target="Renewable energy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Kinetic energy" target="Solar energy">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Kinetic energy" target="GLARE">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="GLARE" target="Automotive engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Artificial intelligence" target="Adaptation (eye)">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Artificial intelligence" target="Human–computer interaction">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Sustainability" target="Civil engineering">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Sustainability" target="Renewable energy">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Sustainability" target="Adaptation (eye)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Automotive engineering" target="Renewable energy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Automotive engineering" target="Solar energy">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Solar energy" target="Renewable energy">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Renewable energy" target="Adaptation (eye)">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Renewable energy" target="Civil engineering">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Human–computer interaction" target="Adaptation (eye)">
+      <data key="d1">6</data>
+    </edge>
+  </graph>
+</graphml>
